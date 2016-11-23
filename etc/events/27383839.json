@@ -1,0 +1,477 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Grouplove and MUNA at House of Blues (November 16, 2016)", 
+        "popularity": 0.190108, 
+        "venue": {
+            "displayName": "House of Blues", 
+            "uri": "http://www.songkick.com/venues/30866-house-of-blues?utm_source=32233&utm_medium=partner", 
+            "lat": 29.7536888, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.3636718, 
+            "id": 30866
+        }, 
+        "uri": "http://www.songkick.com/concerts/27383839-grouplove-at-house-of-blues?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-16T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 29.7536888, 
+            "city": "Houston, TX, US", 
+            "lng": -95.3636718
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d8e41375-bd8d-4e39-9da7-f0c171e97086", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d8e41375-bd8d-4e39-9da7-f0c171e97086.json"
+                        }
+                    ], 
+                    "displayName": "Grouplove", 
+                    "uri": "http://www.songkick.com/artists/3231926-grouplove?utm_source=32233&utm_medium=partner", 
+                    "id": 3231926
+                }, 
+                "displayName": "Grouplove", 
+                "id": 53389364, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "93787d7d-f03b-43c9-be65-032941a0932e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:93787d7d-f03b-43c9-be65-032941a0932e.json"
+                        }
+                    ], 
+                    "displayName": "MUNA", 
+                    "uri": "http://www.songkick.com/artists/8299488-muna?utm_source=32233&utm_medium=partner", 
+                    "id": 8299488
+                }, 
+                "displayName": "MUNA", 
+                "id": 53411144, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27383839
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Grouplove", 
+        "tags": [], 
+        "country": "US", 
+        "twitter": "GROUPLOVE", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/d8e41375-bd8d-4e39-9da7-f0c171e97086", 
+                    "id": "5cfb1929-39da-4dfc-9fe7-976317293433"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm4700679/", 
+                    "id": "186eb622-e86a-4226-a79d-fdcb0a0e39a6"
+                }, 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/221197169", 
+                    "id": "88e88ee8-736c-4327-8ced-110cf45efdd5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002538809", 
+                    "id": "f75682fa-f54d-491a-82fd-4b5fc12fe28c"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2038524", 
+                    "id": "03aaef0d-824c-46fd-8f52-7306cdf2bf90"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Grouplove_in_Seattle_9-30-11.jpg", 
+                    "id": "54605eaa-dd14-4aee-af11-1f6fe758b6ca"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Grouplove", 
+                    "id": "5b972b35-2a77-4be8-9813-dd214de815b0"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/grouplove-lyrics", 
+                    "id": "10bf6d9e-7bea-4216-9fcc-c6ad01a206db"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/Grouplove", 
+                    "id": "73bae232-ee1d-4e52-99b1-7cbb12e66395"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/groupmusic", 
+                    "id": "36b31fec-eeae-4502-83c3-9ca7fe594da7"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.grouplovemusic.com/", 
+                    "id": "a6db9ab3-b4bf-4358-be38-4056b8282989"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/grouplove", 
+                    "id": "1d12c8b2-2d75-4436-bdaf-fd9936abcb90"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.musik-sammler.de/artist/262530", 
+                    "id": "908f283e-76a3-4c52-a9c9-83f28a515a22"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.worldcat.org/identities/lccn-no2011148150/", 
+                    "id": "f431d4b5-973c-4394-a5c5-5da122b039db"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.purevolume.com/GROUPLOVE", 
+                    "id": "91f1a656-3022-49a3-a477-34c7dc794036"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purevolume", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/GROUPLOVE", 
+                    "id": "58e63511-b5fc-4594-8d19-e0c9f77c8e72"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/GROUPLOVE", 
+                    "id": "8e93afaa-8e4a-4de8-817f-0e5ee21b4dad"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx", 
+                    "id": "be63a903-e3fe-4adc-80cc-e174aad5d2b3"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1153346", 
+                    "id": "ab5abd30-c9b8-4bdf-befe-bb699c23f559"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Grouplove", 
+                    "id": "42822679-b4c3-45d5-a3ca-9b4ba18616f4"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/grouplovemusic", 
+                    "id": "39f13068-0cb2-4520-bbdc-9a10149ccf0d"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62", 
+            "name": "Los Angeles"
+        }, 
+        "sort-name": "Grouplove", 
+        "gender": null, 
+        "id": "d8e41375-bd8d-4e39-9da7-f0c171e97086", 
+        "disambiguation": "L.A. based Indie band on Canvasback/Atlantic Records", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2009", 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 27383839, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

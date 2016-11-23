@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Anthony Joseph at Club Bonafide (November 9, 2016)", 
+        "popularity": 0.000417, 
+        "venue": {
+            "displayName": "Club Bonafide", 
+            "uri": "http://www.songkick.com/venues/3059679-club-bonafide?utm_source=32233&utm_medium=partner", 
+            "lat": 40.756594, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.969291, 
+            "id": 3059679
+        }, 
+        "uri": "http://www.songkick.com/concerts/28388184-anthony-joseph-at-club-bonafide?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "21:30:00", 
+            "datetime": "2016-11-09T21:30:00-0500"
+        }, 
+        "location": {
+            "lat": 40.756594, 
+            "city": "New York, NY, US", 
+            "lng": -73.969291
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3b49d747-9f14-4bd3-b68a-8f00e5f2e574", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3b49d747-9f14-4bd3-b68a-8f00e5f2e574.json"
+                        }
+                    ], 
+                    "displayName": "Anthony Joseph", 
+                    "uri": "http://www.songkick.com/artists/633465-anthony-joseph?utm_source=32233&utm_medium=partner", 
+                    "id": 633465
+                }, 
+                "displayName": "Anthony Joseph", 
+                "id": 55192349, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28388184
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Anthony Joseph", 
+        "area": null, 
+        "country": null, 
+        "disambiguation": "House Vocals", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1322560", 
+                    "id": "62903426-4f36-4ca4-9be3-121101fe0352"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Joseph, Anthony", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "3b49d747-9f14-4bd3-b68a-8f00e5f2e574", 
+        "type": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 28388184, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

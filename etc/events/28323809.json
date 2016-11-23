@@ -1,0 +1,95 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 2.7e-05, 
+        "displayName": "Bob Schneider's Lonelyland at Saxon Pub (November 21, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Saxon Pub", 
+            "uri": "http://www.songkick.com/venues/61167-saxon-pub?utm_source=32233&utm_medium=partner", 
+            "lat": 30.2544135, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7624768, 
+            "id": 61167
+        }, 
+        "uri": "http://www.songkick.com/concerts/28323809-bob-schneiders-lonelyland-at-saxon-pub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-21", 
+            "datetime": "2016-11-21T20:30:00-0600", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 30.2544135, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7624768
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Bob Schneider's Lonelyland", 
+                "id": 55078094, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c4971a53-b6af-457c-95b0-e88986d0a011", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c4971a53-b6af-457c-95b0-e88986d0a011.json"
+                        }
+                    ], 
+                    "displayName": "Bob Schneider's Lonelyland", 
+                    "uri": "http://www.songkick.com/artists/2934496-bob-schneiders-lonelyland?utm_source=32233&utm_medium=partner", 
+                    "id": 2934496
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28323809
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Lonelyland", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Lonelyland", 
+        "type": null, 
+        "id": "c4971a53-b6af-457c-95b0-e88986d0a011", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Unknown", 
+        "price_max": 25.0, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?u=291182&b=234786&m=27601&urllink=www.ticketfly.com/purchase/event/1357063/tfly?utm_medium=api&afftrack=e28323809", 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442902.0, 
+    "created_minutes": 18205, 
+    "created_time": 1478565978.0, 
+    "modified_minutes": 3589, 
+    "id": 28323809
+}

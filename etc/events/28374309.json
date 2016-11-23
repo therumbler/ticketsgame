@@ -1,0 +1,275 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mat.Joe with Dabura and Twitchin Skratch at Primary Night Club (November 12, 2016)", 
+        "popularity": 0.001346, 
+        "venue": {
+            "displayName": "Primary Night Club", 
+            "uri": "http://www.songkick.com/venues/1914803-primary-night-club?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9039194, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.628894, 
+            "id": 1914803
+        }, 
+        "uri": "http://www.songkick.com/concerts/28374309-matjoe-at-primary-night-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-12T22:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.9039194, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.628894
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "04d371f3-22ef-48ee-ab56-3d0f2cecabda", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:04d371f3-22ef-48ee-ab56-3d0f2cecabda.json"
+                        }
+                    ], 
+                    "displayName": "Mat.Joe", 
+                    "uri": "http://www.songkick.com/artists/6059524-matjoe?utm_source=32233&utm_medium=partner", 
+                    "id": 6059524
+                }, 
+                "displayName": "Mat.Joe", 
+                "id": 55167169, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Dabura", 
+                    "uri": "http://www.songkick.com/artists/4951483-dabura?utm_source=32233&utm_medium=partner", 
+                    "id": 4951483
+                }, 
+                "displayName": "Dabura", 
+                "id": 55167174, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Twitchin Skratch", 
+                    "uri": "http://www.songkick.com/artists/8804669-twitchin-skratch?utm_source=32233&utm_medium=partner", 
+                    "id": 8804669
+                }, 
+                "displayName": "Twitchin Skratch", 
+                "id": 55167179, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28374309
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Mat.Joe", 
+        "tags": [], 
+        "gender": null, 
+        "twitter": "matjoemusic", 
+        "area": {
+            "sort-name": "Germany", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "DE"
+            ], 
+            "name": "Germany", 
+            "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2755457", 
+                    "id": "a618faa9-60f1-4484-9331-13b584a666e6"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Mat.Joe", 
+                    "id": "c578fb96-1d6e-4097-847a-f2f3f9116f34"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.residentadvisor.net/dj/mat.joe", 
+                    "id": "95627f37-0e43-4bcb-bd80-3901ef08490f"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.beatport.com/artist/mat-joe/237183", 
+                    "id": "e032c03d-2e39-43b8-bc82-9a4fa4807f3c"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.junodownload.com/artists/Mat+Joe/releases/", 
+                    "id": "8277a983-2398-4baf-a371-edbfd5dcc1ef"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/matjoemusic", 
+                    "id": "b7782961-dc9f-421b-989c-170287593970"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/matjoemusic", 
+                    "id": "fa6bab73-eb1b-4ae8-b8d8-e111b69a55d5"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/matjoe", 
+                    "id": "ee748301-f29b-4b30-b737-a573daae470d"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/MatJoeMusicTV", 
+                    "id": "1a22cbf4-2982-4fd2-a014-dddcc51a2220"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "id": "04d371f3-22ef-48ee-ab56-3d0f2cecabda", 
+        "gender-id": null, 
+        "country": "DE", 
+        "sort-name": "Mat.Joe", 
+        "ipis": [], 
+        "type": "Group", 
+        "disambiguation": "John Drastic and Matthias Neitzke"
+    }, 
+    "id": 28374309, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

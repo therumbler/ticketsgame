@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "5+", 
+        "displayName": "Anthony De Mare and Re-Imagining SONDHEIM at Milton Court Concert Hall, Guildhall School of Music & Drama (November 13, 2016)", 
+        "popularity": 4.9e-05, 
+        "venue": {
+            "displayName": "Milton Court Concert Hall, Guildhall School of Music & Drama", 
+            "uri": "http://www.songkick.com/venues/2362839-milton-court-concert-hall-guildhall-school-of-music-and-drama?utm_source=32233&utm_medium=partner", 
+            "lat": 51.52044, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.092311, 
+            "id": 2362839
+        }, 
+        "uri": "http://www.songkick.com/concerts/28223344-anthony-de-mare-at-milton-court-concert-hall-guildhall-school-of-music-and-drama?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-13T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.52044, 
+            "city": "London, UK", 
+            "lng": -0.092311
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0ea5ef93-3adf-4ed1-aac0-df14de08081f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0ea5ef93-3adf-4ed1-aac0-df14de08081f.json"
+                        }
+                    ], 
+                    "displayName": "Anthony De Mare", 
+                    "uri": "http://www.songkick.com/artists/295030-anthony-de-mare?utm_source=32233&utm_medium=partner", 
+                    "id": 295030
+                }, 
+                "displayName": "Anthony De Mare", 
+                "id": 54905299, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Re-Imagining SONDHEIM", 
+                    "uri": "http://www.songkick.com/artists/8863174-reimagining-sondheim?utm_source=32233&utm_medium=partner", 
+                    "id": 8863174
+                }, 
+                "displayName": "Re-Imagining SONDHEIM", 
+                "id": 54905304, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28223344
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Anthony de Mare", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.anthonydemare.com/", 
+                    "id": "1e97c9c4-d63d-493a-b3ce-1fb590dfb5e4"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "id": "0ea5ef93-3adf-4ed1-aac0-df14de08081f", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "de Mare, Anthony", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 28223344, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

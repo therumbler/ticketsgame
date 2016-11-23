@@ -1,0 +1,157 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "all ages ", 
+        "displayName": "Zig Zags, Franky Flowers, and BOYO (solo set) at Experimental Digital Arts (EDA), Broad Art Center, UCLA (November 18, 2016)", 
+        "popularity": 0.000427, 
+        "venue": {
+            "displayName": "Experimental Digital Arts (EDA), Broad Art Center, UCLA", 
+            "uri": "http://www.songkick.com/venues/1572253-experimental-digital-arts-broad-art-center-ucla?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": null, 
+            "id": 1572253
+        }, 
+        "uri": "http://www.songkick.com/concerts/28448474-zig-zags-at-experimental-digital-arts-broad-art-center-ucla?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-18T19:30:00-0800"
+        }, 
+        "location": {
+            "lat": 34.0862, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.376
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8f82af8d-992d-4ec5-a530-ea5ee2829c8d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8f82af8d-992d-4ec5-a530-ea5ee2829c8d.json"
+                        }
+                    ], 
+                    "displayName": "Zig Zags", 
+                    "uri": "http://www.songkick.com/artists/3444346-zig-zags?utm_source=32233&utm_medium=partner", 
+                    "id": 3444346
+                }, 
+                "displayName": "Zig Zags", 
+                "id": 55293299, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a9e9ddad-4f75-44d3-8a08-7db6aeb46e93", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a9e9ddad-4f75-44d3-8a08-7db6aeb46e93.json"
+                        }
+                    ], 
+                    "displayName": "Franky Flowers", 
+                    "uri": "http://www.songkick.com/artists/7644649-franky-flowers?utm_source=32233&utm_medium=partner", 
+                    "id": 7644649
+                }, 
+                "displayName": "Franky Flowers", 
+                "id": 55293304, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "BOYO (solo set)", 
+                    "uri": "http://www.songkick.com/artists/8924884-boyo-solo-set?utm_source=32233&utm_medium=partner", 
+                    "id": 8924884
+                }, 
+                "displayName": "BOYO (solo set)", 
+                "id": 55293309, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28448474
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Zig Zags", 
+        "tags": [], 
+        "gender-id": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "name": "Los Angeles", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pages/Zig-Zags/114037542014925", 
+                    "id": "ce793f98-3ed6-417b-aa25-df6e995a6788"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/zigzags", 
+                    "id": "da17bf6d-1a58-456f-8bb0-d5584818693c"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "Zig Zags", 
+        "gender": null, 
+        "type": null, 
+        "id": "8f82af8d-992d-4ec5-a530-ea5ee2829c8d", 
+        "disambiguation": ""
+    }, 
+    "id": 28448474, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

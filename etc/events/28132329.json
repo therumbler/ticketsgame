@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Ephwurd at 45 East (November 12, 2016)", 
+        "popularity": 0.000746, 
+        "venue": {
+            "displayName": "45 East", 
+            "uri": "http://www.songkick.com/venues/3389674-45-east?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5205123, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6630868, 
+            "id": 3389674
+        }, 
+        "uri": "http://www.songkick.com/concerts/28132329-ephwurd-at-45-east?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-12T22:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5205123, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6630868
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "23ce1613-a1e7-4083-b5d1-bf94c4e9eaa8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:23ce1613-a1e7-4083-b5d1-bf94c4e9eaa8.json"
+                        }
+                    ], 
+                    "displayName": "Ephwurd", 
+                    "uri": "http://www.songkick.com/artists/8732399-ephwurd?utm_source=32233&utm_medium=partner", 
+                    "id": 8732399
+                }, 
+                "displayName": "Ephwurd", 
+                "id": 54746789, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28132329
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Ephwurd", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Ephwurd", 
+                    "id": "f5bf0bf9-e0ff-4ce3-bf2a-80e51202902b"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/ephwurd", 
+                    "id": "6404e0f4-2feb-48ca-b2c8-1301c2e83efa"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "Ephwurd", 
+        "gender": null, 
+        "disambiguation": "", 
+        "type": null, 
+        "id": "23ce1613-a1e7-4083-b5d1-bf94c4e9eaa8", 
+        "gender-id": null
+    }, 
+    "id": 28132329, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

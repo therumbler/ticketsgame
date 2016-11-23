@@ -1,0 +1,111 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Rare Occasions at Tommy's Place, USC (November 11, 2016)", 
+        "popularity": 0.000108, 
+        "venue": {
+            "displayName": "Tommy's Place, USC", 
+            "uri": "http://www.songkick.com/venues/1089261-tommys-place-usc?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": null, 
+            "id": 1089261
+        }, 
+        "uri": "http://www.songkick.com/concerts/28448034-rare-occasions-at-tommys-place-usc?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-11T19:30:00-0800"
+        }, 
+        "location": {
+            "lat": 34.0862, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.376
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "37177491-dc86-4536-8ac2-51887ccfa0bb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:37177491-dc86-4536-8ac2-51887ccfa0bb.json"
+                        }
+                    ], 
+                    "displayName": "The Rare Occasions", 
+                    "uri": "http://www.songkick.com/artists/5341423-rare-occasions?utm_source=32233&utm_medium=partner", 
+                    "id": 5341423
+                }, 
+                "displayName": "The Rare Occasions", 
+                "id": 55292529, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28448034
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "The Rare Occasions", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2012-02-19", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Providence", 
+            "disambiguation": "", 
+            "name": "Providence", 
+            "id": "1b4c4320-f55b-47ca-84c6-6e95dc5493b4"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.therareoccasions.com/", 
+                    "id": "f393e225-21b4-423b-9976-a5c93f9f9f33"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Rare Occasions, The", 
+        "country": null, 
+        "id": "37177491-dc86-4536-8ac2-51887ccfa0bb", 
+        "type": null, 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28448034, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

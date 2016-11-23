@@ -1,0 +1,165 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Granville Automatic with Kyle Cox at Rockwood Music Hall (November 7, 2016)", 
+        "popularity": 0.000114, 
+        "venue": {
+            "displayName": "Rockwood Music Hall", 
+            "uri": "http://www.songkick.com/venues/34514-rockwood-music-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7224278, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9886921, 
+            "id": 34514
+        }, 
+        "uri": "http://www.songkick.com/concerts/28341459-granville-automatic-at-rockwood-music-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-07", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-07T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7224278, 
+            "city": "New York, NY, US", 
+            "lng": -73.9886921
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "81babbd0-4f63-4fdf-813b-ef184acbaecb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:81babbd0-4f63-4fdf-813b-ef184acbaecb.json"
+                        }
+                    ], 
+                    "displayName": "Granville Automatic", 
+                    "uri": "http://www.songkick.com/artists/3460501-granville-automatic?utm_source=32233&utm_medium=partner", 
+                    "id": 3460501
+                }, 
+                "displayName": "Granville Automatic", 
+                "id": 55108764, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7d1c3886-e391-4e24-8226-726dd03de542", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7d1c3886-e391-4e24-8226-726dd03de542.json"
+                        }
+                    ], 
+                    "displayName": "Kyle Cox", 
+                    "uri": "http://www.songkick.com/artists/1681224-kyle-cox?utm_source=32233&utm_medium=partner", 
+                    "id": 1681224
+                }, 
+                "displayName": "Kyle Cox", 
+                "id": 55108769, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28341459
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Granville Automatic", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/granvilleautomatic", 
+                    "id": "59c8e50f-1c87-4c88-9917-7672e41513d4"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://granvilleautomatic.com/", 
+                    "id": "eba9999c-c3ab-4835-a023-90f9c7f00812"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/GranvilleAutomatic", 
+                    "id": "36a5db19-2c86-476e-9766-a377bf38b882"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Granville Automatic", 
+        "gender": null, 
+        "id": "81babbd0-4f63-4fdf-813b-ef184acbaecb", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28341459, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

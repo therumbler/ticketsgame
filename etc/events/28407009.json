@@ -1,0 +1,130 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Rent Party with Jo Firestone and Karl Hess at Union Hall (November 16, 2016)", 
+        "popularity": 2.6e-05, 
+        "venue": {
+            "displayName": "Union Hall", 
+            "uri": "http://www.songkick.com/venues/236-union-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 40.6761586, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.980063, 
+            "id": 236
+        }, 
+        "uri": "http://www.songkick.com/concerts/28407009-rent-party-at-union-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-16T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.6761586, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.980063
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0696ac45-0c54-4f10-ad96-fb861cad9532", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0696ac45-0c54-4f10-ad96-fb861cad9532.json"
+                        }
+                    ], 
+                    "displayName": "Rent Party", 
+                    "uri": "http://www.songkick.com/artists/2051072-rent-party?utm_source=32233&utm_medium=partner", 
+                    "id": 2051072
+                }, 
+                "displayName": "Rent Party", 
+                "id": 55223319, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Jo Firestone", 
+                    "uri": "http://www.songkick.com/artists/8445908-jo-firestone?utm_source=32233&utm_medium=partner", 
+                    "id": 8445908
+                }, 
+                "displayName": "Jo Firestone", 
+                "id": 55223324, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Karl Hess", 
+                    "uri": "http://www.songkick.com/artists/1340976-karl-hess?utm_source=32233&utm_medium=partner", 
+                    "id": 1340976
+                }, 
+                "displayName": "Karl Hess", 
+                "id": 55223329, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28407009
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Rent Party", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/339943", 
+                    "id": "cd390195-a1a6-47c2-908a-ad1c9a044005"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Rent Party", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "type": null, 
+        "id": "0696ac45-0c54-4f10-ad96-fb861cad9532", 
+        "disambiguation": ""
+    }, 
+    "id": 28407009, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

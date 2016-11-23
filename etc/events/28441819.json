@@ -1,0 +1,458 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Tyler, The Creator at Jimmy Kimmel Live! (November 10, 2016)", 
+        "popularity": 0.154262, 
+        "venue": {
+            "displayName": "Jimmy Kimmel Live!", 
+            "uri": "http://www.songkick.com/venues/51240-jimmy-kimmel-live?utm_source=32233&utm_medium=partner", 
+            "lat": 34.101158, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.340149, 
+            "id": 51240
+        }, 
+        "uri": "http://www.songkick.com/concerts/28441819-tyler-the-creator-at-jimmy-kimmel-live?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "17:15:00", 
+            "datetime": "2016-11-10T17:15:00-0800"
+        }, 
+        "location": {
+            "lat": 34.101158, 
+            "city": "Hollywood, CA, US", 
+            "lng": -118.340149
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f6beac20-5dfe-4d1f-ae02-0b0a740aafd6.json"
+                        }
+                    ], 
+                    "displayName": "Tyler, The Creator", 
+                    "uri": "http://www.songkick.com/artists/1988114-tyler-the-creator?utm_source=32233&utm_medium=partner", 
+                    "id": 1988114
+                }, 
+                "displayName": "Tyler, The Creator", 
+                "id": 55282019, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28441819
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Tyler, the Creator", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": "Male", 
+        "twitter": "tylerthecreator", 
+        "tags": [
+            {
+                "count": 2, 
+                "name": "hardcore hip hop"
+            }, 
+            {
+                "count": 1, 
+                "name": "hip hop"
+            }, 
+            {
+                "count": 1, 
+                "name": "west coast hip hop"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm4360094/", 
+                    "id": "e866c9d8-a5f0-4a32-b27a-c81616e9591a"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/170823165", 
+                    "id": "e99e2c5d-5916-4b3e-9af1-56836f4082b8"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002591087", 
+                    "id": "49e3cd23-02de-4bef-b4c8-1c9fb6d80378"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002817742", 
+                    "id": "4b3612d1-d9b7-4e17-a315-02f3a3c896e7"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "Tyler Okonma", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1967268", 
+                    "id": "14a8eac7-637b-40d7-841a-0293dbc5846a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "Tyler Okonma", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2243829", 
+                    "id": "49d88cca-843e-4139-898e-085fc71253bc"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/tyler-the-creator-lyrics", 
+                    "id": "acc9d84f-fb9e-47ee-9e2f-c5ddbf024797"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-12676/tyler,-the-creator/lyrics.html", 
+                    "id": "54d4aea1-6cc7-4af4-8e89-04666036bd4c"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/tylerthecreator", 
+                    "id": "4e434236-4770-4dfa-a328-362536e4c48c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://d-nb.info/gnd/1037049306", 
+                    "id": "f370e8d0-3f9b-4ac5-bf61-531cea13a712"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/tyler__the_creator", 
+                    "id": "f0fc4879-b3e0-4a38-9d4c-e03555935e93"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.worldcat.org/identities/lccn-no2011-075636", 
+                    "id": "c5fae13a-b5bc-4e14-acc3-725700def6f5"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/tylerthecreator", 
+                    "id": "a0000b6a-9da6-4a03-95b4-df00f14328fb"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/TylertheCreatorOfficial", 
+                    "id": "034c9020-70dd-4226-a897-b6bd0a364dee"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/feliciathegoat/?hl=en", 
+                    "id": "ee951409-a13e-414a-8683-0b2767f4f51f"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/tylerthecreator-official", 
+                    "id": "b1a6621b-a989-4f8c-8eca-1c7283d25131"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF", 
+                    "id": "d28accdd-4581-4e0c-831d-9200a6cf8046"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.wikidata.org/wiki/Q167635", 
+                    "id": "2ae941ae-86a8-44f3-8b25-d194b785035d"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q167635", 
+                    "id": "a5ab6dbc-65fd-4bc6-b58a-75ce831fdd81"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "Tyler Okonma", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/OFWGKTA", 
+                    "id": "0c363f85-6248-4230-aac3-9eeaa32e3748"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00646526235"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "name": "Los Angeles", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62"
+        }, 
+        "id": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Tyler, the Creator", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1991-03-06", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28441819, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

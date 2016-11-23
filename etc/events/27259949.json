@@ -1,0 +1,479 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Slackers with The Sentiments and The Bandulus at Star Theater (December 4, 2016)", 
+        "popularity": 0.007034, 
+        "venue": {
+            "displayName": "Star Theater", 
+            "uri": "http://www.songkick.com/venues/1293351-star-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 45.52335, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6765882, 
+            "id": 1293351
+        }, 
+        "uri": "http://www.songkick.com/concerts/27259949-slackers-at-star-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-04", 
+            "time": "21:00:00", 
+            "datetime": "2016-12-04T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.52335, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6765882
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "168465cb-cafc-4650-a7aa-03dff8ffc6a6", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:168465cb-cafc-4650-a7aa-03dff8ffc6a6.json"
+                        }
+                    ], 
+                    "displayName": "The Slackers", 
+                    "uri": "http://www.songkick.com/artists/50545-slackers?utm_source=32233&utm_medium=partner", 
+                    "id": 50545
+                }, 
+                "displayName": "The Slackers", 
+                "id": 53158104, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Sentiments", 
+                    "uri": "http://www.songkick.com/artists/3913761-sentiments?utm_source=32233&utm_medium=partner", 
+                    "id": 3913761
+                }, 
+                "displayName": "The Sentiments", 
+                "id": 54019264, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "18ba5ceb-d19f-4a24-8bb5-24b95b9bd4b8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:18ba5ceb-d19f-4a24-8bb5-24b95b9bd4b8.json"
+                        }
+                    ], 
+                    "displayName": "The Bandulus", 
+                    "uri": "http://www.songkick.com/artists/2751316-bandulus?utm_source=32233&utm_medium=partner", 
+                    "id": 2751316
+                }, 
+                "displayName": "The Bandulus", 
+                "id": 54389959, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27259949
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Slackers", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "twitter": "Theslackersband", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "ska"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/129808022", 
+                    "id": "518214e8-ac06-48de-9e36-f8ba42fec32e"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000899223", 
+                    "id": "cd76a953-972b-447f-8217-dd335ff6a69d"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/168030", 
+                    "id": "2bb4261c-9f08-4568-96cd-a2cd894be4fe"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Slackers-skaband.jpg", 
+                    "id": "0b24a045-79a0-495b-94ee-d7764a0f1b29"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/The+Slackers", 
+                    "id": "835f04d8-dc93-4885-b8c8-0863feee6dce"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/the-slackers-lyrics", 
+                    "id": "dc750909-de5e-4e86-9724-3657ed148c81"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/The_Slackers", 
+                    "id": "0d69fcd1-938b-449e-a80b-49f619953c2c"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/theslackers", 
+                    "id": "5a6c42cd-fefa-4fc0-812a-f05ee88bc7bd"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.theslackers.com/", 
+                    "id": "2aadad9c-da90-4c46-ae66-f9c9663bf6be"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/the_slackers", 
+                    "id": "5b0fce24-3b4d-4501-a45c-0fc3b638bdbc"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.musik-sammler.de/artist/12570", 
+                    "id": "d8e6f8b7-e7c7-4b9f-b89e-11e6fc20290b"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.worldcat.org/identities/viaf-129808022/", 
+                    "id": "c07e9cd7-cc49-423f-bba3-430acc1134c0"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/8841", 
+                    "id": "fbad0203-d972-42d2-9518-9ecaee79a23c"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/Theslackersband", 
+                    "id": "a89cb50f-b6e3-45d4-a9fb-f63800a71f17"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/theslackers", 
+                    "id": "fb878df3-eb59-41ad-b7e8-fdf9192d4e2a"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/the-slackers", 
+                    "id": "fd5d41ed-c3da-408d-b6fb-4963df6706f1"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1888627", 
+                    "id": "51bb27f7-e9cf-448b-b545-e74f1d0d330f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Slackers", 
+                    "id": "8898bbb7-aa6d-424c-b73b-b2ff9c61f42a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Manhattan", 
+            "disambiguation": "", 
+            "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0", 
+            "name": "Manhattan"
+        }, 
+        "id": "168465cb-cafc-4650-a7aa-03dff8ffc6a6", 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "Slackers, The", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1991", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15452, 
+    "bandsintown_response": {
+        "description": "The Slackers", 
+        "title": "The Slackers @ Star Theater in Portland, OR", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Portland", 
+            "name": "Star Theater", 
+            "country": "United States", 
+            "region": "OR", 
+            "longitude": -122.676449, 
+            "place": "Star Theater", 
+            "latitude": 45.523207
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12246819?app_id=ticketgame&artist=The+Slackers&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12246819/buy_tickets?app_id=ticketgame&artist=The+Slackers&came_from=67", 
+        "on_sale_datetime": "2016-06-08T10:00:00", 
+        "formatted_datetime": "Sunday, December 4, 2016 at 8:00PM", 
+        "datetime": "2016-12-04T20:00:00", 
+        "formatted_location": "Portland, OR", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1211945/tfly%3Futm_medium%3Dapi&afftrack=67%7E15303029%7E22446696%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.theslackers.com", 
+                "facebook_page_url": null, 
+                "name": "The Slackers", 
+                "url": "TheSlackers", 
+                "tracker_count": 31449, 
+                "mbid": "168465cb-cafc-4650-a7aa-03dff8ffc6a6", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6107388.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheSlackers/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6107388.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12246819
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 18.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1478566069.0, 
+    "id": 27259949
+}

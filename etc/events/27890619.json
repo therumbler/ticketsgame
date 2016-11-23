@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Simply Three at Weinberg Center for the Arts (November 18, 2016)", 
+        "popularity": 0.00033, 
+        "venue": {
+            "displayName": "Weinberg Center for the Arts", 
+            "uri": "http://www.songkick.com/venues/4464-weinberg-center-for-the-arts?utm_source=32233&utm_medium=partner", 
+            "lat": 39.4141984, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.4112427, 
+            "id": 4464
+        }, 
+        "uri": "http://www.songkick.com/concerts/27890619-simply-three-at-weinberg-center-for-the-arts?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 39.4141984, 
+            "city": "Frederick, MD, US", 
+            "lng": -77.4112427
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "982d0f5a-620f-43a5-a1f7-8d07a933835f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:982d0f5a-620f-43a5-a1f7-8d07a933835f.json"
+                        }
+                    ], 
+                    "displayName": "Simply Three", 
+                    "uri": "http://www.songkick.com/artists/6639509-simply-three?utm_source=32233&utm_medium=partner", 
+                    "id": 6639509
+                }, 
+                "displayName": "Simply Three", 
+                "id": 54316919, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27890619
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Simply Three", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://simplythreemusic.com/", 
+                    "id": "30b91bdb-c5d1-4fc7-b58a-952f54fe82fe"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Simply Three", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "982d0f5a-620f-43a5-a1f7-8d07a933835f", 
+        "type": "Group", 
+        "disambiguation": ""
+    }, 
+    "id": 27890619, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

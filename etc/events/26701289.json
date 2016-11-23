@@ -1,0 +1,296 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Arlo Guthrie at Atlanta Symphony Hall (February 26, 2017)", 
+        "popularity": 0.015159, 
+        "venue": {
+            "displayName": "Atlanta Symphony Hall", 
+            "uri": "http://www.songkick.com/venues/2471-atlanta-symphony-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7892284, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3849682, 
+            "id": 2471
+        }, 
+        "uri": "http://www.songkick.com/concerts/26701289-arlo-guthrie-at-atlanta-symphony-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-26", 
+            "time": "19:30:00", 
+            "datetime": "2017-02-26T19:30:00-0500"
+        }, 
+        "location": {
+            "lat": 33.7892284, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.3849682
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b8efe8ac-45db-4a71-bb51-c1503986172f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b8efe8ac-45db-4a71-bb51-c1503986172f.json"
+                        }
+                    ], 
+                    "displayName": "Arlo Guthrie", 
+                    "uri": "http://www.songkick.com/artists/398453-arlo-guthrie?utm_source=32233&utm_medium=partner", 
+                    "id": 398453
+                }, 
+                "displayName": "Arlo Guthrie", 
+                "id": 52122694, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26701289
+    }, 
+    "musicbrainz_response": {
+        "name": "Arlo Guthrie", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1947-07-10", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0349241/", 
+                    "id": "7d237cd6-4446-430c-ab74-023ce7d6151b"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/85614323", 
+                    "id": "1af8aca0-c3ed-4f46-b0d6-32e44ff89540"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000927736", 
+                    "id": "d9782d80-5c37-4d55-a375-0f149b109f3d"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/153674", 
+                    "id": "2c0d39f8-6878-412a-9bc1-b0edc909afbe"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/arlo-guthrie-lyrics", 
+                    "id": "a25f4731-fbd7-429c-83cf-fdd89eb2d656"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.arlo.net/", 
+                    "id": "5e89d957-8883-4a3c-bf59-b0441a4e5171"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/arlo_guthrie", 
+                    "id": "291bb414-ea33-4fc9-a9a6-e14c1d8ab996"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q552925", 
+                    "id": "980e5788-82cb-475c-8e78-1a9c658bd388"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Arlo_Guthrie", 
+                    "id": "0d8fa4e8-ece3-493d-8f5b-f0817ab0eebc"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Coney Island", 
+            "disambiguation": "", 
+            "name": "Coney Island", 
+            "id": "6daa83c1-75fd-433e-b442-c5b061093ecf"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Guthrie, Arlo", 
+        "type": "Person", 
+        "id": "b8efe8ac-45db-4a71-bb51-c1503986172f", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15450, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Arlo Guthrie @ Atlanta Symphony Hall in Atlanta, GA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Atlanta", 
+            "name": "Atlanta Symphony Hall", 
+            "country": "United States", 
+            "region": "GA", 
+            "longitude": -84.385493, 
+            "place": "Atlanta Symphony Hall", 
+            "latitude": 33.790098
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/11835204?app_id=ticketgame&artist=Arlo+Guthrie&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/11835204/buy_tickets?app_id=ticketgame&artist=Arlo+Guthrie&came_from=67", 
+        "on_sale_datetime": "2016-04-07T15:00:00", 
+        "formatted_datetime": "Sunday, February 26, 2017 at 7:30PM", 
+        "datetime": "2017-02-26T19:30:00", 
+        "formatted_location": "Atlanta, GA", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F0E00507F8EBF2987&subId1=67%7E15060497%7E22539710%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.risingsonrecords.com", 
+                "facebook_page_url": "http://www.facebook.com/pages/Arlo%20Guthrie/200413315194", 
+                "name": "Arlo Guthrie", 
+                "url": "ArloGuthrie", 
+                "tracker_count": 27623, 
+                "mbid": "b8efe8ac-45db-4a71-bb51-c1503986172f", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6342313.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/ArloGuthrie/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6342313.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 11835204
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 103.7, 
+        "price_min": 46.75
+    }, 
+    "modified_time": 1478565972.0, 
+    "id": 26701289
+}

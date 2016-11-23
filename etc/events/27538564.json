@@ -1,0 +1,119 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Olivia Holt and Ryland at The Studio at Warehouse Live (December 27, 2016)", 
+        "popularity": 0.002618, 
+        "venue": {
+            "displayName": "The Studio at Warehouse Live", 
+            "uri": "http://www.songkick.com/venues/617016-studio-at-warehouse-live?utm_source=32233&utm_medium=partner", 
+            "lat": 29.7521221, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.3546736, 
+            "id": 617016
+        }, 
+        "uri": "http://www.songkick.com/concerts/27538564-olivia-holt-at-studio-at-warehouse-live?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-27", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-27T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 29.7521221, 
+            "city": "Houston, TX, US", 
+            "lng": -95.3546736
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "23964660-e7a0-4ba7-86c8-1cd793fa074a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:23964660-e7a0-4ba7-86c8-1cd793fa074a.json"
+                        }
+                    ], 
+                    "displayName": "Olivia Holt", 
+                    "uri": "http://www.songkick.com/artists/5188923-olivia-holt?utm_source=32233&utm_medium=partner", 
+                    "id": 5188923
+                }, 
+                "displayName": "Olivia Holt", 
+                "id": 53672294, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Ryland", 
+                    "uri": "http://www.songkick.com/artists/1031278-ryland?utm_source=32233&utm_medium=partner", 
+                    "id": 1031278
+                }, 
+                "displayName": "Ryland", 
+                "id": 53672299, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27538564
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Rate limit exceeded\"]}\n", 
+        "error": 400
+    }, 
+    "musicbrainz_response": {
+        "name": "Olivia Holt", 
+        "sort-name": "Holt, Olivia", 
+        "country": null, 
+        "twitter": "olivia_holt", 
+        "area": null, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/olivia_holt", 
+                    "id": "4a25a812-00c2-45ab-b100-68468af156a2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "id": "23964660-e7a0-4ba7-86c8-1cd793fa074a", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": []
+    }, 
+    "id": 27538564, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,422 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Dua Lipa at Unknown venue (November 17, 2016)", 
+        "popularity": 0.002471, 
+        "venue": {
+            "displayName": "Unknown venue", 
+            "uri": null, 
+            "lat": 39.72547, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -105.0080598, 
+            "id": null
+        }, 
+        "uri": "http://www.songkick.com/concerts/27531539-dua-lipa-at-unknown-venue?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 39.72547, 
+            "city": "Washington, DC, US", 
+            "lng": -105.0080598
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f.json"
+                        }
+                    ], 
+                    "displayName": "Dua Lipa", 
+                    "uri": "http://www.songkick.com/artists/8310783-dua-lipa?utm_source=32233&utm_medium=partner", 
+                    "id": 8310783
+                }, 
+                "displayName": "Dua Lipa", 
+                "id": 53659124, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27531539
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Dua Lipa", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "country": "GB", 
+        "twitter": "DUALIPA", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "contemporary r&b"
+            }, 
+            {
+                "count": 1, 
+                "name": "electropop"
+            }, 
+            {
+                "count": 1, 
+                "name": "synthpop"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/4146217793009142272", 
+                    "id": "ab7bdba6-e546-4bca-9e1e-01da87508717"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003426731", 
+                    "id": "458d2a56-839f-4fe7-9ee5-38a162675a9c"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4357593", 
+                    "id": "de2d2561-301f-4fa4-a095-a0a61e9d6257"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Dua_Lipa_Sommarkrysset.jpg", 
+                    "id": "698fa1ec-cf26-4928-9f83-634e8bcf299d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Dua+Lipa", 
+                    "id": "1f0ad95b-e06e-4fba-b3e4-3586a97080c2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.dualipa.com/", 
+                    "id": "f354332f-bd87-45c6-9cb5-174046f361bd"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://imvdb.com/n/dua-lipa", 
+                    "id": "e281531d-ded6-4949-bb62-59957587720b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/dua_lipa", 
+                    "id": "e7276ece-9170-4335-bb31-87fbbcf63042"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/artist/id1031397873", 
+                    "id": "6fc04e41-7038-44b6-a512-5f1c29cfd399"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/DUALIPA", 
+                    "id": "b459c8cd-5fa3-48c5-9c3e-178f2cd6eed2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/dualipaofficial", 
+                    "id": "4924d0cf-c179-4cb0-b6be-3de6da9ba4d4"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/dualipa/", 
+                    "id": "0b168526-8dff-4a4f-8732-3619706673cf"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/8310783-dua-lipa", 
+                    "id": "d2638e0b-27aa-417f-8c24-468774c08a3d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/dualipa", 
+                    "id": "993afb15-657d-49e5-96b4-5a4ced6ccf66"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we", 
+                    "id": "aae56cb5-b333-4a02-95de-ed7ec144c972"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q21914464", 
+                    "id": "53cf8a99-bc1c-45d0-9aa2-91dd9cf2a868"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Dua_Lipa", 
+                    "id": "e01a80a5-bc10-4ad4-ba26-81c0ecbac722"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/DuaLipa1", 
+                    "id": "d86fd89f-88c0-42c9-956a-21a63bed670a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "London", 
+            "disambiguation": "", 
+            "name": "London", 
+            "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f"
+        }, 
+        "sort-name": "Lipa, Dua", 
+        "gender": "Female", 
+        "id": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f", 
+        "disambiguation": "", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1995-08-22", 
+            "end": null
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2"
+    }, 
+    "id": 27531539, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

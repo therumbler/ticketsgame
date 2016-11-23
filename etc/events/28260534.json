@@ -1,0 +1,153 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Kyle Craft at Stubb's BBQ - Indoors (November 22, 2016)", 
+        "popularity": 0.000263, 
+        "venue": {
+            "displayName": "Stubb's BBQ - Indoors", 
+            "uri": "http://www.songkick.com/venues/14630-stubbs-bbq-indoors?utm_source=32233&utm_medium=partner", 
+            "lat": 30.268569, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.736081, 
+            "id": 14630
+        }, 
+        "uri": "http://www.songkick.com/concerts/28260534-kyle-craft-at-stubbs-bbq-indoors?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-22", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 30.268569, 
+            "city": "Austin, TX, US", 
+            "lng": -97.736081
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a1221205-1526-4474-9f10-caa822779fe2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a1221205-1526-4474-9f10-caa822779fe2.json"
+                        }
+                    ], 
+                    "displayName": "Kyle Craft", 
+                    "uri": "http://www.songkick.com/artists/8477298-kyle-craft?utm_source=32233&utm_medium=partner", 
+                    "id": 8477298
+                }, 
+                "displayName": "Kyle Craft", 
+                "id": 54965789, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28260534
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Kyle Craft", 
+        "area": {
+            "sort-name": "Portland", 
+            "disambiguation": "", 
+            "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557", 
+            "name": "Portland"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/5012439", 
+                    "id": "2ad66291-5b28-4c14-9db2-c4d4f4508864"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Kyle+Craft", 
+                    "id": "b6777b1f-b9fb-4788-8ceb-76e86a9b5cb6"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/kylecraftmusic", 
+                    "id": "ada478a3-a7fc-4976-a9ab-9fdab9e4c62d"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Louisiana", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-LA"
+            ], 
+            "name": "Louisiana", 
+            "id": "fc68ecf5-507e-4012-b60b-d93747a3cfa7"
+        }, 
+        "sort-name": "Craft, Kyle", 
+        "gender": "Male", 
+        "type": "Person", 
+        "id": "a1221205-1526-4474-9f10-caa822779fe2", 
+        "disambiguation": ""
+    }, 
+    "id": 28260534, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

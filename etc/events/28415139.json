@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Playboy Tre at Apache Cafe (November 10, 2016)", 
+        "popularity": 0.000967, 
+        "venue": {
+            "displayName": "Apache Cafe", 
+            "uri": "http://www.songkick.com/venues/1874-apache-cafe?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7738034, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3894159, 
+            "id": 1874
+        }, 
+        "uri": "http://www.songkick.com/concerts/28415139-playboy-tre-at-apache-cafe?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-10T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 33.7738034, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.3894159
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3124696a-5a64-4f37-9fad-5ecb3a6ec4db", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3124696a-5a64-4f37-9fad-5ecb3a6ec4db.json"
+                        }
+                    ], 
+                    "displayName": "Playboy Tre", 
+                    "uri": "http://www.songkick.com/artists/976397-playboy-tre?utm_source=32233&utm_medium=partner", 
+                    "id": 976397
+                }, 
+                "displayName": "Playboy Tre", 
+                "id": 55237344, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28415139
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Playboy Tre", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1313383", 
+                    "id": "ec6bb7e3-3cd2-4496-b982-005465ecd3f7"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "3124696a-5a64-4f37-9fad-5ecb3a6ec4db", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Playboy Tre", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 28415139, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Daniela Andrade with Tim Atlas at World Caf\u00e9 Live (November 14, 2016)", 
+        "popularity": 0.010534, 
+        "venue": {
+            "displayName": "World Caf\u00e9 Live", 
+            "uri": "http://www.songkick.com/venues/2834988-world-cafe-live?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9521712, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1849097, 
+            "id": 2834988
+        }, 
+        "uri": "http://www.songkick.com/concerts/27948859-daniela-andrade-at-world-cafe-live?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-14", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-14T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9521712, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1849097
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a70bb21e-f84f-4343-978c-346a2c01d38e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a70bb21e-f84f-4343-978c-346a2c01d38e.json"
+                        }
+                    ], 
+                    "displayName": "Daniela Andrade", 
+                    "uri": "http://www.songkick.com/artists/8435978-daniela-andrade?utm_source=32233&utm_medium=partner", 
+                    "id": 8435978
+                }, 
+                "displayName": "Daniela Andrade", 
+                "id": 54423994, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e4b3a8b3-a476-4f61-a59e-2d8a9c71a4d7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e4b3a8b3-a476-4f61-a59e-2d8a9c71a4d7.json"
+                        }
+                    ], 
+                    "displayName": "Tim Atlas", 
+                    "uri": "http://www.songkick.com/artists/6990299-tim-atlas?utm_source=32233&utm_medium=partner", 
+                    "id": 6990299
+                }, 
+                "displayName": "Tim Atlas", 
+                "id": 54972549, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27948859
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Daniela Andrade", 
+        "tags": [], 
+        "country": "CA", 
+        "twitter": "danielasings", 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+            "name": "Canada"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/danielaandrademusic", 
+                    "id": "12fb97fd-32fc-45fc-afa5-833621b85d1e"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/danielasings", 
+                    "id": "177840f4-8e96-4bd3-b38d-4ea1026da6c3"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/danielaandrademusic", 
+                    "id": "935ce396-5394-43b8-b3da-50efdd171a40"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/danielasings", 
+                    "id": "cf601b61-fdf0-47e3-a051-b7c52f86f86a"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ", 
+                    "id": "d3636adb-2d12-441a-b8d3-faf1ad859b0b"
+                }, 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/DanielaSings", 
+                    "id": "539d4c35-f2af-4b9d-93cd-9bac91071b84"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Andrade, Daniela", 
+        "gender": "Female", 
+        "id": "a70bb21e-f84f-4343-978c-346a2c01d38e", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 27948859, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

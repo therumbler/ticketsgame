@@ -1,0 +1,200 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Hodera and Secret Stuff at Goldsounds (November 7, 2016)", 
+        "popularity": 0.000142, 
+        "venue": {
+            "displayName": "Goldsounds", 
+            "uri": "http://www.songkick.com/venues/3217618-goldsounds?utm_source=32233&utm_medium=partner", 
+            "lat": 40.702624, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.929611, 
+            "id": 3217618
+        }, 
+        "uri": "http://www.songkick.com/concerts/28115569-hodera-at-goldsounds?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-07", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-07T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.702624, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.929611
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5587dc60-0a08-49f8-bf1f-80a9ef6371f8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5587dc60-0a08-49f8-bf1f-80a9ef6371f8.json"
+                        }
+                    ], 
+                    "displayName": "Hodera", 
+                    "uri": "http://www.songkick.com/artists/8013893-hodera?utm_source=32233&utm_medium=partner", 
+                    "id": 8013893
+                }, 
+                "displayName": "Hodera", 
+                "id": 54716479, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f71ff4d0-84c5-448b-b084-878f90abac04", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f71ff4d0-84c5-448b-b084-878f90abac04.json"
+                        }
+                    ], 
+                    "displayName": "Secret Stuff", 
+                    "uri": "http://www.songkick.com/artists/7878379-secret-stuff?utm_source=32233&utm_medium=partner", 
+                    "id": 7878379
+                }, 
+                "displayName": "Secret Stuff", 
+                "id": 54716484, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28115569
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Hodera", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "country": null, 
+        "twitter": "hoderaband", 
+        "area": {
+            "sort-name": "New Jersey", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-NJ"
+            ], 
+            "name": "New Jersey", 
+            "id": "a36544c1-cb40-4f44-9e0e-7a5a69e403a8"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://hodera.bandcamp.com/", 
+                    "id": "41336f53-589b-4481-b6b7-129832274dde"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://hodera.net/", 
+                    "id": "f3849ca9-7691-4fca-aff3-34d09ffafd79"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/hoderaband", 
+                    "id": "894e0cf2-ea17-483c-bbad-5d5ba60e87ff"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/hoderaband", 
+                    "id": "908d21a5-d343-43a1-adc4-a1533c47ec36"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/hoderaband", 
+                    "id": "6bed9f28-f325-455a-9c77-d748ae799ee9"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Hodera", 
+        "gender": null, 
+        "id": "5587dc60-0a08-49f8-bf1f-80a9ef6371f8", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28115569, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

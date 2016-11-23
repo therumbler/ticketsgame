@@ -1,0 +1,189 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.007467, 
+        "displayName": "Nora en Pure at Sound Nightclub (November 26, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Sound Nightclub", 
+            "uri": "http://www.songkick.com/venues/207568-sound-nightclub?utm_source=32233&utm_medium=partner", 
+            "lat": 34.1010027, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.3357833, 
+            "id": 207568
+        }, 
+        "uri": "http://www.songkick.com/concerts/28250994-nora-en-pure-at-sound-nightclub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-26", 
+            "datetime": "2016-11-26T22:00:00-0800", 
+            "time": "22:00:00"
+        }, 
+        "location": {
+            "lat": 34.1010027, 
+            "city": "Hollywood, CA, US", 
+            "lng": -118.3357833
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Nora en Pure", 
+                "id": 54949889, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f81ace47-638d-4729-a155-1be48dc2fa48", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f81ace47-638d-4729-a155-1be48dc2fa48.json"
+                        }
+                    ], 
+                    "displayName": "Nora en Pure", 
+                    "uri": "http://www.songkick.com/artists/8481198-nora-en-pure?utm_source=32233&utm_medium=partner", 
+                    "id": 8481198
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28250994
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Nora en Pure", 
+        "tags": [], 
+        "gender": "Female", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Switzerland", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CH"
+            ], 
+            "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df", 
+            "name": "Switzerland"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1860502", 
+                    "id": "3d14b6d3-1d19-4eb7-8efe-4348de90c312"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/noraenpure/", 
+                    "id": "6d5f7408-ba97-4afc-9888-10608e492076"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/NoraEnPure", 
+                    "id": "138dd1f8-e1ab-4f8c-a9d8-c9fac5cc81c4"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/NoraEnPure", 
+                    "id": "d2c8fcb9-ebfc-48d1-8213-96fdc9d0cca9"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/NoraEnPure", 
+                    "id": "7cd0ad4f-1e66-464c-8332-28871f13c733"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Nora en Pure", 
+        "isnis": [], 
+        "id": "f81ace47-638d-4729-a155-1be48dc2fa48", 
+        "country": "CH", 
+        "type": "Person", 
+        "twitter": "NoraEnPure", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.wantickets.com/Events/212258/Sound-presents-Nora-En-Pure/?affCode=92ffb80269cc40c49799"
+    }, 
+    "modified_time": 1479442817.0, 
+    "created_minutes": 5871, 
+    "created_time": 1479305679.0, 
+    "modified_minutes": 3586, 
+    "id": 28250994
+}

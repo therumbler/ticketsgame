@@ -1,0 +1,147 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "14+ (Under 16s accompanied by an adult)", 
+        "displayName": "This Wild Life at Boston Music Room (November 11, 2016)", 
+        "popularity": 0.00637, 
+        "venue": {
+            "displayName": "Boston Music Room", 
+            "uri": "http://www.songkick.com/venues/3269-boston-music-room?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5571591, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1383657, 
+            "id": 3269
+        }, 
+        "uri": "http://www.songkick.com/concerts/27609534-this-wild-life-at-boston-music-room?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-11T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5571591, 
+            "city": "London, UK", 
+            "lng": -0.1383657
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "be76cc4b-0fe7-4936-b75f-f341769ef638", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:be76cc4b-0fe7-4936-b75f-f341769ef638.json"
+                        }
+                    ], 
+                    "displayName": "This Wild Life", 
+                    "uri": "http://www.songkick.com/artists/5102803-this-wild-life?utm_source=32233&utm_medium=partner", 
+                    "id": 5102803
+                }, 
+                "displayName": "This Wild Life", 
+                "id": 53800544, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27609534
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "This Wild Life", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2011", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Long Beach", 
+            "disambiguation": "", 
+            "id": "e183ffae-1d35-4c78-b552-957535e40af1", 
+            "name": "Long Beach"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thiswildlifeband.com/", 
+                    "id": "1374042c-76fd-410f-a52b-d9ef0bc89be4"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q18163448", 
+                    "id": "754f7367-5ff5-49bd-980b-06888a6e1026"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/This_Wild_Life", 
+                    "id": "fe7bd94c-1347-49a0-b3c5-eaa2ce3b8713"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Long Beach", 
+            "disambiguation": "", 
+            "name": "Long Beach", 
+            "id": "e183ffae-1d35-4c78-b552-957535e40af1"
+        }, 
+        "sort-name": "This Wild Life", 
+        "gender": null, 
+        "disambiguation": "two man Acoustic group from Long Beach, CA", 
+        "type": "Group", 
+        "id": "be76cc4b-0fe7-4936-b75f-f341769ef638", 
+        "gender-id": null
+    }, 
+    "id": 27609534, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

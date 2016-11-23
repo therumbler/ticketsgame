@@ -1,0 +1,364 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mindy Smith with Me and Molly at Eddie's Attic (November 18, 2016)", 
+        "popularity": 0.009763, 
+        "venue": {
+            "displayName": "Eddie's Attic", 
+            "uri": "http://www.songkick.com/venues/46595-eddies-attic?utm_source=32233&utm_medium=partner", 
+            "lat": 33.773966, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.296449, 
+            "id": 46595
+        }, 
+        "uri": "http://www.songkick.com/concerts/28034014-mindy-smith-at-eddies-attic?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-18T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 33.773966, 
+            "city": "Decatur, GA, US", 
+            "lng": -84.296449
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c3ac0d79-8adc-42db-aa70-9ab15e980f3d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c3ac0d79-8adc-42db-aa70-9ab15e980f3d.json"
+                        }
+                    ], 
+                    "displayName": "Mindy Smith", 
+                    "uri": "http://www.songkick.com/artists/325029-mindy-smith?utm_source=32233&utm_medium=partner", 
+                    "id": 325029
+                }, 
+                "displayName": "Mindy Smith", 
+                "id": 54573744, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Me and Molly", 
+                    "uri": "http://www.songkick.com/artists/8569164-me-and-molly?utm_source=32233&utm_medium=partner", 
+                    "id": 8569164
+                }, 
+                "displayName": "Me and Molly", 
+                "id": 55182609, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28034014
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Mindy Smith", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1972-06-01", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm1267088/", 
+                    "id": "7f30398b-2dc1-46c3-8e00-f8c10d1671f4"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/228064473", 
+                    "id": "dfce7dce-9529-4cb2-a0e5-d67f9059cf9c"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000493015", 
+                    "id": "b555a3f9-d92b-4bea-bb60-35d78c86f483"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/421958", 
+                    "id": "491a4d5d-4c7b-45de-bdd4-7e1c91709140"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/Mindy_Smith", 
+                    "id": "9ebdcaae-0f54-43b8-bc33-2f4c17d72b9a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://decoda.com/mindy-smith-lyrics", 
+                    "id": "48f5e478-bffb-472c-8470-1c745152448b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.mindysmith.net/", 
+                    "id": "9ecc63bc-dd54-4097-8858-e13a7685db56"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.whosampled.com/Mindy-Smith/", 
+                    "id": "46df797f-aaae-43a4-a24e-903db12ddeab"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/mindy_smith", 
+                    "id": "efb6ed51-9941-44af-88f8-f8797a563c52"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/15789", 
+                    "id": "397b5cd0-af11-4311-89bb-1702ae2ea51f"
+                }, 
+                "begin": null, 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q3314798", 
+                    "id": "a16c007f-5728-4be1-91f5-bb0abf94988d"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Mindy_Smith", 
+                    "id": "a54f8873-25ba-49eb-8829-98ca5bd7c52a"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-NY"
+            ], 
+            "id": "75e398a3-5f3f-4224-9cd8-0fe44715bc95", 
+            "name": "New York"
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Smith, Mindy", 
+        "type": "Person", 
+        "id": "c3ac0d79-8adc-42db-aa70-9ab15e980f3d", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15473, 
+    "bandsintown_response": {
+        "description": "Angie Aparo", 
+        "title": "Mindy Smith @ Eddie's Attic in Decatur, GA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Decatur", 
+            "name": "Eddie's Attic", 
+            "country": "United States", 
+            "region": "GA", 
+            "longitude": -84.296304, 
+            "place": "Eddie's Attic", 
+            "latitude": 33.773768
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12782873?app_id=ticketgame&artist=Mindy+Smith&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12782873/buy_tickets?app_id=ticketgame&artist=Mindy+Smith&came_from=67", 
+        "on_sale_datetime": "2016-08-23T02:01:17", 
+        "formatted_datetime": "Friday, November 18, 2016 at 9:30PM", 
+        "datetime": "2016-11-18T21:30:00", 
+        "formatted_location": "Decatur, GA", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1304289/tfly%3Futm_medium%3Dapi&afftrack=67%7E16178650%7E23596132%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.mindysmith.net", 
+                "facebook_page_url": "http://www.facebook.com/pages/Mindy%20Smith/54167217891", 
+                "name": "Mindy Smith", 
+                "url": "MindySmith", 
+                "tracker_count": 23413, 
+                "mbid": "c3ac0d79-8adc-42db-aa70-9ab15e980f3d", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/4869820.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/MindySmith/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/4869820.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12782873
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 26.0, 
+        "price_min": 20.0
+    }, 
+    "modified_time": 1479442316.0, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 867, 
+    "id": 28034014
+}

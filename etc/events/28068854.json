@@ -1,0 +1,88 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Bob the Drag Queen at South Beach (December 17, 2016)", 
+        "popularity": 0.000175, 
+        "venue": {
+            "displayName": "South Beach", 
+            "uri": "http://www.songkick.com/venues/1479428-south-beach?utm_source=32233&utm_medium=partner", 
+            "lat": 29.7469634, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.3904534, 
+            "id": 1479428
+        }, 
+        "uri": "http://www.songkick.com/concerts/28068854-bob-the-drag-queen-at-south-beach?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-17", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 29.7469634, 
+            "city": "Houston, TX, US", 
+            "lng": -95.3904534
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "873ba449-d8a0-4c58-850e-d794fe9098a1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:873ba449-d8a0-4c58-850e-d794fe9098a1.json"
+                        }
+                    ], 
+                    "displayName": "Bob the Drag Queen", 
+                    "uri": "http://www.songkick.com/artists/8663174-bob-the-drag-queen?utm_source=32233&utm_medium=partner", 
+                    "id": 8663174
+                }, 
+                "displayName": "Bob the Drag Queen", 
+                "id": 54634854, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28068854
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Bob the Drag Queen", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "gender": "Male", 
+        "disambiguation": "", 
+        "area": null, 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "sort-name": "Bob the Drag Queen", 
+        "type": "Person", 
+        "id": "873ba449-d8a0-4c58-850e-d794fe9098a1"
+    }, 
+    "id": 28068854, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

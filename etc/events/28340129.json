@@ -1,0 +1,259 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001843, 
+        "displayName": "Andy Snitzer and Eric Marienthal with Gerald Veasley at SOUTH (December 8, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "SOUTH", 
+            "uri": "http://www.songkick.com/venues/3097269-south?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9641014, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1616243, 
+            "id": 3097269
+        }, 
+        "uri": "http://www.songkick.com/concerts/28340129-andy-snitzer-at-south?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-08", 
+            "datetime": "2016-12-08T19:00:00-0500", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 39.9641014, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1616243
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Andy Snitzer", 
+                "id": 55106514, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3fc9b938-4040-4c64-a893-730fee717cb5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3fc9b938-4040-4c64-a893-730fee717cb5.json"
+                        }
+                    ], 
+                    "displayName": "Andy Snitzer", 
+                    "uri": "http://www.songkick.com/artists/233442-andy-snitzer?utm_source=32233&utm_medium=partner", 
+                    "id": 233442
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Eric Marienthal", 
+                "id": 55224494, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9e20cb53-1193-4dd0-a156-838b3e6278d0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9e20cb53-1193-4dd0-a156-838b3e6278d0.json"
+                        }
+                    ], 
+                    "displayName": "Eric Marienthal", 
+                    "uri": "http://www.songkick.com/artists/539154-eric-marienthal?utm_source=32233&utm_medium=partner", 
+                    "id": 539154
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Gerald Veasley", 
+                "id": 55106519, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "696bc433-dcb8-4f53-b11e-38f82ade17f4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:696bc433-dcb8-4f53-b11e-38f82ade17f4.json"
+                        }
+                    ], 
+                    "displayName": "Gerald Veasley", 
+                    "uri": "http://www.songkick.com/artists/438674-gerald-veasley?utm_source=32233&utm_medium=partner", 
+                    "id": 438674
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28340129
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Andy Snitzer", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1962", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000047716", 
+                    "id": "c83929c8-c86c-4156-88ac-8005c67055b5"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/321386", 
+                    "id": "3fb913b1-0c4e-4d52-a696-a533159cdc4d"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/andysnitzer", 
+                    "id": "67459ff8-282f-47d4-82eb-5c6d3ad772f3"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.andysnitzer.com/", 
+                    "id": "d8af79c7-42c7-4085-b91f-c25158fb510e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/andy_snitzer", 
+                    "id": "e830a309-bc30-4887-b9a8-a548078e2260"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Philadelphia", 
+            "disambiguation": "", 
+            "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2", 
+            "name": "Philadelphia"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Snitzer, Andy", 
+        "type": "Person", 
+        "id": "3fc9b938-4040-4c64-a893-730fee717cb5", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15501, 
+    "bandsintown_response": {
+        "description": "Andy Snitzer", 
+        "title": "Andy Snitzer @ SOUTH in Philadelphia, PA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Philadelphia", 
+            "name": "SOUTH", 
+            "country": "United States", 
+            "region": "PA", 
+            "longitude": -75.161624, 
+            "place": "SOUTH", 
+            "latitude": 39.964101
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13132877?app_id=ticketgame&artist=Andy+Snitzer&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13132877/buy_tickets?app_id=ticketgame&artist=Andy+Snitzer&came_from=67", 
+        "on_sale_datetime": "2016-10-14T23:09:27", 
+        "formatted_datetime": "Thursday, December 8, 2016 at 7:00PM", 
+        "datetime": "2016-12-08T19:00:00", 
+        "formatted_location": "Philadelphia, PA", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1363323/tfly%3Futm_medium%3Dapi&afftrack=67%7E16502412%7E24169569%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "Andy Snitzer", 
+                "url": "AndySnitzer", 
+                "tracker_count": 813, 
+                "mbid": "3fc9b938-4040-4c64-a893-730fee717cb5", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/4756430.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/AndySnitzer/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/4756430.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13132877
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 25.0, 
+        "price_min": 25.0
+    }, 
+    "modified_time": 1479442709.0, 
+    "created_time": 1478566061.0, 
+    "modified_minutes": 890, 
+    "id": 28340129
+}

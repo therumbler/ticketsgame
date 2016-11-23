@@ -1,0 +1,311 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Dan + Shay and Walker Hayes at House of Blues (December 4, 2016)", 
+        "popularity": 0.018959, 
+        "venue": {
+            "displayName": "House of Blues", 
+            "uri": "http://www.songkick.com/venues/36239-house-of-blues?utm_source=32233&utm_medium=partner", 
+            "lat": 32.785326, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.808089, 
+            "id": 36239
+        }, 
+        "uri": "http://www.songkick.com/concerts/27895369-dan-shay-at-house-of-blues?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-04", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-04T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.785326, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.808089
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6a2d48d4-25c0-483d-b135-680af589a4ae", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6a2d48d4-25c0-483d-b135-680af589a4ae.json"
+                        }
+                    ], 
+                    "displayName": "Dan + Shay", 
+                    "uri": "http://www.songkick.com/artists/7775839-dan-shay?utm_source=32233&utm_medium=partner", 
+                    "id": 7775839
+                }, 
+                "displayName": "Dan + Shay", 
+                "id": 54325599, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e48d32dc-18ad-40df-854c-49ea4d12d809", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e48d32dc-18ad-40df-854c-49ea4d12d809.json"
+                        }
+                    ], 
+                    "displayName": "Walker Hayes", 
+                    "uri": "http://www.songkick.com/artists/889691-walker-hayes?utm_source=32233&utm_medium=partner", 
+                    "id": 889691
+                }, 
+                "displayName": "Walker Hayes", 
+                "id": 54325604, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27895369
+    }, 
+    "musicbrainz_response": {
+        "name": "Dan + Shay", 
+        "area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "contemporary country"
+            }, 
+            {
+                "count": 0, 
+                "name": "country"
+            }, 
+            {
+                "count": 1, 
+                "name": "country pop"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003200207", 
+                    "id": "513a10d9-03fa-465b-9785-669235307765"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3807340", 
+                    "id": "a0f7a6e7-bbc2-4d41-9478-0e247fc08078"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.danandshay.com/", 
+                    "id": "6e2d32c2-ab28-4705-83ab-077ec75801a8"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/dan___shay", 
+                    "id": "0367f1ca-54f7-4793-9b9c-3b56c58c4f42"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id690319057", 
+                    "id": "cc849732-0964-422a-a9ec-430e962f3296"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/danandshay/", 
+                    "id": "7fb0b8a2-e8c7-4e7a-b00a-27b8624d5d46"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/danandshay", 
+                    "id": "9260adde-8fa8-4b7f-a8f6-a79dcb5e8ce3"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/DanAndShay", 
+                    "id": "0b299a3b-f4e9-41f9-9a9d-0fdf1ccb7876"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q16959408", 
+                    "id": "ff40914b-9bd9-4173-b375-49b3f853c40e"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Dan_%2B_Shay", 
+                    "id": "4fcceb21-7774-47d8-b7bb-a111fda4ad7b"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/danandshaymusic", 
+                    "id": "8cc63dc5-b0ff-4cbd-ab18-e238f2b9bd77"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Dan + Shay", 
+        "country": null, 
+        "id": "6a2d48d4-25c0-483d-b135-680af589a4ae", 
+        "type": "Group", 
+        "twitter": "danandshay", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://concerts.livenation.com/event/0C005114093A5677"
+    }, 
+    "modified_time": 1479442230.0, 
+    "created_minutes": 18163, 
+    "created_time": 1478565996.0, 
+    "modified_minutes": 3559, 
+    "id": 27895369
+}

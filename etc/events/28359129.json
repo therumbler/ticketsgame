@@ -1,0 +1,113 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 8.2e-05, 
+        "displayName": "Playmaker at The Pack and Carriage (November 26, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Pack and Carriage", 
+            "uri": "http://www.songkick.com/venues/2931933-pack-and-carriage?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5319536, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1357941, 
+            "id": 2931933
+        }, 
+        "uri": "http://www.songkick.com/concerts/28359129-playmaker-at-pack-and-carriage?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-26", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 51.5319536, 
+            "city": "London, UK", 
+            "lng": -0.1357941
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Playmaker", 
+                "id": 55140719, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b99d43ac-416f-4ff7-9268-a04918717f8a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b99d43ac-416f-4ff7-9268-a04918717f8a.json"
+                        }
+                    ], 
+                    "displayName": "Playmaker", 
+                    "uri": "http://www.songkick.com/artists/342884-playmaker?utm_source=32233&utm_medium=partner", 
+                    "id": 342884
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28359129
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "gender": "Male", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "tags": [], 
+        "country": "SE", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Sweden", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "SE"
+            ], 
+            "name": "Sweden", 
+            "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "ended": false, 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/32843", 
+                    "id": "c2dc36a5-a30d-457e-bbe1-42b60f3a9457"
+                }, 
+                "target-type": "url", 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Playmaker", 
+        "isnis": [], 
+        "type": "Person", 
+        "id": "b99d43ac-416f-4ff7-9268-a04918717f8a", 
+        "disambiguation": "Christer Gustafsson", 
+        "name": "Playmaker"
+    }, 
+    "id": 28359129, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

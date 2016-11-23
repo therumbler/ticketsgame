@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Paul Simon at Royal Albert Hall (November 8, 2016)", 
+        "popularity": 0.154708, 
+        "venue": {
+            "displayName": "Royal Albert Hall", 
+            "uri": "http://www.songkick.com/venues/17538-royal-albert-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 51.500786, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1781517, 
+            "id": 17538
+        }, 
+        "uri": "http://www.songkick.com/concerts/27098849-paul-simon-at-royal-albert-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-08", 
+            "time": "18:45:00", 
+            "datetime": "2016-11-08T18:45:00+0000"
+        }, 
+        "location": {
+            "lat": 51.500786, 
+            "city": "London, UK", 
+            "lng": -0.1781517
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0d6edb67-eb11-44b7-94c3-a48fd70a651c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0d6edb67-eb11-44b7-94c3-a48fd70a651c.json"
+                        }, 
+                        {
+                            "mbid": "05517043-ff78-4988-9c22-88c68588ebb9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:05517043-ff78-4988-9c22-88c68588ebb9.json"
+                        }, 
+                        {
+                            "mbid": "6251df9b-0085-4542-8722-5d71a9fd9d63", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6251df9b-0085-4542-8722-5d71a9fd9d63.json"
+                        }, 
+                        {
+                            "mbid": "8d36e1ac-d721-4138-ac00-f851bbaab44c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8d36e1ac-d721-4138-ac00-f851bbaab44c.json"
+                        }
+                    ], 
+                    "displayName": "Paul Simon", 
+                    "uri": "http://www.songkick.com/artists/213059-paul-simon?utm_source=32233&utm_medium=partner", 
+                    "id": 213059
+                }, 
+                "displayName": "Paul Simon", 
+                "id": 52865579, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27098849
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Simon Paul", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/407763", 
+                    "id": "f09ec056-558e-42eb-83ca-088dd09cd6b3"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "GB", 
+        "sort-name": "Paul, Simon", 
+        "type": "Person", 
+        "id": "0d6edb67-eb11-44b7-94c3-a48fd70a651c", 
+        "disambiguation": "UK trance DJ/producer"
+    }, 
+    "id": 27098849, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

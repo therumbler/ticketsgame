@@ -1,0 +1,458 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.004871, 
+        "displayName": "Death By Stereo with 23 Skunks at Alex's Bar (November 26, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Alex's Bar", 
+            "uri": "http://www.songkick.com/venues/31241-alexs-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 33.782841, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.157431, 
+            "id": 31241
+        }, 
+        "uri": "http://www.songkick.com/concerts/28477769-death-by-stereo-at-alexs-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-26", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-26T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 33.782841, 
+            "city": "Long Beach, CA, US", 
+            "lng": -118.157431
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Death By Stereo", 
+                "id": 55342439, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "62c2f99c-d777-4ca5-8602-548807cfb824", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:62c2f99c-d777-4ca5-8602-548807cfb824.json"
+                        }, 
+                        {
+                            "mbid": "7fe0ce7e-1c5e-4b80-b0ce-3c12b952a317", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7fe0ce7e-1c5e-4b80-b0ce-3c12b952a317.json"
+                        }
+                    ], 
+                    "displayName": "Death By Stereo", 
+                    "uri": "http://www.songkick.com/artists/431267-death-by-stereo?utm_source=32233&utm_medium=partner", 
+                    "id": 431267
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "23 Skunks", 
+                "id": 55342444, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "23 Skunks", 
+                    "uri": "http://www.songkick.com/artists/6685414-23-skunks?utm_source=32233&utm_medium=partner", 
+                    "id": 6685414
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28477769
+    }, 
+    "musicbrainz_response": {
+        "name": "Death by Stereo", 
+        "twitter": "DBSofficial", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1996", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "plague"
+            }, 
+            {
+                "count": 1, 
+                "name": "punk"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/154661914", 
+                    "id": "429ef9da-26f2-4ba8-85d2-5bd54c6ebcdb"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000227388", 
+                    "id": "2969e3f2-200a-4423-ad8b-1116a62f68f5"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/319669", 
+                    "id": "f63356bb-32c8-4671-a014-f74ab9ad3999"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Death+By+Stereo", 
+                    "id": "0cf334b4-f7a1-45af-9e2e-8c70b0da1567"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/death-by-stereo-lyrics", 
+                    "id": "17694b3e-99be-4c80-bdac-cf7f3b903c87"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/Death_By_Stereo", 
+                    "id": "dd6e0875-1c70-4f2f-9e4b-f9646fd38506"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/deathbystereo", 
+                    "id": "9ea6000a-e613-41b2-9aaa-c5a690a4eb3c"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://deathbystereo.com/", 
+                    "id": "1c188c90-8fe1-4c1d-a2c0-23f3109b403b"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/death_by_stereo", 
+                    "id": "85d8ca6c-f94d-47fa-9cb9-f7eacbe01755"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.musik-sammler.de/artist/17830", 
+                    "id": "1771aaec-aac3-4384-8748-506511b80b83"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.worldcat.org/identities/lccn-no2004051489/", 
+                    "id": "f037f1a8-24e3-4771-a472-fd1ab6964401"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.purevolume.com/deathbystereo", 
+                    "id": "c94f5940-fd3c-4191-8e2b-8bd7ca36b1cc"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purevolume", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/19951", 
+                    "id": "4cb721fe-a554-4603-80eb-013cb82fc44a"
+                }, 
+                "begin": null, 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/DBSofficial", 
+                    "id": "20c54bf7-9fb6-42c4-ae30-d13c1a7fc22d"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/deathbystereo", 
+                    "id": "fc19ec82-9d36-4575-bf14-71d1188897d4"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1181278", 
+                    "id": "c98319f3-79f9-410b-9e8d-1e44f640f743"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Death_by_Stereo", 
+                    "id": "dac9368f-1c9a-4627-b9bc-e31c559e4423"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Orange County", 
+            "disambiguation": "", 
+            "name": "Orange County", 
+            "id": "8ba9ac5a-5b4e-4ecc-b24a-e730920fc12b"
+        }, 
+        "sort-name": "Death by Stereo", 
+        "isnis": [
+            "0000000122983026"
+        ], 
+        "disambiguation": "US hardcore punk band", 
+        "country": "US", 
+        "type": "Group", 
+        "id": "62c2f99c-d777-4ca5-8602-548807cfb824", 
+        "gender-id": null
+    }, 
+    "age_minutes": 3188, 
+    "bandsintown_response": {
+        "description": "Death By Stereo", 
+        "title": "Death by Stereo @ Alex's Bar in Long Beach, CA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Long Beach", 
+            "name": "Alex's Bar", 
+            "country": "United States", 
+            "region": "CA", 
+            "longitude": -118.157365, 
+            "place": "Alex's Bar", 
+            "latitude": 33.782802
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13240606?app_id=ticketgame&artist=Death+by+Stereo&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13240606/buy_tickets?app_id=ticketgame&artist=Death+by+Stereo&came_from=67", 
+        "on_sale_datetime": "2016-11-02T14:40:32", 
+        "formatted_datetime": "Saturday, November 26, 2016 at 9:00PM", 
+        "datetime": "2016-11-26T21:00:00", 
+        "formatted_location": "Long Beach, CA", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1379438/tfly%3Futm_medium%3Dapi&afftrack=67%7E16650721%7E24442517%7E%7E", 
+        "artists": [
+            {
+                "website": "http://DEATHBYSTEREO.COM", 
+                "facebook_page_url": "https://www.facebook.com/deathbystereo", 
+                "name": "Death by Stereo", 
+                "url": "DeathByStereo", 
+                "tracker_count": 20463, 
+                "mbid": "62c2f99c-d777-4ca5-8602-548807cfb824", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/7142534.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/DeathByStereo/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/7142534.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13240606
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 13.0
+    }, 
+    "modified_time": 1479442406.0, 
+    "created_time": 1479305679.0, 
+    "modified_minutes": 910, 
+    "id": 28477769
+}

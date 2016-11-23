@@ -1,0 +1,135 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Chris Eldridge, Julian Lage & Chris Eldridge, and Julian Lage at The Earl (March 1, 2017)", 
+        "popularity": 0.001223, 
+        "venue": {
+            "displayName": "The Earl", 
+            "uri": "http://www.songkick.com/venues/603016-earl?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7413988, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3468808, 
+            "id": 603016
+        }, 
+        "uri": "http://www.songkick.com/concerts/28204339-chris-eldridge-at-earl?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-03-01", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 33.7413988, 
+            "city": "East Atlanta, GA, US", 
+            "lng": -84.3468808
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0047516d-8583-47d5-bfdd-e39a6c348492", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0047516d-8583-47d5-bfdd-e39a6c348492.json"
+                        }
+                    ], 
+                    "displayName": "Chris Eldridge", 
+                    "uri": "http://www.songkick.com/artists/1922829-chris-eldridge?utm_source=32233&utm_medium=partner", 
+                    "id": 1922829
+                }, 
+                "displayName": "Chris Eldridge", 
+                "id": 54873284, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Julian Lage & Chris Eldridge", 
+                    "uri": "http://www.songkick.com/artists/8794109-julian-lage-and-chris-eldridge?utm_source=32233&utm_medium=partner", 
+                    "id": 8794109
+                }, 
+                "displayName": "Julian Lage & Chris Eldridge", 
+                "id": 54938319, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c116b504-ce24-4264-96dc-d10a7458236f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c116b504-ce24-4264-96dc-d10a7458236f.json"
+                        }
+                    ], 
+                    "displayName": "Julian Lage", 
+                    "uri": "http://www.songkick.com/artists/988278-julian-lage?utm_source=32233&utm_medium=partner", 
+                    "id": 988278
+                }, 
+                "displayName": "Julian Lage", 
+                "id": 54938324, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28204339
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Chris Eldridge", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1209458", 
+                    "id": "1725ea9b-7b66-418d-a7a5-a6b7e99432b7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Eldridge, Chris", 
+        "type": "Person", 
+        "id": "0047516d-8583-47d5-bfdd-e39a6c348492", 
+        "disambiguation": ""
+    }, 
+    "id": 28204339, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

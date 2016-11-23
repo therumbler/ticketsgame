@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "cancelled", 
+        "ageRestriction": null, 
+        "displayName": "Alyse Black at 888 Pan Asian Restaurant (November 19, 2016) (CANCELLED) ", 
+        "popularity": 6.7e-05, 
+        "venue": {
+            "displayName": "888 Pan Asian Restaurant", 
+            "uri": "http://www.songkick.com/venues/2931233-888-pan-asian-restaurant?utm_source=32233&utm_medium=partner", 
+            "lat": 30.2297087, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7303109, 
+            "id": 2931233
+        }, 
+        "uri": "http://www.songkick.com/concerts/27840104-alyse-black-at-888-pan-asian-restaurant?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "datetime": "2016-11-19T20:00:00-0600", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 30.2297087, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7303109
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c07bf853-f2b5-4dab-ae3a-a4e33b1d38ec", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c07bf853-f2b5-4dab-ae3a-a4e33b1d38ec.json"
+                        }
+                    ], 
+                    "displayName": "Alyse Black", 
+                    "uri": "http://www.songkick.com/artists/697668-alyse-black?utm_source=32233&utm_medium=partner", 
+                    "id": 697668
+                }, 
+                "displayName": "Alyse Black", 
+                "id": 54223279, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27840104
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Alyse Black", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "sort-name": "Alyse Black", 
+        "country": null, 
+        "disambiguation": "", 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Alyse_Black", 
+                    "id": "fb9cd79e-1b90-4045-ba73-df5ef557f763"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "type": null, 
+        "id": "c07bf853-f2b5-4dab-ae3a-a4e33b1d38ec", 
+        "tags": []
+    }, 
+    "id": 27840104, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

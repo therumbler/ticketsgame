@@ -1,0 +1,129 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Revivalists at House of Blues (April 14, 2017)", 
+        "popularity": 0.005219, 
+        "venue": {
+            "displayName": "House of Blues", 
+            "uri": "http://www.songkick.com/venues/36239-house-of-blues?utm_source=32233&utm_medium=partner", 
+            "lat": 32.785326, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.808089, 
+            "id": 36239
+        }, 
+        "uri": "http://www.songkick.com/concerts/28508164-revivalists-at-house-of-blues?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-04-14", 
+            "time": "20:00:00", 
+            "datetime": "2017-04-14T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 32.785326, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.808089
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "The Revivalists", 
+                "id": 55396074, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ed4a08e1-2a79-4538-b519-87bb2ee0fd9d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ed4a08e1-2a79-4538-b519-87bb2ee0fd9d.json"
+                        }
+                    ], 
+                    "displayName": "The Revivalists", 
+                    "uri": "http://www.songkick.com/artists/593309-revivalists?utm_source=32233&utm_medium=partner", 
+                    "id": 593309
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28508164
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Revivalists", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3715914", 
+                    "id": "4c880ff4-b9d6-4255-ac99-7784eeae2e59"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/revivalists", 
+                    "id": "119b2e95-49b3-4432-af14-2eb23a1be919"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Revivalists, The", 
+        "isnis": [], 
+        "country": null, 
+        "type": "Group", 
+        "id": "ed4a08e1-2a79-4538-b519-87bb2ee0fd9d", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Location"
+        ]
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://concerts.livenation.com/event/0C005164296C6D18"
+    }, 
+    "modified_time": 1479442354.0, 
+    "created_minutes": 5913, 
+    "created_time": 1479305645.0, 
+    "modified_minutes": 3634, 
+    "id": 28508164
+}

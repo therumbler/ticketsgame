@@ -1,0 +1,248 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Suffers with Jakubi at The Crocodile (November 12, 2016)", 
+        "popularity": 0.002471, 
+        "venue": {
+            "displayName": "The Crocodile", 
+            "uri": "http://www.songkick.com/venues/291-crocodile?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6134145, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3443283, 
+            "id": 291
+        }, 
+        "uri": "http://www.songkick.com/concerts/27830884-suffers-at-crocodile?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 47.6134145, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3443283
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bbfd82bf-6f5f-43cf-ad53-82f13cbc1322", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bbfd82bf-6f5f-43cf-ad53-82f13cbc1322.json"
+                        }
+                    ], 
+                    "displayName": "The Suffers", 
+                    "uri": "http://www.songkick.com/artists/4651203-suffers?utm_source=32233&utm_medium=partner", 
+                    "id": 4651203
+                }, 
+                "displayName": "The Suffers", 
+                "id": 54206034, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "373aea4d-05c3-4751-85a4-5f9fb0d4a573", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:373aea4d-05c3-4751-85a4-5f9fb0d4a573.json"
+                        }
+                    ], 
+                    "displayName": "Jakubi", 
+                    "uri": "http://www.songkick.com/artists/6381059-jakubi?utm_source=32233&utm_medium=partner", 
+                    "id": 6381059
+                }, 
+                "displayName": "Jakubi", 
+                "id": 54206039, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27830884
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Suffers", 
+        "area": {
+            "sort-name": "Houston", 
+            "disambiguation": "", 
+            "name": "Houston", 
+            "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b"
+        }, 
+        "gender": null, 
+        "twitter": "TheSuffers", 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thesuffers.tumblr.com/", 
+                    "id": "ba1ed60d-5135-4368-8ac4-9f63b0f1d35a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3416666", 
+                    "id": "7d7d8f78-9e07-4a32-a119-689e22bb7700"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.thesuffers.com/", 
+                    "id": "4506aa77-4557-4160-be48-d5dff66533f3"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/the_suffers", 
+                    "id": "e5da4bc3-c9aa-464a-a643-471a4132a62c"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/TheSuffers", 
+                    "id": "1661562d-a2e2-4809-9c85-22bd9ea85014"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/thesuffers", 
+                    "id": "dd826e0e-a978-4dfd-8591-cc8455f99b4b"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/thesuffers/", 
+                    "id": "f30a7bdf-66ac-4c0f-9c49-2d11dd767fa9"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/thesuffers", 
+                    "id": "b2521fe5-f78c-45b4-b75c-677e511188a5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Suffers, The", 
+        "country": null, 
+        "id": "bbfd82bf-6f5f-43cf-ad53-82f13cbc1322", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2011-06", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 27830884, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

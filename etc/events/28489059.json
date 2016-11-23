@@ -1,0 +1,111 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Chamber Band and Sarah Donner at Way Station (November 11, 2016)", 
+        "popularity": 0.000182, 
+        "venue": {
+            "displayName": "Way Station", 
+            "uri": "http://www.songkick.com/venues/1343886-way-station?utm_source=32233&utm_medium=partner", 
+            "lat": 40.6766752, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9635167, 
+            "id": 1343886
+        }, 
+        "uri": "http://www.songkick.com/concerts/28489059-chamber-band-at-way-station?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "datetime": "2016-11-11T21:00:00-0500", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 40.6766752, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9635167
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "01e1669a-76a5-4067-99f3-2cab46c89352", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:01e1669a-76a5-4067-99f3-2cab46c89352.json"
+                        }
+                    ], 
+                    "displayName": "Chamber Band", 
+                    "uri": "http://www.songkick.com/artists/4949883-chamber-band?utm_source=32233&utm_medium=partner", 
+                    "id": 4949883
+                }, 
+                "displayName": "Chamber Band", 
+                "id": 55363084, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8bda411f-b279-451d-9d93-c59f7e321b10", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8bda411f-b279-451d-9d93-c59f7e321b10.json"
+                        }
+                    ], 
+                    "displayName": "Sarah Donner", 
+                    "uri": "http://www.songkick.com/artists/1096558-sarah-donner?utm_source=32233&utm_medium=partner", 
+                    "id": 1096558
+                }, 
+                "displayName": "Sarah Donner", 
+                "id": 55363089, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28489059
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "Chamber Band", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "sort-name": "Chamber Band", 
+        "gender": null, 
+        "disambiguation": "five piece indie band from Brooklyn, NY", 
+        "area": {
+            "sort-name": "Brooklyn", 
+            "disambiguation": "", 
+            "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c", 
+            "name": "Brooklyn"
+        }, 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "type": "Group", 
+        "id": "01e1669a-76a5-4067-99f3-2cab46c89352", 
+        "tags": []
+    }, 
+    "id": 28489059, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

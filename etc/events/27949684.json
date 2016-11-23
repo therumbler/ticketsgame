@@ -1,0 +1,163 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Perkulat0r at The Basement East (November 19, 2016)", 
+        "popularity": 0.000105, 
+        "venue": {
+            "displayName": "The Basement East", 
+            "uri": "http://www.songkick.com/venues/2913113-basement-east?utm_source=32233&utm_medium=partner", 
+            "lat": 36.175636, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.755652, 
+            "id": 2913113
+        }, 
+        "uri": "http://www.songkick.com/concerts/27949684-perkulat0r-at-basement-east?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 36.175636, 
+            "city": "East Nashville, TN, US", 
+            "lng": -86.755652
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "aa0407bd-d98c-44d3-9bf4-c9c6e2113485", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:aa0407bd-d98c-44d3-9bf4-c9c6e2113485.json"
+                        }
+                    ], 
+                    "displayName": "Perkulat0r", 
+                    "uri": "http://www.songkick.com/artists/8253768-perkulat0r?utm_source=32233&utm_medium=partner", 
+                    "id": 8253768
+                }, 
+                "displayName": "Perkulat0r", 
+                "id": 54425319, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27949684
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Perkulat0r", 
+        "tags": [], 
+        "gender": "Male", 
+        "twitter": "Perkulat0r", 
+        "area": {
+            "sort-name": "Vancouver", 
+            "disambiguation": "", 
+            "name": "Vancouver", 
+            "id": "6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://perkulat0r.bandcamp.com/", 
+                    "id": "0614874e-2380-42e7-8928-ce89d6ebac7f"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/Perkulat0r", 
+                    "id": "84c3b5b1-dcc6-44bb-8f6e-949faea44e0b"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Perkulat0r", 
+                    "id": "083b4376-19f5-4cf2-8c70-f2e44ade36b7"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/perkulat0r", 
+                    "id": "615677c7-1548-4c40-a8a4-5a912d0ecb4f"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Perkulat0r", 
+        "country": null, 
+        "id": "aa0407bd-d98c-44d3-9bf4-c9c6e2113485", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 27949684, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

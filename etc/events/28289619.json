@@ -1,0 +1,143 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Bad Bad Meow and 8-bit crEEps at Blue Island Beer Co. (November 12, 2016)", 
+        "popularity": 0.000159, 
+        "venue": {
+            "displayName": "Blue Island Beer Co.", 
+            "uri": "http://www.songkick.com/venues/3196363-blue-island-beer-co?utm_source=32233&utm_medium=partner", 
+            "lat": 41.6499324, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6809171, 
+            "id": 3196363
+        }, 
+        "uri": "http://www.songkick.com/concerts/28289619-bad-bad-meow-at-blue-island-beer-co?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-12T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.6499324, 
+            "city": "Blue Island, IL, US", 
+            "lng": -87.6809171
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8e89aa2f-931c-4bcc-8040-a8f25837316d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8e89aa2f-931c-4bcc-8040-a8f25837316d.json"
+                        }
+                    ], 
+                    "displayName": "Bad Bad Meow", 
+                    "uri": "http://www.songkick.com/artists/3627401-bad-bad-meow?utm_source=32233&utm_medium=partner", 
+                    "id": 3627401
+                }, 
+                "displayName": "Bad Bad Meow", 
+                "id": 55017364, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "8-bit crEEps", 
+                    "uri": "http://www.songkick.com/artists/8729554-8bit-creeps?utm_source=32233&utm_medium=partner", 
+                    "id": 8729554
+                }, 
+                "displayName": "8-bit crEEps", 
+                "id": 55017369, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28289619
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Bad Bad Meow", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "sort-name": "Bad Bad Meow", 
+        "gender": null, 
+        "disambiguation": "", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/badbadmeow", 
+                    "id": "8f624426-8bf5-4bd4-a7fe-441edb5140cc"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/badbadmeowmusic", 
+                    "id": "02c0339e-ca45-4024-9b33-0ece273b43b2"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "US", 
+        "type": "Group", 
+        "id": "8e89aa2f-931c-4bcc-8040-a8f25837316d", 
+        "tags": []
+    }, 
+    "id": 28289619, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,351 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Colin Meloy with Edna Vazquez at Aladdin Theater (December 8, 2016)", 
+        "popularity": 0.005039, 
+        "venue": {
+            "displayName": "Aladdin Theater", 
+            "uri": "http://www.songkick.com/venues/1207-aladdin-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 45.501102, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.654253, 
+            "id": 1207
+        }, 
+        "uri": "http://www.songkick.com/concerts/28132879-colin-meloy-at-aladdin-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-08", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-08T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.501102, 
+            "city": "Portland, OR, US", 
+            "lng": -122.654253
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c58ad99e-47ba-454b-abbe-cd72a691b46b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c58ad99e-47ba-454b-abbe-cd72a691b46b.json"
+                        }
+                    ], 
+                    "displayName": "Colin Meloy", 
+                    "uri": "http://www.songkick.com/artists/249145-colin-meloy?utm_source=32233&utm_medium=partner", 
+                    "id": 249145
+                }, 
+                "displayName": "Colin Meloy", 
+                "id": 54747874, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "56509744-1454-43db-b497-4efc716ba8a5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:56509744-1454-43db-b497-4efc716ba8a5.json"
+                        }
+                    ], 
+                    "displayName": "Edna Vazquez", 
+                    "uri": "http://www.songkick.com/artists/5672809-edna-vazquez?utm_source=32233&utm_medium=partner", 
+                    "id": 5672809
+                }, 
+                "displayName": "Edna Vazquez", 
+                "id": 54862349, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28132879
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Colin Meloy", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "country": null, 
+        "twitter": "colinmeloy", 
+        "area": {
+            "sort-name": "Oregon", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-OR"
+            ], 
+            "id": "376ea713-8f27-4ab1-818b-9cca72023382", 
+            "name": "Oregon"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/53542977", 
+                    "id": "a187b9af-1219-4a43-8cd2-a5090851c991"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000217042", 
+                    "id": "edf2e0d3-1edd-418f-ad27-d4d9cd8f9697"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/370758", 
+                    "id": "575f3aba-1390-4f3d-9129-e4f5d8d7ed8b"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Colin_Meloy_-_Oakland.jpg", 
+                    "id": "9e76e843-ad30-44b9-b8d2-9eea2cfa2a78"
+                }, 
+                "direction": "forward", 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Colin+Meloy", 
+                    "id": "3941958c-3e02-48fd-86c1-0cfcf36d76c3"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://colinmeloy.com/", 
+                    "id": "5f595973-7ea2-4feb-80bc-93d4c08d45d2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/colin_meloy", 
+                    "id": "4643f004-8d67-4cf6-ba78-face31554abc"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/colinmeloy", 
+                    "id": "59a0bed9-d1a2-476a-aa33-d065f9fe943a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/colinmeloy", 
+                    "id": "d1775cb5-24ce-4e75-af0d-80c6407171cc"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q505568", 
+                    "id": "07446ca8-c08e-4903-adea-a7e83ec21a25"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Colin_Meloy", 
+                    "id": "7863d5d6-245e-44e8-859f-65f38e45f151"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Helena", 
+            "disambiguation": "", 
+            "id": "33632150-92c6-4140-802e-6eb5467ad408", 
+            "name": "Helena"
+        }, 
+        "id": "c58ad99e-47ba-454b-abbe-cd72a691b46b", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Meloy, Colin", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1974-10-05", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": "Colin Meloy solo show. Tickets go on sale Friday, September 23 at 10am. All proceeds benefit Victory Academy, a school for kids on the autism spectrum. ", 
+        "title": "Colin Meloy @ V is for Victory at Aladdin Theater (Solo Benefit Show for Victory Academy) in Portland, OR", 
+        "ticket_type": "Sold Out", 
+        "venue": {
+            "city": "Portland", 
+            "name": "V is for Victory at Aladdin Theater (Solo Benefit Show for Victory Academy)", 
+            "country": "United States", 
+            "region": "OR", 
+            "longitude": -122.65432, 
+            "place": "Aladdin Theater", 
+            "latitude": 45.501066
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12965272?app_id=ticketgame&artist=Colin+Meloy&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12965272/buy_tickets?app_id=ticketgame&artist=Colin+Meloy&came_from=67", 
+        "on_sale_datetime": "2016-09-23T10:00:00", 
+        "formatted_datetime": "Thursday, December 8, 2016 at 7:00PM", 
+        "datetime": "2016-12-08T19:00:00", 
+        "formatted_location": "Portland, OR", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1321155&afftrack=67%7E16276673%7E%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/colinmeloy", 
+                "name": "Colin Meloy", 
+                "url": "ColinMeloy", 
+                "tracker_count": 13055, 
+                "mbid": "c58ad99e-47ba-454b-abbe-cd72a691b46b", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6299389.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/ColinMeloy/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6299389.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12965272
+    }, 
+    "ticket_details": {
+        "status": "Sold Out", 
+        "price_max": 65.0, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1321155&afftrack=67%7E16276673%7E%7E%7E", 
+        "price_min": 35.0
+    }, 
+    "modified_time": 1479442507.0, 
+    "created_minutes": 18170, 
+    "created_time": 1478566069.0, 
+    "modified_minutes": 3563, 
+    "id": 28132879
+}

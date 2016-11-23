@@ -1,0 +1,163 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Earworms and Rad Payoff at Quenchers Saloon (November 13, 2016)", 
+        "popularity": 9.9e-05, 
+        "venue": {
+            "displayName": "Quenchers Saloon", 
+            "uri": "http://www.songkick.com/venues/34713-quenchers-saloon?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9250417, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6874749, 
+            "id": 34713
+        }, 
+        "uri": "http://www.songkick.com/concerts/28000789-earworms-at-quenchers-saloon?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 41.9250417, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6874749
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "80a8851f-444c-4539-892b-ad2a49292aa9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:80a8851f-444c-4539-892b-ad2a49292aa9.json"
+                        }
+                    ], 
+                    "displayName": "Earworms", 
+                    "uri": "http://www.songkick.com/artists/514890-earworms?utm_source=32233&utm_medium=partner", 
+                    "id": 514890
+                }, 
+                "displayName": "Earworms", 
+                "id": 54515364, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Rad Payoff", 
+                    "uri": "http://www.songkick.com/artists/3578026-rad-payoff?utm_source=32233&utm_medium=partner", 
+                    "id": 3578026
+                }, 
+                "displayName": "Rad Payoff", 
+                "id": 54642619, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28000789
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "[language instruction]", 
+        "sort-name": "[language instruction]", 
+        "gender": "Other", 
+        "disambiguation": "Special Purpose Artist", 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.klett-sprachen.de/", 
+                    "id": "1ec407b2-d049-41d5-ad02-71ed70600614"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "Ernst Klett Sprachen GmbH", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "ac897045-5043-3294-969b-187360e45d86", 
+        "begin_area": null, 
+        "gender-id": "081c0bf5-da60-37b0-95f8-2207a3f7f9d6", 
+        "country": null, 
+        "id": "80a8851f-444c-4539-892b-ad2a49292aa9", 
+        "type": "Other", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 0, 
+                "name": "[language instruction]"
+            }, 
+            {
+                "count": 0, 
+                "name": "bogus artist"
+            }, 
+            {
+                "count": 0, 
+                "name": "fixme"
+            }, 
+            {
+                "count": 1, 
+                "name": "foreign language"
+            }, 
+            {
+                "count": 0, 
+                "name": "hugo"
+            }, 
+            {
+                "count": 0, 
+                "name": "hugo in 3 months"
+            }, 
+            {
+                "count": 0, 
+                "name": "japanese for busy people"
+            }, 
+            {
+                "count": 0, 
+                "name": "klett"
+            }, 
+            {
+                "count": 1, 
+                "name": "learn languages"
+            }, 
+            {
+                "count": 0, 
+                "name": "merge into [unknown]"
+            }, 
+            {
+                "count": 0, 
+                "name": "spanish"
+            }
+        ]
+    }, 
+    "id": 28000789, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

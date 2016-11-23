@@ -1,0 +1,133 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Canaan Smith at Grizzly Rose (November 11, 2016)", 
+        "popularity": 0.008937, 
+        "venue": {
+            "displayName": "Grizzly Rose", 
+            "uri": "http://www.songkick.com/venues/1151-grizzly-rose?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7953, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.986759, 
+            "id": 1151
+        }, 
+        "uri": "http://www.songkick.com/concerts/28233099-canaan-smith-at-grizzly-rose?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-11T20:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.7953, 
+            "city": "Denver, CO, US", 
+            "lng": -104.986759
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5e8b4da0-2f54-43d5-a604-f3029037559c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5e8b4da0-2f54-43d5-a604-f3029037559c.json"
+                        }
+                    ], 
+                    "displayName": "Canaan Smith", 
+                    "uri": "http://www.songkick.com/artists/5184163-canaan-smith?utm_source=32233&utm_medium=partner", 
+                    "id": 5184163
+                }, 
+                "displayName": "Canaan Smith", 
+                "id": 54919089, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28233099
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Canaan Smith", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1982-08-24", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3513726", 
+                    "id": "a0a3053d-c486-4ff3-ae8c-8c3556a3490f"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q5029183", 
+                    "id": "c8ec367c-1028-4b1f-a38e-a5d1f2fa83ca"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00468847888"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Smith, Canaan", 
+        "country": "US", 
+        "disambiguation": "", 
+        "type": "Person", 
+        "id": "5e8b4da0-2f54-43d5-a604-f3029037559c", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28233099, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

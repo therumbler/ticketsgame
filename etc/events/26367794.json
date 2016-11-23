@@ -1,0 +1,142 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "UK Foo Fighters with Ro Ashika and Rob Campbell at O2 Academy Islington (November 12, 2016)", 
+        "popularity": 0.000171, 
+        "venue": {
+            "displayName": "O2 Academy Islington", 
+            "uri": "http://www.songkick.com/venues/38323-o2-academy-islington?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5345836, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1059202, 
+            "id": 38323
+        }, 
+        "uri": "http://www.songkick.com/concerts/26367794-uk-foo-fighters-at-o2-academy-islington?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "18:30:00", 
+            "datetime": "2016-11-12T18:30:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5345836, 
+            "city": "London, UK", 
+            "lng": -0.1059202
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "627b5464-88f5-474c-ad31-aad4b973fd9a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:627b5464-88f5-474c-ad31-aad4b973fd9a.json"
+                        }
+                    ], 
+                    "displayName": "UK Foo Fighters", 
+                    "uri": "http://www.songkick.com/artists/4922528-uk-foo-fighters?utm_source=32233&utm_medium=partner", 
+                    "id": 4922528
+                }, 
+                "displayName": "UK Foo Fighters", 
+                "id": 51507009, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Ro Ashika", 
+                    "uri": "http://www.songkick.com/artists/8262898-ro-ashika?utm_source=32233&utm_medium=partner", 
+                    "id": 8262898
+                }, 
+                "displayName": "Ro Ashika", 
+                "id": 55088209, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Rob Campbell", 
+                    "uri": "http://www.songkick.com/artists/6646149-rob-campbell?utm_source=32233&utm_medium=partner", 
+                    "id": 6646149
+                }, 
+                "displayName": "Rob Campbell", 
+                "id": 55088214, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26367794
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "UK Foo Fighters Tribute", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "foo fighters tribute band"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2006", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "West Yorkshire", 
+            "disambiguation": "", 
+            "id": "c996bd09-5afd-4a0d-adf0-61aebb7b795d", 
+            "name": "West Yorkshire"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.foofighters.org.uk/", 
+                    "id": "14917ac5-7e5d-470e-b42f-79f041c01cd0"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "West Yorkshire", 
+            "disambiguation": "", 
+            "id": "c996bd09-5afd-4a0d-adf0-61aebb7b795d", 
+            "name": "West Yorkshire"
+        }, 
+        "sort-name": "UK Foo Fighters Tribute", 
+        "country": null, 
+        "id": "627b5464-88f5-474c-ad31-aad4b973fd9a", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 26367794, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

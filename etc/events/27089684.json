@@ -1,0 +1,158 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Wet with Demo Taped at The Caledonia Lounge (November 15, 2016)", 
+        "popularity": 0.014521, 
+        "venue": {
+            "displayName": "The Caledonia Lounge", 
+            "uri": "http://www.songkick.com/venues/10964-caledonia-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 33.957876, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -83.379606, 
+            "id": 10964
+        }, 
+        "uri": "http://www.songkick.com/concerts/27089684-wet-at-caledonia-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "time": "21:30:00", 
+            "datetime": "2016-11-15T21:30:00-0500"
+        }, 
+        "location": {
+            "lat": 33.957876, 
+            "city": "Athens, GA, US", 
+            "lng": -83.379606
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f632986c-1c36-477c-bafb-ec36459cff52", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f632986c-1c36-477c-bafb-ec36459cff52.json"
+                        }
+                    ], 
+                    "displayName": "Wet", 
+                    "uri": "http://www.songkick.com/artists/8542674-wet?utm_source=32233&utm_medium=partner", 
+                    "id": 8542674
+                }, 
+                "displayName": "Wet", 
+                "id": 52848269, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "60a82913-adc7-4e59-b2a9-ce4ba475c9f9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:60a82913-adc7-4e59-b2a9-ce4ba475c9f9.json"
+                        }
+                    ], 
+                    "displayName": "Demo Taped", 
+                    "uri": "http://www.songkick.com/artists/8660154-demo-taped?utm_source=32233&utm_medium=partner", 
+                    "id": 8660154
+                }, 
+                "displayName": "Demo Taped", 
+                "id": 53353579, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27089684
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Wet", 
+        "tags": [], 
+        "gender": null, 
+        "twitter": "wet", 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/wet", 
+                    "id": "6ce0ee74-d505-43ea-b291-0fed5e13c979"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/wet", 
+                    "id": "61daebac-9571-4cbd-9c47-9f991aa376b8"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/wet", 
+                    "id": "fdd93395-32aa-450f-9b13-e0e963e9f3af"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "disambiguation": "Brooklyn 3-piece", 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "f632986c-1c36-477c-bafb-ec36459cff52", 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Wet", 
+        "ipis": [], 
+        "type": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 27089684, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

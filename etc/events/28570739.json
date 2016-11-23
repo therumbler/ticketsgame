@@ -1,0 +1,143 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Willie Nelson with Runaway June at Granada Theater (January 4, 2017)", 
+        "popularity": 0.109137, 
+        "venue": {
+            "displayName": "Granada Theater", 
+            "uri": "http://www.songkick.com/venues/11334-granada-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 32.8308876, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.7700051, 
+            "id": 11334
+        }, 
+        "uri": "http://www.songkick.com/concerts/28570739-willie-nelson-at-granada-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-04", 
+            "time": "20:00:00", 
+            "datetime": "2017-01-04T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.8308876, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.7700051
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Willie Nelson", 
+                "id": 55504849, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "45716fc0-8e06-4143-a47b-327a7906ffb4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:45716fc0-8e06-4143-a47b-327a7906ffb4.json"
+                        }, 
+                        {
+                            "mbid": "668fd73c-bf54-4310-a139-305517f05311", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:668fd73c-bf54-4310-a139-305517f05311.json"
+                        }
+                    ], 
+                    "displayName": "Willie Nelson", 
+                    "uri": "http://www.songkick.com/artists/143930-willie-nelson?utm_source=32233&utm_medium=partner", 
+                    "id": 143930
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Runaway June", 
+                "id": 55504854, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6edbfdce-57ec-4181-bdbd-ace81b52b694", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6edbfdce-57ec-4181-bdbd-ace81b52b694.json"
+                        }
+                    ], 
+                    "displayName": "Runaway June", 
+                    "uri": "http://www.songkick.com/artists/8770469-runaway-june?utm_source=32233&utm_medium=partner", 
+                    "id": 8770469
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28570739
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Waylon Jennings & Willie Nelson", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/914949", 
+                    "id": "d6681d9f-5eff-49df-ac48-6b02fae89d56"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "Jennings, Waylon & Nelson, Willie", 
+        "country": "US", 
+        "type": "Group", 
+        "id": "45716fc0-8e06-4143-a47b-327a7906ffb4", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 3198, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Location"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Sold Out", 
+        "price_max": 125.0, 
+        "price_min": 125.0
+    }, 
+    "modified_time": 1479442197.0, 
+    "created_time": 1479305645.0, 
+    "modified_minutes": 922, 
+    "id": 28570739
+}

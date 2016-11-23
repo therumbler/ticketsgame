@@ -1,0 +1,162 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mike Evin at Hotel Cafe (November 18, 2016)", 
+        "popularity": 4.9e-05, 
+        "venue": {
+            "displayName": "Hotel Cafe", 
+            "uri": "http://www.songkick.com/venues/90-hotel-cafe?utm_source=32233&utm_medium=partner", 
+            "lat": 34.1004371, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.329829, 
+            "id": 90
+        }, 
+        "uri": "http://www.songkick.com/concerts/28072054-mike-evin-at-hotel-cafe?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 34.1004371, 
+            "city": "Hollywood, CA, US", 
+            "lng": -118.329829
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "dc41a9eb-e477-4f2b-8319-a4392ea70114", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:dc41a9eb-e477-4f2b-8319-a4392ea70114.json"
+                        }
+                    ], 
+                    "displayName": "Mike Evin", 
+                    "uri": "http://www.songkick.com/artists/79676-mike-evin?utm_source=32233&utm_medium=partner", 
+                    "id": 79676
+                }, 
+                "displayName": "Mike Evin", 
+                "id": 54640364, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28072054
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Mike Evin", 
+        "sort-name": "Evin, Mike", 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Montreal", 
+            "disambiguation": "", 
+            "id": "c3cc624e-b963-49cf-ad0b-e318cb341963", 
+            "name": "Montreal"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2760376", 
+                    "id": "c9bc510a-de8b-4c6e-b08a-813940825b56"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.mikeevin.com/", 
+                    "id": "fba99bd9-72b6-4543-891d-04f5e3443014"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q6846723", 
+                    "id": "68e382bf-cb49-4cb9-87fd-f16d4fed8eb6"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Mike_Evin", 
+                    "id": "f2057f4a-ed3b-4a17-8546-dc05d0e25b07"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "disambiguation": "", 
+        "type": "Person", 
+        "id": "dc41a9eb-e477-4f2b-8319-a4392ea70114", 
+        "tags": []
+    }, 
+    "id": 28072054, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

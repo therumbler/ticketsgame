@@ -1,0 +1,256 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "18+", 
+        "displayName": "Jarren Benton with Nate Rose at Tempt (December 2, 2016)", 
+        "popularity": 0.005832, 
+        "venue": {
+            "displayName": "Tempt", 
+            "uri": "http://www.songkick.com/venues/2506334-tempt?utm_source=32233&utm_medium=partner", 
+            "lat": 35.8460362, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.3932005, 
+            "id": 2506334
+        }, 
+        "uri": "http://www.songkick.com/concerts/28023579-jarren-benton-at-tempt?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-02T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 35.8460362, 
+            "city": "Murfreesboro, TN, US", 
+            "lng": -86.3932005
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c81fea7f-4900-4047-8532-ed4a33301db2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c81fea7f-4900-4047-8532-ed4a33301db2.json"
+                        }
+                    ], 
+                    "displayName": "Jarren Benton", 
+                    "uri": "http://www.songkick.com/artists/3957461-jarren-benton?utm_source=32233&utm_medium=partner", 
+                    "id": 3957461
+                }, 
+                "displayName": "Jarren Benton", 
+                "id": 54553789, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Nate Rose", 
+                    "uri": "http://www.songkick.com/artists/8885054-nate-rose?utm_source=32233&utm_medium=partner", 
+                    "id": 8885054
+                }, 
+                "displayName": "Nate Rose", 
+                "id": 54553794, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28023579
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Jarren Benton", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "twitter": "JarrenBenton", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "hip hop"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002812644", 
+                    "id": "9d5d5bf6-ba8b-4a37-ada3-bfce715e0c12"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2667273", 
+                    "id": "5f3d08d9-cd86-420e-a022-af3c44d29850"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Jarren%20Benton", 
+                    "id": "e9b0ceba-0f49-4061-ba65-1081fb3c7181"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/jarren-benton-lyrics", 
+                    "id": "7af112e7-8242-40b4-b202-74e789ba9440"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/jarren_benton", 
+                    "id": "0c195e0d-a0f3-4636-80ac-554e380897b7"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/JarrenBenton", 
+                    "id": "3233cb56-086a-41ec-8864-170e85c8a1b7"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/JarrenBenton", 
+                    "id": "c0b3934b-02bd-4fae-87c4-192beb05a7d2"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Jarren_Benton", 
+                    "id": "6f6cf8f8-9591-40c2-b5b9-6d81c753d67a"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Decatur", 
+            "disambiguation": "", 
+            "name": "Decatur", 
+            "id": "3cbdf21f-51b0-45ac-bc10-532204606b5b"
+        }, 
+        "sort-name": "Benton, Jarren", 
+        "gender": "Male", 
+        "id": "c81fea7f-4900-4047-8532-ed4a33301db2", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1981-10-26", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28023579, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

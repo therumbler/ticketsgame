@@ -1,0 +1,132 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.00138, 
+        "displayName": "NE-HI and American Wrestlers at High Watt (January 10, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "High Watt", 
+            "uri": "http://www.songkick.com/venues/1639583-high-watt?utm_source=32233&utm_medium=partner", 
+            "lat": 36.153531, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.7804584, 
+            "id": 1639583
+        }, 
+        "uri": "http://www.songkick.com/concerts/28296574-nehi-at-high-watt?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-10", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 36.153531, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.7804584
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "NE-HI", 
+                "id": 55029604, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3bc9455c-da1f-4d31-9e42-65221416cccf", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3bc9455c-da1f-4d31-9e42-65221416cccf.json"
+                        }
+                    ], 
+                    "displayName": "NE-HI", 
+                    "uri": "http://www.songkick.com/artists/7937998-nehi?utm_source=32233&utm_medium=partner", 
+                    "id": 7937998
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "American Wrestlers", 
+                "id": 55029609, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "097bfec9-712a-4d8c-a660-61fbdc8ffbd8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:097bfec9-712a-4d8c-a660-61fbdc8ffbd8.json"
+                        }
+                    ], 
+                    "displayName": "American Wrestlers", 
+                    "uri": "http://www.songkick.com/artists/8363078-american-wrestlers?utm_source=32233&utm_medium=partner", 
+                    "id": 8363078
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28296574
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "NE-HI", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2013", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://ne-hi.bandcamp.com/", 
+                    "id": "d86bd3e9-c8a3-47f6-af76-1bea478474ac"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Chicago", 
+            "disambiguation": "", 
+            "id": "29a709d8-0320-493e-8d0c-f2c386662b7f", 
+            "name": "Chicago"
+        }, 
+        "sort-name": "NE-HI", 
+        "country": null, 
+        "type": "Group", 
+        "id": "3bc9455c-da1f-4d31-9e42-65221416cccf", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6957565&REFERRAL_ID=tmfeed"
+    }, 
+    "modified_time": 1479442898.0, 
+    "created_minutes": 18202, 
+    "created_time": 1478566042.0, 
+    "modified_minutes": 3588, 
+    "id": 28296574
+}

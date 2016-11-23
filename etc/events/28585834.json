@@ -1,0 +1,116 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mallett Brothers Band at Hank's Saloon (November 17, 2016)", 
+        "popularity": 0.000217, 
+        "venue": {
+            "displayName": "Hank's Saloon", 
+            "uri": "http://www.songkick.com/venues/120685-hanks-saloon?utm_source=32233&utm_medium=partner", 
+            "lat": 40.6852443, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9809715, 
+            "id": 120685
+        }, 
+        "uri": "http://www.songkick.com/concerts/28585834-mallett-brothers-band-at-hanks-saloon?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "08:30:00", 
+            "datetime": "2016-11-17T08:30:00-0500"
+        }, 
+        "location": {
+            "lat": 40.6852443, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9809715
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Mallett Brothers Band", 
+                "id": 55531069, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8765fb93-546b-460e-abc3-161bab86c341", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8765fb93-546b-460e-abc3-161bab86c341.json"
+                        }
+                    ], 
+                    "displayName": "Mallett Brothers Band", 
+                    "uri": "http://www.songkick.com/artists/3728191-mallett-brothers-band?utm_source=32233&utm_medium=partner", 
+                    "id": 3728191
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28585834
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "gender": null, 
+        "name": "The Mallett Brothers Band", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "sort-name": "Mallett Brothers Band, The", 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.mallettbrothersband.com/", 
+                    "id": "ee035a32-c9af-4948-abd3-3ae7a2220c9b"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": null, 
+        "isnis": [], 
+        "type": "Group", 
+        "id": "8765fb93-546b-460e-abc3-161bab86c341", 
+        "tags": []
+    }, 
+    "id": 28585834, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

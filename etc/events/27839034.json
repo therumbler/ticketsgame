@@ -1,0 +1,365 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.009877, 
+        "displayName": "The Besnard Lakes with Nightjacket and Brass Box at The Echo (December 2, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Echo", 
+            "uri": "http://www.songkick.com/venues/150303-echo?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0793291, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2691009, 
+            "id": 150303
+        }, 
+        "uri": "http://www.songkick.com/concerts/27839034-besnard-lakes-at-echo?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "datetime": "2016-12-02T20:30:00-0800", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 34.0793291, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2691009
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "520c81bd-e7b4-45c1-bd8f-976eba5b39e1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:520c81bd-e7b4-45c1-bd8f-976eba5b39e1.json"
+                        }
+                    ], 
+                    "displayName": "The Besnard Lakes", 
+                    "uri": "http://www.songkick.com/artists/257647-besnard-lakes?utm_source=32233&utm_medium=partner", 
+                    "id": 257647
+                }, 
+                "displayName": "The Besnard Lakes", 
+                "id": 54221939, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Nightjacket", 
+                    "uri": "http://www.songkick.com/artists/8526029-nightjacket?utm_source=32233&utm_medium=partner", 
+                    "id": 8526029
+                }, 
+                "displayName": "Nightjacket", 
+                "id": 55440204, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Brass Box", 
+                    "uri": "http://www.songkick.com/artists/8772434-brass-box?utm_source=32233&utm_medium=partner", 
+                    "id": 8772434
+                }, 
+                "displayName": "Brass Box", 
+                "id": 55440209, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27839034
+    }, 
+    "musicbrainz_response": {
+        "name": "The Besnard Lakes", 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+            "name": "Canada"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2003", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "canada"
+            }, 
+            {
+                "count": 1, 
+                "name": "canadian"
+            }, 
+            {
+                "count": 1, 
+                "name": "canadien"
+            }, 
+            {
+                "count": 1, 
+                "name": "post-rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "quebec"
+            }, 
+            {
+                "count": 1, 
+                "name": "qu\u00e9bec"
+            }, 
+            {
+                "count": 1, 
+                "name": "qu\u00e9b\u00e9cois"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000938745", 
+                    "id": "31d43ede-170e-4991-bfc3-dc82072824c5"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/321301", 
+                    "id": "d79caa09-453b-4d84-b820-688db9b9c9c1"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/thebesnardlakes", 
+                    "id": "3b8f248b-52b1-4a03-9992-36d896fbd006"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.thebesnardlakes.com/", 
+                    "id": "2963a3d3-be09-4708-9a78-ac7ee36420fe"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/the_besnard_lakes", 
+                    "id": "5114f7ff-8ffd-4101-9523-cab6766264aa"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/besnardlakes", 
+                    "id": "42fbdac9-168f-4ac0-9a72-1438008cdd65"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/thebesnardlakes", 
+                    "id": "a32a79f9-91ba-415d-a504-2cd5b2b7adad"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q664536", 
+                    "id": "39be7dff-ffae-482b-8b9a-f651b1de9567"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Besnard_Lakes", 
+                    "id": "b33c3b1b-21f9-44f4-805e-69202433278b"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/besnardlakes", 
+                    "id": "0d2b15e1-ccca-4823-90ee-dead69088f9b"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Montreal", 
+            "disambiguation": "", 
+            "id": "c3cc624e-b963-49cf-ad0b-e318cb341963", 
+            "name": "Montreal"
+        }, 
+        "id": "520c81bd-e7b4-45c1-bd8f-976eba5b39e1", 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "Besnard Lakes, The", 
+        "country": "CA", 
+        "type": "Group", 
+        "twitter": "besnardlakes", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 3138, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "The Besnard Lakes @ The Echo in Los Angeles, CA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Los Angeles", 
+            "name": "The Echo", 
+            "country": "United States", 
+            "region": "CA", 
+            "longitude": -118.259655, 
+            "place": "The Echo", 
+            "latitude": 34.077745
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12718561?app_id=ticketgame&artist=The+Besnard+Lakes&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12718561/buy_tickets?app_id=ticketgame&artist=The+Besnard+Lakes&came_from=67", 
+        "on_sale_datetime": "2016-08-18T12:00:00", 
+        "formatted_datetime": "Friday, December 2, 2016 at 7:00PM", 
+        "datetime": "2016-12-02T19:00:00", 
+        "formatted_location": "Los Angeles, CA", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1255937/tfly%3Futm_medium%3Dapi&afftrack=67%7E15937952%7E23268553%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.thebesnardlakes.com", 
+                "facebook_page_url": "https://www.facebook.com/thebesnardlakes", 
+                "name": "The Besnard Lakes", 
+                "url": "TheBesnardLakes", 
+                "tracker_count": 14617, 
+                "mbid": "520c81bd-e7b4-45c1-bd8f-976eba5b39e1", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6348693.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheBesnardLakes/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6348693.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12718561
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 13.0, 
+        "price_min": 11.5
+    }, 
+    "modified_time": 1479442168.0, 
+    "created_time": 1479305680.0, 
+    "modified_minutes": 863, 
+    "id": 27839034
+}

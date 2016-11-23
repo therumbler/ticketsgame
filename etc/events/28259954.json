@@ -1,0 +1,220 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.006971, 
+        "displayName": "James Zabiela and R\u00f3senberg at Flash (December 1, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Flash", 
+            "uri": "http://www.songkick.com/venues/2382729-flash?utm_source=32233&utm_medium=partner", 
+            "lat": 38.916281, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.021369, 
+            "id": 2382729
+        }, 
+        "uri": "http://www.songkick.com/concerts/28259954-james-zabiela-at-flash?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-01", 
+            "datetime": "2016-12-01T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 38.916281, 
+            "city": "Washington, DC, US", 
+            "lng": -77.021369
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "James Zabiela", 
+                "id": 54964929, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e94c0b11-6ae8-4332-826c-938127d45051", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e94c0b11-6ae8-4332-826c-938127d45051.json"
+                        }
+                    ], 
+                    "displayName": "James Zabiela", 
+                    "uri": "http://www.songkick.com/artists/56281-james-zabiela?utm_source=32233&utm_medium=partner", 
+                    "id": 56281
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "R\u00f3senberg", 
+                "id": 54982994, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c6ca578d-7836-46a7-8089-0296402e9607", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c6ca578d-7836-46a7-8089-0296402e9607.json"
+                        }
+                    ], 
+                    "displayName": "R\u00f3senberg", 
+                    "uri": "http://www.songkick.com/artists/681564-rosenberg?utm_source=32233&utm_medium=partner", 
+                    "id": 681564
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28259954
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "James Zabiela", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "country": "GB", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1979-08-07", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/35106", 
+                    "id": "b91d05c1-7408-4196-a55d-e61f0a2a89ae"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.jameszabiela.com/", 
+                    "id": "291eb941-d95f-4a23-be97-db0040aed943"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q713406", 
+                    "id": "a1fbb8f9-b7a8-4390-8094-c41e691299b2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/James_Zabiela", 
+                    "id": "30011f60-c9fe-4de9-874e-d40ec5f1c599"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Zabiela, James", 
+        "type": "Person", 
+        "id": "e94c0b11-6ae8-4332-826c-938127d45051", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15493, 
+    "bandsintown_response": {
+        "description": "James Zabiela w/ Rosenberg", 
+        "title": "James Zabiela @ Flash in Washington, DC", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Washington", 
+            "name": "Flash", 
+            "country": "United States", 
+            "region": "DC", 
+            "longitude": -77.021445, 
+            "place": "Flash", 
+            "latitude": 38.916212
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13068788?app_id=ticketgame&artist=James+Zabiela&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13068788/buy_tickets?app_id=ticketgame&artist=James+Zabiela&came_from=67", 
+        "on_sale_datetime": "2016-10-12T12:00:00", 
+        "formatted_datetime": "Thursday, December 1, 2016 at 8:00PM", 
+        "datetime": "2016-12-01T20:00:00", 
+        "formatted_location": "Washington, DC", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1343753/tfly%3Futm_medium%3Dapi&afftrack=67%7E16415795%7E24000686%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.jameszabiela.com", 
+                "facebook_page_url": "http://www.facebook.com/pages/James%20Zabiela/5587108598", 
+                "name": "James Zabiela", 
+                "url": "JamesZabiela", 
+                "tracker_count": 46065, 
+                "mbid": "e94c0b11-6ae8-4332-826c-938127d45051", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6597870.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/JamesZabiela/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6597870.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13068788
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 5.0
+    }, 
+    "modified_time": 1479442842.0, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 881, 
+    "id": 28259954
+}

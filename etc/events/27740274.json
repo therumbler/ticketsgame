@@ -1,0 +1,133 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 3.6e-05, 
+        "displayName": "Blue Roots at Washington House Restaurant (December 20, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Washington House Restaurant", 
+            "uri": "http://www.songkick.com/venues/1064451-washington-house-restaurant?utm_source=32233&utm_medium=partner", 
+            "lat": 40.359577, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.311016, 
+            "id": 1064451
+        }, 
+        "uri": "http://www.songkick.com/concerts/27740274-blue-roots-at-washington-house-restaurant?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-20", 
+            "datetime": "2016-12-20T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 40.359577, 
+            "city": "Sellersville, PA, US", 
+            "lng": -75.311016
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Blue Roots", 
+                "id": 54039259, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c904b598-5f82-4097-a99f-ebad3737ecdf", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c904b598-5f82-4097-a99f-ebad3737ecdf.json"
+                        }
+                    ], 
+                    "displayName": "Blue Roots", 
+                    "uri": "http://www.songkick.com/artists/579961-blue-roots?utm_source=32233&utm_medium=partner", 
+                    "id": 579961
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27740274
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "The Blue Roots", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "isnis": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1281237", 
+                    "id": "3b538992-c855-41fe-9710-3220a355a289"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/The%20Blue%20Roots", 
+                    "id": "1fb6238d-3bc1-4437-ba65-5890c01a9204"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Blue Roots, The", 
+        "gender": null, 
+        "id": "c904b598-5f82-4097-a99f-ebad3737ecdf", 
+        "type": "Group", 
+        "disambiguation": "US ska band", 
+        "gender-id": null
+    }, 
+    "id": 27740274, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

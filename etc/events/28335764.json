@@ -1,0 +1,103 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Twin Wild at The Camden Assembly (November 14, 2016)", 
+        "popularity": 0.000249, 
+        "venue": {
+            "displayName": "The Camden Assembly", 
+            "uri": "http://www.songkick.com/venues/7786-camden-assembly?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5430981, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1492105, 
+            "id": 7786
+        }, 
+        "uri": "http://www.songkick.com/concerts/28335764-twin-wild-at-camden-assembly?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-14", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.5430981, 
+            "city": "Camden, UK", 
+            "lng": -0.1492105
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cf47b260-9ead-45dd-b64a-df2bcd364dde", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cf47b260-9ead-45dd-b64a-df2bcd364dde.json"
+                        }
+                    ], 
+                    "displayName": "Twin Wild", 
+                    "uri": "http://www.songkick.com/artists/8177338-twin-wild?utm_source=32233&utm_medium=partner", 
+                    "id": 8177338
+                }, 
+                "displayName": "Twin Wild", 
+                "id": 55098899, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28335764
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Twin Wild", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/twinwild", 
+                    "id": "0764fd48-ba97-4df1-b777-a1c5f97c6504"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Twin Wild", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "type": "Group", 
+        "id": "cf47b260-9ead-45dd-b64a-df2bcd364dde", 
+        "disambiguation": ""
+    }, 
+    "id": 28335764, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

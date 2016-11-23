@@ -1,0 +1,289 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.303954, 
+        "displayName": "Misterwives, Saint Motel, and Panic! At the Disco at Pepsi Center (March 17, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Pepsi Center", 
+            "uri": "http://www.songkick.com/venues/497-pepsi-center?utm_source=32233&utm_medium=partner", 
+            "lat": 39.745565, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -105.010476, 
+            "id": 497
+        }, 
+        "uri": "http://www.songkick.com/concerts/28160679-misterwives-at-pepsi-center?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-03-17", 
+            "datetime": "2017-03-17T19:00:00-0600", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 39.745565, 
+            "city": "Denver, CO, US", 
+            "lng": -105.010476
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Misterwives", 
+                "id": 54794604, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5b6bac92-9b60-4e96-ac13-935bb6941b96", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5b6bac92-9b60-4e96-ac13-935bb6941b96.json"
+                        }
+                    ], 
+                    "displayName": "Misterwives", 
+                    "uri": "http://www.songkick.com/artists/6325384-misterwives?utm_source=32233&utm_medium=partner", 
+                    "id": 6325384
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Saint Motel", 
+                "id": 54794609, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5c2593bc-1621-4c4d-821b-b7bb6ff213b5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5c2593bc-1621-4c4d-821b-b7bb6ff213b5.json"
+                        }
+                    ], 
+                    "displayName": "Saint Motel", 
+                    "uri": "http://www.songkick.com/artists/609071-saint-motel?utm_source=32233&utm_medium=partner", 
+                    "id": 609071
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Panic! At the Disco", 
+                "id": 54831124, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b9472588-93f3-4922-a1a2-74082cdf9ce8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b9472588-93f3-4922-a1a2-74082cdf9ce8.json"
+                        }
+                    ], 
+                    "displayName": "Panic! At the Disco", 
+                    "uri": "http://www.songkick.com/artists/139037-panic-at-the-disco?utm_source=32233&utm_medium=partner", 
+                    "id": 139037
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28160679
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "gender": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "MisterWives", 
+        "area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "name": "New York", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f"
+        }, 
+        "country": null, 
+        "twitter": "MisterWives", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003206766", 
+                    "id": "58da1289-d275-4e0f-bd0d-1cea88e254ed"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3619653", 
+                    "id": "093b8f45-a5d6-4902-9a44-2136133cc832"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.misterwives.com/", 
+                    "id": "bc1ec5f0-971f-4ab3-8d9d-dedd31098871"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/MisterWives", 
+                    "id": "604c1dc8-b9b5-482e-8b99-737a4ab52bb7"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/MisterWives", 
+                    "id": "c9e41d39-5122-432c-9aa8-85685f5b7e4e"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/MisterWives", 
+                    "id": "cce78326-42c3-44fc-9779-5f27ded8f651"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z", 
+                    "id": "38912856-633b-4c92-9712-9e546a592d4a"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q18608997", 
+                    "id": "12e32d0e-ead2-40e8-b6cf-af6bf528e31c"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/MisterWives", 
+                    "id": "2a39534f-36cf-4840-b8c5-354b682aee93"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "MisterWives", 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f", 
+            "name": "New York"
+        }, 
+        "gender-id": null, 
+        "isnis": [], 
+        "id": "5b6bac92-9b60-4e96-ac13-935bb6941b96", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2012", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28160679, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

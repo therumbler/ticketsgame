@@ -1,0 +1,89 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Elvis In Concert with Royal Philharmonic Orchestra and Priscilla Presley at The O2 Arena (November 23, 2016)", 
+        "popularity": 0.027623, 
+        "venue": {
+            "displayName": "The O2 Arena", 
+            "uri": "http://www.songkick.com/venues/17532-o2-arena?utm_source=32233&utm_medium=partner", 
+            "lat": 51.4966493, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": 0.0057948, 
+            "id": 17532
+        }, 
+        "uri": "http://www.songkick.com/concerts/26488044-elvis-in-concert-at-o2-arena?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-23", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.4966493, 
+            "city": "Greenwich, UK", 
+            "lng": 0.0057948
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Elvis In Concert", 
+                    "uri": "http://www.songkick.com/artists/8745079-elvis-in-concert?utm_source=32233&utm_medium=partner", 
+                    "id": 8745079
+                }, 
+                "displayName": "Elvis In Concert", 
+                "id": 51724554, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "299597ae-3a20-4bf1-973e-03704af69f6b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:299597ae-3a20-4bf1-973e-03704af69f6b.json"
+                        }
+                    ], 
+                    "displayName": "Royal Philharmonic Orchestra", 
+                    "uri": "http://www.songkick.com/artists/170809-royal-philharmonic-orchestra?utm_source=32233&utm_medium=partner", 
+                    "id": 170809
+                }, 
+                "displayName": "Royal Philharmonic Orchestra", 
+                "id": 51724559, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Priscilla Presley", 
+                    "uri": "http://www.songkick.com/artists/8868964-priscilla-presley?utm_source=32233&utm_medium=partner", 
+                    "id": 8868964
+                }, 
+                "displayName": "Priscilla Presley", 
+                "id": 54227824, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26488044
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479515596.0, 
+    "created_minutes": 12385, 
+    "created_time": 1478911664.0, 
+    "modified_minutes": 2320, 
+    "id": 26488044
+}

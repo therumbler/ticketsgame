@@ -1,0 +1,124 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Spencer Moody with MASZER at Chop Suey (December 9, 2016)", 
+        "popularity": 2.2e-05, 
+        "venue": {
+            "displayName": "Chop Suey", 
+            "uri": "http://www.songkick.com/venues/208-chop-suey?utm_source=32233&utm_medium=partner", 
+            "lat": 47.613646, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3144509, 
+            "id": 208
+        }, 
+        "uri": "http://www.songkick.com/concerts/28417489-spencer-moody-at-chop-suey?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-09", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-09T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.613646, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3144509
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "eff5e802-42e5-46a3-be6c-ca650bb06f45", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:eff5e802-42e5-46a3-be6c-ca650bb06f45.json"
+                        }
+                    ], 
+                    "displayName": "Spencer Moody", 
+                    "uri": "http://www.songkick.com/artists/2381199-spencer-moody?utm_source=32233&utm_medium=partner", 
+                    "id": 2381199
+                }, 
+                "displayName": "Spencer Moody", 
+                "id": 55241934, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "MASZER", 
+                    "uri": "http://www.songkick.com/artists/8528409-maszer?utm_source=32233&utm_medium=partner", 
+                    "id": 8528409
+                }, 
+                "displayName": "MASZER", 
+                "id": 55241939, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28417489
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Spencer Moody", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/264835", 
+                    "id": "e53a7301-ad5c-42c3-9f33-8339248fc7ce"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Moody, Spencer", 
+        "gender": null, 
+        "id": "eff5e802-42e5-46a3-be6c-ca650bb06f45", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "age_minutes": 15509, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442573.0, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 901, 
+    "id": 28417489
+}

@@ -1,0 +1,145 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001061, 
+        "displayName": "The Fab Four at City National Grove of Anaheim (November 25, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "City National Grove of Anaheim", 
+            "uri": "http://www.songkick.com/venues/38136-city-national-grove-of-anaheim?utm_source=32233&utm_medium=partner", 
+            "lat": 33.803124, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -117.88594, 
+            "id": 38136
+        }, 
+        "uri": "http://www.songkick.com/concerts/27785729-fab-four-at-city-national-grove-of-anaheim?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "datetime": "2016-11-25T18:00:00-0800", 
+            "time": "18:00:00"
+        }, 
+        "location": {
+            "lat": 33.803124, 
+            "city": "Anaheim, CA, US", 
+            "lng": -117.88594
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "The Fab Four", 
+                "id": 54123729, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a7dc0f1f-548e-4d95-8291-c12657bbe42d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a7dc0f1f-548e-4d95-8291-c12657bbe42d.json"
+                        }, 
+                        {
+                            "mbid": "5f4ccffa-ba00-4656-9a0e-8a717e3d17a6", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5f4ccffa-ba00-4656-9a0e-8a717e3d17a6.json"
+                        }
+                    ], 
+                    "displayName": "The Fab Four", 
+                    "uri": "http://www.songkick.com/artists/335220-fab-four?utm_source=32233&utm_medium=partner", 
+                    "id": 335220
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27785729
+    }, 
+    "musicbrainz_response": {
+        "gender": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Fab Four", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "rock and roll"
+            }, 
+            {
+                "count": 1, 
+                "name": "the beatles"
+            }
+        ], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q7732974", 
+                    "id": "7f509f5f-0559-4ba6-bc1c-111718738bf2"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Fab_Four_(tribute)", 
+                    "id": "dd992990-2407-4f67-af81-de7409fdebd2"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Fab Four, The", 
+        "isnis": [], 
+        "id": "a7dc0f1f-548e-4d95-8291-c12657bbe42d", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "ticket_redirect_url": "http://www.axs.com/events/310976/the-fab-four-the-ultimate-tribute-tickets?aff=usaffsongkick", 
+        "price_min": false
+    }, 
+    "modified_time": 1479442102.0, 
+    "created_minutes": 12396, 
+    "created_time": 1478911673.0, 
+    "modified_minutes": 3556, 
+    "id": 27785729
+}

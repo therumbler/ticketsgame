@@ -1,0 +1,130 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Melanie Taylor, The Audiots, and The World Over at Silverlake Lounge (November 10, 2016)", 
+        "popularity": 2.1e-05, 
+        "venue": {
+            "displayName": "Silverlake Lounge", 
+            "uri": "http://www.songkick.com/venues/31251-silverlake-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 34.082593, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.272843, 
+            "id": 31251
+        }, 
+        "uri": "http://www.songkick.com/concerts/28355494-melanie-taylor-at-silverlake-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-10T19:00:00-0800"
+        }, 
+        "location": {
+            "lat": 34.082593, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.272843
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5afdf700-3680-4098-81dd-63d11f62cc37", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5afdf700-3680-4098-81dd-63d11f62cc37.json"
+                        }
+                    ], 
+                    "displayName": "Melanie Taylor", 
+                    "uri": "http://www.songkick.com/artists/2054822-melanie-taylor?utm_source=32233&utm_medium=partner", 
+                    "id": 2054822
+                }, 
+                "displayName": "Melanie Taylor", 
+                "id": 55134074, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Audiots", 
+                    "uri": "http://www.songkick.com/artists/8404643-audiots?utm_source=32233&utm_medium=partner", 
+                    "id": 8404643
+                }, 
+                "displayName": "The Audiots", 
+                "id": 55239709, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The World Over", 
+                    "uri": "http://www.songkick.com/artists/8669114-world-over?utm_source=32233&utm_medium=partner", 
+                    "id": 8669114
+                }, 
+                "displayName": "The World Over", 
+                "id": 55239714, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28355494
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Melanie Taylor", 
+        "sort-name": "Taylor, Melanie", 
+        "gender": "Female", 
+        "disambiguation": "\u201cMelanie Taylor (2)\u201d on Discogs", 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/605494", 
+                    "id": "0e48ae28-60aa-450d-912d-a1f6d8407faf"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "country": null, 
+        "id": "5afdf700-3680-4098-81dd-63d11f62cc37", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": []
+    }, 
+    "id": 28355494, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

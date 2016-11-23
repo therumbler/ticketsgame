@@ -1,0 +1,143 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Malachi at The Vera Project (November 10, 2016)", 
+        "popularity": 0.000253, 
+        "venue": {
+            "displayName": "The Vera Project", 
+            "uri": "http://www.songkick.com/venues/403-vera-project?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6232691, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3540882, 
+            "id": 403
+        }, 
+        "uri": "http://www.songkick.com/concerts/28033514-malachi-at-vera-project?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-10T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6232691, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3540882
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ad18bd60-efb9-4645-b2b9-743905605e96", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ad18bd60-efb9-4645-b2b9-743905605e96.json"
+                        }, 
+                        {
+                            "mbid": "b690791c-5226-4d2d-99c2-10a5cec381da", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b690791c-5226-4d2d-99c2-10a5cec381da.json"
+                        }, 
+                        {
+                            "mbid": "d5a3f51a-cbc1-4579-8144-18de52364331", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d5a3f51a-cbc1-4579-8144-18de52364331.json"
+                        }, 
+                        {
+                            "mbid": "4f403e0a-d376-4d27-8387-e61cd27c8005", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4f403e0a-d376-4d27-8387-e61cd27c8005.json"
+                        }
+                    ], 
+                    "displayName": "Malachi", 
+                    "uri": "http://www.songkick.com/artists/551065-malachi?utm_source=32233&utm_medium=partner", 
+                    "id": 551065
+                }, 
+                "displayName": "Malachi", 
+                "id": 54572734, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28033514
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Malachi", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+            "name": "Canada"
+        }, 
+        "country": "CA", 
+        "disambiguation": "Canadian techno producer Paul Heath", 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/109635", 
+                    "id": "1ace1ef0-c7e5-42d2-9dca-35b0416c2eb5"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/18156", 
+                    "id": "72dc8062-47bb-4f44-9bc4-a1835798cc29"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Malachi", 
+        "gender": null, 
+        "type": "Person", 
+        "id": "ad18bd60-efb9-4645-b2b9-743905605e96", 
+        "gender-id": null
+    }, 
+    "id": 28033514, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

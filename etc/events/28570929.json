@@ -1,0 +1,153 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Big Thief with Sam Evian at High Watt (January 14, 2017)", 
+        "popularity": 0.001305, 
+        "venue": {
+            "displayName": "High Watt", 
+            "uri": "http://www.songkick.com/venues/1639583-high-watt?utm_source=32233&utm_medium=partner", 
+            "lat": 36.153531, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.7804584, 
+            "id": 1639583
+        }, 
+        "uri": "http://www.songkick.com/concerts/28570929-big-thief-at-high-watt?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-14", 
+            "time": "21:00:00", 
+            "datetime": "2017-01-14T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.153531, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.7804584
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Big Thief", 
+                "id": 55505159, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9f81247f-7f57-42f3-a8ba-75bef554e591", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9f81247f-7f57-42f3-a8ba-75bef554e591.json"
+                        }
+                    ], 
+                    "displayName": "Big Thief", 
+                    "uri": "http://www.songkick.com/artists/8434308-big-thief?utm_source=32233&utm_medium=partner", 
+                    "id": 8434308
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Sam Evian", 
+                "id": 55505164, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Sam Evian", 
+                    "uri": "http://www.songkick.com/artists/8916364-sam-evian?utm_source=32233&utm_medium=partner", 
+                    "id": 8916364
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28570929
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Big Thief", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Brooklyn", 
+            "disambiguation": "", 
+            "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c", 
+            "name": "Brooklyn"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bigthief.net/", 
+                    "id": "974acc0a-b5d5-463c-b7c5-8925c52acb7d"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/bigthiefmusic", 
+                    "id": "9c3839b9-b9e4-4443-8108-ae76626b7870"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Brooklyn", 
+            "disambiguation": "", 
+            "name": "Brooklyn", 
+            "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c"
+        }, 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "Big Thief", 
+        "country": null, 
+        "type": "Group", 
+        "id": "9f81247f-7f57-42f3-a8ba-75bef554e591", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 3197, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442196.0, 
+    "created_time": 1479305690.0, 
+    "modified_minutes": 922, 
+    "id": 28570929
+}

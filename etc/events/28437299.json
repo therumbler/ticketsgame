@@ -1,0 +1,112 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Episode 1 at PhilaMOCA (December 9, 2016)", 
+        "popularity": 1.3e-05, 
+        "venue": {
+            "displayName": "PhilaMOCA", 
+            "uri": "http://www.songkick.com/venues/1284981-philamoca?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9622464, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.157503, 
+            "id": 1284981
+        }, 
+        "uri": "http://www.songkick.com/concerts/28437299-episode-1-at-philamoca?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-09", 
+            "time": "19:30:00", 
+            "datetime": "2016-12-09T19:30:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9622464, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.157503
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b6a1b07c-6396-4ca3-a2d9-ccfb4a8365fc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b6a1b07c-6396-4ca3-a2d9-ccfb4a8365fc.json"
+                        }
+                    ], 
+                    "displayName": "Episode 1", 
+                    "uri": "http://www.songkick.com/artists/250856-episode-1?utm_source=32233&utm_medium=partner", 
+                    "id": 250856
+                }, 
+                "displayName": "Episode 1", 
+                "id": 55274289, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28437299
+    }, 
+    "musicbrainz_response": {
+        "name": "Episode 1", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/78959", 
+                    "id": "145121fe-ca3e-408e-bc5e-6ce704f5b132"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Episode 1", 
+        "type": null, 
+        "id": "b6a1b07c-6396-4ca3-a2d9-ccfb4a8365fc", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15511, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442517.0, 
+    "created_time": 1478566061.0, 
+    "modified_minutes": 903, 
+    "id": 28437299
+}

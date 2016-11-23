@@ -1,0 +1,158 @@
+{
+    "songkick_response": {
+        "status": "cancelled", 
+        "ageRestriction": null, 
+        "displayName": "Calum Scott at Fillmore Philadelphia (November 9, 2016) (CANCELLED) ", 
+        "popularity": 0.003393, 
+        "venue": {
+            "displayName": "Fillmore Philadelphia", 
+            "uri": "http://www.songkick.com/venues/3019369-fillmore-philadelphia?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9660887, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1366315, 
+            "id": 3019369
+        }, 
+        "uri": "http://www.songkick.com/concerts/27890409-calum-scott-at-fillmore-philadelphia?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "datetime": "2016-11-09T19:00:00-0500", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 39.9660887, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1366315
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "68fdc9cc-1094-48bb-942f-66492343e41c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:68fdc9cc-1094-48bb-942f-66492343e41c.json"
+                        }
+                    ], 
+                    "displayName": "Calum Scott", 
+                    "uri": "http://www.songkick.com/artists/8688479-calum-scott?utm_source=32233&utm_medium=partner", 
+                    "id": 8688479
+                }, 
+                "displayName": "Calum Scott", 
+                "id": 54316564, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27890409
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Calum Scott", 
+        "tags": [], 
+        "country": null, 
+        "twitter": "calumscottmusic", 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.calumscott.com/", 
+                    "id": "cba9622f-c310-4f6c-8ebd-ac6394c3eddf"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/calumscottmusic", 
+                    "id": "04b52150-9ca6-4d0f-a7c6-a178eb0c9288"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/calumscottmusic1", 
+                    "id": "dde16eb3-cf85-43df-85f5-fda5f582ac07"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/8688479-calum-scott", 
+                    "id": "a21dc6f5-8b00-494c-9881-c057a9f03b85"
+                }, 
+                "begin": null, 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Calum Scott", 
+        "gender": "Male", 
+        "id": "68fdc9cc-1094-48bb-942f-66492343e41c", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 27890409, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

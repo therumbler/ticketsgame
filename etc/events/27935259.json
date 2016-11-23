@@ -1,0 +1,546 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Twenty One Pilots with Bry at Alexandra Palace (November 11, 2016)", 
+        "popularity": 0.157831, 
+        "venue": {
+            "displayName": "Alexandra Palace", 
+            "uri": "http://www.songkick.com/venues/1787-alexandra-palace?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5907857, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1331833, 
+            "id": 1787
+        }, 
+        "uri": "http://www.songkick.com/concerts/27935259-twenty-one-pilots-at-alexandra-palace?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-11T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5907857, 
+            "city": "London, UK", 
+            "lng": -0.1331833
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a6c6897a-7415-4f8d-b5a5-3a5e05f3be67.json"
+                        }
+                    ], 
+                    "displayName": "Twenty One Pilots", 
+                    "uri": "http://www.songkick.com/artists/3123851-twenty-one-pilots?utm_source=32233&utm_medium=partner", 
+                    "id": 3123851
+                }, 
+                "displayName": "Twenty One Pilots", 
+                "id": 54399504, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Bry", 
+                    "uri": "http://www.songkick.com/artists/8605374-bry?utm_source=32233&utm_medium=partner", 
+                    "id": 8605374
+                }, 
+                "displayName": "Bry", 
+                "id": 54807934, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27935259
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "twenty one pilots", 
+        "sort-name": "twenty one pilots", 
+        "gender": null, 
+        "twitter": "twentyonepilots", 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/a6c6897a-7415-4f8d-b5a5-3a5e05f3be67", 
+                    "id": "7b0834ca-4583-4829-aa00-b0ba5bcfbc42"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm5809539/", 
+                    "id": "208112d2-7f27-4ba6-8f6b-446cfe870657"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/305047608", 
+                    "id": "904f66be-1dac-4f86-803e-33c5c2993637"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002398414", 
+                    "id": "52401025-a68b-4794-85b1-3ae52a6f7643"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://twentyonepilots.tumblr.com/", 
+                    "id": "0b387833-fbe7-41bb-a801-dfe1e2ac89a9"
+                }, 
+                "direction": "forward", 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3368195", 
+                    "id": "af0968b3-dd27-4fec-b5c4-51cc8e0f75cf"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Twentyone_Pilots_at_Press_conference_of_Soundbox_in_Bangkok.JPG", 
+                    "id": "12ffebbd-5a4b-405b-88ff-94bdf18a92c9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "1f171391-1f98-4f45-b191-038ec3b12395", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.reddit.com/r/Music/comments/33pdxr/headline_we_are_tyler_joseph_and_josh_dun_of/", 
+                    "id": "8692ec20-9e4f-4809-8610-eaac6727cc69"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "interview", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Twenty+One+Pilots", 
+                    "id": "34ed5895-1b0c-4ab8-a1b9-d97f9265fffb"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/twenty-one-pilots-lyrics", 
+                    "id": "e1bca688-c944-41b3-93b8-d04d8dad5cd7"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/Twenty_one_pilots", 
+                    "id": "8a5a9ac4-56a7-4d3b-ba38-37382241551b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/twentyonepilots", 
+                    "id": "e72d9283-8fa6-4270-aba9-f87f6a58cd4d"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.twentyonepilots.com/", 
+                    "id": "13ec4f52-5748-427d-856d-d7cf8fa6c4cd"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.reddit.com/r/twentyonepilots/", 
+                    "id": "553969b7-492c-4cc5-ab0b-e5689a80925a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "35b3a50f-bf0e-4309-a3b4-58eeed8cee6a", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "online community", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/twenty_one_pilots", 
+                    "id": "81674ed4-60bd-4b36-a581-ff63fde41c4c"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.whosampled.com/Twenty-One-Pilots/", 
+                    "id": "e2ca3ddd-74c3-45fa-84b4-6005e4a23e3e"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.purevolume.com/twentyonepilots", 
+                    "id": "bb63011c-de0b-4806-a2fa-cf3253f7d399"
+                }, 
+                "direction": "forward", 
+                "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purevolume", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/twentyonepilots", 
+                    "id": "71ebb092-211a-4b86-8a4d-67373352bd04"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/twentyonepilots", 
+                    "id": "f90cd6e0-b062-458c-b094-8a14e8165c22"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/twentyonepilots", 
+                    "id": "a274fab6-c0b0-4ae0-8954-8f49725f1dd9"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.pandora.com/20-1-pilots", 
+                    "id": "4a0343b1-2ada-4f76-9ad1-c6cc324f42f0"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx", 
+                    "id": "5c9752c2-a455-48f6-9e00-47f74cd4a23f"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q7857806", 
+                    "id": "eda9245b-6d99-4d7c-ac2c-9bc3bd8b9c58"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Twenty_One_Pilots", 
+                    "id": "de010c3a-e858-4a7d-b7e7-12e23bfbabcd"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/twentyonepilots", 
+                    "id": "21fb2d46-cdff-478f-a11f-fc3c886a7030"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": "2009", 
+            "end": null
+        }, 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Columbus", 
+            "disambiguation": "", 
+            "id": "18187bcb-18e6-4075-903e-fb976db17a55", 
+            "name": "Columbus"
+        }, 
+        "gender-id": null, 
+        "country": null, 
+        "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67", 
+        "ipis": [], 
+        "type": "Group", 
+        "disambiguation": "", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative rap"
+            }, 
+            {
+                "count": 2, 
+                "name": "alternative rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "electropop"
+            }, 
+            {
+                "count": 2, 
+                "name": "indie pop"
+            }
+        ]
+    }, 
+    "id": 27935259, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

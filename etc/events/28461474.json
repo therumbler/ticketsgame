@@ -1,0 +1,164 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "21+", 
+        "displayName": "Nekrofilth with Deathblow, Valiomierda, and piojos at Bar Bar (November 12, 2016)", 
+        "popularity": 6e-05, 
+        "venue": {
+            "displayName": "Bar Bar", 
+            "uri": "http://www.songkick.com/venues/270491-bar-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7508242, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9883687, 
+            "id": 270491
+        }, 
+        "uri": "http://www.songkick.com/concerts/28461474-nekrofilth-at-bar-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "datetime": "2016-11-12T20:30:00-0700", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 39.7508242, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9883687
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "19dfda5d-f501-40fd-ad0b-bc28661dc5f0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:19dfda5d-f501-40fd-ad0b-bc28661dc5f0.json"
+                        }
+                    ], 
+                    "displayName": "Nekrofilth", 
+                    "uri": "http://www.songkick.com/artists/2551736-nekrofilth?utm_source=32233&utm_medium=partner", 
+                    "id": 2551736
+                }, 
+                "displayName": "Nekrofilth", 
+                "id": 55315359, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Deathblow", 
+                    "uri": "http://www.songkick.com/artists/4552853-deathblow?utm_source=32233&utm_medium=partner", 
+                    "id": 4552853
+                }, 
+                "displayName": "Deathblow", 
+                "id": 55315364, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Valiomierda", 
+                    "uri": "http://www.songkick.com/artists/1121288-valiomierda?utm_source=32233&utm_medium=partner", 
+                    "id": 1121288
+                }, 
+                "displayName": "Valiomierda", 
+                "id": 55315369, 
+                "billing": "support", 
+                "billingIndex": 3
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "piojos", 
+                    "uri": "http://www.songkick.com/artists/8618849-piojos?utm_source=32233&utm_medium=partner", 
+                    "id": 8618849
+                }, 
+                "displayName": "piojos", 
+                "id": 55315374, 
+                "billing": "support", 
+                "billingIndex": 4
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28461474
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Nekrofilth", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2008", 
+            "end": null
+        }, 
+        "sort-name": "Nekrofilth", 
+        "gender": null, 
+        "disambiguation": "Metal Band from USA", 
+        "area": {
+            "sort-name": "Cleveland", 
+            "disambiguation": "", 
+            "name": "Cleveland", 
+            "id": "7b2ca1e7-e7f6-4155-881d-c660a45c11e8"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1784907", 
+                    "id": "9d80d284-b901-4e1a-b674-d60626065c02"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.metal-archives.com/bands/Nekrofilth/3540263624", 
+                    "id": "38d70124-3ea1-4db3-9155-99cad5b70147"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "type": "Group", 
+        "id": "19dfda5d-f501-40fd-ad0b-bc28661dc5f0", 
+        "tags": []
+    }, 
+    "id": 28461474, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

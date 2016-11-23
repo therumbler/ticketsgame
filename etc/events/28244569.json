@@ -1,0 +1,379 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "18+", 
+        "displayName": "The Dirty Nil with Kenneths and The New Tusk at The Macbeth (November 17, 2016)", 
+        "popularity": 0.000613, 
+        "venue": {
+            "displayName": "The Macbeth", 
+            "uri": "http://www.songkick.com/venues/589631-macbeth?utm_source=32233&utm_medium=partner", 
+            "lat": 51.530297, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.08013, 
+            "id": 589631
+        }, 
+        "uri": "http://www.songkick.com/concerts/28244569-dirty-nil-at-macbeth?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-17T19:30:00+0000"
+        }, 
+        "location": {
+            "lat": 51.530297, 
+            "city": "London, UK", 
+            "lng": -0.08013
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "039ab342-efb8-472e-817c-5800d3a70493", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:039ab342-efb8-472e-817c-5800d3a70493.json"
+                        }
+                    ], 
+                    "displayName": "The Dirty Nil", 
+                    "uri": "http://www.songkick.com/artists/3468641-dirty-nil?utm_source=32233&utm_medium=partner", 
+                    "id": 3468641
+                }, 
+                "displayName": "The Dirty Nil", 
+                "id": 54939824, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "416b1581-7bd0-4f6e-9dff-7f14e6cf5c2f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:416b1581-7bd0-4f6e-9dff-7f14e6cf5c2f.json"
+                        }
+                    ], 
+                    "displayName": "Kenneths", 
+                    "uri": "http://www.songkick.com/artists/8362558-kenneths?utm_source=32233&utm_medium=partner", 
+                    "id": 8362558
+                }, 
+                "displayName": "Kenneths", 
+                "id": 54939829, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The New Tusk", 
+                    "uri": "http://www.songkick.com/artists/7578159-new-tusk?utm_source=32233&utm_medium=partner", 
+                    "id": 7578159
+                }, 
+                "displayName": "The New Tusk", 
+                "id": 54939834, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28244569
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Dirty Nil", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative"
+            }, 
+            {
+                "count": 1, 
+                "name": "canadian"
+            }, 
+            {
+                "count": 1, 
+                "name": "dirty"
+            }, 
+            {
+                "count": 1, 
+                "name": "indie"
+            }, 
+            {
+                "count": 1, 
+                "name": "little"
+            }, 
+            {
+                "count": 1, 
+                "name": "metal"
+            }, 
+            {
+                "count": 1, 
+                "name": "nil"
+            }
+        ], 
+        "gender": null, 
+        "twitter": "thedirtynil", 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+            "name": "Canada"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Dundas", 
+            "disambiguation": "", 
+            "id": "6dcb4c80-0c94-489d-9be7-6f77360a77a7", 
+            "name": "Dundas"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003410226", 
+                    "id": "3b17860d-b8dc-4608-9f86-4f0f95951f59"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thedirtynil.bandcamp.com/", 
+                    "id": "c2ac9bde-309f-437d-a9a2-2ef7b2643e58"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thedirtynil.tumblr.com/", 
+                    "id": "7c173fe6-5d2a-45b7-a8f9-07ba0d291970"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2757460", 
+                    "id": "a148512d-8b49-4843-9c30-41cc2cf394aa"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/the-dirty-nil-lyrics", 
+                    "id": "a00518bf-0f8c-44ef-9aa9-15ac822fb727"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/the_dirty_nil", 
+                    "id": "8b59c7f6-26f9-4ed2-a751-46c989258e6b"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.musik-sammler.de/artist/the-dirty-nil/", 
+                    "id": "dbc02c72-9344-409d-b8f8-d376839d138e"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://secondhandsongs.com/artist/93679", 
+                    "id": "38233064-bf53-4de2-99cd-1a286c0d792c"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.setlist.fm/setlists/the-dirty-nil-43df331f.html", 
+                    "id": "6452b84a-f478-4dee-b5e9-676a189d3941"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "setlistfm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/thedirtynil", 
+                    "id": "cf1bb351-e5a8-411f-993f-b83f1e3e7246"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/thedirtynil", 
+                    "id": "e8cbb9f7-f747-47e4-918d-6161ca64d9d3"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/3468641-dirty-nil", 
+                    "id": "80eab9ad-6d59-40ad-8465-6dc9f294d218"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/thedirtynil", 
+                    "id": "4e443892-cfc6-4118-bc41-3ade6a3cbbc7"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Dirty Nil, The", 
+        "country": "CA", 
+        "id": "039ab342-efb8-472e-817c-5800d3a70493", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2006", 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28244569, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

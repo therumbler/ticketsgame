@@ -1,0 +1,137 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "IRAH at The Waiting Room (November 10, 2016)", 
+        "popularity": 3.5e-05, 
+        "venue": {
+            "displayName": "The Waiting Room", 
+            "uri": "http://www.songkick.com/venues/987901-waiting-room?utm_source=32233&utm_medium=partner", 
+            "lat": 51.562052, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.073771, 
+            "id": 987901
+        }, 
+        "uri": "http://www.songkick.com/concerts/27809464-irah-at-waiting-room?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.562052, 
+            "city": "London, UK", 
+            "lng": -0.073771
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f640013e-1062-458d-bd54-43672e921029", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f640013e-1062-458d-bd54-43672e921029.json"
+                        }
+                    ], 
+                    "displayName": "IRAH", 
+                    "uri": "http://www.songkick.com/artists/8453133-irah?utm_source=32233&utm_medium=partner", 
+                    "id": 8453133
+                }, 
+                "displayName": "IRAH", 
+                "id": 54166284, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27809464
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Irha", 
+        "area": {
+            "sort-name": "Italy", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "IT"
+            ], 
+            "name": "Italy", 
+            "id": "c6500277-9a3d-349b-bf30-41afdbf42add"
+        }, 
+        "country": "IT", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "italy"
+            }, 
+            {
+                "count": 1, 
+                "name": "punk"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.killfromtheheart.com/bands.php?id=1292", 
+                    "id": "9d3a941d-b995-461d-8415-1c80aeef9446"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/559096", 
+                    "id": "fa4d3172-c903-4aae-8be6-f8e618d2e813"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Irha", 
+        "gender": null, 
+        "id": "f640013e-1062-458d-bd54-43672e921029", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 27809464, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

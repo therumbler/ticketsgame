@@ -1,0 +1,112 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "CFM at Hideout (November 25, 2016)", 
+        "popularity": 5.2e-05, 
+        "venue": {
+            "displayName": "Hideout", 
+            "uri": "http://www.songkick.com/venues/259-hideout?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9138084, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.662538, 
+            "id": 259
+        }, 
+        "uri": "http://www.songkick.com/concerts/28364964-cfm-at-hideout?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-25T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.9138084, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.662538
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f5501f11-ab06-4d10-b603-d87e4970d32b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f5501f11-ab06-4d10-b603-d87e4970d32b.json"
+                        }
+                    ], 
+                    "displayName": "CFM", 
+                    "uri": "http://www.songkick.com/artists/8721219-cfm?utm_source=32233&utm_medium=partner", 
+                    "id": 8721219
+                }, 
+                "displayName": "CFM", 
+                "id": 55150784, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28364964
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "CFM", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/173220", 
+                    "id": "bbfd5308-d561-4c7e-b7fc-85aa5199f02c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "CFM", 
+        "country": null, 
+        "id": "f5501f11-ab06-4d10-b603-d87e4970d32b", 
+        "type": null, 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "age_minutes": 15505, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442676.0, 
+    "created_time": 1478565987.0, 
+    "modified_minutes": 894, 
+    "id": 28364964
+}

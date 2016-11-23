@@ -1,0 +1,299 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mike Gordon at Cannery Ballroom (December 2, 2016)", 
+        "popularity": 0.00239, 
+        "venue": {
+            "displayName": "Cannery Ballroom", 
+            "uri": "http://www.songkick.com/venues/250-cannery-ballroom?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1528598, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.7804525, 
+            "id": 250
+        }, 
+        "uri": "http://www.songkick.com/concerts/28081499-mike-gordon-at-cannery-ballroom?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-02T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.1528598, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.7804525
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c172276a-fcbf-4477-894a-f37d1582557e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c172276a-fcbf-4477-894a-f37d1582557e.json"
+                        }
+                    ], 
+                    "displayName": "Mike Gordon", 
+                    "uri": "http://www.songkick.com/artists/132412-mike-gordon?utm_source=32233&utm_medium=partner", 
+                    "id": 132412
+                }, 
+                "displayName": "Mike Gordon", 
+                "id": 54655384, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28081499
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Mike Gordon", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "twitter": "mike_gordon", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "rock"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0330464/", 
+                    "id": "3db87af5-8d17-4709-a5ec-a602317be284"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/72607248", 
+                    "id": "cd260598-f584-4b1d-b633-4fc4dbd70757"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0001008768", 
+                    "id": "7cfb711b-20b8-44fd-9869-f5d46817b80e"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/191663", 
+                    "id": "eef9cc4f-b8d6-4195-a932-cefbc1ac5aba"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://mike-gordon.com/", 
+                    "id": "c588fbbb-3600-4f9a-995d-e12893635f66"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/mike_gordon", 
+                    "id": "61ce05bc-609f-4619-be6d-59d2e0f3da54"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/mike_gordon", 
+                    "id": "23173a50-af54-49ca-84bc-1a506c7ab3d4"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q6847034", 
+                    "id": "a044adca-af2d-4b9e-9f22-86cc34658145"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Mike_Gordon", 
+                    "id": "88fdb3e7-3588-4fe2-a35f-88802d5d11ff"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Sudbury", 
+            "disambiguation": "", 
+            "id": "81e1bae9-00b8-4f31-b0da-8e1df5ae6a79", 
+            "name": "Sudbury"
+        }, 
+        "sort-name": "Gordon, Mike", 
+        "gender": "Male", 
+        "id": "c172276a-fcbf-4477-894a-f37d1582557e", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1965-06-03", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15475, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Mike Gordon @ The Cannery Ballroom in Nashville, TN", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Nashville", 
+            "name": "The Cannery Ballroom", 
+            "country": "United States", 
+            "region": "TN", 
+            "longitude": -86.780319, 
+            "place": "The Cannery Ballroom", 
+            "latitude": 36.152824
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12880285?app_id=ticketgame&artist=Mike+Gordon&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12880285/buy_tickets?app_id=ticketgame&artist=Mike+Gordon&came_from=67", 
+        "on_sale_datetime": "2016-09-08T14:00:01", 
+        "formatted_datetime": "Friday, December 2, 2016 at 8:00PM", 
+        "datetime": "2016-12-02T20:00:00", 
+        "formatted_location": "Nashville, TN", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/271177/4272?u=http%3A%2F%2Fwww.ticketweb.com%2Ft3%2Fsale%2FSaleEventDetail%3FeventId%3D6897055%26pl%3Dmercylounge%26dispatch%3DloadSelectionData%26REFID%3Dwordpress&afftrack=67%7E16163352%7E24091139%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.mike-gordon.com", 
+                "facebook_page_url": "https://www.facebook.com/mikehyphengordon", 
+                "name": "Mike Gordon", 
+                "url": "MikeGordon", 
+                "tracker_count": 29482, 
+                "mbid": "c172276a-fcbf-4477-894a-f37d1582557e", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6164036.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/MikeGordon/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6164036.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12880285
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 30.25, 
+        "price_min": 30.25
+    }, 
+    "modified_time": 1479442389.0, 
+    "created_time": 1478566041.0, 
+    "modified_minutes": 869, 
+    "id": 28081499
+}

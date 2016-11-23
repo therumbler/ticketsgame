@@ -1,0 +1,508 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.004166, 
+        "displayName": "The Skints at Coda (December 28, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Coda", 
+            "uri": "http://www.songkick.com/venues/2824813-coda?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9497186, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1698503, 
+            "id": 2824813
+        }, 
+        "uri": "http://www.songkick.com/concerts/28322469-skints-at-coda?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-28", 
+            "datetime": "2016-12-28T20:30:00-0500", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 39.9497186, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1698503
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "The Skints", 
+                "id": 55075699, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7a279145-e778-4099-8f73-ea917a1956c9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7a279145-e778-4099-8f73-ea917a1956c9.json"
+                        }
+                    ], 
+                    "displayName": "The Skints", 
+                    "uri": "http://www.songkick.com/artists/330879-skints?utm_source=32233&utm_medium=partner", 
+                    "id": 330879
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28322469
+    }, 
+    "musicbrainz_response": {
+        "name": "The Skints", 
+        "twitter": "theskints", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "dub"
+            }, 
+            {
+                "count": 1, 
+                "name": "punk rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "reggae"
+            }, 
+            {
+                "count": 1, 
+                "name": "ska"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2005", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "London", 
+            "disambiguation": "", 
+            "name": "London", 
+            "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/7a279145-e778-4099-8f73-ea917a1956c9", 
+                    "id": "a95b3c35-b1ec-40de-8ef7-65ba980ab941"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/308707394", 
+                    "id": "e4f28a29-0eeb-4b88-b69e-585f8190f1ec"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0001610237", 
+                    "id": "7c207735-55ab-4785-80f5-e9ed5f6eca2c"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://the-skints.bandcamp.com/", 
+                    "id": "4e7cc89b-9f68-4187-95eb-9e501a95261d"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2004978", 
+                    "id": "ea373ab0-bf77-4c9d-bad6-88c96a5e9b14"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://a1-images.myspacecdn.com/images03/29/01e6419c44c04e05904cfcbefb5625ab/300x300.jpg", 
+                    "id": "e63b803c-591b-44ae-b68e-55fa5a9fbbc3"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:The_Skints_at_Guilfest_2011.jpg", 
+                    "id": "0442318b-1af0-4814-9268-0e16af37cda5"
+                }, 
+                "direction": "forward", 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/The+Skints", 
+                    "id": "28627f6d-f712-464b-aa41-b5b586901f3d"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/theskintsuk", 
+                    "id": "38b1efff-a99c-4e6a-b109-7f30c7b56b8a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.theskints.co.uk/", 
+                    "id": "392433e8-b585-447f-8300-100057720e0b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/gb/artist/id304116156", 
+                    "id": "659a1810-83b0-40af-81b0-859543310f5c"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://store.bombermusic.com/", 
+                    "id": "44740d6d-8815-47fb-97ac-aea1e27a8124"
+                }, 
+                "direction": "forward", 
+                "type-id": "611b1862-67af-4253-a64f-34adba305d1d", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for mail-order", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.setlist.fm/setlists/the-skints-6bd52e2e.html", 
+                    "id": "c9014028-8e46-4433-a199-7fab1f895fb2"
+                }, 
+                "direction": "forward", 
+                "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "setlistfm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/theskints", 
+                    "id": "87bffc20-2726-4920-944f-0e9c0f1bfed8"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/theskints", 
+                    "id": "58efffba-7861-43f9-bdff-747ae0df631c"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/theskints", 
+                    "id": "213809d8-1fe5-4097-ab03-9e6e2e165a0a"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/330879-skints", 
+                    "id": "45eb06cb-c23c-44fa-bc85-21ae75924ce4"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/the_skints", 
+                    "id": "797ea7ab-db88-4167-ab0c-fe3f22829f42"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q4051291", 
+                    "id": "db1fc06f-e2d4-41bb-b2ba-5c0feed4b827"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Skints", 
+                    "id": "244dd081-1237-413a-af62-9864909f1d23"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/theskints", 
+                    "id": "0f8e1454-0865-4c6e-87ec-c363562bb7c7"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Skints, The", 
+        "isnis": [], 
+        "disambiguation": "", 
+        "country": null, 
+        "type": "Group", 
+        "id": "7a279145-e778-4099-8f73-ea917a1956c9", 
+        "gender-id": null
+    }, 
+    "age_minutes": 3172, 
+    "bandsintown_response": {
+        "description": "The Skints", 
+        "title": "The Skints @ CODA in Philadelphia, PA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Philadelphia", 
+            "name": "CODA", 
+            "country": "United States", 
+            "region": "PA", 
+            "longitude": -75.1698503, 
+            "place": "CODA", 
+            "latitude": 39.9497186
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13123289?app_id=ticketgame&artist=The+Skints&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13123289/buy_tickets?app_id=ticketgame&artist=The+Skints&came_from=67", 
+        "on_sale_datetime": "2016-10-12T13:00:01", 
+        "formatted_datetime": "Wednesday, December 28, 2016 at 8:30PM", 
+        "datetime": "2016-12-28T20:30:00", 
+        "formatted_location": "Philadelphia, PA", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fwww.ticketweb.com%2Ft3%2Fsale%2FSaleEventDetail%3Fdispatch%3DloadSelectionData%26eventId%3D6960885%26REFERRAL_ID%3Dtmfeed&subId1=67%7E16488879%7E24136683%7E%7E", 
+        "artists": [
+            {
+                "website": "http://facebook.com/theskints", 
+                "facebook_page_url": "http://www.facebook.com/theskints", 
+                "name": "The Skints", 
+                "url": "TheSkints", 
+                "tracker_count": 25396, 
+                "mbid": "7a279145-e778-4099-8f73-ea917a1956c9", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6828899.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheSkints/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6828899.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13123289
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 17.0, 
+        "price_min": 17.0
+    }, 
+    "modified_time": 1479442902.0, 
+    "created_time": 1479305709.0, 
+    "modified_minutes": 885, 
+    "id": 28322469
+}

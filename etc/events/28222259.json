@@ -1,0 +1,341 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Pinegrove with Petal at Slim's (November 13, 2016)", 
+        "popularity": 0.001603, 
+        "venue": {
+            "displayName": "Slim's", 
+            "uri": "http://www.songkick.com/venues/1489-slims?utm_source=32233&utm_medium=partner", 
+            "lat": 37.7715171, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.413259, 
+            "id": 1489
+        }, 
+        "uri": "http://www.songkick.com/concerts/28222259-pinegrove-at-slims?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-13T19:00:00-0800"
+        }, 
+        "location": {
+            "lat": 37.7715171, 
+            "city": "San Francisco, CA, US", 
+            "lng": -122.413259
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "871fe26f-544d-4275-a5dd-af5442d15b92", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:871fe26f-544d-4275-a5dd-af5442d15b92.json"
+                        }
+                    ], 
+                    "displayName": "Pinegrove", 
+                    "uri": "http://www.songkick.com/artists/4550718-pinegrove?utm_source=32233&utm_medium=partner", 
+                    "id": 4550718
+                }, 
+                "displayName": "Pinegrove", 
+                "id": 54903814, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5de70d7f-f334-4632-86c0-027a16f2373a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5de70d7f-f334-4632-86c0-027a16f2373a.json"
+                        }
+                    ], 
+                    "displayName": "Petal", 
+                    "uri": "http://www.songkick.com/artists/24770-petal?utm_source=32233&utm_medium=partner", 
+                    "id": 24770
+                }, 
+                "displayName": "Petal", 
+                "id": 54903819, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28222259
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Pinegrove", 
+        "tags": [], 
+        "country": "US", 
+        "twitter": "PinegroveBand", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/432145858051923021647", 
+                    "id": "9871bda8-4513-46e1-9a3e-5ab652775a6a"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003442791", 
+                    "id": "55568629-4a80-4b65-a332-3bb36861538a"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://pinegrove.bandcamp.com/", 
+                    "id": "c50d3b0c-a988-46c4-8497-a01a4cdd928f"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4203470", 
+                    "id": "531ccdd2-d4d8-4b92-b55a-12b906f013d3"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Pinegrove", 
+                    "id": "17c6d7fe-7631-45d9-8848-8186925f5ed6"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/wiki/Pinegrove", 
+                    "id": "89c19030-b5b2-46cc-bf74-416aac98f65b"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.worldcat.org/identities/nc-pinegrove%20musical%20group/", 
+                    "id": "1b76e95c-d937-4465-8b67-f882292534ca"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/pinegrove", 
+                    "id": "50ea1e40-ff11-4718-8c47-eb90ce8c2160"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.setlist.fm/setlists/pinegrove-3c591f3.html", 
+                    "id": "a486f9f7-efe0-4a8c-b9d4-8e5bf2076115"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "setlistfm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/PinegroveBand", 
+                    "id": "e5857a8a-56ae-454a-b61a-46771811e515"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Pinegroveband", 
+                    "id": "9fd644f8-170e-4175-85db-fcf0ba5f35f1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/4550718-pinegrove", 
+                    "id": "34030b15-e0f8-4349-82e3-a4b58fad5fc6"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/pinegrove-official", 
+                    "id": "1de8c9d3-258a-4b01-bf29-77ad5ac92268"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Montclair", 
+            "disambiguation": "", 
+            "id": "a5bf60f4-f5a5-44c7-9a75-e343615d8a99", 
+            "name": "Montclair"
+        }, 
+        "sort-name": "Pinegrove", 
+        "gender": null, 
+        "id": "871fe26f-544d-4275-a5dd-af5442d15b92", 
+        "ipis": [], 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28222259, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

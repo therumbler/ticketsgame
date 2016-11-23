@@ -1,0 +1,191 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Basecamp at Larimer Lounge (February 2, 2017)", 
+        "popularity": 0.004378, 
+        "venue": {
+            "displayName": "Larimer Lounge", 
+            "uri": "http://www.songkick.com/venues/11428-larimer-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7599345, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9838005, 
+            "id": 11428
+        }, 
+        "uri": "http://www.songkick.com/concerts/28408329-basecamp-at-larimer-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-02", 
+            "datetime": "2017-02-02T21:00:00-0700", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 39.7599345, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9838005
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "33879222-0a7a-4a5e-8458-3a090f8113b6", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:33879222-0a7a-4a5e-8458-3a090f8113b6.json"
+                        }
+                    ], 
+                    "displayName": "Basecamp", 
+                    "uri": "http://www.songkick.com/artists/2378942-basecamp?utm_source=32233&utm_medium=partner", 
+                    "id": 2378942
+                }, 
+                "displayName": "Basecamp", 
+                "id": 55225614, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28408329
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Basecamp", 
+        "area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "name": "Nashville", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "owsla"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.basecampmusique.com/", 
+                    "id": "27a240f7-85e5-4edd-b5c5-e7093b6bc6e6"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/basecampmusique", 
+                    "id": "5e2c485e-6508-42cd-987c-12d8a54c10fd"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/basecampmusique", 
+                    "id": "957e7ef9-ded1-42f8-8184-e962daf1a537"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/basecampmusique", 
+                    "id": "d64c73b5-bf97-4c52-9be4-f179831bfb9f"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/BASECAMPmusique", 
+                    "id": "c4bbc286-7391-45c2-b82d-3d8f36a9b60a"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Basecamp", 
+        "gender": null, 
+        "id": "33879222-0a7a-4a5e-8458-3a090f8113b6", 
+        "type": "Group", 
+        "twitter": "basecampmusique", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15509, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 18.0, 
+        "price_min": 12.0
+    }, 
+    "modified_time": 1479442597.0, 
+    "created_time": 1478566006.0, 
+    "modified_minutes": 899, 
+    "id": 28408329
+}

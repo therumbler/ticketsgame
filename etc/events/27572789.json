@@ -1,0 +1,261 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Unzucht with All Hail the Yeti and Darkhaus at O2 Academy 2 Islington (November 9, 2016)", 
+        "popularity": 0.000332, 
+        "venue": {
+            "displayName": "O2 Academy 2 Islington", 
+            "uri": "http://www.songkick.com/venues/1064401-o2-academy-2-islington?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5345836, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1059202, 
+            "id": 1064401
+        }, 
+        "uri": "http://www.songkick.com/concerts/27572789-unzucht-at-o2-academy-2-islington?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-09T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5345836, 
+            "city": "London, UK", 
+            "lng": -0.1059202
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "56d42150-9522-4a5a-b229-022c9c0c8d1a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:56d42150-9522-4a5a-b229-022c9c0c8d1a.json"
+                        }
+                    ], 
+                    "displayName": "Unzucht", 
+                    "uri": "http://www.songkick.com/artists/4018131-unzucht?utm_source=32233&utm_medium=partner", 
+                    "id": 4018131
+                }, 
+                "displayName": "Unzucht", 
+                "id": 53735724, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7f2ee8b3-c28b-4e54-915e-f34f8aa4d5c4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7f2ee8b3-c28b-4e54-915e-f34f8aa4d5c4.json"
+                        }
+                    ], 
+                    "displayName": "All Hail the Yeti", 
+                    "uri": "http://www.songkick.com/artists/3870891-all-hail-the-yeti?utm_source=32233&utm_medium=partner", 
+                    "id": 3870891
+                }, 
+                "displayName": "All Hail the Yeti", 
+                "id": 53744759, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bb7073bc-2aa1-4427-9c19-dfc16d153a5b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bb7073bc-2aa1-4427-9c19-dfc16d153a5b.json"
+                        }
+                    ], 
+                    "displayName": "Darkhaus", 
+                    "uri": "http://www.songkick.com/artists/7376589-darkhaus?utm_source=32233&utm_medium=partner", 
+                    "id": 7376589
+                }, 
+                "displayName": "Darkhaus", 
+                "id": 53744764, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27572789
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Unzucht", 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "country": "DE", 
+        "twitter": "Unzucht", 
+        "area": {
+            "sort-name": "Germany", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "DE"
+            ], 
+            "name": "Germany", 
+            "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1967729", 
+                    "id": "30d99450-2550-4716-b01a-b65071de1f7b"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/unzuchtmusic", 
+                    "id": "7edb11b3-c395-4ae2-ac2f-f5924e161438"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://unzucht-music.com/", 
+                    "id": "e7edb043-756a-48b5-8506-3a0362b9bb4b"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/Unzucht", 
+                    "id": "932e49f8-94d0-4c7c-8480-b2d8cbf76706"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Unzucht", 
+                    "id": "b3efde10-ef76-469a-a729-80539a7a71aa"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q2499545", 
+                    "id": "3f140465-d00e-45f1-bcd2-5167710bfcae"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/unzuchtofficial", 
+                    "id": "a8e13ffb-2c01-448c-94cc-c3bdc01a8250"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Unzucht", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "56d42150-9522-4a5a-b229-022c9c0c8d1a", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "dark rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "gothic metal"
+            }, 
+            {
+                "count": 1, 
+                "name": "metal"
+            }
+        ], 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 27572789, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

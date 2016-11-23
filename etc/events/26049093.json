@@ -1,0 +1,128 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Clay McClinton at Driskill Hotel (November 12, 2016)", 
+        "popularity": 6.3e-05, 
+        "venue": {
+            "displayName": "Driskill Hotel", 
+            "uri": "http://www.songkick.com/venues/35194-driskill-hotel?utm_source=32233&utm_medium=partner", 
+            "lat": 30.267924, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7413649, 
+            "id": 35194
+        }, 
+        "uri": "http://www.songkick.com/concerts/26049093-clay-mcclinton-at-driskill-hotel?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 30.267924, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7413649
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "952238b0-946f-4d0e-91b2-77993e6934ca", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:952238b0-946f-4d0e-91b2-77993e6934ca.json"
+                        }
+                    ], 
+                    "displayName": "Clay McClinton", 
+                    "uri": "http://www.songkick.com/artists/529517-clay-mcclinton?utm_source=32233&utm_medium=partner", 
+                    "id": 529517
+                }, 
+                "displayName": "Clay McClinton", 
+                "id": 50941253, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26049093
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Clay McClinton", 
+        "tags": [], 
+        "gender": "Male", 
+        "disambiguation": "", 
+        "area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74", 
+            "name": "Nashville"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://claymcclinton.com/", 
+                    "id": "b32e24f3-75fd-4e58-ad76-653c045f94ba"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/claymcclintonmusic", 
+                    "id": "bc6a6400-4d01-4a00-93d4-62c959452d34"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "McClinton, Clay", 
+        "country": null, 
+        "id": "952238b0-946f-4d0e-91b2-77993e6934ca", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 26049093, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

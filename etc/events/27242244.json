@@ -1,0 +1,184 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Djal with The Kitchen at Hoxton Square Bar & Kitchen (November 9, 2016)", 
+        "popularity": 0.000107, 
+        "venue": {
+            "displayName": "Hoxton Square Bar & Kitchen", 
+            "uri": "http://www.songkick.com/venues/8280-hoxton-square-bar-and-kitchen?utm_source=32233&utm_medium=partner", 
+            "lat": 51.527476, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.081657, 
+            "id": 8280
+        }, 
+        "uri": "http://www.songkick.com/concerts/27242244-djal-at-hoxton-square-bar-and-kitchen?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "datetime": "2016-11-09T19:30:00+0000", 
+            "time": "19:30:00"
+        }, 
+        "location": {
+            "lat": 51.527476, 
+            "city": "London, UK", 
+            "lng": -0.081657
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2f8600aa-da4a-4be8-96db-b7b1dc167e49", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2f8600aa-da4a-4be8-96db-b7b1dc167e49.json"
+                        }
+                    ], 
+                    "displayName": "Djal", 
+                    "uri": "http://www.songkick.com/artists/13185-djal?utm_source=32233&utm_medium=partner", 
+                    "id": 13185
+                }, 
+                "displayName": "Djal", 
+                "id": 53125449, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c3ec9d23-0ffa-4c5c-867d-8a3c70907178", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c3ec9d23-0ffa-4c5c-867d-8a3c70907178.json"
+                        }
+                    ], 
+                    "displayName": "The Kitchen", 
+                    "uri": "http://www.songkick.com/artists/396206-kitchen?utm_source=32233&utm_medium=partner", 
+                    "id": 396206
+                }, 
+                "displayName": "The Kitchen", 
+                "id": 55346634, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27242244
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Djal", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "traditional folk music"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "France", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "FR"
+            ], 
+            "name": "France", 
+            "id": "08310658-51eb-3801-80de-5a0739207115"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/djalmustradem", 
+                    "id": "b47ceaa7-5345-4265-82e3-5153d5b83425"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://djal.mustradem.com/", 
+                    "id": "dc36a079-5d9e-49cc-9059-518a6134a62e"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/MusTraDemDjal", 
+                    "id": "c41921f7-6b02-4d76-ab9c-5a1f4f5c582d"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q3032737", 
+                    "id": "5aa0829b-f6bc-4ec6-8b80-33d5b956291b"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "id": "2f8600aa-da4a-4be8-96db-b7b1dc167e49", 
+        "gender-id": null, 
+        "country": "FR", 
+        "sort-name": "Djal", 
+        "type": "Group", 
+        "disambiguation": ""
+    }, 
+    "id": 27242244, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

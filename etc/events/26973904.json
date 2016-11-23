@@ -1,0 +1,266 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000703, 
+        "displayName": "Chris Hillman with Herb Pederson at Poor David's Pub (November 19, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Poor David's Pub", 
+            "uri": "http://www.songkick.com/venues/35183-poor-davids-pub?utm_source=32233&utm_medium=partner", 
+            "lat": 32.768339, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.7964262, 
+            "id": 35183
+        }, 
+        "uri": "http://www.songkick.com/concerts/26973904-chris-hillman-at-poor-davids-pub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "datetime": "2016-11-19T20:30:00-0600", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 32.768339, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.7964262
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Chris Hillman", 
+                "id": 52631044, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "068e411c-fa59-49b6-b3cb-6cd090812dcc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:068e411c-fa59-49b6-b3cb-6cd090812dcc.json"
+                        }
+                    ], 
+                    "displayName": "Chris Hillman", 
+                    "uri": "http://www.songkick.com/artists/101818-chris-hillman?utm_source=32233&utm_medium=partner", 
+                    "id": 101818
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Herb Pederson", 
+                "id": 52631049, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Herb Pederson", 
+                    "uri": "http://www.songkick.com/artists/383239-herb-pederson?utm_source=32233&utm_medium=partner", 
+                    "id": 383239
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26973904
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Chris Hillman", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1944-12-04", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "american"
+            }, 
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/71591029", 
+                    "id": "2be1a873-5d96-4050-b7ea-a744bf48cf39"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000096944", 
+                    "id": "21e547d0-4a86-4812-bece-6cacd291cfbd"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/275406", 
+                    "id": "b3387d42-7f0b-428a-8e7c-5e41cfff6ade"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/chris-hillman-lyrics", 
+                    "id": "c45efa27-83e4-43dd-ae37-679187c120a0"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.chrishillman.com/", 
+                    "id": "3c8dedd1-979b-4361-9d03-e0ebca2d1128"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/chris_hillman", 
+                    "id": "a2cedb5d-9c15-4c87-8d9b-940e8fad931c"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q770668", 
+                    "id": "d647262a-0b76-416d-befa-37f4c19c7c15"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Chris_Hillman", 
+                    "id": "a854bbe3-1e61-4772-bd0a-5da189583511"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00040508416"
+        ], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "name": "Los Angeles", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Hillman, Chris", 
+        "type": "Person", 
+        "id": "068e411c-fa59-49b6-b3cb-6cd090812dcc", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Location"
+        ]
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://poordavidspub.frontgatetickets.com/event/lm2ann5ql3kqmaqx"
+    }, 
+    "modified_time": 1479655153.0, 
+    "id": 26973904, 
+    "created_time": 1478565996.0, 
+    "modified_minutes": 1352, 
+    "created_minutes": 19505
+}

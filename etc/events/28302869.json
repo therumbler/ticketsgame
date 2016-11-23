@@ -1,0 +1,159 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.005031, 
+        "displayName": "The Revivalists at Fox Theatre (December 7, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Fox Theatre", 
+            "uri": "http://www.songkick.com/venues/1451-fox-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 40.0079953, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -105.2762858, 
+            "id": 1451
+        }, 
+        "uri": "http://www.songkick.com/concerts/28302869-revivalists-at-fox-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-07", 
+            "datetime": "2016-12-07T21:00:00-0700", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 40.0079953, 
+            "city": "Boulder, CO, US", 
+            "lng": -105.2762858
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "The Revivalists", 
+                "id": 55040609, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ed4a08e1-2a79-4538-b519-87bb2ee0fd9d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ed4a08e1-2a79-4538-b519-87bb2ee0fd9d.json"
+                        }
+                    ], 
+                    "displayName": "The Revivalists", 
+                    "uri": "http://www.songkick.com/artists/593309-revivalists?utm_source=32233&utm_medium=partner", 
+                    "id": 593309
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28302869
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Revivalists", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3715914", 
+                    "id": "4c880ff4-b9d6-4255-ac99-7784eeae2e59"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/revivalists", 
+                    "id": "119b2e95-49b3-4432-af14-2eb23a1be919"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Revivalists, The", 
+        "type": "Group", 
+        "id": "ed4a08e1-2a79-4538-b519-87bb2ee0fd9d", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": "The Revivalists", 
+        "title": "The Revivalists @ Fox Theatre in Boulder, CO", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Boulder", 
+            "name": "Fox Theatre", 
+            "country": "United States", 
+            "region": "CO", 
+            "longitude": -105.276238, 
+            "place": "Fox Theatre", 
+            "latitude": 40.00806
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13101843?app_id=ticketgame&artist=The+Revivalists&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13101843/buy_tickets?app_id=ticketgame&artist=The+Revivalists&came_from=67", 
+        "on_sale_datetime": "2016-10-14T10:00:00", 
+        "formatted_datetime": "Wednesday, December 7, 2016 at 9:00PM", 
+        "datetime": "2016-12-07T21:00:00", 
+        "formatted_location": "Boulder, CO", 
+        "ticket_redirect_url": "http://bit.ly/2dV5QSx", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/therevivalists", 
+                "name": "The Revivalists", 
+                "url": "TheRevivalists", 
+                "tracker_count": 43204, 
+                "mbid": "ed4a08e1-2a79-4538-b519-87bb2ee0fd9d", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6635381.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheRevivalists/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6635381.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13101843
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://bit.ly/2dV5QSx"
+    }, 
+    "modified_time": 1479442899.0, 
+    "created_minutes": 18203, 
+    "created_time": 1478566005.0, 
+    "modified_minutes": 3588, 
+    "id": 28302869
+}

@@ -1,0 +1,180 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Gryffin with Lenno at Fox Theatre (November 12, 2016)", 
+        "popularity": 0.004121, 
+        "venue": {
+            "displayName": "Fox Theatre", 
+            "uri": "http://www.songkick.com/venues/1451-fox-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 40.0079953, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -105.2762858, 
+            "id": 1451
+        }, 
+        "uri": "http://www.songkick.com/concerts/28071649-gryffin-at-fox-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 40.0079953, 
+            "city": "Boulder, CO, US", 
+            "lng": -105.2762858
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f1348139-efb5-43c7-9204-199827efad3c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f1348139-efb5-43c7-9204-199827efad3c.json"
+                        }
+                    ], 
+                    "displayName": "Gryffin", 
+                    "uri": "http://www.songkick.com/artists/8501183-gryffin?utm_source=32233&utm_medium=partner", 
+                    "id": 8501183
+                }, 
+                "displayName": "Gryffin", 
+                "id": 54639729, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7be40b89-b87d-4a16-a8c4-ff93ea92d867", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7be40b89-b87d-4a16-a8c4-ff93ea92d867.json"
+                        }
+                    ], 
+                    "displayName": "Lenno", 
+                    "uri": "http://www.songkick.com/artists/739925-lenno?utm_source=32233&utm_medium=partner", 
+                    "id": 739925
+                }, 
+                "displayName": "Lenno", 
+                "id": 55184839, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28071649
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Gryffin", 
+        "area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "name": "New York", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f"
+        }, 
+        "country": null, 
+        "twitter": "gryffinofficial", 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/gryffinofficial", 
+                    "id": "ea765085-e5ef-4a3e-819d-216e5550b8b9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/gryffinofficial", 
+                    "id": "d16b727c-111c-42e5-85e1-3a0a8bebdfab"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/gryffinofficial", 
+                    "id": "b9c9eeb2-8f17-4d95-80a9-8a1ad3e6fa42"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/channel/UCHorTItZofG0Bz2hbojyUpw", 
+                    "id": "7e9687a1-4083-462a-8894-f45a6eedafa8"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Gryffin", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "id": "f1348139-efb5-43c7-9204-199827efad3c", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": "Dan Griffith, Dance / Electronic / Soul producer"
+    }, 
+    "id": 28071649, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

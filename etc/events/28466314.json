@@ -1,0 +1,358 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Eleanor Friedberger and Martin Courtney at Union Pool (November 15, 2016)", 
+        "popularity": 0.011785, 
+        "venue": {
+            "displayName": "Union Pool", 
+            "uri": "http://www.songkick.com/venues/10751-union-pool?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7149447, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9516144, 
+            "id": 10751
+        }, 
+        "uri": "http://www.songkick.com/concerts/28466314-eleanor-friedberger-at-union-pool?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "datetime": "2016-11-15T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 40.7149447, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9516144
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2e59778a-9a50-44f7-98f8-97bb719b86f1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2e59778a-9a50-44f7-98f8-97bb719b86f1.json"
+                        }
+                    ], 
+                    "displayName": "Eleanor Friedberger", 
+                    "uri": "http://www.songkick.com/artists/4226826-eleanor-friedberger?utm_source=32233&utm_medium=partner", 
+                    "id": 4226826
+                }, 
+                "displayName": "Eleanor Friedberger", 
+                "id": 55322984, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d39ac5ff-2f90-4a7d-9268-28b1965833e9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d39ac5ff-2f90-4a7d-9268-28b1965833e9.json"
+                        }
+                    ], 
+                    "displayName": "Martin Courtney", 
+                    "uri": "http://www.songkick.com/artists/8611299-martin-courtney?utm_source=32233&utm_medium=partner", 
+                    "id": 8611299
+                }, 
+                "displayName": "Martin Courtney", 
+                "id": 55322989, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28466314
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Eleanor Friedberger", 
+        "tags": [], 
+        "country": "US", 
+        "twitter": "eleanoronly", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Oak Park", 
+            "disambiguation": "", 
+            "id": "1ca7601a-7ebf-4820-bfc1-17a2d4242d80", 
+            "name": "Oak Park"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000948780", 
+                    "id": "19e4a3ed-2eec-4431-b405-eb019bdcf770"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/582488", 
+                    "id": "1c62dc01-f952-422d-8e81-75142b7329ab"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Eleanor%20Friedberger", 
+                    "id": "52a0e526-d5d5-42da-ab55-92a35ec2f57a"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Eleanor+Friedberger", 
+                    "id": "8aa35433-df80-4d90-b975-816c97d66f97"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/thefieryfurnaces", 
+                    "id": "db0f523c-8998-4bad-995c-6d3163f2a700"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.eleanorfriedberger.com/", 
+                    "id": "ad36e2e7-02c0-4b2f-9a36-883b26b5f1f9"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/eleanor_friedberger", 
+                    "id": "5ab6a5b8-3c3f-4d18-810b-3f45c83c774a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/eleanoronly/", 
+                    "id": "6baeea84-0ea2-43d1-b58f-cd3f8ba563fa"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/eleanoronly", 
+                    "id": "291ec26b-13e3-4fc0-a8e6-a83b6ba7ecc6"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/eleanor.friedberger.official", 
+                    "id": "860fb4a0-650b-4433-93b9-704bc544ffb4"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/artist/42WJFNdxsAgcn9PfjT61Z3", 
+                    "id": "91c8a966-1916-4492-8550-9afaa147599f"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.pandora.com/eleanor-friedberger", 
+                    "id": "1efd74ea-a778-43e2-b076-93e7c679e70c"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q5354281", 
+                    "id": "9b811c95-18cc-43f6-99c8-918f36018a33"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Eleanor_Friedberger", 
+                    "id": "d034790f-e0ef-49e1-8afb-a4ea0ac4bf52"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Friedberger, Eleanor", 
+        "gender": "Female", 
+        "id": "2e59778a-9a50-44f7-98f8-97bb719b86f1", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1976-09-02", 
+            "end": null
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2"
+    }, 
+    "id": 28466314, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

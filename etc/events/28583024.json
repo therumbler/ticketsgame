@@ -1,0 +1,139 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.004967, 
+        "displayName": "Kevin Garrett at Larimer Lounge (February 6, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Larimer Lounge", 
+            "uri": "http://www.songkick.com/venues/11428-larimer-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7599345, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9838005, 
+            "id": 11428
+        }, 
+        "uri": "http://www.songkick.com/concerts/28583024-kevin-garrett-at-larimer-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-06", 
+            "datetime": "2017-02-06T20:00:00-0700", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 39.7599345, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9838005
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bf895cf2-29e9-40b1-a174-90cd56303d6c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bf895cf2-29e9-40b1-a174-90cd56303d6c.json"
+                        }
+                    ], 
+                    "displayName": "Kevin Garrett", 
+                    "uri": "http://www.songkick.com/artists/667410-kevin-garrett?utm_source=32233&utm_medium=partner", 
+                    "id": 667410
+                }, 
+                "displayName": "Kevin Garrett", 
+                "id": 55526044, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28583024
+    }, 
+    "musicbrainz_response": {
+        "name": "Kevin Garrett", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "isnis": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://schedule.sxsw.com/2015/2015/events/event_MS32300", 
+                    "id": "df9c86bc-0977-4749-9374-214387a00f8d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://kevingarrettmusic.com/", 
+                    "id": "175f2608-cc02-411d-9810-ebd9d50c05fa"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Garrett, Kevin", 
+        "type": "Person", 
+        "id": "bf895cf2-29e9-40b1-a174-90cd56303d6c", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 1487, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 13.0
+    }, 
+    "modified_time": 1479442156.0, 
+    "created_time": 1479409343.0, 
+    "modified_minutes": 940, 
+    "id": 28583024
+}

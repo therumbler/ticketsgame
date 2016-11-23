@@ -1,0 +1,125 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Jonny Couch with Fletcher C. Johnson and Illegal Drugs at Berlin (November 10, 2016)", 
+        "popularity": 0.000627, 
+        "venue": {
+            "displayName": "Berlin", 
+            "uri": "http://www.songkick.com/venues/3045529-berlin?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7229989, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9860427, 
+            "id": 3045529
+        }, 
+        "uri": "http://www.songkick.com/concerts/28143599-jonny-couch-at-berlin?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-10T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7229989, 
+            "city": "New York, NY, US", 
+            "lng": -73.9860427
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Jonny Couch", 
+                    "uri": "http://www.songkick.com/artists/8744194-jonny-couch?utm_source=32233&utm_medium=partner", 
+                    "id": 8744194
+                }, 
+                "displayName": "Jonny Couch", 
+                "id": 54765654, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "69ceb614-83d8-4442-9941-d8a8f729974f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:69ceb614-83d8-4442-9941-d8a8f729974f.json"
+                        }
+                    ], 
+                    "displayName": "Fletcher C. Johnson", 
+                    "uri": "http://www.songkick.com/artists/3218076-fletcher-c-johnson?utm_source=32233&utm_medium=partner", 
+                    "id": 3218076
+                }, 
+                "displayName": "Fletcher C. Johnson", 
+                "id": 54765659, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Illegal Drugs", 
+                    "uri": "http://www.songkick.com/artists/8427353-illegal-drugs?utm_source=32233&utm_medium=partner", 
+                    "id": 8427353
+                }, 
+                "displayName": "Illegal Drugs", 
+                "id": 54765664, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28143599
+    }, 
+    "bandsintown_response": [
+        {
+            "description": "Jonny Couch (Vinyl EP Release for Animal Instinct)", 
+            "title": "Jonny Couch @ Berlin in New York, NY", 
+            "ticket_type": "Tickets", 
+            "venue": {
+                "city": "New York", 
+                "name": "Berlin", 
+                "country": "United States", 
+                "region": "NY", 
+                "longitude": -73.9860427, 
+                "place": "Berlin", 
+                "latitude": 40.7229989
+            }, 
+            "facebook_rsvp_url": "http://www.bandsintown.com/event/12981479?app_id=ticketsgame&artist=Jonny+Couch&came_from=67", 
+            "ticket_url": "http://www.bandsintown.com/event/12981479/buy_tickets?app_id=ticketsgame&artist=Jonny+Couch&came_from=67", 
+            "on_sale_datetime": "2016-09-20T14:08:46", 
+            "formatted_datetime": "Thursday, November 10, 2016 at 8:00PM", 
+            "datetime": "2016-11-10T20:00:00", 
+            "formatted_location": "New York, NY", 
+            "artists": [
+                {
+                    "website": null, 
+                    "facebook_page_url": null, 
+                    "name": "Jonny Couch", 
+                    "url": "JonnyCouch", 
+                    "tracker_count": 0, 
+                    "mbid": null, 
+                    "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                    "facebook_tour_dates_url": "http://www.bandsintown.com/JonnyCouch/facebookapp?came_from=67", 
+                    "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+                }
+            ], 
+            "ticket_details": {
+                "price_max": 10.0, 
+                "price_min": 8.0
+            }, 
+            "ticket_status": "available", 
+            "id": 12981479
+        }
+    ], 
+    "id": 28143599, 
+    "ticket_details": false
+}

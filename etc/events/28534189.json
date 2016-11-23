@@ -1,0 +1,192 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "CHRIS RIVERS with Urbanized Music, SARCASTIK, and Mood Swangz at Subterranean (November 22, 2016)", 
+        "popularity": 0.00041, 
+        "venue": {
+            "displayName": "Subterranean", 
+            "uri": "http://www.songkick.com/venues/262-subterranean?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9104085, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.677996, 
+            "id": 262
+        }, 
+        "uri": "http://www.songkick.com/concerts/28534189-chris-rivers-at-subterranean?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-22", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-22T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.9104085, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.677996
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "CHRIS RIVERS", 
+                "id": 55439659, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "66816573-eac4-466f-89ce-db0002d703da", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:66816573-eac4-466f-89ce-db0002d703da.json"
+                        }
+                    ], 
+                    "displayName": "CHRIS RIVERS", 
+                    "uri": "http://www.songkick.com/artists/1927605-chris-rivers?utm_source=32233&utm_medium=partner", 
+                    "id": 1927605
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Urbanized Music", 
+                "id": 55439664, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Urbanized Music", 
+                    "uri": "http://www.songkick.com/artists/1371921-urbanized-music?utm_source=32233&utm_medium=partner", 
+                    "id": 1371921
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "SARCASTIK", 
+                "id": 55439669, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "SARCASTIK", 
+                    "uri": "http://www.songkick.com/artists/833741-sarcastik?utm_source=32233&utm_medium=partner", 
+                    "id": 833741
+                }
+            }, 
+            {
+                "billingIndex": 4, 
+                "displayName": "Mood Swangz", 
+                "id": 55439674, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Mood Swangz", 
+                    "uri": "http://www.songkick.com/artists/8685394-mood-swangz?utm_source=32233&utm_medium=partner", 
+                    "id": 8685394
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28534189
+    }, 
+    "musicbrainz_response": {
+        "name": "Chris Rivers", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3269904", 
+                    "id": "cebe764e-5ac3-431b-8395-3e5aa854497c"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/chris_rivers", 
+                    "id": "abffdffd-0bc0-4c78-840c-478c53d847ef"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id1042739835", 
+                    "id": "94337b2b-6d0a-4a76-8d97-96aef3dad6f4"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "isnis": [], 
+        "sort-name": "Rivers, Chris", 
+        "country": "US", 
+        "type": "Person", 
+        "id": "66816573-eac4-466f-89ce-db0002d703da", 
+        "disambiguation": "formerly known as Baby Pun, son of Big Pun"
+    }, 
+    "age_minutes": 9760, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442301.0, 
+    "created_time": 1478911631.0, 
+    "modified_minutes": 916, 
+    "id": 28534189
+}

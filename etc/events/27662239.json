@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Ali Holder at Stubb's BBQ - Indoors (December 3, 2016)", 
+        "popularity": 3.8e-05, 
+        "venue": {
+            "displayName": "Stubb's BBQ - Indoors", 
+            "uri": "http://www.songkick.com/venues/14630-stubbs-bbq-indoors?utm_source=32233&utm_medium=partner", 
+            "lat": 30.268569, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.736081, 
+            "id": 14630
+        }, 
+        "uri": "http://www.songkick.com/concerts/27662239-ali-holder-at-stubbs-bbq-indoors?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-03", 
+            "time": "21:00:00", 
+            "datetime": "2016-12-03T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 30.268569, 
+            "city": "Austin, TX, US", 
+            "lng": -97.736081
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d2354adc-db12-40da-a7ff-f13e89873cfd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d2354adc-db12-40da-a7ff-f13e89873cfd.json"
+                        }
+                    ], 
+                    "displayName": "Ali Holder", 
+                    "uri": "http://www.songkick.com/artists/788513-ali-holder?utm_source=32233&utm_medium=partner", 
+                    "id": 788513
+                }, 
+                "displayName": "Ali Holder", 
+                "id": 53897454, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27662239
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Ali Holder", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://aliholder.com/site/", 
+                    "id": "da0d5460-6992-4061-895e-2431e1c4fd71"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Holder, Ali", 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "id": "d2354adc-db12-40da-a7ff-f13e89873cfd", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 27662239, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

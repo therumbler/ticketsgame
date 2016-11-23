@@ -1,0 +1,163 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Earworms with Fallow at Flicker Theatre and Bar (November 16, 2016)", 
+        "popularity": 9.9e-05, 
+        "venue": {
+            "displayName": "Flicker Theatre and Bar", 
+            "uri": "http://www.songkick.com/venues/63010-flicker-theatre-and-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 33.958454, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -83.379729, 
+            "id": 63010
+        }, 
+        "uri": "http://www.songkick.com/concerts/28000814-earworms-at-flicker-theatre-and-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 33.958454, 
+            "city": "Athens, GA, US", 
+            "lng": -83.379729
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "80a8851f-444c-4539-892b-ad2a49292aa9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:80a8851f-444c-4539-892b-ad2a49292aa9.json"
+                        }
+                    ], 
+                    "displayName": "Earworms", 
+                    "uri": "http://www.songkick.com/artists/514890-earworms?utm_source=32233&utm_medium=partner", 
+                    "id": 514890
+                }, 
+                "displayName": "Earworms", 
+                "id": 54515404, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Fallow", 
+                    "uri": "http://www.songkick.com/artists/82160-fallow?utm_source=32233&utm_medium=partner", 
+                    "id": 82160
+                }, 
+                "displayName": "Fallow", 
+                "id": 54515409, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28000814
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "ac897045-5043-3294-969b-187360e45d86", 
+        "name": "[language instruction]", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "gender": "Other", 
+        "disambiguation": "Special Purpose Artist", 
+        "tags": [
+            {
+                "count": 0, 
+                "name": "[language instruction]"
+            }, 
+            {
+                "count": 0, 
+                "name": "bogus artist"
+            }, 
+            {
+                "count": 0, 
+                "name": "fixme"
+            }, 
+            {
+                "count": 1, 
+                "name": "foreign language"
+            }, 
+            {
+                "count": 0, 
+                "name": "hugo"
+            }, 
+            {
+                "count": 0, 
+                "name": "hugo in 3 months"
+            }, 
+            {
+                "count": 0, 
+                "name": "japanese for busy people"
+            }, 
+            {
+                "count": 0, 
+                "name": "klett"
+            }, 
+            {
+                "count": 1, 
+                "name": "learn languages"
+            }, 
+            {
+                "count": 0, 
+                "name": "merge into [unknown]"
+            }, 
+            {
+                "count": 0, 
+                "name": "spanish"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.klett-sprachen.de/", 
+                    "id": "1ec407b2-d049-41d5-ad02-71ed70600614"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "Ernst Klett Sprachen GmbH", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "[language instruction]", 
+        "begin_area": null, 
+        "gender-id": "081c0bf5-da60-37b0-95f8-2207a3f7f9d6", 
+        "country": null, 
+        "type": "Other", 
+        "id": "80a8851f-444c-4539-892b-ad2a49292aa9"
+    }, 
+    "id": 28000814, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

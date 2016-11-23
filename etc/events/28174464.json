@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Elizabeth Gillies at AmericanAirlines Arena (December 5, 2016)", 
+        "popularity": 0.004324, 
+        "venue": {
+            "displayName": "AmericanAirlines Arena", 
+            "uri": "http://www.songkick.com/venues/5065-americanairlines-arena?utm_source=32233&utm_medium=partner", 
+            "lat": 25.781232, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "FL"
+                }, 
+                "displayName": "Miami", 
+                "uri": "http://www.songkick.com/metro_areas/9776-us-miami?utm_source=32233&utm_medium=partner", 
+                "id": 9776
+            }, 
+            "lng": -80.187805, 
+            "id": 5065
+        }, 
+        "uri": "http://www.songkick.com/concerts/28174464-elizabeth-gillies-at-americanairlines-arena?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-05", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 25.781232, 
+            "city": "Miami, FL, US", 
+            "lng": -80.187805
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8d7b2288-dc37-429f-a99a-8ce1e42641db", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8d7b2288-dc37-429f-a99a-8ce1e42641db.json"
+                        }
+                    ], 
+                    "displayName": "Elizabeth Gillies", 
+                    "uri": "http://www.songkick.com/artists/6770729-elizabeth-gillies?utm_source=32233&utm_medium=partner", 
+                    "id": 6770729
+                }, 
+                "displayName": "Elizabeth Gillies", 
+                "id": 54819344, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28174464
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Elizabeth Gillies", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q230209", 
+                    "id": "50c6a04e-3fc9-4d69-a9ad-fdf680d64a18"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Elizabeth_Gillies", 
+                    "id": "4ef11501-42a5-4d87-8004-cdbb9ce8e633"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Gillies, Elizabeth", 
+        "type": "Person", 
+        "id": "8d7b2288-dc37-429f-a99a-8ce1e42641db", 
+        "disambiguation": ""
+    }, 
+    "id": 28174464, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

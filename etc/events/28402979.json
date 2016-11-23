@@ -1,0 +1,140 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Vixy & Tony with Betsy Tinney and Sunnie Larsen at Wayward Coffeehouse (December 16, 2016)", 
+        "popularity": 5.4e-05, 
+        "venue": {
+            "displayName": "Wayward Coffeehouse", 
+            "uri": "http://www.songkick.com/venues/468646-wayward-coffeehouse?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6755801, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3175116, 
+            "id": 468646
+        }, 
+        "uri": "http://www.songkick.com/concerts/28402979-vixy-and-tony-at-wayward-coffeehouse?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-16", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-16T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6755801, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3175116
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e10a5a72-5154-4a95-aac5-22a8fb1a65be", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e10a5a72-5154-4a95-aac5-22a8fb1a65be.json"
+                        }
+                    ], 
+                    "displayName": "Vixy & Tony", 
+                    "uri": "http://www.songkick.com/artists/4922673-vixy-and-tony?utm_source=32233&utm_medium=partner", 
+                    "id": 4922673
+                }, 
+                "displayName": "Vixy & Tony", 
+                "id": 55216954, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Betsy Tinney", 
+                    "uri": "http://www.songkick.com/artists/5697954-betsy-tinney?utm_source=32233&utm_medium=partner", 
+                    "id": 5697954
+                }, 
+                "displayName": "Betsy Tinney", 
+                "id": 55216959, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2642111f-caf4-462a-ae2a-4a660c57984d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2642111f-caf4-462a-ae2a-4a660c57984d.json"
+                        }
+                    ], 
+                    "displayName": "Sunnie Larsen", 
+                    "uri": "http://www.songkick.com/artists/4922678-sunnie-larsen?utm_source=32233&utm_medium=partner", 
+                    "id": 4922678
+                }, 
+                "displayName": "Sunnie Larsen", 
+                "id": 55216964, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28402979
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Vixy & Tony", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "sort-name": "Vixy & Tony", 
+        "gender": null, 
+        "disambiguation": "", 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.vixyandtony.com/", 
+                    "id": "329070fa-30d3-48aa-8f02-8a5ae8aefc60"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "type": "Group", 
+        "id": "e10a5a72-5154-4a95-aac5-22a8fb1a65be", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "filk"
+            }
+        ]
+    }, 
+    "id": 28402979, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

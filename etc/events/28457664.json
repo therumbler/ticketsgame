@@ -1,0 +1,154 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Family Jewels with Rusty Chains at Subterranean (November 25, 2016)", 
+        "popularity": 2.4e-05, 
+        "venue": {
+            "displayName": "Subterranean", 
+            "uri": "http://www.songkick.com/venues/262-subterranean?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9104085, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.677996, 
+            "id": 262
+        }, 
+        "uri": "http://www.songkick.com/concerts/28457664-family-jewels-at-subterranean?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-25T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.9104085, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.677996
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a38a3539-d704-4ef8-a597-121561dfbd48", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a38a3539-d704-4ef8-a597-121561dfbd48.json"
+                        }
+                    ], 
+                    "displayName": "Family Jewels", 
+                    "uri": "http://www.songkick.com/artists/563571-family-jewels?utm_source=32233&utm_medium=partner", 
+                    "id": 563571
+                }, 
+                "displayName": "Family Jewels", 
+                "id": 55308579, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "da3a7ad8-0540-49d2-997a-1d2cf0771e47", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:da3a7ad8-0540-49d2-997a-1d2cf0771e47.json"
+                        }
+                    ], 
+                    "displayName": "Rusty Chains", 
+                    "uri": "http://www.songkick.com/artists/473508-rusty-chains?utm_source=32233&utm_medium=partner", 
+                    "id": 473508
+                }, 
+                "displayName": "Rusty Chains", 
+                "id": 55308584, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28457664
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Family Jewels", 
+        "tags": [], 
+        "country": "NL", 
+        "life-span": {
+            "ended": true, 
+            "begin": "1994", 
+            "end": "1997"
+        }, 
+        "area": {
+            "sort-name": "Netherlands", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "NL"
+            ], 
+            "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7", 
+            "name": "Netherlands"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://popinstituut.nl/Encyclopedia/Biography.aspx?id=3185", 
+                    "id": "3f0348eb-a205-424f-9d5b-6e412b6f1e5c"
+                }, 
+                "begin": null, 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1213184", 
+                    "id": "16b3275d-05f1-4b2f-9ec2-03cced4cf4a2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Family Jewels", 
+        "type": "Group", 
+        "id": "a38a3539-d704-4ef8-a597-121561dfbd48", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15514, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442465.0, 
+    "created_time": 1478565987.0, 
+    "modified_minutes": 906, 
+    "id": 28457664
+}

@@ -1,0 +1,230 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Sheer Mag with Dirty Fences, Metalleg, and Wild At Heart at PhilaMOCA (November 14, 2016)", 
+        "popularity": 0.001548, 
+        "venue": {
+            "displayName": "PhilaMOCA", 
+            "uri": "http://www.songkick.com/venues/1284981-philamoca?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9622464, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.157503, 
+            "id": 1284981
+        }, 
+        "uri": "http://www.songkick.com/concerts/28406944-sheer-mag-at-philamoca?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-14", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-14T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9622464, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.157503
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cdf4785a-e2da-47b0-b98c-4bfac0665850", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cdf4785a-e2da-47b0-b98c-4bfac0665850.json"
+                        }
+                    ], 
+                    "displayName": "Sheer Mag", 
+                    "uri": "http://www.songkick.com/artists/8333673-sheer-mag?utm_source=32233&utm_medium=partner", 
+                    "id": 8333673
+                }, 
+                "displayName": "Sheer Mag", 
+                "id": 55223189, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c9c1a928-bacc-4d78-aa56-9b1c8129f787", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c9c1a928-bacc-4d78-aa56-9b1c8129f787.json"
+                        }
+                    ], 
+                    "displayName": "Dirty Fences", 
+                    "uri": "http://www.songkick.com/artists/2511176-dirty-fences?utm_source=32233&utm_medium=partner", 
+                    "id": 2511176
+                }, 
+                "displayName": "Dirty Fences", 
+                "id": 55223194, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Metalleg", 
+                    "uri": "http://www.songkick.com/artists/5511363-metalleg?utm_source=32233&utm_medium=partner", 
+                    "id": 5511363
+                }, 
+                "displayName": "Metalleg", 
+                "id": 55240074, 
+                "billing": "support", 
+                "billingIndex": 3
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5461fd57-2470-43c7-ad8b-594f8626dd73", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5461fd57-2470-43c7-ad8b-594f8626dd73.json"
+                        }
+                    ], 
+                    "displayName": "Wild At Heart", 
+                    "uri": "http://www.songkick.com/artists/5326-wild-at-heart?utm_source=32233&utm_medium=partner", 
+                    "id": 5326
+                }, 
+                "displayName": "Wild At Heart", 
+                "id": 55308164, 
+                "billing": "support", 
+                "billingIndex": 4
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28406944
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Sheer Mag", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2014", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Philadelphia", 
+            "disambiguation": "", 
+            "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2", 
+            "name": "Philadelphia"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://sheermag.bandcamp.com/", 
+                    "id": "62a09aba-c9b0-492c-b9bd-d00246cbe94d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4035473", 
+                    "id": "599802ca-1f7f-4cc2-91a6-2167e2a4ba9a"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Sheer-Mag-181438518856520", 
+                    "id": "721b8656-21fb-47da-be2b-27bd2b1a93df"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/sheer-mag", 
+                    "id": "02af8ef0-4202-4c6c-a30c-44da2b9f2765"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Sheer_Mag", 
+                    "id": "40be25fd-67a9-4f3f-a5cc-f1c85d5beb97"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Philadelphia", 
+            "disambiguation": "", 
+            "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2", 
+            "name": "Philadelphia"
+        }, 
+        "sort-name": "Sheer Mag", 
+        "country": null, 
+        "disambiguation": "", 
+        "type": "Group", 
+        "id": "cdf4785a-e2da-47b0-b98c-4bfac0665850", 
+        "gender-id": null
+    }, 
+    "id": 28406944, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

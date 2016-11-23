@@ -1,0 +1,258 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Pat McGee with Matt Santry at Tin Angel at Serrano (December 10, 2016)", 
+        "popularity": 0.001382, 
+        "venue": {
+            "displayName": "Tin Angel at Serrano", 
+            "uri": "http://www.songkick.com/venues/2640-tin-angel-at-serrano?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9494478, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1438542, 
+            "id": 2640
+        }, 
+        "uri": "http://www.songkick.com/concerts/27760869-pat-mcgee-at-tin-angel-at-serrano?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-10", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-10T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9494478, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1438542
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6060e446-49f5-4e3b-b72c-a162ba4896ac", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6060e446-49f5-4e3b-b72c-a162ba4896ac.json"
+                        }, 
+                        {
+                            "mbid": "6d81a648-5ba4-4970-8007-739ee18cb880", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6d81a648-5ba4-4970-8007-739ee18cb880.json"
+                        }
+                    ], 
+                    "displayName": "Pat McGee", 
+                    "uri": "http://www.songkick.com/artists/592869-pat-mcgee?utm_source=32233&utm_medium=partner", 
+                    "id": 592869
+                }, 
+                "displayName": "Pat McGee", 
+                "id": 54076324, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Matt Santry", 
+                    "uri": "http://www.songkick.com/artists/260325-matt-santry?utm_source=32233&utm_medium=partner", 
+                    "id": 260325
+                }, 
+                "displayName": "Matt Santry", 
+                "id": 54983349, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27760869
+    }, 
+    "musicbrainz_response": {
+        "name": "Pat McGee", 
+        "area": {
+            "sort-name": "Annandale", 
+            "disambiguation": "", 
+            "id": "d948fa7f-86c9-44c9-968b-d750916a2980", 
+            "name": "Annandale"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1973-01-16", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4356215", 
+                    "id": "c10fb42f-932b-4772-823a-5d98e04f8215"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://patmcgee.net/", 
+                    "id": "81ceea89-2ebc-4a3c-8a5f-a0104caddd81"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id64369548", 
+                    "id": "b7d9e98b-d482-46d8-959d-24b2b23c0e35"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/patmcgee", 
+                    "id": "fa13e827-54ab-4bf8-9327-5302f3e9d503"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/PatMcGee", 
+                    "id": "4235b7b5-29a5-4bbd-9cfb-52d6c914369e"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q7143746", 
+                    "id": "d0b08bf1-2499-4a25-b309-3af4fdce5c4a"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Pat_McGee_(musician)", 
+                    "id": "c5da2ca8-387e-48c2-8d7c-f0f47b788ef0"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/PatMcGeeBand", 
+                    "id": "28f2c5c5-7dfc-44f6-b4dd-04c38a025870"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Richmond", 
+            "disambiguation": "", 
+            "name": "Richmond", 
+            "id": "afaa40c1-2e11-4a9b-9a33-ff0603e3e312"
+        }, 
+        "sort-name": "McGee, Pat", 
+        "country": null, 
+        "id": "6060e446-49f5-4e3b-b72c-a162ba4896ac", 
+        "type": "Person", 
+        "twitter": "patmcgee", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15462, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 25.0, 
+        "price_min": 25.0
+    }, 
+    "modified_time": 1479442087.0, 
+    "created_time": 1478566061.0, 
+    "modified_minutes": 862, 
+    "id": 27760869
+}

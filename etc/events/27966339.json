@@ -1,0 +1,131 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Tierney Sutton Band at Birdland (November 10, 2016)", 
+        "popularity": 0.000218, 
+        "venue": {
+            "displayName": "Birdland", 
+            "uri": "http://www.songkick.com/venues/10734-birdland?utm_source=32233&utm_medium=partner", 
+            "lat": 40.759194, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9898, 
+            "id": 10734
+        }, 
+        "uri": "http://www.songkick.com/concerts/27966339-tierney-sutton-band-at-birdland?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "23:00:00", 
+            "datetime": "2016-11-10T23:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.759194, 
+            "city": "New York, NY, US", 
+            "lng": -73.9898
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1ad54e37-e0c1-4fc8-b367-3205403b9273", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1ad54e37-e0c1-4fc8-b367-3205403b9273.json"
+                        }
+                    ], 
+                    "displayName": "The Tierney Sutton Band", 
+                    "uri": "http://www.songkick.com/artists/511256-tierney-sutton-band?utm_source=32233&utm_medium=partner", 
+                    "id": 511256
+                }, 
+                "displayName": "The Tierney Sutton Band", 
+                "id": 54454594, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27966339
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Tierney Sutton Band", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/thetierneysuttonband", 
+                    "id": "e096ce15-4aab-45ad-8c98-cd5ca4ec2ac0"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://tierneysutton.com/", 
+                    "id": "64c5500c-71e9-4230-b035-0f765bc7ab9f"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Sutton, Tierny, Band, The", 
+        "gender": null, 
+        "type": "Group", 
+        "id": "1ad54e37-e0c1-4fc8-b367-3205403b9273", 
+        "disambiguation": ""
+    }, 
+    "id": 27966339, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

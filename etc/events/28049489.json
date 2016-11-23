@@ -1,0 +1,119 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "JABRONI FEST 2016", 
+        "series": {
+            "displayName": "JABRONI FEST"
+        }, 
+        "popularity": 4.8e-05, 
+        "venue": {
+            "displayName": "The Star Community Bar", 
+            "uri": "http://www.songkick.com/venues/31902-star-community-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7666306, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.349054, 
+            "id": 31902
+        }, 
+        "uri": "http://www.songkick.com/festivals/873439/id/28049489-jabroni-fest-2016?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 33.7666306, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.349054
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c5692bbb-c046-4a80-bfac-2efb0730514f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c5692bbb-c046-4a80-bfac-2efb0730514f.json"
+                        }
+                    ], 
+                    "displayName": "KarbomB", 
+                    "uri": "http://www.songkick.com/artists/902197-karbomb?utm_source=32233&utm_medium=partner", 
+                    "id": 902197
+                }, 
+                "displayName": "KarbomB", 
+                "id": 54601519, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "end": {
+            "date": "2016-11-12", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "type": "Festival", 
+        "id": 28049489
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Karbomb", 
+        "area": {
+            "sort-name": "Athens", 
+            "disambiguation": "", 
+            "id": "29d7853f-28be-4114-8a5b-5dd95d162d69", 
+            "name": "Athens"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://karbomb.bandcamp.com/", 
+                    "id": "69f6da5a-5077-4831-a3d5-4fec81dc5b81"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Karbomb", 
+        "country": null, 
+        "id": "c5692bbb-c046-4a80-bfac-2efb0730514f", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28049489, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

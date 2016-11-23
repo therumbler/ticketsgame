@@ -1,0 +1,145 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Metalachi at Scout Bar (December 10, 2016)", 
+        "popularity": 0.000544, 
+        "venue": {
+            "displayName": "Scout Bar", 
+            "uri": "http://www.songkick.com/venues/5209-scout-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 29.5435556, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.1039869, 
+            "id": 5209
+        }, 
+        "uri": "http://www.songkick.com/concerts/27557274-metalachi-at-scout-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-10", 
+            "time": "22:00:00", 
+            "datetime": "2016-12-10T22:00:00-0600"
+        }, 
+        "location": {
+            "lat": 29.5435556, 
+            "city": "Houston, TX, US", 
+            "lng": -95.1039869
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cbe5d8bd-bd44-49e1-a4e8-f8ae5caa552b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cbe5d8bd-bd44-49e1-a4e8-f8ae5caa552b.json"
+                        }
+                    ], 
+                    "displayName": "Metalachi", 
+                    "uri": "http://www.songkick.com/artists/3139591-metalachi?utm_source=32233&utm_medium=partner", 
+                    "id": 3139591
+                }, 
+                "displayName": "Metalachi", 
+                "id": 53710489, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27557274
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Metalachi", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/metalachi", 
+                    "id": "b91fae1f-fd24-4192-a5f6-297caadaed81"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Metalachi", 
+                    "id": "d15e1427-1ffe-4671-a2f4-b49fa675b6a5"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/Metalachi", 
+                    "id": "da744d08-739f-4789-87d8-054c8f610766"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Metalachi", 
+        "country": null, 
+        "id": "cbe5d8bd-bd44-49e1-a4e8-f8ae5caa552b", 
+        "type": "Group", 
+        "twitter": "metalachi", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15456, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 12.0, 
+        "price_min": 12.0
+    }, 
+    "modified_time": 1478566013.0, 
+    "id": 27557274
+}

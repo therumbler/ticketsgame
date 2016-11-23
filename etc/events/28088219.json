@@ -1,0 +1,313 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "16+", 
+        "displayName": "Angel Olsen at Bluebird Theater (February 10, 2017)", 
+        "popularity": 0.018607, 
+        "venue": {
+            "displayName": "Bluebird Theater", 
+            "uri": "http://www.songkick.com/venues/10459-bluebird-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7402806, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.948382, 
+            "id": 10459
+        }, 
+        "uri": "http://www.songkick.com/concerts/28088219-angel-olsen-at-bluebird-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-10", 
+            "time": "20:00:00", 
+            "datetime": "2017-02-10T20:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.7402806, 
+            "city": "Denver, CO, US", 
+            "lng": -104.948382
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "185527bf-c293-4c24-8213-ed98fb8976be", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:185527bf-c293-4c24-8213-ed98fb8976be.json"
+                        }
+                    ], 
+                    "displayName": "Angel Olsen", 
+                    "uri": "http://www.songkick.com/artists/732074-angel-olsen?utm_source=32233&utm_medium=partner", 
+                    "id": 732074
+                }, 
+                "displayName": "Angel Olsen", 
+                "id": 54667284, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28088219
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Angel Olsen", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1987-01-22", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/307467067", 
+                    "id": "8f120974-ed59-4196-8dd4-ab70a9d34b35"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002693655", 
+                    "id": "06718ff2-21c9-458b-9fca-2a68d12f9c7c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://angelolsen.bandcamp.com/", 
+                    "id": "722fedac-62a4-4cb4-affe-76acb2801a22"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1759402", 
+                    "id": "a4caf4f7-0209-4c2c-b1f0-8e2a15ac2b1d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://angelolsen.com/", 
+                    "id": "7aef1a51-dc6a-457c-90cd-813d20eb8c55"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/angel_olsen", 
+                    "id": "8f674a78-526a-4576-80d9-100482739311"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.worldcat.org/wcidentities/lccn-no2014-36664", 
+                    "id": "3349b610-87b5-4d51-b60b-5292dca87fc1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/angelolsenmusic/", 
+                    "id": "a6280964-797a-4024-b403-bd4c2e707943"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/AngelOlsen", 
+                    "id": "b4826b08-405d-4877-a44b-92cd4fe9db20"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/angelolsenmusic", 
+                    "id": "c5697db3-3f9b-48f1-a50d-58ce149b7974"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q6462653", 
+                    "id": "a8e35958-c264-4428-9184-7e356bfec623"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/AngelOlsenVEVO", 
+                    "id": "ab0197c5-5450-4a2c-83bc-b1fee5b72759"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00686537595"
+        ], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "St. Louis", 
+            "disambiguation": "", 
+            "id": "759f9567-9107-40ef-a825-e57824a62e70", 
+            "name": "St. Louis"
+        }, 
+        "id": "185527bf-c293-4c24-8213-ed98fb8976be", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Olsen, Angel", 
+        "type": "Person", 
+        "twitter": "AngelOlsen", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.songkick.com/store/events/28088219"
+    }, 
+    "modified_time": 1479442436.0, 
+    "created_minutes": 18169, 
+    "created_time": 1478566006.0, 
+    "modified_minutes": 3562, 
+    "id": 28088219
+}

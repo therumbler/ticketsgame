@@ -1,0 +1,144 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "All Ages", 
+        "displayName": "Ricky Dillon and Andrew Lowe at Gothic Theatre (December 4, 2016)", 
+        "popularity": 0.003895, 
+        "venue": {
+            "displayName": "Gothic Theatre", 
+            "uri": "http://www.songkick.com/venues/5229-gothic-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 39.6557761, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9876818, 
+            "id": 5229
+        }, 
+        "uri": "http://www.songkick.com/concerts/28418359-ricky-dillon-at-gothic-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-04", 
+            "time": "14:30:00", 
+            "datetime": "2016-12-04T14:30:00-0700"
+        }, 
+        "location": {
+            "lat": 39.6557761, 
+            "city": "Englewood, CO, US", 
+            "lng": -104.9876818
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1bab1711-7ecb-4cf9-8ed6-45457caf6657", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1bab1711-7ecb-4cf9-8ed6-45457caf6657.json"
+                        }
+                    ], 
+                    "displayName": "Ricky Dillon", 
+                    "uri": "http://www.songkick.com/artists/7211014-ricky-dillon?utm_source=32233&utm_medium=partner", 
+                    "id": 7211014
+                }, 
+                "displayName": "Ricky Dillon", 
+                "id": 55243609, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "97c75ef1-730a-44ac-9f7a-d286592a299e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:97c75ef1-730a-44ac-9f7a-d286592a299e.json"
+                        }
+                    ], 
+                    "displayName": "Andrew Lowe", 
+                    "uri": "http://www.songkick.com/artists/2423206-andrew-lowe?utm_source=32233&utm_medium=partner", 
+                    "id": 2423206
+                }, 
+                "displayName": "Andrew Lowe", 
+                "id": 55243614, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28418359
+    }, 
+    "musicbrainz_response": {
+        "name": "Ricky Dillon", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Ricky_Dillon", 
+                    "id": "7a5cff14-05cf-428c-afa4-a554faf88ad5"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/PICKLEandBANANA", 
+                    "id": "6c0297b0-9441-4be7-af4e-96f95935ee10"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Dillon, Ricky", 
+        "type": null, 
+        "id": "1bab1711-7ecb-4cf9-8ed6-45457caf6657", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.songkick.com/store/events/28418359"
+    }, 
+    "modified_time": 1479442568.0, 
+    "created_minutes": 18231, 
+    "created_time": 1478566005.0, 
+    "modified_minutes": 3622, 
+    "id": 28418359
+}

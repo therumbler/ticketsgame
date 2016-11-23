@@ -1,0 +1,157 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "19+", 
+        "displayName": "Jabberwock and Snaggle at Duffy's Tavern (November 12, 2016)", 
+        "popularity": 4.7e-05, 
+        "venue": {
+            "displayName": "Duffy's Tavern", 
+            "uri": "http://www.songkick.com/venues/786316-duffys-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6592339, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.439508, 
+            "id": 786316
+        }, 
+        "uri": "http://www.songkick.com/concerts/28370784-jabberwock-at-duffys-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-12T21:00:00-0500"
+        }, 
+        "location": {
+            "lat": 43.6592339, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.439508
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c60e70ed-230a-48bb-b36a-042b051585ab", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c60e70ed-230a-48bb-b36a-042b051585ab.json"
+                        }
+                    ], 
+                    "displayName": "Jabberwock", 
+                    "uri": "http://www.songkick.com/artists/258494-jabberwock?utm_source=32233&utm_medium=partner", 
+                    "id": 258494
+                }, 
+                "displayName": "Jabberwock", 
+                "id": 55161399, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Snaggle", 
+                    "uri": "http://www.songkick.com/artists/6720204-snaggle?utm_source=32233&utm_medium=partner", 
+                    "id": 6720204
+                }, 
+                "displayName": "Snaggle", 
+                "id": 55161404, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28370784
+    }, 
+    "bandsintown_response": [], 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Jabberwock", 
+        "area": {
+            "sort-name": "France", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "FR"
+            ], 
+            "name": "France", 
+            "id": "08310658-51eb-3801-80de-5a0739207115"
+        }, 
+        "country": "FR", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/202108", 
+                    "id": "c2446b8f-387c-4148-8c36-0db4f557d3e7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/jabberwock", 
+                    "id": "47da0f43-cd28-4ece-979a-90d7e281b45c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.jabberwock-music.com/", 
+                    "id": "e8629d54-fbc4-4ca6-9b6f-0a3d5abcdff1"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Jabberwock", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "c60e70ed-230a-48bb-b36a-042b051585ab", 
+        "type": "Group", 
+        "disambiguation": ""
+    }, 
+    "id": 28370784, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

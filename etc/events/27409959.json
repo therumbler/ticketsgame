@@ -1,0 +1,364 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Wynton Marsalis and Catherine Russell at Schermerhorn Symphony Center (December 9, 2016)", 
+        "popularity": 0.016021, 
+        "venue": {
+            "displayName": "Schermerhorn Symphony Center", 
+            "uri": "http://www.songkick.com/venues/11073-schermerhorn-symphony-center?utm_source=32233&utm_medium=partner", 
+            "lat": 36.159761, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.775546, 
+            "id": 11073
+        }, 
+        "uri": "http://www.songkick.com/concerts/27409959-wynton-marsalis-at-schermerhorn-symphony-center?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-09", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-09T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.159761, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.775546
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0d74dcc7-5684-4695-830f-a9846aad8ba9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0d74dcc7-5684-4695-830f-a9846aad8ba9.json"
+                        }
+                    ], 
+                    "displayName": "Wynton Marsalis", 
+                    "uri": "http://www.songkick.com/artists/190243-wynton-marsalis?utm_source=32233&utm_medium=partner", 
+                    "id": 190243
+                }, 
+                "displayName": "Wynton Marsalis", 
+                "id": 53433254, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4abc9193-5f45-499a-9ffa-1a819d0a6afd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4abc9193-5f45-499a-9ffa-1a819d0a6afd.json"
+                        }
+                    ], 
+                    "displayName": "Catherine Russell", 
+                    "uri": "http://www.songkick.com/artists/383603-catherine-russell?utm_source=32233&utm_medium=partner", 
+                    "id": 383603
+                }, 
+                "displayName": "Catherine Russell", 
+                "id": 53433259, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27409959
+    }, 
+    "musicbrainz_response": {
+        "name": "Wynton Marsalis", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "jazz"
+            }, 
+            {
+                "count": 1, 
+                "name": "jazz and blues"
+            }
+        ], 
+        "gender": "Male", 
+        "twitter": "wyntonmarsalis", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/0d74dcc7-5684-4695-830f-a9846aad8ba9", 
+                    "id": "b51aea71-cbeb-4562-a5c6-02c7cf641392"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/17408121", 
+                    "id": "f2bf6e45-b261-4741-9fde-63e7eb19bc8e"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000961688", 
+                    "id": "b02fbd7e-f26e-498a-9127-bb46e686a6ea"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/253392", 
+                    "id": "7653e3a5-af0f-4db3-b335-14cc354e3779"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://wyntonmarsalis.org/", 
+                    "id": "8aca4da1-e096-460f-9268-d1038ae25c43"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.flickr.com/photos/wyntonmarsalis/", 
+                    "id": "d2f73fed-1067-48e9-a889-f96c36fa9707"
+                }, 
+                "direction": "forward", 
+                "type-id": "35b3a50f-bf0e-4309-a3b4-58eeed8cee6a", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "online community", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/wyntonmarsalis", 
+                    "id": "b373fe7b-e4f5-4640-98f5-af9f88f35613"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/wyntonmarsalis", 
+                    "id": "069eef94-3219-4aa6-9db7-2502a9ab8b40"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://vimeo.com/wyntonmarsalis", 
+                    "id": "ea40936c-54c4-40be-af6c-7309834be5d9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d86c9450-b6d0-4760-a275-e7547495b48b", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "video channel", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q273076", 
+                    "id": "6d416499-6b29-49ca-bf43-4bb8ec57cb9d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Wynton_Marsalis", 
+                    "id": "d8f7249e-4996-4615-82e5-393ce02c2da9"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/wyntonmarsalis", 
+                    "id": "95661857-9404-44c2-86aa-63ba13108771"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "id": "0d74dcc7-5684-4695-830f-a9846aad8ba9", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Marsalis, Wynton", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1961-10-18", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15453, 
+    "bandsintown_response": {
+        "description": "Wynton Marsalis Schermerhorn Symphony Center Tickets - Buy and sell Wynton Marsalis Nashville Tickets for December 9 at Schermerhorn Symphony Center in Nashville, TN on StubHub!", 
+        "title": "Wynton Marsalis @ Schermerhorn Symphony Center in Nashville, TN", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Nashville", 
+            "name": "Schermerhorn Symphony Center", 
+            "country": "United States", 
+            "region": "TN", 
+            "longitude": -86.776331, 
+            "place": "Schermerhorn Symphony Center", 
+            "latitude": 36.160045
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12357591?app_id=ticketgame&artist=Wynton+Marsalis&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12357591/buy_tickets?app_id=ticketgame&artist=Wynton+Marsalis&came_from=67", 
+        "on_sale_datetime": "2016-07-22T15:00:00", 
+        "formatted_datetime": "Friday, December 9, 2016 at 8:00PM", 
+        "datetime": "2016-12-09T20:00:00", 
+        "formatted_location": "Nashville, TN", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F1B0050D66A920F1E&subId1=67%7E16037026%7E22652137%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.wyntonmarsalis.com/", 
+                "facebook_page_url": null, 
+                "name": "Wynton Marsalis", 
+                "url": "WyntonMarsalis", 
+                "tracker_count": 69513, 
+                "mbid": "0d74dcc7-5684-4695-830f-a9846aad8ba9", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5810831.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/WyntonMarsalis/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5810831.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12357591
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 162.45, 
+        "price_min": 68.15
+    }, 
+    "modified_time": 1478566041.0, 
+    "id": 27409959
+}

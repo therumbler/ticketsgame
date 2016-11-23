@@ -1,0 +1,111 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Casper Skulls at Kung Fu Necktie (November 15, 2016)", 
+        "popularity": 1.5e-05, 
+        "venue": {
+            "displayName": "Kung Fu Necktie", 
+            "uri": "http://www.songkick.com/venues/34146-kung-fu-necktie?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9702741, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1359229, 
+            "id": 34146
+        }, 
+        "uri": "http://www.songkick.com/concerts/28371689-casper-skulls-at-kung-fu-necktie?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 39.9702741, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1359229
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c85f788c-a791-429c-8306-c190c52786b4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c85f788c-a791-429c-8306-c190c52786b4.json"
+                        }
+                    ], 
+                    "displayName": "Casper Skulls", 
+                    "uri": "http://www.songkick.com/artists/8590239-casper-skulls?utm_source=32233&utm_medium=partner", 
+                    "id": 8590239
+                }, 
+                "displayName": "Casper Skulls", 
+                "id": 55162999, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28371689
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Casper Skulls", 
+        "area": {
+            "sort-name": "Toronto", 
+            "disambiguation": "", 
+            "name": "Toronto", 
+            "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://casperskulls.bandcamp.com/", 
+                    "id": "f6c15e41-94a8-4d03-a57b-fad14b887b3a"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Casper Skulls", 
+        "gender": null, 
+        "type": "Group", 
+        "id": "c85f788c-a791-429c-8306-c190c52786b4", 
+        "disambiguation": ""
+    }, 
+    "id": 28371689, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.002927, 
+        "displayName": "John Askew with Illuminate and 11.18 at Opera Nightclub (November 18, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Opera Nightclub", 
+            "uri": "http://www.songkick.com/venues/952751-opera-nightclub?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7859671, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3841915, 
+            "id": 952751
+        }, 
+        "uri": "http://www.songkick.com/concerts/28221884-john-askew-at-opera-nightclub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "datetime": "2016-11-18T22:00:00-0500", 
+            "time": "22:00:00"
+        }, 
+        "location": {
+            "lat": 33.7859671, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.3841915
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "John Askew", 
+                "id": 54903274, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "98afb7f2-a5e8-40aa-b5af-0a98c4c21bbd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:98afb7f2-a5e8-40aa-b5af-0a98c4c21bbd.json"
+                        }, 
+                        {
+                            "mbid": "4b2efbcf-debb-49f6-a402-0461ef3e0254", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4b2efbcf-debb-49f6-a402-0461ef3e0254.json"
+                        }
+                    ], 
+                    "displayName": "John Askew", 
+                    "uri": "http://www.songkick.com/artists/2541-john-askew?utm_source=32233&utm_medium=partner", 
+                    "id": 2541
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Illuminate", 
+                "id": 54908299, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "db4aa955-e931-4806-aa03-32b8d4e2f8b5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:db4aa955-e931-4806-aa03-32b8d4e2f8b5.json"
+                        }
+                    ], 
+                    "displayName": "Illuminate", 
+                    "uri": "http://www.songkick.com/artists/510116-illuminate?utm_source=32233&utm_medium=partner", 
+                    "id": 510116
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "11.18", 
+                "id": 54908304, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "11.18", 
+                    "uri": "http://www.songkick.com/artists/5857144-1118?utm_source=32233&utm_medium=partner", 
+                    "id": 5857144
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28221884
+    }, 
+    "musicbrainz_response": {
+        "name": "John Askew", 
+        "tags": [], 
+        "country": "GB", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/45835", 
+                    "id": "6e96b92c-e5b8-4c66-acff-c817c6758e94"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/johnaskew", 
+                    "id": "dfabb068-2a51-404b-9314-4e9c55eac8ad"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.djjohnaskew.com/", 
+                    "id": "e4d8e8d7-151c-4a89-aa3b-f8e778b74ffc"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Askew, John", 
+        "type": "Person", 
+        "id": "98afb7f2-a5e8-40aa-b5af-0a98c4c21bbd", 
+        "disambiguation": "British DJ"
+    }, 
+    "bandsintown_response": {
+        "description": "Illuminate - John Askew | 11.18", 
+        "title": "John Askew @ Opera Nightclub in Atlanta, GA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Atlanta", 
+            "name": "Opera Nightclub", 
+            "country": "United States", 
+            "region": "GA", 
+            "longitude": -84.384292, 
+            "place": "Opera Nightclub", 
+            "latitude": 33.786099
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12597841?app_id=ticketgame&artist=John+Askew&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12597841/buy_tickets?app_id=ticketgame&artist=John+Askew&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Friday, November 18, 2016 at 10:00PM", 
+        "datetime": "2016-11-18T22:00:00", 
+        "formatted_location": "Atlanta, GA", 
+        "ticket_redirect_url": "https://www.eventbrite.com/e/liquified-presents-john-askew-tickets-26605844798?aff=ebapi&tracking_code=aff0bandsintown", 
+        "artists": [
+            {
+                "website": "http://www.djjohnaskew.com/", 
+                "facebook_page_url": null, 
+                "name": "John Askew", 
+                "url": "JohnAskew", 
+                "tracker_count": 14773, 
+                "mbid": "98afb7f2-a5e8-40aa-b5af-0a98c4c21bbd", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5110051.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/JohnAskew/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5110051.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12597841
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.eventbrite.com/e/liquified-presents-john-askew-tickets-26605844798?aff=ebapi&tracking_code=aff0bandsintown"
+    }, 
+    "modified_time": 1479442731.0, 
+    "created_minutes": 18194, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 3581, 
+    "id": 28221884
+}

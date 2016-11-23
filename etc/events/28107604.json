@@ -1,0 +1,131 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Accidentals at World Cafe Live \u2013 Upstairs (November 16, 2016)", 
+        "popularity": 0.000364, 
+        "venue": {
+            "displayName": "World Cafe Live \u2013 Upstairs", 
+            "uri": "http://www.songkick.com/venues/855146-world-cafe-live-upstairs?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9522059, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.185114, 
+            "id": 855146
+        }, 
+        "uri": "http://www.songkick.com/concerts/28107604-accidentals-at-world-cafe-live-upstairs?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-16T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9522059, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.185114
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "339f04de-a1fd-4978-8777-aaf9b6340d1c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:339f04de-a1fd-4978-8777-aaf9b6340d1c.json"
+                        }
+                    ], 
+                    "displayName": "Accidentals", 
+                    "uri": "http://www.songkick.com/artists/455302-accidentals?utm_source=32233&utm_medium=partner", 
+                    "id": 455302
+                }, 
+                "displayName": "Accidentals", 
+                "id": 54703004, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28107604
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Accidentals", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.theaccidentals.com/", 
+                    "id": "d98a8698-3d18-496d-aa5e-ad3c30f1c264"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q7712218", 
+                    "id": "b87054f5-c3e0-4599-9048-343e482ebc15"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "Accidentals, The", 
+        "type": "Group", 
+        "id": "339f04de-a1fd-4978-8777-aaf9b6340d1c", 
+        "disambiguation": ""
+    }, 
+    "id": 28107604, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

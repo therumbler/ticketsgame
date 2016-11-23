@@ -1,0 +1,185 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "18+", 
+        "displayName": "Takuya Kuroda and Makaya Mccraven at The Jazz Cafe (November 11, 2016)", 
+        "popularity": 0.001119, 
+        "venue": {
+            "displayName": "The Jazz Cafe", 
+            "uri": "http://www.songkick.com/venues/7404-jazz-cafe?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5387595, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1432729, 
+            "id": 7404
+        }, 
+        "uri": "http://www.songkick.com/concerts/27698929-takuya-kuroda-at-jazz-cafe?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-11T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5387595, 
+            "city": "London, UK", 
+            "lng": -0.1432729
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6d75cf4b-82b5-4fbe-a09a-5963af6d7576", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6d75cf4b-82b5-4fbe-a09a-5963af6d7576.json"
+                        }
+                    ], 
+                    "displayName": "Takuya Kuroda", 
+                    "uri": "http://www.songkick.com/artists/2761981-takuya-kuroda?utm_source=32233&utm_medium=partner", 
+                    "id": 2761981
+                }, 
+                "displayName": "Takuya Kuroda", 
+                "id": 53964219, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "59476fae-d0c9-4ebd-b03c-c38b19b30dff", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:59476fae-d0c9-4ebd-b03c-c38b19b30dff.json"
+                        }
+                    ], 
+                    "displayName": "Makaya Mccraven", 
+                    "uri": "http://www.songkick.com/artists/4660288-makaya-mccraven?utm_source=32233&utm_medium=partner", 
+                    "id": 4660288
+                }, 
+                "displayName": "Makaya Mccraven", 
+                "id": 53964224, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27698929
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Takuya Kuroda", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "twitter": "takutrumpet", 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.takuyakuroda.com/", 
+                    "id": "d1abd074-a858-4c53-b8a0-e26b2872f06d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/takutrumpet", 
+                    "id": "b6bce8cb-9e06-4070-895c-9ebca6303bb3"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/takuyakuroda", 
+                    "id": "0bc41678-1abc-4cb9-8363-ff386eec4b17"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1257691", 
+                    "id": "11d3cddb-0b91-471d-a755-6ad182094a0b"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Ashiya", 
+            "disambiguation": "", 
+            "id": "3003f728-2040-469a-98a9-3f3c4f120fd0", 
+            "name": "Ashiya"
+        }, 
+        "id": "6d75cf4b-82b5-4fbe-a09a-5963af6d7576", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Kuroda, Takuya", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1980-02-21", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 27698929, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

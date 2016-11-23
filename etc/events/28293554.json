@@ -1,0 +1,166 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 7.5e-05, 
+        "displayName": "Black Mass with All Hell at The Backstage at Championship Bar (November 18, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Backstage at Championship Bar", 
+            "uri": "http://www.songkick.com/venues/1294936-backstage-at-championship-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 40.211555, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -74.739166, 
+            "id": 1294936
+        }, 
+        "uri": "http://www.songkick.com/concerts/28293554-black-mass-at-backstage-at-championship-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "datetime": "2016-11-18T19:00:00-0500", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 40.211555, 
+            "city": "Trenton, NJ, US", 
+            "lng": -74.739166
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Black Mass", 
+                "id": 55024754, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f77e55a6-0cf4-4278-93d7-6053391bb4fd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f77e55a6-0cf4-4278-93d7-6053391bb4fd.json"
+                        }
+                    ], 
+                    "displayName": "Black Mass", 
+                    "uri": "http://www.songkick.com/artists/355312-black-mass?utm_source=32233&utm_medium=partner", 
+                    "id": 355312
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "All Hell", 
+                "id": 55024759, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9234d0ce-c961-49c1-b8b9-26f81332bee7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9234d0ce-c961-49c1-b8b9-26f81332bee7.json"
+                        }
+                    ], 
+                    "displayName": "All Hell", 
+                    "uri": "http://www.songkick.com/artists/7424814-all-hell?utm_source=32233&utm_medium=partner", 
+                    "id": 7424814
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28293554
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Black Mass", 
+        "area": {
+            "sort-name": "Leeds", 
+            "disambiguation": "", 
+            "name": "Leeds", 
+            "id": "116e3eb1-2b14-42c9-91a1-7a2510dcc4b3"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://blackmass666.bandcamp.com/", 
+                    "id": "b976ca40-1475-4884-b564-b1b6d5e5f20f"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Blackestmass", 
+                    "id": "0a213b15-5e8c-40eb-a034-3cbae19cb1aa"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/black-mass-666", 
+                    "id": "49651a5a-33a0-4fb3-bb14-06fb286e6a84"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Black Mass", 
+        "type": "Group", 
+        "id": "f77e55a6-0cf4-4278-93d7-6053391bb4fd", 
+        "disambiguation": "death / crust / grind"
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.brownpapertickets.com/event/2683413"
+    }, 
+    "modified_time": 1479442898.0, 
+    "created_minutes": 18201, 
+    "created_time": 1478566060.0, 
+    "modified_minutes": 3587, 
+    "id": 28293554
+}

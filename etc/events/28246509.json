@@ -1,0 +1,154 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Ekkah at Corsica Studios (November 10, 2016)", 
+        "popularity": 0.000865, 
+        "venue": {
+            "displayName": "Corsica Studios", 
+            "uri": "http://www.songkick.com/venues/8098-corsica-studios?utm_source=32233&utm_medium=partner", 
+            "lat": 51.4935647, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0987167, 
+            "id": 8098
+        }, 
+        "uri": "http://www.songkick.com/concerts/28246509-ekkah-at-corsica-studios?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-10T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.4935647, 
+            "city": "London, UK", 
+            "lng": -0.0987167
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9f2180a7-2f43-429b-a20e-795626157b34", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9f2180a7-2f43-429b-a20e-795626157b34.json"
+                        }
+                    ], 
+                    "displayName": "Ekkah", 
+                    "uri": "http://www.songkick.com/artists/7523499-ekkah?utm_source=32233&utm_medium=partner", 
+                    "id": 7523499
+                }, 
+                "displayName": "Ekkah", 
+                "id": 54942899, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28246509
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Ekkah", 
+        "tags": [], 
+        "country": "GB", 
+        "twitter": "ekkah", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "begin_area": null, 
+        "id": "9f2180a7-2f43-429b-a20e-795626157b34", 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.umusicpub.co.uk/en-GB/Artists/E/EKKAH.aspx", 
+                    "id": "1a296a77-1a62-436a-bcd7-02440dd91e23"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/ekkah", 
+                    "id": "f6a56de7-0003-4e6c-b549-dcb63c559e3d"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/ekkah", 
+                    "id": "f92f9147-b826-4640-bd47-7a1e3193699e"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Ekkah", 
+        "type": "Group", 
+        "life-span": {
+            "ended": true, 
+            "begin": "2013", 
+            "end": null
+        }
+    }, 
+    "id": 28246509, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,257 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Billy Porter at Aventura Arts Cultural Center (April 2, 2017)", 
+        "popularity": 0.001375, 
+        "venue": {
+            "displayName": "Aventura Arts Cultural Center", 
+            "uri": "http://www.songkick.com/venues/1213316-aventura-arts-cultural-center?utm_source=32233&utm_medium=partner", 
+            "lat": 25.9497563, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "FL"
+                }, 
+                "displayName": "Miami", 
+                "uri": "http://www.songkick.com/metro_areas/9776-us-miami?utm_source=32233&utm_medium=partner", 
+                "id": 9776
+            }, 
+            "lng": -80.1346255, 
+            "id": 1213316
+        }, 
+        "uri": "http://www.songkick.com/concerts/27497704-billy-porter-at-aventura-arts-cultural-center?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-04-02", 
+            "time": "19:00:00", 
+            "datetime": "2017-04-02T19:00:00-0400"
+        }, 
+        "location": {
+            "lat": 25.9497563, 
+            "city": "Miami, FL, US", 
+            "lng": -80.1346255
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "aa4fc8d3-aca1-4be4-b730-0ccb823c20ba", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:aa4fc8d3-aca1-4be4-b730-0ccb823c20ba.json"
+                        }
+                    ], 
+                    "displayName": "Billy Porter", 
+                    "uri": "http://www.songkick.com/artists/396091-billy-porter?utm_source=32233&utm_medium=partner", 
+                    "id": 396091
+                }, 
+                "displayName": "Billy Porter", 
+                "id": 53598894, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27497704
+    }, 
+    "musicbrainz_response": {
+        "name": "Billy Porter", 
+        "tags": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1969-09-21", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0692039/", 
+                    "id": "b7f80e4a-469f-4e18-bb72-de89908a95c8"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/26655125", 
+                    "id": "c5f8d943-c35b-4df0-84ae-78035c979c29"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000091081", 
+                    "id": "d55f4e83-1167-4549-910c-0541c6e5d40f"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/426971", 
+                    "id": "814f82b1-f756-4726-9e4f-7fc629c6f83f"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Billy+Porter", 
+                    "id": "e6c36fa6-f29b-49c8-8ecd-2de06589a301"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q4913177", 
+                    "id": "e56eb268-5735-4245-8631-6d06857a8a02"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Billy_Porter_(entertainer)", 
+                    "id": "146370b6-1a7f-4fd8-b655-f138500b94f1"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Pittsburgh", 
+            "disambiguation": "", 
+            "id": "787abc26-28ce-44f8-a2d1-82d86b5d28a8", 
+            "name": "Pittsburgh"
+        }, 
+        "sort-name": "Porter, Billy", 
+        "gender": "Male", 
+        "type": "Person", 
+        "id": "aa4fc8d3-aca1-4be4-b730-0ccb823c20ba", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15454, 
+    "bandsintown_response": {
+        "description": "Kinky Boots Star Performs Broadway Hits Broadway sensation Billy Porter makes his Aventura debut! Best known for his Tony Award winning portrayal in Kinky Boots, this Grammy Award winning singer and composer brings his extraordinary gifted and soulful voice to the Aventura Arts and Cultural Center. Billy Porter is a Tony and GRAMMY Award-winning singer, composer, actor, playwright and director from Pittsburgh, PA. Porter graduated from the Musical Theatre Program at Pittsburgh Creative and Performing Arts School's School of Drama and achieved fame performing on Broadway before going off on a solo career as a singer. Porter won the 2013 Tony Award for Best Actor in a Musical for his role as Lola in Kinky Boots at the 67th Tony Awards. For the role, Porter also won the Drama Desk Award for Outstanding Actor in a Musical and Outer Critics Award for Outstanding Actor in a Musical.", 
+        "title": "Billy Porter @ Aventura Arts & Cultural Center in Aventura, FL", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Aventura", 
+            "name": "Aventura Arts & Cultural Center", 
+            "country": "United States", 
+            "region": "FL", 
+            "longitude": -80.135786, 
+            "place": "Aventura Arts & Cultural Center", 
+            "latitude": 25.949669
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12496498?app_id=ticketgame&artist=Billy+Porter&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12496498/buy_tickets?app_id=ticketgame&artist=Billy+Porter&came_from=67", 
+        "on_sale_datetime": "2016-07-19T14:00:00", 
+        "formatted_datetime": "Sunday, April 2, 2017 at 7:00PM", 
+        "datetime": "2017-04-02T19:00:00", 
+        "formatted_location": "Aventura, FL", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F0D0050D8E064C604&subId1=67%7E15640020%7E22900405%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "Billy Porter", 
+                "url": "BillyPorter", 
+                "tracker_count": 2947, 
+                "mbid": "aa4fc8d3-aca1-4be4-b730-0ccb823c20ba", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/274218.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/BillyPorter/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/274218.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12496498
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 53.35, 
+        "price_min": 47.67
+    }, 
+    "modified_time": 1478566034.0, 
+    "id": 27497704
+}

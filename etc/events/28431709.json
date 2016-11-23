@@ -1,0 +1,202 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Whitney Rose at City Tavern (December 10, 2016)", 
+        "popularity": 7.5e-05, 
+        "venue": {
+            "displayName": "City Tavern", 
+            "uri": "http://www.songkick.com/venues/618756-city-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 32.7802239, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.800082, 
+            "id": 618756
+        }, 
+        "uri": "http://www.songkick.com/concerts/28431709-whitney-rose-at-city-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-10", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-10T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.7802239, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.800082
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b1ed6cb5-d87b-4a70-9111-2e40fbfc3eae", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b1ed6cb5-d87b-4a70-9111-2e40fbfc3eae.json"
+                        }
+                    ], 
+                    "displayName": "Whitney Rose", 
+                    "uri": "http://www.songkick.com/artists/4602108-whitney-rose?utm_source=32233&utm_medium=partner", 
+                    "id": 4602108
+                }, 
+                "displayName": "Whitney Rose", 
+                "id": 55265119, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28431709
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Whitney Rose", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "canadian"
+            }, 
+            {
+                "count": 1, 
+                "name": "country"
+            }, 
+            {
+                "count": 1, 
+                "name": "rose"
+            }, 
+            {
+                "count": 1, 
+                "name": "whitney"
+            }
+        ], 
+        "gender": "Female", 
+        "twitter": "whitneyroseband", 
+        "area": {
+            "sort-name": "Toronto", 
+            "disambiguation": "", 
+            "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77", 
+            "name": "Toronto"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/whitney-rose-lyrics", 
+                    "id": "42702fb9-8d53-4a60-b3d1-cfed38942d8a"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://whitneyrosemusic.com/", 
+                    "id": "4c124474-11bf-4734-be0b-b722d2da2c1a"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/whitneyroseband", 
+                    "id": "6ae97cc7-bcb4-4662-bdae-23ccc6d45c35"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/whitneyrosemusic", 
+                    "id": "73a2fff1-364c-43ed-8099-f6c4824d2cc9"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/whitneyroseband/", 
+                    "id": "344d3575-cc25-4301-83ac-e8529102a921"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Charlottetown", 
+            "disambiguation": "", 
+            "name": "Charlottetown", 
+            "id": "17b6837b-bd65-4ad9-8440-c28794348704"
+        }, 
+        "sort-name": "Rose, Whitney", 
+        "country": null, 
+        "id": "b1ed6cb5-d87b-4a70-9111-2e40fbfc3eae", 
+        "disambiguation": "", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2"
+    }, 
+    "id": 28431709, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

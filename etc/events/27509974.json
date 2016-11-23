@@ -1,0 +1,411 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.022761, 
+        "displayName": "John Prine with Ramblin' Jack Elliott at Golden State Theatre (December 14, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Golden State Theatre", 
+            "uri": "http://www.songkick.com/venues/4729-golden-state-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 36.5995257, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -121.894354, 
+            "id": 4729
+        }, 
+        "uri": "http://www.songkick.com/concerts/27509974-john-prine-at-golden-state-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-14", 
+            "datetime": "2016-12-14T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 36.5995257, 
+            "city": "Monterey, CA, US", 
+            "lng": -121.894354
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "John Prine", 
+                "id": 53619899, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e86492c1-0376-4df0-8042-8ba058c83960", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e86492c1-0376-4df0-8042-8ba058c83960.json"
+                        }
+                    ], 
+                    "displayName": "John Prine", 
+                    "uri": "http://www.songkick.com/artists/256713-john-prine?utm_source=32233&utm_medium=partner", 
+                    "id": 256713
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Ramblin' Jack Elliott", 
+                "id": 53672994, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "41ed6db5-7a87-4535-b9f1-67ce54598662", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:41ed6db5-7a87-4535-b9f1-67ce54598662.json"
+                        }
+                    ], 
+                    "displayName": "Ramblin' Jack Elliott", 
+                    "uri": "http://www.songkick.com/artists/95323-ramblin-jack-elliott?utm_source=32233&utm_medium=partner", 
+                    "id": 95323
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27509974
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Location"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "John Prine", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1946-10-10", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "name": "Nashville", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74"
+        }, 
+        "gender": "Male", 
+        "disambiguation": "", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "classic pop and rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "country"
+            }, 
+            {
+                "count": 1, 
+                "name": "folk"
+            }, 
+            {
+                "count": 1, 
+                "name": "singer/songwriter"
+            }
+        ], 
+        "isnis": [
+            "0000000055169138"
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/e86492c1-0376-4df0-8042-8ba058c83960", 
+                    "id": "37d19620-9918-437e-b6b1-d1bfaf423eb6"
+                }, 
+                "target-type": "url", 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "ended": false, 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0697789/", 
+                    "id": "f7ba4e60-eb63-49b2-af10-20ddca569dc8"
+                }, 
+                "target-type": "url", 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/29725016", 
+                    "id": "e0bdd660-9b57-44cc-bf8d-0857134375ea"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000814751", 
+                    "id": "37bbdaeb-7766-4142-8b97-90859ff1b543"
+                }, 
+                "target-type": "url", 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "url": {
+                    "resource": "http://johnprine.bandcamp.com/", 
+                    "id": "2c9f7f0b-ebd6-41dc-bd0e-c390623026be"
+                }, 
+                "target-type": "url", 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/274724", 
+                    "id": "46bc86be-f57d-42c9-93e2-0cd5c2f982b9"
+                }, 
+                "target-type": "url", 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.jpshrine.org/", 
+                    "id": "f8249f1f-e8f9-4d1b-9733-a0ac0dccbd7b"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:John_Prine_by_Ron_Baker.jpg", 
+                    "id": "8b52a2d9-5667-45f0-bd1c-b98f479f93f4"
+                }, 
+                "direction": "forward", 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "direction": "forward", 
+                "end": null, 
+                "ended": false, 
+                "url": {
+                    "resource": "http://decoda.com/john-prine-lyrics", 
+                    "id": "09c25d74-382d-4f3a-8f52-f8d6be9f6f4e"
+                }, 
+                "target-type": "url", 
+                "source-credit": "", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "direction": "forward", 
+                "end": null, 
+                "ended": false, 
+                "url": {
+                    "resource": "https://myspace.com/johnprine", 
+                    "id": "ee1e2362-b726-46b9-bce7-8ba5c32d719b"
+                }, 
+                "target-type": "url", 
+                "source-credit": "", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "url": {
+                    "resource": "http://www.johnprine.net/", 
+                    "id": "d6164779-0a57-4bac-9646-a90f26ab2b9c"
+                }, 
+                "target-type": "url", 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "direction": "forward", 
+                "end": null, 
+                "ended": false, 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/john_prine", 
+                    "id": "568f6293-d3e9-4198-93d1-9328cf60dfec"
+                }, 
+                "target-type": "url", 
+                "source-credit": "", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/1408", 
+                    "id": "bed773bd-bfe6-45a4-a672-910cdd2292de"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "direction": "forward", 
+                "end": null, 
+                "ended": false, 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT", 
+                    "id": "99f6abf0-c5a1-46b0-a95d-4f68593fa8ff"
+                }, 
+                "target-type": "url", 
+                "source-credit": "", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "ended": false, 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q520296", 
+                    "id": "29b2b656-9b58-4b46-a5d2-23e2062fed0a"
+                }, 
+                "target-type": "url", 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/John_Prine", 
+                    "id": "06374c4d-8a64-46a0-a4c9-5ded9035d3de"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00061506993"
+        ], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Maywood", 
+            "disambiguation": "", 
+            "name": "Maywood", 
+            "id": "9ffba150-8ad0-40f0-8a73-e756bff2f00a"
+        }, 
+        "sort-name": "Prine, John", 
+        "country": null, 
+        "type": "Person", 
+        "id": "e86492c1-0376-4df0-8042-8ba058c83960", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 27509974, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

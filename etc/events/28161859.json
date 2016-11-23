@@ -1,0 +1,132 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "GOOCH with Chris Paterno Band at World Cafe Live \u2013 Upstairs (November 25, 2016)", 
+        "popularity": 2.9e-05, 
+        "venue": {
+            "displayName": "World Cafe Live \u2013 Upstairs", 
+            "uri": "http://www.songkick.com/venues/855146-world-cafe-live-upstairs?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9522059, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.185114, 
+            "id": 855146
+        }, 
+        "uri": "http://www.songkick.com/concerts/28161859-gooch-at-world-cafe-live-upstairs?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-25T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9522059, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.185114
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ef415d83-881b-4197-97ff-31c35a19f75b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ef415d83-881b-4197-97ff-31c35a19f75b.json"
+                        }
+                    ], 
+                    "displayName": "GOOCH", 
+                    "uri": "http://www.songkick.com/artists/808851-gooch?utm_source=32233&utm_medium=partner", 
+                    "id": 808851
+                }, 
+                "displayName": "GOOCH", 
+                "id": 54797104, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Chris Paterno Band", 
+                    "uri": "http://www.songkick.com/artists/8791119-chris-paterno-band?utm_source=32233&utm_medium=partner", 
+                    "id": 8791119
+                }, 
+                "displayName": "Chris Paterno Band", 
+                "id": 54797109, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28161859
+    }, 
+    "musicbrainz_response": {
+        "name": "Gooch", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/287688", 
+                    "id": "00cdf1a2-c035-48c5-a324-e0d2aeaadd39"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Gooch", 
+        "type": "Person", 
+        "id": "ef415d83-881b-4197-97ff-31c35a19f75b", 
+        "disambiguation": "rapper"
+    }, 
+    "age_minutes": 15483, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442547.0, 
+    "created_time": 1478566060.0, 
+    "modified_minutes": 874, 
+    "id": 28161859
+}

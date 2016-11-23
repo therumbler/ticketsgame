@@ -1,0 +1,137 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Pistol Pete Wearn at Low, Slow & Juke (November 16, 2016)", 
+        "popularity": 6e-06, 
+        "venue": {
+            "displayName": "Low, Slow & Juke", 
+            "uri": "http://www.songkick.com/venues/3348859-low-slow-and-juke?utm_source=32233&utm_medium=partner", 
+            "lat": 51.4980721, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1325256, 
+            "id": 3348859
+        }, 
+        "uri": "http://www.songkick.com/concerts/28294714-pistol-pete-wearn-at-low-slow-and-juke?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.4980721, 
+            "city": "London, UK", 
+            "lng": -0.1325256
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "78031f15-41d0-4af0-8521-3ca51492b20e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:78031f15-41d0-4af0-8521-3ca51492b20e.json"
+                        }
+                    ], 
+                    "displayName": "Pistol Pete Wearn", 
+                    "uri": "http://www.songkick.com/artists/5918419-pistol-pete-wearn?utm_source=32233&utm_medium=partner", 
+                    "id": 5918419
+                }, 
+                "displayName": "Pistol Pete Wearn", 
+                "id": 55026429, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28294714
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Pistol Pete Wearn", 
+        "tags": [], 
+        "country": "GB", 
+        "twitter": "pistolpetewearn", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/pistolpetewearn", 
+                    "id": "5d27db94-807d-4110-ab05-74749b3d76c8"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pistolpetewearn", 
+                    "id": "abf7f001-0b2d-4600-a958-77ea63fcfd62"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Wearn, Pistol Pete", 
+        "gender": "Male", 
+        "id": "78031f15-41d0-4af0-8521-3ca51492b20e", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1981-10-04", 
+            "end": null
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28294714, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

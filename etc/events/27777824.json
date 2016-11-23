@@ -1,0 +1,273 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Julien Baker with Kevin Devine and The Goddamn Band, Pinegrove, and Petal at White Oak Music Hall (November 8, 2016)", 
+        "popularity": 0.002031, 
+        "venue": {
+            "displayName": "White Oak Music Hall", 
+            "uri": "http://www.songkick.com/venues/3205243-white-oak-music-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 29.785813, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.366975, 
+            "id": 3205243
+        }, 
+        "uri": "http://www.songkick.com/concerts/27777824-julien-baker-at-white-oak-music-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-08", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 29.785813, 
+            "city": "Houston, TX, US", 
+            "lng": -95.366975
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e3bda984-f349-4924-b4b8-f72478bbb3f3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e3bda984-f349-4924-b4b8-f72478bbb3f3.json"
+                        }
+                    ], 
+                    "displayName": "Julien Baker", 
+                    "uri": "http://www.songkick.com/artists/8559849-julien-baker?utm_source=32233&utm_medium=partner", 
+                    "id": 8559849
+                }, 
+                "displayName": "Julien Baker", 
+                "id": 54109164, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1142e65e-be27-4f64-8020-a2860198d738", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1142e65e-be27-4f64-8020-a2860198d738.json"
+                        }
+                    ], 
+                    "displayName": "Kevin Devine and The Goddamn Band", 
+                    "uri": "http://www.songkick.com/artists/2347487-kevin-devine-and-the-goddamn-band?utm_source=32233&utm_medium=partner", 
+                    "id": 2347487
+                }, 
+                "displayName": "Kevin Devine and The Goddamn Band", 
+                "id": 54109169, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "871fe26f-544d-4275-a5dd-af5442d15b92", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:871fe26f-544d-4275-a5dd-af5442d15b92.json"
+                        }
+                    ], 
+                    "displayName": "Pinegrove", 
+                    "uri": "http://www.songkick.com/artists/4550718-pinegrove?utm_source=32233&utm_medium=partner", 
+                    "id": 4550718
+                }, 
+                "displayName": "Pinegrove", 
+                "id": 54109174, 
+                "billing": "support", 
+                "billingIndex": 3
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5de70d7f-f334-4632-86c0-027a16f2373a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5de70d7f-f334-4632-86c0-027a16f2373a.json"
+                        }
+                    ], 
+                    "displayName": "Petal", 
+                    "uri": "http://www.songkick.com/artists/24770-petal?utm_source=32233&utm_medium=partner", 
+                    "id": 24770
+                }, 
+                "displayName": "Petal", 
+                "id": 54109179, 
+                "billing": "support", 
+                "billingIndex": 4
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27777824
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Julien Baker", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "twitter": "julienrbaker", 
+        "tags": [], 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Memphis", 
+            "disambiguation": "", 
+            "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a", 
+            "name": "Memphis"
+        }, 
+        "id": "e3bda984-f349-4924-b4b8-f72478bbb3f3", 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://julienbaker.bandcamp.com/", 
+                    "id": "43dee4af-ed10-438d-aebe-25c494e0cd1b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id1033453223", 
+                    "id": "3c33c734-e5d4-49c2-a0d2-eac483613be5"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/julienrbaker", 
+                    "id": "6f1a6bba-d38a-45e4-9860-4044f8181aea"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/julienrbaker", 
+                    "id": "f1b92122-ea07-4216-a5c9-9cbf3c729795"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/julienrbaker/", 
+                    "id": "c732a524-ca6d-468a-95ff-f1c2a52d88c7"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip", 
+                    "id": "09da3dc2-12bc-43be-acbc-9c80b28e1437"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Julien_Baker", 
+                    "id": "9cfb0ad1-7d08-42d3-83af-b688c875c0a8"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Baker, Julien", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1995-09-29", 
+            "end": null
+        }
+    }, 
+    "id": 27777824, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

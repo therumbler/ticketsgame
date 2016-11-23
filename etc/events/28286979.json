@@ -1,0 +1,384 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Jon B at Howard Theatre (December 22, 2016)", 
+        "popularity": 0.019747, 
+        "venue": {
+            "displayName": "Howard Theatre", 
+            "uri": "http://www.songkick.com/venues/74872-howard-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 38.915271, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.021098, 
+            "id": 74872
+        }, 
+        "uri": "http://www.songkick.com/concerts/28286979-jon-b-at-howard-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-22", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-22T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.915271, 
+            "city": "Washington, DC, US", 
+            "lng": -77.021098
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "255dca43-dd8f-4638-9f3d-8fdfca51c88a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:255dca43-dd8f-4638-9f3d-8fdfca51c88a.json"
+                        }
+                    ], 
+                    "displayName": "Jon B", 
+                    "uri": "http://www.songkick.com/artists/121990-jon-b?utm_source=32233&utm_medium=partner", 
+                    "id": 121990
+                }, 
+                "displayName": "Jon B", 
+                "id": 55011589, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28286979
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Jon B.", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1974-11-11", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "hip hop rnb and dance hall"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm1752063/", 
+                    "id": "2b2b0157-4ad7-4b27-a983-729e13110f9b"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/27261376", 
+                    "id": "d68c5d67-54b0-49cc-a40b-662d562de64a"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000258741", 
+                    "id": "ec59c80e-7d90-456f-9f21-51a2cb94d18c"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1589392", 
+                    "id": "d08ff6f9-01b8-4122-a754-d3ac088626d5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/20389", 
+                    "id": "c5225633-b5c3-4876-96ee-26df27b1a833"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Jon%20B.", 
+                    "id": "336ec771-76f4-44fc-b733-d148fc72d528"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/jon-b-lyrics", 
+                    "id": "2b68f6ed-48a9-4f44-945d-89fd62bc26e4"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.jonbworld.com/", 
+                    "id": "3e152722-68cb-4dd4-9acc-203480dcd3f0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/jon_b_", 
+                    "id": "116a6475-7d90-49a6-81f8-a99620ad3e62"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/OfficialJonB", 
+                    "id": "6708a84c-6a6d-4f65-95c9-528f62314d3a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/OfficialJonB", 
+                    "id": "dd53e452-41fd-4eba-bd82-2917d6c1672d"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q15059549", 
+                    "id": "4295c480-68d4-44fa-bf50-8f0e2c0397ec"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Jon_B.", 
+                    "id": "3fecde0c-744a-4087-80ab-0c540ba23ea3"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/JonBVEVO", 
+                    "id": "0c913aaa-59a7-4991-8066-30dd85eb14b1"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Providence", 
+            "disambiguation": "", 
+            "name": "Providence", 
+            "id": "1b4c4320-f55b-47ca-84c6-6e95dc5493b4"
+        }, 
+        "id": "255dca43-dd8f-4638-9f3d-8fdfca51c88a", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Jon B.", 
+        "type": "Person", 
+        "twitter": "OfficialJonB", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15495, 
+    "bandsintown_response": {
+        "description": "Jon B Howard Theatre Tickets - Buy and sell Jon B Washington Tickets for December 22 at Howard Theatre in Washington, DC on StubHub!", 
+        "title": "Jon B. @ Howard Theatre in Washington, DC", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Washington", 
+            "name": "Howard Theatre", 
+            "country": "United States", 
+            "region": "DC", 
+            "longitude": -77.021001, 
+            "place": "Howard Theatre", 
+            "latitude": 38.915552
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13088165?app_id=ticketgame&artist=Jon+B.&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13088165/buy_tickets?app_id=ticketgame&artist=Jon+B.&came_from=67", 
+        "on_sale_datetime": "2016-10-07T19:00:00", 
+        "formatted_datetime": "Thursday, December 22, 2016 at 8:00PM", 
+        "datetime": "2016-12-22T20:00:00", 
+        "formatted_location": "Washington, DC", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F150051479421150A&subId1=67%7E16442307%7E24042111%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/OfficialJonB", 
+                "name": "Jon B.", 
+                "url": "JonB.", 
+                "tracker_count": 41070, 
+                "mbid": "255dca43-dd8f-4638-9f3d-8fdfca51c88a", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6179673.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/JonB./facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6179673.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13088165
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 0, 
+        "price_min": 9999999
+    }, 
+    "modified_time": 1479442891.0, 
+    "created_time": 1478566099.0, 
+    "modified_minutes": 882, 
+    "id": 28286979
+}

@@ -1,0 +1,188 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "All ages (under 16s must be accompanied by an adult)", 
+        "displayName": "Steve 'n' Seagulls at Bush Hall (November 15, 2016)", 
+        "popularity": 0.000189, 
+        "venue": {
+            "displayName": "Bush Hall", 
+            "uri": "http://www.songkick.com/venues/17541-bush-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5062847, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.2314873, 
+            "id": 17541
+        }, 
+        "uri": "http://www.songkick.com/concerts/26763874-steve-n-seagulls-at-bush-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-15T19:30:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5062847, 
+            "city": "London, UK", 
+            "lng": -0.2314873
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c463f1c4-d19f-420f-ac88-a7b5afabeeb9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c463f1c4-d19f-420f-ac88-a7b5afabeeb9.json"
+                        }
+                    ], 
+                    "displayName": "Steve 'n' Seagulls", 
+                    "uri": "http://www.songkick.com/artists/8438728-steve-n-seagulls?utm_source=32233&utm_medium=partner", 
+                    "id": 8438728
+                }, 
+                "displayName": "Steve 'n' Seagulls", 
+                "id": 52230859, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26763874
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Steve \u2019n\u2019 Seagulls", 
+        "tags": [], 
+        "gender": null, 
+        "twitter": "seagullsband", 
+        "area": {
+            "sort-name": "Finland", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "FI"
+            ], 
+            "name": "Finland", 
+            "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Finland", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "FI"
+            ], 
+            "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616", 
+            "name": "Finland"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://stevenseagulls.com/", 
+                    "id": "5735e22e-1f0d-4bcb-a9ab-a0127f8989fb"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://plus.google.com/109454822493726966821", 
+                    "id": "1c4ded25-19e3-4c9e-815e-4a939c5bc0b9"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/seagullsband", 
+                    "id": "81b0bf2f-d566-40d3-877e-d07ad0c868a9"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Stevenseagulls", 
+                    "id": "0baf18eb-2610-4c3a-b27f-17ef11c3e4ec"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/sivijoha", 
+                    "id": "da27b257-51c7-47f7-91d7-eaaabc170b65"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Steve \u2019n\u2019 Seagulls", 
+        "country": "FI", 
+        "id": "c463f1c4-d19f-420f-ac88-a7b5afabeeb9", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2011", 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 26763874, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

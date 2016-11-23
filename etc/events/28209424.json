@@ -1,0 +1,377 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000942, 
+        "displayName": "Infinity Shred with Nullsleep and Lamniformes at Downstairs (at SubT) (November 16, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Downstairs (at SubT)", 
+            "uri": "http://www.songkick.com/venues/2994203-downstairs?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9102943, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6779668, 
+            "id": 2994203
+        }, 
+        "uri": "http://www.songkick.com/concerts/28209424-infinity-shred-at-downstairs?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "datetime": "2016-11-16T21:00:00-0600", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 41.9102943, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6779668
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Infinity Shred", 
+                "id": 54881379, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Infinity Shred", 
+                    "uri": "http://www.songkick.com/artists/5495628-infinity-shred?utm_source=32233&utm_medium=partner", 
+                    "id": 5495628
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Nullsleep", 
+                "id": 54881384, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cc1ff172-ac70-42b8-bbb8-6ff9b4b15614", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cc1ff172-ac70-42b8-bbb8-6ff9b4b15614.json"
+                        }
+                    ], 
+                    "displayName": "Nullsleep", 
+                    "uri": "http://www.songkick.com/artists/448830-nullsleep?utm_source=32233&utm_medium=partner", 
+                    "id": 448830
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Lamniformes", 
+                "id": 54881389, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Lamniformes", 
+                    "uri": "http://www.songkick.com/artists/8163193-lamniformes?utm_source=32233&utm_medium=partner", 
+                    "id": 8163193
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28209424
+    }, 
+    "musicbrainz_response": {
+        "name": "Infinity Shred", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "country": null, 
+        "twitter": "infinity_shred", 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://infinityshred.bandcamp.com/", 
+                    "id": "c0effbb3-7a0e-4b71-8bf2-c1e0d8ab6915"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://infinityshred.tumblr.com/", 
+                    "id": "919848c8-6a96-4b3f-955b-3e5a806b4bd4"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/223650", 
+                    "id": "6a760d83-b130-4cd7-84a3-7203b2022bdc"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2757735", 
+                    "id": "3512d41f-a227-4912-8f0c-f7cf69ed2d98"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/infinityshred", 
+                    "id": "7f1a985d-679a-44d7-9b0d-3d0cfd8dc92f"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/starscreamnewyork", 
+                    "id": "83a4878a-dcc4-422b-a826-bca1c163815e"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://infinityshred.com/", 
+                    "id": "78591353-c57f-412f-ae68-3e3883a5f5bc"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/infinity_shred", 
+                    "id": "a70c14cb-78fe-44a6-9905-c31ef60dbb31"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/infinityshred", 
+                    "id": "07d370fe-4a7c-42ab-a716-41615ac6693a"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/infinity_shred/", 
+                    "id": "e603f292-f90c-46c8-904b-876a57235a21"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/infinityshred", 
+                    "id": "dc6e7761-da9e-4111-a585-25de30f3da66"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/InfinityShred", 
+                    "id": "098102b6-adf4-4e02-ac1e-ad2ff423efe7"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/infinityshred", 
+                    "id": "35986285-d37e-4f68-a3f9-8959ef99d39c"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Infinity Shred", 
+        "type": "Group", 
+        "id": "2913667b-9629-4c66-9f09-1ab9b9740ca8", 
+        "disambiguation": "formerly known as Starscream"
+    }, 
+    "age_minutes": 15490, 
+    "bandsintown_response": {
+        "description": "Infinity Shred", 
+        "title": "Infinity Shred @ Downstairs in Chicago, IL", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Chicago", 
+            "name": "Downstairs", 
+            "country": "United States", 
+            "region": "IL", 
+            "longitude": -87.677985, 
+            "place": "Downstairs", 
+            "latitude": 41.910305
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13032034?app_id=ticketsgame&artist=Infinity+Shred&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13032034/buy_tickets?app_id=ticketsgame&artist=Infinity+Shred&came_from=67", 
+        "on_sale_datetime": "2016-09-28T15:24:25", 
+        "formatted_datetime": "Wednesday, November 16, 2016 at 9:00PM", 
+        "datetime": "2016-11-16T21:00:00", 
+        "formatted_location": "Chicago, IL", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1337701/tfly%3Futm_medium%3Dapi&afftrack=67%7E16368011%7E23909939%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "Infinity Shred", 
+                "url": "InfinityShred", 
+                "tracker_count": 2013, 
+                "mbid": null, 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5065592.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/InfinityShred/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5065592.jpeg"
+            }
+        ], 
+        "ticket_details": {
+            "price_max": 10.0, 
+            "price_min": 10.0
+        }, 
+        "ticket_status": "available", 
+        "id": 13032034
+    }, 
+    "ticket_details": {
+        "status": "Unknown", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442721.0, 
+    "created_time": 1478565987.0, 
+    "modified_minutes": 878, 
+    "id": 28209424
+}

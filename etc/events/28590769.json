@@ -1,0 +1,80 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Gimme Hendrix with Stroke at Georgia Theatre (December 15, 2016)", 
+        "popularity": 0.000335, 
+        "venue": {
+            "displayName": "Georgia Theatre", 
+            "uri": "http://www.songkick.com/venues/10960-georgia-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 33.9583371, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -83.3772112, 
+            "id": 10960
+        }, 
+        "uri": "http://www.songkick.com/concerts/28590769-gimme-hendrix-at-georgia-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-15", 
+            "time": "21:00:00", 
+            "datetime": "2016-12-15T21:00:00-0500"
+        }, 
+        "location": {
+            "lat": 33.9583371, 
+            "city": "Athens, GA, US", 
+            "lng": -83.3772112
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Gimme Hendrix", 
+                "id": 55539269, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Gimme Hendrix", 
+                    "uri": "http://www.songkick.com/artists/3499606-gimme-hendrix?utm_source=32233&utm_medium=partner", 
+                    "id": 3499606
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Stroke", 
+                "id": 55539274, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7b65edc8-ef1f-4c51-90b0-a4dd23b00b5e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7b65edc8-ef1f-4c51-90b0-a4dd23b00b5e.json"
+                        }
+                    ], 
+                    "displayName": "Stroke", 
+                    "uri": "http://www.songkick.com/artists/515455-stroke?utm_source=32233&utm_medium=partner", 
+                    "id": 515455
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28590769
+    }, 
+    "age_minutes": 262, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 5.0, 
+        "price_min": 5.0
+    }, 
+    "modified_time": 1479488367.0, 
+    "created_time": 1479482865.0, 
+    "modified_minutes": 170, 
+    "id": 28590769
+}

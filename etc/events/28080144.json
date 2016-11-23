@@ -1,0 +1,162 @@
+{
+    "songkick_response": {
+        "status": "cancelled", 
+        "ageRestriction": null, 
+        "displayName": "Town Mountain at Atlanta Room, Smith's Olde Bar (November 12, 2016) (CANCELLED) ", 
+        "popularity": 0.001863, 
+        "venue": {
+            "displayName": "Atlanta Room, Smith's Olde Bar", 
+            "uri": "http://www.songkick.com/venues/10963-atlanta-room-smiths-olde-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7975898, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3687665, 
+            "id": 10963
+        }, 
+        "uri": "http://www.songkick.com/concerts/28080144-town-mountain-at-atlanta-room-smiths-olde-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-12T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 33.7975898, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.3687665
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6df88602-4471-4597-9895-f4f7b829eab3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6df88602-4471-4597-9895-f4f7b829eab3.json"
+                        }
+                    ], 
+                    "displayName": "Town Mountain", 
+                    "uri": "http://www.songkick.com/artists/459820-town-mountain?utm_source=32233&utm_medium=partner", 
+                    "id": 459820
+                }, 
+                "displayName": "Town Mountain", 
+                "id": 54653009, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28080144
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Town Mountain", 
+        "sort-name": "Town Mountain", 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002642314", 
+                    "id": "5b719f63-12bb-42f4-bb6d-26c55af1ac74"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3488344", 
+                    "id": "688f7380-bf5c-4c0d-93ab-c173c5a34f79"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.townmountain.net/", 
+                    "id": "380d22e3-cb60-4bdb-b0ab-d67c6a7a971b"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs", 
+                    "id": "7d792afc-ced7-416a-b9a0-4a66500c0485"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": {
+            "sort-name": "Asheville", 
+            "disambiguation": "", 
+            "id": "148f3952-2151-4a4c-a859-eb850acf248f", 
+            "name": "Asheville"
+        }, 
+        "gender-id": null, 
+        "country": null, 
+        "disambiguation": "", 
+        "type": null, 
+        "id": "6df88602-4471-4597-9895-f4f7b829eab3", 
+        "tags": []
+    }, 
+    "id": 28080144, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

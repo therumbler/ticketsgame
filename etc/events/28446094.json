@@ -1,0 +1,145 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Velveteins at Rendezvous, Jewelbox Theater (December 1, 2016)", 
+        "popularity": 7.8e-05, 
+        "venue": {
+            "displayName": "Rendezvous, Jewelbox Theater", 
+            "uri": "http://www.songkick.com/venues/167233-rendezvous-jewelbox-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6146941, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3461189, 
+            "id": 167233
+        }, 
+        "uri": "http://www.songkick.com/concerts/28446094-velveteins-at-rendezvous-jewelbox-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-01", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 47.6146941, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3461189
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ed2518be-cc44-4f8d-a843-aa9679eb38bc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ed2518be-cc44-4f8d-a843-aa9679eb38bc.json"
+                        }
+                    ], 
+                    "displayName": "The Velveteins", 
+                    "uri": "http://www.songkick.com/artists/7436474-velveteins?utm_source=32233&utm_medium=partner", 
+                    "id": 7436474
+                }, 
+                "displayName": "The Velveteins", 
+                "id": 55289319, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28446094
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Velveteins", 
+        "sort-name": "Velveteins, The", 
+        "gender": null, 
+        "disambiguation": "", 
+        "area": {
+            "sort-name": "Edmonton", 
+            "disambiguation": "", 
+            "id": "0197a505-d351-475f-9e6d-eda15a83a235", 
+            "name": "Edmonton"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thevelveteins.bandcamp.com/", 
+                    "id": "1e9369f3-1dfd-4e71-a9bb-09a686b2ee00"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/TheVelveteins", 
+                    "id": "dc6b71b4-de35-4681-a598-98008f87d0d7"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/thevelveteins/", 
+                    "id": "fea1b9e4-d3ce-477a-b734-3e14dc58708c"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "id": "ed2518be-cc44-4f8d-a843-aa9679eb38bc", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": []
+    }, 
+    "id": 28446094, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

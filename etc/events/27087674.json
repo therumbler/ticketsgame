@@ -1,0 +1,300 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mannheim Steamroller at Sands Bethlehem Event Center (December 14, 2016)", 
+        "popularity": 0.024037, 
+        "venue": {
+            "displayName": "Sands Bethlehem Event Center", 
+            "uri": "http://www.songkick.com/venues/1667493-sands-bethlehem-event-center?utm_source=32233&utm_medium=partner", 
+            "lat": 40.6143211, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.3569211, 
+            "id": 1667493
+        }, 
+        "uri": "http://www.songkick.com/concerts/27087674-mannheim-steamroller-at-sands-bethlehem-event-center?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-14", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-14T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.6143211, 
+            "city": "Bethlehem, PA, US", 
+            "lng": -75.3569211
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "922a18b1-0aba-4868-8f38-2aa4f324fe16", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:922a18b1-0aba-4868-8f38-2aa4f324fe16.json"
+                        }
+                    ], 
+                    "displayName": "Mannheim Steamroller", 
+                    "uri": "http://www.songkick.com/artists/355705-mannheim-steamroller?utm_source=32233&utm_medium=partner", 
+                    "id": 355705
+                }, 
+                "displayName": "Mannheim Steamroller", 
+                "id": 52844324, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27087674
+    }, 
+    "musicbrainz_response": {
+        "name": "Mannheim Steamroller", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "holiday"
+            }, 
+            {
+                "count": 1, 
+                "name": "symphonic rock"
+            }
+        ], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1974", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm2867855/", 
+                    "id": "4007a413-c785-44e4-a033-4f779fc21d59"
+                }, 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000675495", 
+                    "id": "451288b1-7d3a-45ef-9a3c-9616dfad9a96"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/412519", 
+                    "id": "5fa95fbc-3d73-4d9c-bcd2-41629237e12d"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/mannheim-steamroller-lyrics", 
+                    "id": "10787b24-6736-48d1-ba64-5cf9140eae60"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.mannheimsteamroller.com/", 
+                    "id": "1954a129-1de0-489e-ab30-f10f782ef7dd"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/MannheimSteamroller", 
+                    "id": "372e2760-c481-40a1-9b4b-e66fcf5f51c0"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1529102", 
+                    "id": "ecc697fd-6fbb-4d24-aeeb-48b8910a7cad"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Mannheim_Steamroller", 
+                    "id": "bdc9fc0b-6767-4843-b78f-1028caec42b6"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/mannheimsteamroller", 
+                    "id": "3b4e6638-707c-4def-88cd-d6ed55534015"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Omaha", 
+            "disambiguation": "", 
+            "name": "Omaha", 
+            "id": "7968b302-75a6-4456-a09e-7bf7ac13293a"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Mannheim Steamroller", 
+        "type": "Group", 
+        "id": "922a18b1-0aba-4868-8f38-2aa4f324fe16", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15450, 
+    "bandsintown_response": {
+        "description": "Mannheim Steamroller Sands Bethlehem Event Center Tickets - Buy and sell Mannheim Steamroller Bethlehem Tickets for December 14 at Sands Bethlehem Event Center in Bethlehem, PA on StubHub!", 
+        "title": "Mannheim Steamroller @ Sands Bethlehem Event Center in Bethlehem, PA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Bethlehem", 
+            "name": "Sands Bethlehem Event Center", 
+            "country": "United States", 
+            "region": "PA", 
+            "longitude": -75.3569607, 
+            "place": "Sands Bethlehem Event Center", 
+            "latitude": 40.6135087
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12113349?app_id=ticketgame&artist=Mannheim+Steamroller&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12113349/buy_tickets?app_id=ticketgame&artist=Mannheim+Steamroller&came_from=67", 
+        "on_sale_datetime": "2016-07-25T10:00:00", 
+        "formatted_datetime": "Wednesday, December 14, 2016 at 7:00PM", 
+        "datetime": "2016-12-14T19:00:00", 
+        "formatted_location": "Bethlehem, PA", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F0200509EE06877CB&subId1=67%7E15124232%7E22539347%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.mannheimsteamroller.com/", 
+                "facebook_page_url": "https://www.facebook.com/MannheimSteamroller", 
+                "name": "Mannheim Steamroller", 
+                "url": "MannheimSteamroller", 
+                "tracker_count": 45879, 
+                "mbid": "922a18b1-0aba-4868-8f38-2aa4f324fe16", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6709473.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/MannheimSteamroller/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6709473.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12113349
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 106.75, 
+        "price_min": 69.75
+    }, 
+    "modified_time": 1478566061.0, 
+    "id": 27087674
+}

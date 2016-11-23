@@ -1,0 +1,515 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.310964, 
+        "displayName": "Two Door Cinema Club and Broods at Fox Theater (December 2, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Fox Theater", 
+            "uri": "http://www.songkick.com/venues/953251-fox-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 37.8078474, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.2699981, 
+            "id": 953251
+        }, 
+        "uri": "http://www.songkick.com/concerts/28258279-two-door-cinema-club-at-fox-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "datetime": "2016-12-02T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 37.8078474, 
+            "city": "Oakland, CA, US", 
+            "lng": -122.2699981
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Two Door Cinema Club", 
+                "id": 54961529, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6f1de078-6684-4792-820d-2ffad64c15ed", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6f1de078-6684-4792-820d-2ffad64c15ed.json"
+                        }
+                    ], 
+                    "displayName": "Two Door Cinema Club", 
+                    "uri": "http://www.songkick.com/artists/804901-two-door-cinema-club?utm_source=32233&utm_medium=partner", 
+                    "id": 804901
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Broods", 
+                "id": 54961534, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "68205c8f-9518-4b49-8df7-bd297da67599", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:68205c8f-9518-4b49-8df7-bd297da67599.json"
+                        }
+                    ], 
+                    "displayName": "Broods", 
+                    "uri": "http://www.songkick.com/artists/7705744-broods?utm_source=32233&utm_medium=partner", 
+                    "id": 7705744
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28258279
+    }, 
+    "musicbrainz_response": {
+        "name": "Two Door Cinema Club", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2007", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Northern Ireland", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "GB-NIR"
+            ], 
+            "id": "2b30f961-ed7c-40d2-a9c5-6a905b35439a", 
+            "name": "Northern Ireland"
+        }, 
+        "country": null, 
+        "twitter": "tdcinemaclub", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "indie rock"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm3987878/", 
+                    "id": "fd2ee639-8b6b-4783-bb4a-1804044a7712"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/145957466", 
+                    "id": "f216ae6d-a149-4715-b27e-914a66f0ff57"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002139934", 
+                    "id": "a1a92c69-68e5-4493-bc2d-bc58666bd8b7"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1413091", 
+                    "id": "411fd97f-12c9-400e-9e34-aa1fd9cec28e"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Two_door_cinema_club,_Kitsune,_bluebird.jpg", 
+                    "id": "3aa52f61-3ea7-4b10-8f98-7866ae14cfda"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Two+Door+Cinema+Club", 
+                    "id": "5452fff9-9ac6-4399-b21a-45a1bc089991"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/Two_Door_Cinema_Club", 
+                    "id": "cabdfdab-8777-41a5-9609-c58baa8ba71c"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-8662/two-door-cinema-club/lyrics.html", 
+                    "id": "2a5ce405-2385-45fa-a2f1-667388a1b5d2"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/twodoorcinemaclub", 
+                    "id": "4e3001df-b7f9-4349-bfae-3978ecf58bd9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://twodoorcinemaclub.com/", 
+                    "id": "4bbc33a5-9928-4e30-8031-d6caba020f82"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/two_door_cinema_club", 
+                    "id": "ca39cfda-1220-45f7-81ba-55a23645d54e"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.musik-sammler.de/artist/202682", 
+                    "id": "d489bbb5-03f1-4436-bf32-4b886fc6fa75"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.purevolume.com/TwoDoorCinemaClub", 
+                    "id": "820fc60a-48b8-4326-a26d-85f070ccbf26"
+                }, 
+                "direction": "forward", 
+                "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purevolume", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/tdcinemaclub", 
+                    "id": "f78166bc-614d-4431-9d2d-ac6b27fd42cb"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/twodoorcinemaclub", 
+                    "id": "28689cbb-9c69-4897-899e-80c8b196b2d0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/804901-two-door-cinema-club", 
+                    "id": "67dee5ea-bacd-495b-8fad-403e491b6b14"
+                }, 
+                "direction": "forward", 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/two-door-cinema-club", 
+                    "id": "b12b35aa-3b0a-4690-8069-862940be9e71"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl", 
+                    "id": "1b1a9426-6094-4fb3-a640-7ac2e54d7164"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q777302", 
+                    "id": "01934a4c-f610-4036-84f2-4aa75ae6d711"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Two_Door_Cinema_Club", 
+                    "id": "435ab2fe-99bc-44e9-a453-a99d4117c236"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/twodoorcinemaclub", 
+                    "id": "9b092197-7ff5-44c3-9042-067a417db7f2"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Two Door Cinema Club", 
+        "type": "Group", 
+        "id": "6f1de078-6684-4792-820d-2ffad64c15ed", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15492, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Two Door Cinema Club @ Fox Theater in Oakland, CA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Oakland", 
+            "name": "Fox Theater", 
+            "country": "United States", 
+            "region": "CA", 
+            "longitude": -122.270194, 
+            "place": "Fox Theater", 
+            "latitude": 37.807772
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13068769?app_id=ticketgame&artist=Two+Door+Cinema+Club&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13068769/buy_tickets?app_id=ticketgame&artist=Two+Door+Cinema+Club&came_from=67", 
+        "on_sale_datetime": "2016-10-07T17:00:00", 
+        "formatted_datetime": "Friday, December 2, 2016 at 8:00PM", 
+        "datetime": "2016-12-02T20:00:00", 
+        "formatted_location": "Oakland, CA", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F1C0050F2CE8D4CE8&subId1=67%7E16415772%7E24000655%7E%7E", 
+        "artists": [
+            {
+                "website": "http://Contact band at twodoorcinemaclub@hotmail.co.uk", 
+                "facebook_page_url": null, 
+                "name": "Two Door Cinema Club", 
+                "url": "TwoDoorCinemaClub", 
+                "tracker_count": 973895, 
+                "mbid": "6f1de078-6684-4792-820d-2ffad64c15ed", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5814211.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TwoDoorCinemaClub/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5814211.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13068769
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 0, 
+        "price_min": 9999999
+    }, 
+    "modified_time": 1479442823.0, 
+    "created_time": 1478566079.0, 
+    "modified_minutes": 880, 
+    "id": 28258279
+}

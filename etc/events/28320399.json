@@ -1,0 +1,231 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Yotto, Theo Kottis, and GAB RHOME at Sound Bar (November 25, 2016)", 
+        "popularity": 0.001134, 
+        "venue": {
+            "displayName": "Sound Bar", 
+            "uri": "http://www.songkick.com/venues/180613-sound-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 41.893287, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6353601, 
+            "id": 180613
+        }, 
+        "uri": "http://www.songkick.com/concerts/28320399-yotto-at-sound-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 41.893287, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6353601
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7355a02a-b14a-4719-aa09-477b1964b2a3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7355a02a-b14a-4719-aa09-477b1964b2a3.json"
+                        }
+                    ], 
+                    "displayName": "Yotto", 
+                    "uri": "http://www.songkick.com/artists/8620979-yotto?utm_source=32233&utm_medium=partner", 
+                    "id": 8620979
+                }, 
+                "displayName": "Yotto", 
+                "id": 55072859, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "99033ab4-c683-45dc-9f2b-e83025c78e45", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:99033ab4-c683-45dc-9f2b-e83025c78e45.json"
+                        }
+                    ], 
+                    "displayName": "Theo Kottis", 
+                    "uri": "http://www.songkick.com/artists/8347908-theo-kottis?utm_source=32233&utm_medium=partner", 
+                    "id": 8347908
+                }, 
+                "displayName": "Theo Kottis", 
+                "id": 55266704, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "88844b84-928e-4222-8bbe-750117ddb20e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:88844b84-928e-4222-8bbe-750117ddb20e.json"
+                        }
+                    ], 
+                    "displayName": "GAB RHOME", 
+                    "uri": "http://www.songkick.com/artists/7588699-gab-rhome?utm_source=32233&utm_medium=partner", 
+                    "id": 7588699
+                }, 
+                "displayName": "GAB RHOME", 
+                "id": 55266709, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28320399
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "sort-name": "Yotto", 
+        "name": "Yotto", 
+        "tags": [], 
+        "country": null, 
+        "twitter": "yottomusic", 
+        "area": {
+            "sort-name": "Helsinki", 
+            "disambiguation": "", 
+            "name": "Helsinki", 
+            "id": "39d62198-1e76-4de4-b079-e86e3a393bbc"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1593106", 
+                    "id": "63269ed9-4795-4495-83f6-c8f20a3c6c49"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.yottomusic.com/", 
+                    "id": "46c55cbd-4dca-4189-a509-fab7f0a0c160"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://pro.beatport.com/artist/yotto/114140", 
+                    "id": "4b0b76e4-62e8-4e50-8139-7bca121b68ce"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/yottomusic", 
+                    "id": "1d9d67ec-2f0d-42d7-a787-5545c73a47e5"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/yottomusic", 
+                    "id": "fc7212d9-dd9e-4089-861f-243b352893d2"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/yotto", 
+                    "id": "bb46b4b0-0817-49da-8b3c-1f09847cfefd"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "id": "7355a02a-b14a-4719-aa09-477b1964b2a3", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": "Finnish producer and DJ Otto Yliperttula"
+    }, 
+    "id": 28320399, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

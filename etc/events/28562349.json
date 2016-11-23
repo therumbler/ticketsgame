@@ -1,0 +1,79 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 4e-05, 
+        "displayName": "Ryan M. Brewer and VON Strantz at Paducah Beer Werks (December 10, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Paducah Beer Werks", 
+            "uri": "http://www.songkick.com/venues/2934298-paducah-beer-werks?utm_source=32233&utm_medium=partner", 
+            "lat": 37.0889248, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -88.5997353, 
+            "id": 2934298
+        }, 
+        "uri": "http://www.songkick.com/concerts/28562349-ryan-m-brewer-at-paducah-beer-werks?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-10", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 37.0889248, 
+            "city": "Paducah, KY, US", 
+            "lng": -88.5997353
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Ryan M. Brewer", 
+                    "uri": "http://www.songkick.com/artists/4711463-ryan-m-brewer?utm_source=32233&utm_medium=partner", 
+                    "id": 4711463
+                }, 
+                "displayName": "Ryan M. Brewer", 
+                "id": 55489909, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "82e2a13c-7fe3-45fa-8c8a-3686ff65fb1e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:82e2a13c-7fe3-45fa-8c8a-3686ff65fb1e.json"
+                        }
+                    ], 
+                    "displayName": "VON Strantz", 
+                    "uri": "http://www.songkick.com/artists/6519824-von-strantz?utm_source=32233&utm_medium=partner", 
+                    "id": 6519824
+                }, 
+                "displayName": "VON Strantz", 
+                "id": 55489914, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28562349
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Rate limit exceeded"
+        ]
+    }, 
+    "id": 28562349, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

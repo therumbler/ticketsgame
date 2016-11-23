@@ -1,0 +1,248 @@
+{
+    "songkick_response": {
+        "status": "cancelled", 
+        "ageRestriction": null, 
+        "displayName": "Chris Miles and Colby James at House of Blues (November 13, 2016) (CANCELLED) ", 
+        "popularity": 0.000447, 
+        "venue": {
+            "displayName": "House of Blues", 
+            "uri": "http://www.songkick.com/venues/621-house-of-blues?utm_source=32233&utm_medium=partner", 
+            "lat": 41.8882295, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6290953, 
+            "id": 621
+        }, 
+        "uri": "http://www.songkick.com/concerts/28237459-chris-miles-at-house-of-blues?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "17:30:00", 
+            "datetime": "2016-11-13T17:30:00-0600"
+        }, 
+        "location": {
+            "lat": 41.8882295, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6290953
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2babb7dc-485f-4133-9beb-22a1d5283adf", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2babb7dc-485f-4133-9beb-22a1d5283adf.json"
+                        }
+                    ], 
+                    "displayName": "Chris Miles", 
+                    "uri": "http://www.songkick.com/artists/8268823-chris-miles?utm_source=32233&utm_medium=partner", 
+                    "id": 8268823
+                }, 
+                "displayName": "Chris Miles", 
+                "id": 54926769, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Colby James", 
+                    "uri": "http://www.songkick.com/artists/1269448-colby-james?utm_source=32233&utm_medium=partner", 
+                    "id": 1269448
+                }, 
+                "displayName": "Colby James", 
+                "id": 54926774, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28237459
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Chris Miles", 
+        "sort-name": "Miles, Chris", 
+        "gender": "Male", 
+        "twitter": "realchrismiles", 
+        "area": {
+            "sort-name": "Long Island City", 
+            "disambiguation": "", 
+            "name": "Long Island City", 
+            "id": "dce45ea2-f0be-4568-82a6-072837b54cf1"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.chrismilesmusic.com/", 
+                    "id": "2600b0d4-34a9-4646-a53d-abcf59ccda60"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/realchrismiles/", 
+                    "id": "9d8a276e-c129-4c9f-838b-be27a0842827"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/realchrismiles", 
+                    "id": "3047a301-65e3-4791-be9d-f64b4f7e2593"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/ChrisMilesMusic", 
+                    "id": "c2a2348a-8887-441e-b8ef-34b15b1b37ff"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/chrismilesmusic", 
+                    "id": "8351b67a-180f-46dc-a577-eaac4744a639"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q17986464", 
+                    "id": "bba17ce8-579d-45ce-8a36-1347e62bfdf6"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Chris_Miles_(musician)", 
+                    "id": "4a67acbf-ae31-4c0c-bfcc-87be595fd673"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/oocheewawa", 
+                    "id": "4ee785c5-e8fe-469b-8c23-f6bf796fbe38"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f", 
+            "name": "New York"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "id": "2babb7dc-485f-4133-9beb-22a1d5283adf", 
+        "disambiguation": "", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1999-05-08", 
+            "end": null
+        }, 
+        "tags": []
+    }, 
+    "id": 28237459, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

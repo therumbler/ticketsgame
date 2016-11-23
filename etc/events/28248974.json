@@ -1,0 +1,190 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001012, 
+        "displayName": "Echos with Covex and Engine Farm at Lost Lake Lounge (November 12, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Lost Lake Lounge", 
+            "uri": "http://www.songkick.com/venues/1016861-lost-lake-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7399905, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9447552, 
+            "id": 1016861
+        }, 
+        "uri": "http://www.songkick.com/concerts/28248974-echos-at-lost-lake-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "datetime": "2016-11-12T21:00:00-0700", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 39.7399905, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9447552
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "879e0dcf-9cf9-4279-8a13-539a8ed075d8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:879e0dcf-9cf9-4279-8a13-539a8ed075d8.json"
+                        }
+                    ], 
+                    "displayName": "Echos", 
+                    "uri": "http://www.songkick.com/artists/363749-echos?utm_source=32233&utm_medium=partner", 
+                    "id": 363749
+                }, 
+                "displayName": "Echos", 
+                "id": 54947014, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Covex", 
+                    "uri": "http://www.songkick.com/artists/8391648-covex?utm_source=32233&utm_medium=partner", 
+                    "id": 8391648
+                }, 
+                "displayName": "Covex", 
+                "id": 55390769, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Engine Farm", 
+                    "uri": "http://www.songkick.com/artists/8814909-engine-farm?utm_source=32233&utm_medium=partner", 
+                    "id": 8814909
+                }, 
+                "displayName": "Engine Farm", 
+                "id": 55357774, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28248974
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Echos", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "twitter": "EchosOfficial", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/EchosOfficial", 
+                    "id": "1452c5ea-3524-46fa-8e2d-1da332601e9e"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pages/Echos/376206675814289", 
+                    "id": "fee8626f-c9ec-4f49-b55f-bfde63de67cb"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/echosofficial/", 
+                    "id": "90c46193-92b9-46c5-8f3a-53945b3a5120"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/echosofficial", 
+                    "id": "84c79201-713a-408f-9a6e-180f73a5315f"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Echos", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "US", 
+        "id": "879e0dcf-9cf9-4279-8a13-539a8ed075d8", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28248974, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

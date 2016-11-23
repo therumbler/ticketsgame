@@ -1,0 +1,424 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Maxwell, Mary J. Blige, and Ro James at Oracle Arena (December 7, 2016)", 
+        "popularity": 0.204481, 
+        "venue": {
+            "displayName": "Oracle Arena", 
+            "uri": "http://www.songkick.com/venues/615-oracle-arena?utm_source=32233&utm_medium=partner", 
+            "lat": 37.7515541, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.2015715, 
+            "id": 615
+        }, 
+        "uri": "http://www.songkick.com/concerts/28081799-maxwell-at-oracle-arena?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-07", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-07T19:00:00-0800"
+        }, 
+        "location": {
+            "lat": 37.7515541, 
+            "city": "Oakland, CA, US", 
+            "lng": -122.2015715
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d252cca8-8214-43e5-b81a-101eb4a1447e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d252cca8-8214-43e5-b81a-101eb4a1447e.json"
+                        }
+                    ], 
+                    "displayName": "Maxwell", 
+                    "uri": "http://www.songkick.com/artists/4299-maxwell?utm_source=32233&utm_medium=partner", 
+                    "id": 4299
+                }, 
+                "displayName": "Maxwell", 
+                "id": 54656019, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "db76c5ca-d555-4f09-b1db-baa1b713d875", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:db76c5ca-d555-4f09-b1db-baa1b713d875.json"
+                        }
+                    ], 
+                    "displayName": "Mary J. Blige", 
+                    "uri": "http://www.songkick.com/artists/532016-mary-j-blige?utm_source=32233&utm_medium=partner", 
+                    "id": 532016
+                }, 
+                "displayName": "Mary J. Blige", 
+                "id": 54656024, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f6d14967-5998-4910-b114-8ddb31fc773f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f6d14967-5998-4910-b114-8ddb31fc773f.json"
+                        }
+                    ], 
+                    "displayName": "Ro James", 
+                    "uri": "http://www.songkick.com/artists/7384614-ro-james?utm_source=32233&utm_medium=partner", 
+                    "id": 7384614
+                }, 
+                "displayName": "Ro James", 
+                "id": 54656029, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28081799
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Maxwell", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1973-05-23", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "neo-soul"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/d252cca8-8214-43e5-b81a-101eb4a1447e", 
+                    "id": "97a44157-7d73-4fd4-bc39-46373a6cb5d3"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/64202573", 
+                    "id": "37d46cc0-1a54-4c5c-a4de-1c9030161688"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000866491", 
+                    "id": "32893655-c674-4037-b7c6-b2e0c1fcea33"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/22020", 
+                    "id": "c2c73b0a-f286-4852-8a1a-9ce3c466a2b0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/maxwell-lyrics", 
+                    "id": "30f755c2-92ad-47b4-b388-b721660310c7"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.musze.com/", 
+                    "id": "a70ee674-b620-4cab-b5ce-63aa0fabc913"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/maxwell", 
+                    "id": "583d1991-2aed-4675-b35e-d3b7d9b76ede"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/maxwell/", 
+                    "id": "7a1278fc-70b8-42e8-97cb-9023a3deb6e5"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/_MAXWELL_", 
+                    "id": "2969d658-de15-44b0-923b-142aee83929a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Maxwell", 
+                    "id": "070f7a90-59e2-4663-9132-8bf6a73202d5"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1378643", 
+                    "id": "6e74151d-2f41-4339-861d-d4337124186d"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Maxwell_(musician)", 
+                    "id": "edd23e8e-4aec-428a-a2eb-e970447d3571"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/maxwellVEVO", 
+                    "id": "1835e977-5ccb-473a-9eb6-9bc912c1b522"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Maxwell", 
+        "begin_area": {
+            "sort-name": "Brooklyn", 
+            "disambiguation": "", 
+            "name": "Brooklyn", 
+            "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "isnis": [
+            "000000007824951X"
+        ], 
+        "id": "d252cca8-8214-43e5-b81a-101eb4a1447e", 
+        "country": "US", 
+        "type": "Person", 
+        "twitter": "_MAXWELL_", 
+        "disambiguation": "US soul/R&B singer-songwriter"
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Maxwell @ Oracle Arena in Oakland, CA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Oakland", 
+            "name": "Oracle Arena", 
+            "country": "United States", 
+            "region": "CA", 
+            "longitude": -122.203063, 
+            "place": "Oracle Arena", 
+            "latitude": 37.750269
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12880836?app_id=ticketgame&artist=Maxwell&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12880836/buy_tickets?app_id=ticketgame&artist=Maxwell&came_from=67", 
+        "on_sale_datetime": "2016-09-09T17:00:00", 
+        "formatted_datetime": "Wednesday, December 7, 2016 at 7:00PM", 
+        "datetime": "2016-12-07T19:00:00", 
+        "formatted_location": "Oakland, CA", 
+        "ticket_redirect_url": "http://livemu.sc/2bYjBRp", 
+        "artists": [
+            {
+                "website": "", 
+                "facebook_page_url": "https://www.facebook.com/Maxwell", 
+                "name": "Maxwell", 
+                "url": "Maxwell", 
+                "tracker_count": 310936, 
+                "mbid": "d252cca8-8214-43e5-b81a-101eb4a1447e", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6500927.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Maxwell/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6500927.jpeg"
+            }, 
+            {
+                "website": "", 
+                "facebook_page_url": "https://www.facebook.com/Maxwell", 
+                "name": "Maxwell", 
+                "url": "Maxwell", 
+                "tracker_count": 310936, 
+                "mbid": "d252cca8-8214-43e5-b81a-101eb4a1447e", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Maxwell/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }, 
+            {
+                "website": "http://www.mjblige.com", 
+                "facebook_page_url": "https://www.facebook.com/maryjblige", 
+                "name": "Mary J. Blige", 
+                "url": "MaryJ.Blige", 
+                "tracker_count": 626262, 
+                "mbid": "db76c5ca-d555-4f09-b1db-baa1b713d875", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/MaryJ.Blige/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12880836
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://livemu.sc/2bYjBRp"
+    }, 
+    "modified_time": 1479442391.0, 
+    "created_minutes": 5840, 
+    "created_time": 1479305727.0, 
+    "modified_minutes": 3562, 
+    "id": 28081799
+}

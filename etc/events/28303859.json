@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "the rain within and Alter Der Ruine at Kremwerk (November 13, 2016)", 
+        "popularity": 0.000249, 
+        "venue": {
+            "displayName": "Kremwerk", 
+            "uri": "http://www.songkick.com/venues/2581003-kremwerk?utm_source=32233&utm_medium=partner", 
+            "lat": 47.616869, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.331184, 
+            "id": 2581003
+        }, 
+        "uri": "http://www.songkick.com/concerts/28303859-rain-within-at-kremwerk?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-13T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.616869, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.331184
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7581cd1b-3dd8-4979-9094-8076baffe419", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7581cd1b-3dd8-4979-9094-8076baffe419.json"
+                        }
+                    ], 
+                    "displayName": "the rain within", 
+                    "uri": "http://www.songkick.com/artists/8263768-rain-within?utm_source=32233&utm_medium=partner", 
+                    "id": 8263768
+                }, 
+                "displayName": "the rain within", 
+                "id": 55042409, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2120a404-1a73-41f2-9208-44670d77c7a7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2120a404-1a73-41f2-9208-44670d77c7a7.json"
+                        }
+                    ], 
+                    "displayName": "Alter Der Ruine", 
+                    "uri": "http://www.songkick.com/artists/511588-alter-der-ruine?utm_source=32233&utm_medium=partner", 
+                    "id": 511588
+                }, 
+                "displayName": "Alter Der Ruine", 
+                "id": 55042414, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28303859
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Rain Within", 
+        "sort-name": "Rain Within, The", 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1944250", 
+                    "id": "ce518868-d268-4246-80bb-0cdc91324f7a"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "disambiguation": "", 
+        "type": null, 
+        "id": "7581cd1b-3dd8-4979-9094-8076baffe419", 
+        "tags": []
+    }, 
+    "id": 28303859, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

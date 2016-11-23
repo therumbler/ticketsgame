@@ -1,0 +1,111 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "KSI at The Garage (November 8, 2016)", 
+        "popularity": 0.002216, 
+        "venue": {
+            "displayName": "The Garage", 
+            "uri": "http://www.songkick.com/venues/9314-garage?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5466983, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1038429, 
+            "id": 9314
+        }, 
+        "uri": "http://www.songkick.com/concerts/27922569-ksi-at-garage?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-08", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-08T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5466983, 
+            "city": "London, UK", 
+            "lng": -0.1038429
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e8ff034d-a40c-4a84-bc49-dba7aaece2fd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e8ff034d-a40c-4a84-bc49-dba7aaece2fd.json"
+                        }
+                    ], 
+                    "displayName": "KSI", 
+                    "uri": "http://www.songkick.com/artists/227683-ksi?utm_source=32233&utm_medium=partner", 
+                    "id": 227683
+                }, 
+                "displayName": "KSI", 
+                "id": 54376854, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27922569
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "KSI", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "France", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "FR"
+            ], 
+            "id": "08310658-51eb-3801-80de-5a0739207115", 
+            "name": "France"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/135524", 
+                    "id": "51d68051-2851-4449-bd4c-36df0c882b19"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "e8ff034d-a40c-4a84-bc49-dba7aaece2fd", 
+        "gender-id": null, 
+        "country": "FR", 
+        "sort-name": "KSI", 
+        "type": null, 
+        "disambiguation": "French techno/hardstyle artist"
+    }, 
+    "id": 27922569, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

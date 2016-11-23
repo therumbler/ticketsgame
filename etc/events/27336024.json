@@ -1,0 +1,386 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Charlie Puth with Joel Adams and Hailey Knox at The Wiltern (November 8, 2016)", 
+        "popularity": 0.053398, 
+        "venue": {
+            "displayName": "The Wiltern", 
+            "uri": "http://www.songkick.com/venues/780-wiltern?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0619389, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.3088392, 
+            "id": 780
+        }, 
+        "uri": "http://www.songkick.com/concerts/27336024-charlie-puth-at-wiltern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-08", 
+            "time": "18:30:00", 
+            "datetime": "2016-11-08T18:30:00-0800"
+        }, 
+        "location": {
+            "lat": 34.0619389, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.3088392
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:525f1f1c-03f0-4bc8-8dfd-e7521f87631b.json"
+                        }
+                    ], 
+                    "displayName": "Charlie Puth", 
+                    "uri": "http://www.songkick.com/artists/5318433-charlie-puth?utm_source=32233&utm_medium=partner", 
+                    "id": 5318433
+                }, 
+                "displayName": "Charlie Puth", 
+                "id": 53301599, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "af5531a1-f14c-4bdc-8816-0cd743c83b35", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:af5531a1-f14c-4bdc-8816-0cd743c83b35.json"
+                        }
+                    ], 
+                    "displayName": "Joel Adams", 
+                    "uri": "http://www.songkick.com/artists/8766359-joel-adams?utm_source=32233&utm_medium=partner", 
+                    "id": 8766359
+                }, 
+                "displayName": "Joel Adams", 
+                "id": 54451549, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e4b7ea8a-f345-4c80-b5b8-09fc58c8762d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e4b7ea8a-f345-4c80-b5b8-09fc58c8762d.json"
+                        }
+                    ], 
+                    "displayName": "Hailey Knox", 
+                    "uri": "http://www.songkick.com/artists/8880444-hailey-knox?utm_source=32233&utm_medium=partner", 
+                    "id": 8880444
+                }, 
+                "displayName": "Hailey Knox", 
+                "id": 54461924, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27336024
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Charlie Puth", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "twitter": "charlieputh", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop soul"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003345212", 
+                    "id": "58d64f08-31c9-4cd4-ae46-91828141bada"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4061019", 
+                    "id": "265ef424-867b-455b-98ec-a8b2405ee95c"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Charlie+Puth", 
+                    "id": "848b3344-8e4d-4252-ab4c-caadb76bf4fc"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.charlieputh.com/", 
+                    "id": "9687d4ec-40d9-4320-b682-dd2093e8b1f9"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/charlie_puth", 
+                    "id": "a3a08885-14ed-4e3a-9549-043a840b4211"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/artist/id336249253", 
+                    "id": "72b3e4c4-0adb-45a8-a479-89215d2960c0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/charlieputh/", 
+                    "id": "6aeb8b9f-1514-49f2-a418-be8c56f16dc5"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/charlieputh", 
+                    "id": "0a6f0b42-2c9f-44a7-b078-1f25ae36414d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/charlieputh", 
+                    "id": "7c92254b-b01d-413e-80a8-475b0d4fb0f6"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/charlieputh", 
+                    "id": "cb360673-4f89-4127-8833-591b1f2144c5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7", 
+                    "id": "8b7e49ea-5676-4642-8910-fee35ad12cac"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q19810390", 
+                    "id": "5ee09e13-6e43-4ed9-95c5-ae6c9d79577d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Charlie_Puth", 
+                    "id": "8056f6c7-e05e-472c-8ee0-204d6a77b69d"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/CharliesVlogs", 
+                    "id": "1d966244-4317-4bf4-941d-d853af96f4a2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00640672846"
+        ], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Janesville", 
+            "disambiguation": "", 
+            "id": "52d020c0-5435-4699-a477-6b190ff6b859", 
+            "name": "Janesville"
+        }, 
+        "sort-name": "Puth, Charlie", 
+        "gender": "Male", 
+        "id": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1991-12-02", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 27336024, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

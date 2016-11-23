@@ -1,0 +1,125 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Gist at The Bell House (November 8, 2016)", 
+        "popularity": 0.00031, 
+        "venue": {
+            "displayName": "The Bell House", 
+            "uri": "http://www.songkick.com/venues/33018-bell-house?utm_source=32233&utm_medium=partner", 
+            "lat": 40.6735155, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9917604, 
+            "id": 33018
+        }, 
+        "uri": "http://www.songkick.com/concerts/28161574-gist-at-bell-house?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-08", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-08T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.6735155, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9917604
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d0671edf-009b-469e-a902-38e9de72496e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d0671edf-009b-469e-a902-38e9de72496e.json"
+                        }
+                    ], 
+                    "displayName": "Gist", 
+                    "uri": "http://www.songkick.com/artists/284370-gist?utm_source=32233&utm_medium=partner", 
+                    "id": 284370
+                }, 
+                "displayName": "Gist", 
+                "id": 54796569, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28161574
+    }, 
+    "bandsintown_response": {
+        "facebook_page_url": null, 
+        "upcoming_event_count": 0, 
+        "name": "The Gist", 
+        "tracker_count": 560, 
+        "mbid": "d0671edf-009b-469e-a902-38e9de72496e", 
+        "image_url": "https://s3.amazonaws.com/bit-photos/large/151682.jpeg", 
+        "facebook_tour_dates_url": null, 
+        "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/151682.jpeg"
+    }, 
+    "musicbrainz_response": {
+        "name": "The Gist", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "sort-name": "Gist, The", 
+        "gender": null, 
+        "disambiguation": "", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/222549", 
+                    "id": "e7abfdb6-697a-4000-8303-5ed5b1ed188d"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "GB", 
+        "type": "Group", 
+        "id": "d0671edf-009b-469e-a902-38e9de72496e", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "wales"
+            }
+        ]
+    }, 
+    "id": 28161574, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

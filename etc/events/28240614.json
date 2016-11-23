@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Kyle Park at The Marc (November 16, 2016)", 
+        "popularity": 0.004242, 
+        "venue": {
+            "displayName": "The Marc", 
+            "uri": "http://www.songkick.com/venues/2416509-marc?utm_source=32233&utm_medium=partner", 
+            "lat": 29.881944, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.940488, 
+            "id": 2416509
+        }, 
+        "uri": "http://www.songkick.com/concerts/28240614-kyle-park-at-marc?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-16T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 29.881944, 
+            "city": "San Marcos, TX, US", 
+            "lng": -97.940488
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "696a8b26-bd65-4ccb-9352-66e4b57f2bba", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:696a8b26-bd65-4ccb-9352-66e4b57f2bba.json"
+                        }
+                    ], 
+                    "displayName": "Kyle Park", 
+                    "uri": "http://www.songkick.com/artists/1170954-kyle-park?utm_source=32233&utm_medium=partner", 
+                    "id": 1170954
+                }, 
+                "displayName": "Kyle Park", 
+                "id": 54932384, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28240614
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Kyle Park", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/kyle-park-lyrics", 
+                    "id": "82a7f8d3-dad5-4d36-9eb9-5c60d7cda9ac"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "696a8b26-bd65-4ccb-9352-66e4b57f2bba", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Kyle Park", 
+        "type": null, 
+        "disambiguation": ""
+    }, 
+    "id": 28240614, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

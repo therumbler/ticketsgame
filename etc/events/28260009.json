@@ -1,0 +1,156 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.002702, 
+        "displayName": "XYL\u00d8 at Troubadour (December 3, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Troubadour", 
+            "uri": "http://www.songkick.com/venues/16268-troubadour?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0815247, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.3891802, 
+            "id": 16268
+        }, 
+        "uri": "http://www.songkick.com/concerts/28260009-xylo-at-troubadour?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-03", 
+            "datetime": "2016-12-03T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 34.0815247, 
+            "city": "West Hollywood, CA, US", 
+            "lng": -118.3891802
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "XYL\u00d8", 
+                "id": 54965029, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8c6d0d21-1e72-4854-b0d1-25b2baf2b525", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8c6d0d21-1e72-4854-b0d1-25b2baf2b525.json"
+                        }
+                    ], 
+                    "displayName": "XYL\u00d8", 
+                    "uri": "http://www.songkick.com/artists/1564844-xylo?utm_source=32233&utm_medium=partner", 
+                    "id": 1564844
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28260009
+    }, 
+    "musicbrainz_response": {
+        "name": "xylo", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Netherlands", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "NL"
+            ], 
+            "name": "Netherlands", 
+            "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://xylo.bandcamp.com/", 
+                    "id": "f05bb57b-b6bb-4a1e-9373-eb53ce180ccd"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4033692", 
+                    "id": "d073bae9-14fd-4da7-afc0-b6e15e49c272"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/xylo", 
+                    "id": "cbbd8dbb-5b85-4189-83a9-6faa273f866d"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "xylo", 
+        "country": "NL", 
+        "type": "Person", 
+        "id": "8c6d0d21-1e72-4854-b0d1-25b2baf2b525", 
+        "disambiguation": "Tom Offringa"
+    }, 
+    "age_minutes": 3167, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442842.0, 
+    "created_time": 1479305680.0, 
+    "modified_minutes": 881, 
+    "id": 28260009
+}

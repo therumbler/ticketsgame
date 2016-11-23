@@ -1,0 +1,189 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Hotel Garuda and Loosid at A.i. (November 25, 2016)", 
+        "popularity": 0.001595, 
+        "venue": {
+            "displayName": "A.i.", 
+            "uri": "http://www.songkick.com/venues/3194984-ai?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9052763, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -76.9815877, 
+            "id": 3194984
+        }, 
+        "uri": "http://www.songkick.com/concerts/28364954-hotel-garuda-at-ai?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "datetime": "2016-11-25T22:00:00-0500", 
+            "time": "22:00:00"
+        }, 
+        "location": {
+            "lat": 38.9052763, 
+            "city": "Washington, DC, US", 
+            "lng": -76.9815877
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "17c3e316-c10f-4ff1-8bfe-e77a68aeac0b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:17c3e316-c10f-4ff1-8bfe-e77a68aeac0b.json"
+                        }
+                    ], 
+                    "displayName": "Hotel Garuda", 
+                    "uri": "http://www.songkick.com/artists/8332508-hotel-garuda?utm_source=32233&utm_medium=partner", 
+                    "id": 8332508
+                }, 
+                "displayName": "Hotel Garuda", 
+                "id": 55150769, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7bfe44b9-15fe-478f-b8a9-26383daae186", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7bfe44b9-15fe-478f-b8a9-26383daae186.json"
+                        }
+                    ], 
+                    "displayName": "Loosid", 
+                    "uri": "http://www.songkick.com/artists/8779964-loosid?utm_source=32233&utm_medium=partner", 
+                    "id": 8779964
+                }, 
+                "displayName": "Loosid", 
+                "id": 55150774, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28364954
+    }, 
+    "musicbrainz_response": {
+        "name": "Hotel Garuda", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/Hotel_Garuda", 
+                    "id": "554947b4-9350-4134-974d-52504ba985ea"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/hotelgarudamusic", 
+                    "id": "eb91831e-2b9e-4f4b-9cf1-50767896d565"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/hotelgaruda/", 
+                    "id": "f9362d93-fd0b-4aa5-8356-dbb99aed123d"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/hotelgarudamusic", 
+                    "id": "0727d051-cedd-4022-88d9-aacdd44f3a09"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Hotel Garuda", 
+        "country": "US", 
+        "id": "17c3e316-c10f-4ff1-8bfe-e77a68aeac0b", 
+        "type": "Group", 
+        "twitter": "Hotel_Garuda", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15503, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 25.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442676.0, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 894, 
+    "id": 28364954
+}

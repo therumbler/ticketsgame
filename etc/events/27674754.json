@@ -1,0 +1,509 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Hold Steady with To Be Announced at Brooklyn Bowl (November 30, 2016)", 
+        "popularity": 0.036244, 
+        "venue": {
+            "displayName": "Brooklyn Bowl", 
+            "uri": "http://www.songkick.com/venues/493846-brooklyn-bowl?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7218812, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9573948, 
+            "id": 493846
+        }, 
+        "uri": "http://www.songkick.com/concerts/27674754-hold-steady-at-brooklyn-bowl?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-30", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-30T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7218812, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9573948
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4883523d-fc0e-4d0d-802c-91379e767083", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4883523d-fc0e-4d0d-802c-91379e767083.json"
+                        }
+                    ], 
+                    "displayName": "The Hold Steady", 
+                    "uri": "http://www.songkick.com/artists/276806-hold-steady?utm_source=32233&utm_medium=partner", 
+                    "id": 276806
+                }, 
+                "displayName": "The Hold Steady", 
+                "id": 53921379, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "To Be Announced", 
+                    "uri": "http://www.songkick.com/artists/8411778-to-be-announced?utm_source=32233&utm_medium=partner", 
+                    "id": 8411778
+                }, 
+                "displayName": "To Be Announced", 
+                "id": 53961264, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27674754
+    }, 
+    "musicbrainz_response": {
+        "name": "The Hold Steady", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "indie"
+            }, 
+            {
+                "count": 1, 
+                "name": "indie rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock and indie"
+            }
+        ], 
+        "gender-id": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2004", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/4883523d-fc0e-4d0d-802c-91379e767083", 
+                    "id": "e904146c-419a-409b-a2ed-10eb0bf96450"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm2518909/", 
+                    "id": "f44e829c-6e94-4221-93bb-9ab55ba7abda"
+                }, 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000088395", 
+                    "id": "975dcf8d-0c76-47c6-bd9b-bd9b1f9e4720"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/491197", 
+                    "id": "610931b9-3b37-400d-8ce8-5791d12efc33"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/The+Hold+Steady", 
+                    "id": "1408eee2-a7a1-4e01-bd0f-5eebb5287c0d"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/the-hold-steady-lyrics", 
+                    "id": "d5a54a59-5a82-4549-99a6-87ca4b8e63a3"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-12499/the-hold-steady/lyrics.html", 
+                    "id": "b8d6d781-a72a-4e1b-97d4-b56d5f276c56"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/theholdsteady", 
+                    "id": "d39df224-3c63-42d1-b56c-76490c26886f"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.theholdsteady.com/", 
+                    "id": "4245e5a3-92c8-4d50-803c-56abb7858f46"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/the_hold_steady", 
+                    "id": "ffc02ec3-ab3c-4e6f-a3b9-2573319f470b"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id19552743", 
+                    "id": "6ca2418f-1ca3-47d7-a2e3-34132c45dbf6"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.amazon.com/-/e/B000APV9GE", 
+                    "id": "f48d50d6-35d5-4570-b877-7ac72e61c640"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.amazon.com/-/e/B000APV9GE", 
+                    "id": "f48d50d6-35d5-4570-b877-7ac72e61c640"
+                }, 
+                "begin": null, 
+                "type-id": "611b1862-67af-4253-a64f-34adba305d1d", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for mail-order", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/theholdsteady", 
+                    "id": "121e25ef-35da-4c91-9656-ca52aaa82d93"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://plus.google.com/110838410506190256348", 
+                    "id": "d1222cd8-6218-4893-9269-256d5c5d85f2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/theholdsteady", 
+                    "id": "8ce3d2b6-244b-4554-be39-4bf45b6501fd"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/TheHoldSteady", 
+                    "id": "3aa57139-8f86-4e97-a6a7-e2959b7a660a"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/theholdsteady", 
+                    "id": "065015c2-2c76-4558-a87b-6b4ed335c78b"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://grooveshark.com/#!/theholdsteady", 
+                    "id": "af244bee-9aff-4c9f-b86c-87f49e9756a4"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1535768", 
+                    "id": "7828bbb7-bcfd-4783-9579-278ea0dc64ae"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Hold_Steady", 
+                    "id": "d5943fb5-5a0b-4adf-b396-2370f73a6e18"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/theholdsteadyband", 
+                    "id": "2efec3d8-aa3a-41c3-9fbc-81b8e4d6c94c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Brooklyn", 
+            "disambiguation": "", 
+            "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c", 
+            "name": "Brooklyn"
+        }, 
+        "sort-name": "Hold Steady, The", 
+        "isnis": [
+            "0000000110095056"
+        ], 
+        "id": "4883523d-fc0e-4d0d-802c-91379e767083", 
+        "country": "US", 
+        "type": "Group", 
+        "twitter": "theholdsteady", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 30, 
+    "ticket_details": {
+        "status": "Unknown", 
+        "price_max": 45.0, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?u=291182&b=234786&m=27601&urllink=www.ticketfly.com/purchase/event/1264857/tfly?utm_medium=api&afftrack=e27674754", 
+        "price_min": 45.0
+    }, 
+    "modified_time": 1479488328.0, 
+    "created_minutes": 2814, 
+    "created_time": 1479486488.0, 
+    "modified_minutes": 2783, 
+    "id": 27674754
+}

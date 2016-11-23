@@ -1,0 +1,127 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 1.8e-05, 
+        "displayName": "Harvest Jam 2016", 
+        "series": {
+            "displayName": "Harvest Jam"
+        }, 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Mauch Chunk Opera House", 
+            "uri": "http://www.songkick.com/venues/116958-mauch-chunk-opera-house?utm_source=32233&utm_medium=partner", 
+            "lat": 40.8635598, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.7464464, 
+            "id": 116958
+        }, 
+        "uri": "http://www.songkick.com/festivals/1503159/id/26301044-harvest-jam-2016?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-23", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 40.8635598, 
+            "city": "Jim Thorpe, PA, US", 
+            "lng": -75.7464464
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Free Range Folk", 
+                "id": 51383409, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "32f32e0d-f351-4345-821f-930fe646940b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:32f32e0d-f351-4345-821f-930fe646940b.json"
+                        }
+                    ], 
+                    "displayName": "Free Range Folk", 
+                    "uri": "http://www.songkick.com/artists/4958743-free-range-folk?utm_source=32233&utm_medium=partner", 
+                    "id": 4958743
+                }
+            }
+        ], 
+        "end": {
+            "date": "2016-11-23", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "type": "Festival", 
+        "id": 26301044
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Free Range Folk", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "free range folk"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2008-01-02", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.freerangefolk.net/", 
+                    "id": "aab8a0a4-c1b4-4eba-bf06-b5ff7618d56e"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Free Range Folk", 
+        "country": "US", 
+        "id": "32f32e0d-f351-4345-821f-930fe646940b", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 26301044, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

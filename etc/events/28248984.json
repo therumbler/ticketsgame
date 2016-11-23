@@ -1,0 +1,336 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "DIIV and Moon King at Georgia Theatre (November 14, 2016)", 
+        "popularity": 0.031358, 
+        "venue": {
+            "displayName": "Georgia Theatre", 
+            "uri": "http://www.songkick.com/venues/10960-georgia-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 33.9583371, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -83.3772112, 
+            "id": 10960
+        }, 
+        "uri": "http://www.songkick.com/concerts/28248984-diiv-at-georgia-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-14", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-14T21:00:00-0500"
+        }, 
+        "location": {
+            "lat": 33.9583371, 
+            "city": "Athens, GA, US", 
+            "lng": -83.3772112
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b5ff61dd-0154-4e80-b46b-c733f87db602", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b5ff61dd-0154-4e80-b46b-c733f87db602.json"
+                        }
+                    ], 
+                    "displayName": "DIIV", 
+                    "uri": "http://www.songkick.com/artists/5442918-diiv?utm_source=32233&utm_medium=partner", 
+                    "id": 5442918
+                }, 
+                "displayName": "DIIV", 
+                "id": 54947034, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "26daddcf-4682-4209-99eb-bd38bfb177eb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:26daddcf-4682-4209-99eb-bd38bfb177eb.json"
+                        }
+                    ], 
+                    "displayName": "Moon King", 
+                    "uri": "http://www.songkick.com/artists/4317671-moon-king?utm_source=32233&utm_medium=partner", 
+                    "id": 4317671
+                }, 
+                "displayName": "Moon King", 
+                "id": 54947039, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28248984
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "DIIV", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": null, 
+        "twitter": "diiv", 
+        "tags": [
+            {
+                "count": 2, 
+                "name": "dream pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "indie rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "jangle pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "krautrock"
+            }, 
+            {
+                "count": 1, 
+                "name": "neo-psychedelia"
+            }, 
+            {
+                "count": 1, 
+                "name": "post-punk"
+            }, 
+            {
+                "count": 1, 
+                "name": "shoegazing"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002827271", 
+                    "id": "ccd37634-12a1-4f16-8c2a-4e00c1fe178c"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2848703", 
+                    "id": "c4c86b66-7e4d-4a4f-aeb6-4556d6aad9f7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/DIIV", 
+                    "id": "95d0236e-90b6-4c4a-8f43-4ad19c31f3bc"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/diiv-lyrics", 
+                    "id": "1dd3f280-fc33-49fd-ab56-9a4f187b21b5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.diivnyc.com/", 
+                    "id": "0783d95a-e7e6-4764-8e5c-9055364e864a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/diiv", 
+                    "id": "20b1905f-f1a1-45b1-8b88-c4e228d6328a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/diiv", 
+                    "id": "b1ea7426-caf4-4ea8-ba1c-a1e61bef9371"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/diivnyc", 
+                    "id": "dbbc1b26-22f1-4543-b15f-b50369f41a90"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/diiv", 
+                    "id": "d5b84ad8-d7ba-4a02-a000-c06223a6d841"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q3560061", 
+                    "id": "cf68efa0-3987-4bdc-87e1-73c4b282310b"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/DIIV", 
+                    "id": "9760d179-761b-4c8e-b9bb-0dfe9b98568c"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Brooklyn", 
+            "disambiguation": "", 
+            "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c", 
+            "name": "Brooklyn"
+        }, 
+        "id": "b5ff61dd-0154-4e80-b46b-c733f87db602", 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "DIIV", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2011", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28248984, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

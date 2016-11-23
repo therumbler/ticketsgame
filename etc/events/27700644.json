@@ -1,0 +1,515 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mac Miller with Soulection feat. The Whooligan at Fillmore Silver Spring (December 13, 2016)", 
+        "popularity": 0.23298, 
+        "venue": {
+            "displayName": "Fillmore Silver Spring", 
+            "uri": "http://www.songkick.com/venues/1448428-fillmore-silver-spring?utm_source=32233&utm_medium=partner", 
+            "lat": 38.997482, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.027928, 
+            "id": 1448428
+        }, 
+        "uri": "http://www.songkick.com/concerts/27700644-mac-miller-at-fillmore-silver-spring?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-13", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 38.997482, 
+            "city": "Silver Spring, MD, US", 
+            "lng": -77.027928
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a0e8a1b1-5f8f-475a-a253-17415c17d0ff.json"
+                        }
+                    ], 
+                    "displayName": "Mac Miller", 
+                    "uri": "http://www.songkick.com/artists/2582651-mac-miller?utm_source=32233&utm_medium=partner", 
+                    "id": 2582651
+                }, 
+                "displayName": "Mac Miller", 
+                "id": 53967449, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Soulection feat. The Whooligan", 
+                    "uri": "http://www.songkick.com/artists/8887339-soulection-feat-the-whooligan?utm_source=32233&utm_medium=partner", 
+                    "id": 8887339
+                }, 
+                "displayName": "Soulection feat. The Whooligan", 
+                "id": 54586229, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27700644
+    }, 
+    "musicbrainz_response": {
+        "name": "Mac Miller", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1992-01-19", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "hip hop"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/a0e8a1b1-5f8f-475a-a253-17415c17d0ff", 
+                    "id": "e5e80a6b-9146-42c0-ad25-2a3cdb8889fe"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm5634993/", 
+                    "id": "132f5a5e-79a9-45b4-9c10-d404eab53b0c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/219209936", 
+                    "id": "fe7427ce-63eb-4a0c-b531-b953a0127a14"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002653603", 
+                    "id": "fbefa606-4990-4ed1-ad85-7c7101eca2c3"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://listentomac.bandcamp.com/", 
+                    "id": "98714409-38d0-4d62-803a-c2d8d3eca5db"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.mtv.com/artists/mac-miller/", 
+                    "id": "97bd8566-02b8-4cf9-b79d-2950d61a6d6f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2165577", 
+                    "id": "d9d595d7-4f69-4dbe-958d-dfaa4117f750"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://macmiller.org/", 
+                    "id": "fbbbfac7-ddf9-42c7-841b-ff269492abf0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Mac%20Miller", 
+                    "id": "123a3e49-e40a-4304-ba29-27aee2313c0e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/mac-miller-lyrics", 
+                    "id": "ceee16f4-7ad7-4e6f-81b9-eba8965d4d3c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-11428/mac-miller/lyrics.html", 
+                    "id": "0e9cff91-1311-443b-94dc-5c455438d42c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.directlyrics.com/mac-miller-artist.html", 
+                    "id": "a278060d-0190-4463-8af5-56858f52ab74"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/macmiller/", 
+                    "id": "b14a8ee1-1b21-4c0e-8df3-7a105bf37f5f"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.macmillerofficial.com/", 
+                    "id": "324db5ef-c25c-4f51-8a49-cd482a65b1b2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/mac_miller", 
+                    "id": "b1e8ebdd-42a4-4f92-98f8-d36606776285"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.purevolume.com/MacMiller", 
+                    "id": "384652bd-b1a5-4cda-99c5-2704e8aea58f"
+                }, 
+                "direction": "forward", 
+                "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purevolume", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/larryfisherman", 
+                    "id": "64cf06aa-b40d-41f6-a18d-aa11749afde9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/MacMiller", 
+                    "id": "6e11fd8c-ac5d-4d05-879d-9dda06173731"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/macmillerfans", 
+                    "id": "93a09277-15d4-43ba-bea0-8242f03b3109"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/larryfisherman", 
+                    "id": "028ad783-1631-4006-a77b-6e8f66dd452d"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q324726", 
+                    "id": "e28c9d31-b238-46e1-aea1-55fc4aefa67b"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Mac_Miller", 
+                    "id": "9ac83d13-375b-4450-ac33-d0471db8fa2d"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/TreeJTV", 
+                    "id": "a22eab9d-1d77-4424-8fe5-4d7c8c8e45e7"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Pittsburgh", 
+            "disambiguation": "", 
+            "name": "Pittsburgh", 
+            "id": "787abc26-28ce-44f8-a2d1-82d86b5d28a8"
+        }, 
+        "sort-name": "Miller, Mac", 
+        "gender": "Male", 
+        "id": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff", 
+        "type": "Person", 
+        "twitter": "MacMiller", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://concerts.livenation.com/event/150050FBC54B44F1"
+    }, 
+    "modified_time": 1479442047.0, 
+    "created_minutes": 18154, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 3555, 
+    "id": 27700644
+}

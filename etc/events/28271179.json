@@ -1,0 +1,96 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Georges at Dan's Silverleaf (November 11, 2016)", 
+        "popularity": 4.9e-05, 
+        "venue": {
+            "displayName": "Dan's Silverleaf", 
+            "uri": "http://www.songkick.com/venues/33748-dans-silverleaf?utm_source=32233&utm_medium=partner", 
+            "lat": 33.2144, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -97.1302392, 
+            "id": 33748
+        }, 
+        "uri": "http://www.songkick.com/concerts/28271179-georges-at-dans-silverleaf?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "16:00:00", 
+            "datetime": "2016-11-11T16:00:00-0600"
+        }, 
+        "location": {
+            "lat": 33.2144, 
+            "city": "Denton, TX, US", 
+            "lng": -97.1302392
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a78246cb-1cad-4d36-b1f8-e26660e540ae", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a78246cb-1cad-4d36-b1f8-e26660e540ae.json"
+                        }
+                    ], 
+                    "displayName": "The Georges", 
+                    "uri": "http://www.songkick.com/artists/26309-georges?utm_source=32233&utm_medium=partner", 
+                    "id": 26309
+                }, 
+                "displayName": "The Georges", 
+                "id": 54984744, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28271179
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Georges", 
+        "tags": [], 
+        "country": "FR", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "France", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "FR"
+            ], 
+            "name": "France", 
+            "id": "08310658-51eb-3801-80de-5a0739207115"
+        }, 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "a78246cb-1cad-4d36-b1f8-e26660e540ae", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Georges", 
+        "type": "Person", 
+        "disambiguation": "French artist"
+    }, 
+    "id": 28271179, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

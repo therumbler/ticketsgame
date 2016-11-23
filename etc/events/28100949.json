@@ -1,0 +1,158 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Martin Harley at Kings Place (November 18, 2016)", 
+        "popularity": 0.00052, 
+        "venue": {
+            "displayName": "Kings Place", 
+            "uri": "http://www.songkick.com/venues/47963-kings-place?utm_source=32233&utm_medium=partner", 
+            "lat": 51.534649, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.122138, 
+            "id": 47963
+        }, 
+        "uri": "http://www.songkick.com/concerts/28100949-martin-harley-at-kings-place?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-18T19:30:00+0000"
+        }, 
+        "location": {
+            "lat": 51.534649, 
+            "city": "London, UK", 
+            "lng": -0.122138
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5866a64f-4ecc-4c26-a8c5-0d3d526b7c8f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5866a64f-4ecc-4c26-a8c5-0d3d526b7c8f.json"
+                        }
+                    ], 
+                    "displayName": "Martin Harley", 
+                    "uri": "http://www.songkick.com/artists/490176-martin-harley?utm_source=32233&utm_medium=partner", 
+                    "id": 490176
+                }, 
+                "displayName": "Martin Harley", 
+                "id": 54690304, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28100949
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Martin Harley", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "country": "GB", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1975", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "blues"
+            }, 
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.martinharley.com/", 
+                    "id": "58cfde06-9b71-4b04-824b-8b5adbeb6d30"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/martinharleyofficial", 
+                    "id": "01a21e01-264b-4b85-a0e5-2ed5cef77a1a"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Martin_Harley", 
+                    "id": "119d9324-fbbb-42f9-a98f-10bba87ca2b4"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Harley, Martin", 
+        "type": "Person", 
+        "id": "5866a64f-4ecc-4c26-a8c5-0d3d526b7c8f", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.kingsplace.co.uk/whats-on/music/martin-harley#.V-T1RJMrKu5"
+    }, 
+    "modified_time": 1479442456.0, 
+    "created_minutes": 18169, 
+    "created_time": 1478566022.0, 
+    "modified_minutes": 3562, 
+    "id": 28100949
+}

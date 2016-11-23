@@ -1,0 +1,276 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "16+", 
+        "displayName": "OWEL and The Soil & the Sun at The Studio at Webster Hall (November 11, 2016)", 
+        "popularity": 0.001086, 
+        "venue": {
+            "displayName": "The Studio at Webster Hall", 
+            "uri": "http://www.songkick.com/venues/499281-studio-at-webster-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7315472, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9891987, 
+            "id": 499281
+        }, 
+        "uri": "http://www.songkick.com/concerts/28071979-owel-at-studio-at-webster-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "18:30:00", 
+            "datetime": "2016-11-11T18:30:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7315472, 
+            "city": "New York, NY, US", 
+            "lng": -73.9891987
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "525c8ada-7e94-4e81-a028-7740160be08e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:525c8ada-7e94-4e81-a028-7740160be08e.json"
+                        }
+                    ], 
+                    "displayName": "OWEL", 
+                    "uri": "http://www.songkick.com/artists/6212974-owel?utm_source=32233&utm_medium=partner", 
+                    "id": 6212974
+                }, 
+                "displayName": "OWEL", 
+                "id": 54640249, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "983e7d1b-4a3b-4817-a79e-c6734a835041", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:983e7d1b-4a3b-4817-a79e-c6734a835041.json"
+                        }
+                    ], 
+                    "displayName": "The Soil & the Sun", 
+                    "uri": "http://www.songkick.com/artists/2528311-soil-and-the-sun?utm_source=32233&utm_medium=partner", 
+                    "id": 2528311
+                }, 
+                "displayName": "The Soil & the Sun", 
+                "id": 54640254, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28071979
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Owel", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "twitter": "owelband", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003226396", 
+                    "id": "fea67414-3e9b-4a1e-b185-a0f7f7d57e4b"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://owel.bandcamp.com/", 
+                    "id": "1c2c84a6-6545-425f-b624-e7e9d9b35dc3"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/206985", 
+                    "id": "b38085a1-130e-42b8-bad5-81cc07438f0a"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Owel", 
+                    "id": "b26e6d35-cd7e-4f58-a6c7-619641ee042c"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.owelband.com/", 
+                    "id": "ad014b1f-809f-4eff-a033-ea4798473ca3"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/owel", 
+                    "id": "7cfb3310-d7e4-4d81-b92a-f588e3a3d41b"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/owelband", 
+                    "id": "97368bf7-003f-4523-8c4e-a8034522f563"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/owelband", 
+                    "id": "b31eb0fe-e58d-4eb3-8526-53b451c099ba"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/owelband/", 
+                    "id": "b3759e30-a8e8-402f-b08c-56800bd2844d"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "New Jersey", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-NJ"
+            ], 
+            "name": "New Jersey", 
+            "id": "a36544c1-cb40-4f44-9e0e-7a5a69e403a8"
+        }, 
+        "sort-name": "Owel", 
+        "country": "US", 
+        "id": "525c8ada-7e94-4e81-a028-7740160be08e", 
+        "ipis": [], 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28071979, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

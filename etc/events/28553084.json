@@ -1,0 +1,105 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Ded Rabbit at The Old Queen\u2019s Head (November 27, 2016)", 
+        "popularity": 0.000134, 
+        "venue": {
+            "displayName": "The Old Queen\u2019s Head", 
+            "uri": "http://www.songkick.com/venues/209343-old-queens-head?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5372495, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1004071, 
+            "id": 209343
+        }, 
+        "uri": "http://www.songkick.com/concerts/28553084-ded-rabbit-at-old-queens-head?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-27", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-27T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5372495, 
+            "city": "London, UK", 
+            "lng": -0.1004071
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Ded Rabbit", 
+                "id": 55473624, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b516072d-50c6-4b92-960c-d22df729237d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b516072d-50c6-4b92-960c-d22df729237d.json"
+                        }
+                    ], 
+                    "displayName": "Ded Rabbit", 
+                    "uri": "http://www.songkick.com/artists/859943-ded-rabbit?utm_source=32233&utm_medium=partner", 
+                    "id": 859943
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28553084
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Ded Rabbit", 
+        "sort-name": "Ded Rabbit", 
+        "gender": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/DedRabbit", 
+                    "id": "3a2fd46b-87cd-4fcb-83cb-7b0d33a7e2f8"
+                }, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "isnis": [], 
+        "id": "b516072d-50c6-4b92-960c-d22df729237d", 
+        "country": null, 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 28553084, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

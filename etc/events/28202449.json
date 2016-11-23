@@ -1,0 +1,199 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "ZEALE at Mohawk (November 11, 2016)", 
+        "popularity": 0.00046, 
+        "venue": {
+            "displayName": "Mohawk", 
+            "uri": "http://www.songkick.com/venues/14633-mohawk?utm_source=32233&utm_medium=partner", 
+            "lat": 30.2701302, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7359046, 
+            "id": 14633
+        }, 
+        "uri": "http://www.songkick.com/concerts/28202449-zeale-at-mohawk?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 30.2701302, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7359046
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "af0831f2-1e63-4be0-aa89-4db8804a6c4d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:af0831f2-1e63-4be0-aa89-4db8804a6c4d.json"
+                        }
+                    ], 
+                    "displayName": "ZEALE", 
+                    "uri": "http://www.songkick.com/artists/948003-zeale?utm_source=32233&utm_medium=partner", 
+                    "id": 948003
+                }, 
+                "displayName": "ZEALE", 
+                "id": 54869269, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28202449
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Zeale", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000235992", 
+                    "id": "d05e7e6a-6c7b-4e47-941e-cdf2ed34ebb3"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3019468", 
+                    "id": "617c1032-1887-4e9a-b1b4-cce2f8e9bf14"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Zeale", 
+                    "id": "321b4fd6-5104-4311-b9b0-f7175dbec0ca"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.zealerapz.com/", 
+                    "id": "4e89f75c-bd8c-4b4d-9842-7e66fb066036"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/zeale.rapz", 
+                    "id": "f1f76522-96c1-446a-9c4b-e9ccdb304dc7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/zeale", 
+                    "id": "56ed75d4-5aae-4ed3-977b-f4d6d9617b3d"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Zeale", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "type": "Person", 
+        "id": "af0831f2-1e63-4be0-aa89-4db8804a6c4d", 
+        "disambiguation": "Hip-hop/rap rock/indie artist from Austin, Texas"
+    }, 
+    "id": 28202449, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

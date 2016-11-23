@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Irene Jalenti at Mr. Henry's (November 12, 2016)", 
+        "popularity": 6e-06, 
+        "venue": {
+            "displayName": "Mr. Henry's", 
+            "uri": "http://www.songkick.com/venues/2974023-mr-henrys?utm_source=32233&utm_medium=partner", 
+            "lat": 38.885146, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -76.998267, 
+            "id": 2974023
+        }, 
+        "uri": "http://www.songkick.com/concerts/27990414-irene-jalenti-at-mr-henrys?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-12T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.885146, 
+            "city": "Washington, DC, US", 
+            "lng": -76.998267
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b30340ab-333f-4356-bb66-b15fd4dfa4dc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b30340ab-333f-4356-bb66-b15fd4dfa4dc.json"
+                        }
+                    ], 
+                    "displayName": "Irene Jalenti", 
+                    "uri": "http://www.songkick.com/artists/776286-irene-jalenti?utm_source=32233&utm_medium=partner", 
+                    "id": 776286
+                }, 
+                "displayName": "Irene Jalenti", 
+                "id": 54497809, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27990414
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Irene Jalenti", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/irejalenti", 
+                    "id": "7db2787f-013d-4b3b-86e8-8efa73bbb1aa"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Jalenti, Irene", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "type": "Person", 
+        "id": "b30340ab-333f-4356-bb66-b15fd4dfa4dc", 
+        "disambiguation": ""
+    }, 
+    "id": 27990414, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

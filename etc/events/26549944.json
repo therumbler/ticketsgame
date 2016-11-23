@@ -1,0 +1,111 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Marty Nightengale and Ben Hammond at Bridge Street Bar (November 19, 2016)", 
+        "popularity": 4.9e-05, 
+        "venue": {
+            "displayName": "Bridge Street Bar", 
+            "uri": "http://www.songkick.com/venues/3258259-bridge-street-bar?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": null, 
+            "id": 3258259
+        }, 
+        "uri": "http://www.songkick.com/concerts/26549944-marty-nightengale-at-bridge-street-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-19T22:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.6358, 
+            "city": "Vail, CO, US", 
+            "lng": -106.363
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Marty Nightengale", 
+                    "uri": "http://www.songkick.com/artists/3754696-marty-nightengale?utm_source=32233&utm_medium=partner", 
+                    "id": 3754696
+                }, 
+                "displayName": "Marty Nightengale", 
+                "id": 51838994, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "daa6fabe-547e-4e1a-bedc-31c65e20471d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:daa6fabe-547e-4e1a-bedc-31c65e20471d.json"
+                        }
+                    ], 
+                    "displayName": "Ben Hammond", 
+                    "uri": "http://www.songkick.com/artists/1004556-ben-hammond?utm_source=32233&utm_medium=partner", 
+                    "id": 1004556
+                }, 
+                "displayName": "Ben Hammond", 
+                "id": 53839354, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26549944
+    }, 
+    "bandsintown_response": [
+        {
+            "description": "Ben Hammond Live-Looped", 
+            "title": "Marty NIghtengale @ Bridge Street Bar in Vail, CO", 
+            "ticket_type": null, 
+            "venue": {
+                "city": "Vail", 
+                "name": "Bridge Street Bar", 
+                "country": "United States", 
+                "region": "CO", 
+                "longitude": -106.3735892, 
+                "place": "Bridge Street Bar", 
+                "latitude": 39.6405581
+            }, 
+            "facebook_rsvp_url": "http://www.bandsintown.com/event/12547525?app_id=ticketsgame&artist=Marty+NIghtengale&came_from=67", 
+            "ticket_url": null, 
+            "on_sale_datetime": null, 
+            "formatted_datetime": "Saturday, November 19, 2016 at 10:00PM", 
+            "datetime": "2016-11-19T22:00:00", 
+            "formatted_location": "Vail, CO", 
+            "artists": [
+                {
+                    "website": null, 
+                    "facebook_page_url": null, 
+                    "name": "Marty NIghtengale", 
+                    "url": "MartyNightengale", 
+                    "tracker_count": 128, 
+                    "mbid": null, 
+                    "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                    "facebook_tour_dates_url": "http://www.bandsintown.com/MartyNightengale/facebookapp?came_from=67", 
+                    "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+                }
+            ], 
+            "ticket_status": "unavailable", 
+            "id": 12547525
+        }
+    ], 
+    "id": 26549944, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

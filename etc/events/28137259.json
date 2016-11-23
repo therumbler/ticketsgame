@@ -1,0 +1,95 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Kyle Morton at The Old Church Concert Hall (January 6, 2017)", 
+        "popularity": 1.4e-05, 
+        "venue": {
+            "displayName": "The Old Church Concert Hall", 
+            "uri": "http://www.songkick.com/venues/2955428-old-church-concert-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5151433, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6855878, 
+            "id": 2955428
+        }, 
+        "uri": "http://www.songkick.com/concerts/28137259-kyle-morton-at-old-church-concert-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-06", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 45.5151433, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6855878
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "39c26490-2b5c-408e-b31d-4746cece8eca", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:39c26490-2b5c-408e-b31d-4746cece8eca.json"
+                        }
+                    ], 
+                    "displayName": "Kyle Morton", 
+                    "uri": "http://www.songkick.com/artists/8896209-kyle-morton?utm_source=32233&utm_medium=partner", 
+                    "id": 8896209
+                }, 
+                "displayName": "Kyle Morton", 
+                "id": 54755454, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28137259
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Kyle Morton", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Morton, Kyle", 
+        "gender": "Male", 
+        "id": "39c26490-2b5c-408e-b31d-4746cece8eca", 
+        "type": "Person", 
+        "disambiguation": "front man and guitarist of Typhoon", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Sold Out", 
+        "price_max": false, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?u=291182&b=234786&m=27601&urllink=www.ticketfly.com/purchase/event/1278587/tfly?utm_medium=api&afftrack=e28137259", 
+        "price_min": false
+    }, 
+    "modified_time": 1479442519.0, 
+    "created_minutes": 18170, 
+    "created_time": 1478566069.0, 
+    "modified_minutes": 3563, 
+    "id": 28137259
+}

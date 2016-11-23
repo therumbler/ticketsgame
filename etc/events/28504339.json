@@ -1,0 +1,79 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 6e-05, 
+        "displayName": "Glad Rags (US) with ODE at Hq (November 18, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Hq", 
+            "uri": "http://www.songkick.com/venues/2431909-hq?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": null, 
+            "id": 2431909
+        }, 
+        "uri": "http://www.songkick.com/concerts/28504339-glad-rags-us-at-hq?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "datetime": "2016-11-18T19:00:00-0600", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 41.8407, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6794
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Glad Rags (US)", 
+                    "uri": "http://www.songkick.com/artists/8394518-glad-rags-us?utm_source=32233&utm_medium=partner", 
+                    "id": 8394518
+                }, 
+                "displayName": "Glad Rags (US)", 
+                "id": 55389394, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "73359770-26f8-4f26-9796-ba5ee134e643", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:73359770-26f8-4f26-9796-ba5ee134e643.json"
+                        }
+                    ], 
+                    "displayName": "ODE", 
+                    "uri": "http://www.songkick.com/artists/645408-ode?utm_source=32233&utm_medium=partner", 
+                    "id": 645408
+                }, 
+                "displayName": "ODE", 
+                "id": 55389399, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28504339
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "id": 28504339, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

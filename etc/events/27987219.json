@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "James Adomian at 40 Watt Club (November 12, 2016)", 
+        "popularity": 0.000163, 
+        "venue": {
+            "displayName": "40 Watt Club", 
+            "uri": "http://www.songkick.com/venues/10973-40-watt-club?utm_source=32233&utm_medium=partner", 
+            "lat": 33.958132, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -83.380008, 
+            "id": 10973
+        }, 
+        "uri": "http://www.songkick.com/concerts/27987219-james-adomian-at-40-watt-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "datetime": "2016-11-12T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 33.958132, 
+            "city": "Athens, GA, US", 
+            "lng": -83.380008
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a0b0a68d-e8e9-43df-9e7a-1a1c286b07cd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a0b0a68d-e8e9-43df-9e7a-1a1c286b07cd.json"
+                        }
+                    ], 
+                    "displayName": "James Adomian", 
+                    "uri": "http://www.songkick.com/artists/2845676-james-adomian?utm_source=32233&utm_medium=partner", 
+                    "id": 2845676
+                }, 
+                "displayName": "James Adomian", 
+                "id": 54492019, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27987219
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "James Adomian", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2167025", 
+                    "id": "e516fefd-914a-46eb-b044-7e858302af0b"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "Adomian, James", 
+        "country": null, 
+        "id": "a0b0a68d-e8e9-43df-9e7a-1a1c286b07cd", 
+        "type": null, 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 27987219, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,594 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The 1975 at South Side Ballroom at Gilley's (November 25, 2016)", 
+        "popularity": 0.147577, 
+        "venue": {
+            "displayName": "South Side Ballroom at Gilley's", 
+            "uri": "http://www.songkick.com/venues/2262874-south-side-ballroom-at-gilleys?utm_source=32233&utm_medium=partner", 
+            "lat": 32.768777, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.797987, 
+            "id": 2262874
+        }, 
+        "uri": "http://www.songkick.com/concerts/27677739-1975-at-south-side-ballroom-at-gilleys?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 32.768777, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.797987
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5b6ebfe0-f72b-4902-bba9-74c8af0f1af0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5b6ebfe0-f72b-4902-bba9-74c8af0f1af0.json"
+                        }
+                    ], 
+                    "displayName": "The 1975", 
+                    "uri": "http://www.songkick.com/artists/66370-1975?utm_source=32233&utm_medium=partner", 
+                    "id": 66370
+                }, 
+                "displayName": "The 1975", 
+                "id": 53926224, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27677739
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The 1975", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2002", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "country": "GB", 
+        "twitter": "the1975", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "ambient pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "art pop"
+            }, 
+            {
+                "count": 2, 
+                "name": "indie rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "new wave"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "synthpop"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/5b6ebfe0-f72b-4902-bba9-74c8af0f1af0", 
+                    "id": "3a8034e2-5042-444b-8983-962b1e6f1835"
+                }, 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm5816619/", 
+                    "id": "d7f7a6d7-78f6-4d7d-8091-b66321e16a57"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002986022", 
+                    "id": "ba599d70-1ed9-4a29-91b6-84ee7146ff9c"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3231113", 
+                    "id": "a00980f2-16c9-4d86-8a04-e1c0a382e092"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:The_1975_Live_in_Bangkok.jpg", 
+                    "id": "d66892e0-6b61-4130-b8ce-a1a11211cbe5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/The+1975", 
+                    "id": "185ed1f4-ef62-4a9e-9fbd-8cfa5a732c06"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://genius.com/artists/The-1975", 
+                    "id": "e32c349f-bd32-4b71-862a-1d2a5ab33283"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/wiki/The_1975", 
+                    "id": "9fb2e3b3-2805-45bc-b636-e16f44294249"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-12880/the-1975/lyrics.html", 
+                    "id": "4bd4a776-15ce-47ec-801c-7b6ead1067e1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://the1975.com/", 
+                    "id": "30a62e7d-3a47-404c-a8a8-d78e189a5582"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/the_1975", 
+                    "id": "82155bfc-2e5e-4bb7-abc6-02a2c54f625f"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.whosampled.com/The-1975/", 
+                    "id": "c7822aba-b51e-456f-9705-95ddcbe86680"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://imvdb.com/n/the-1975", 
+                    "id": "745a3af2-6830-4b99-8973-0739f043239e"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id542640016", 
+                    "id": "be3a6c8d-9d99-42ec-9805-52ddbbef7206"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=Aj5wovyudpogughjrt6kndxvmva", 
+                    "id": "c7c17c84-cbb4-4d62-bb22-761f23b481f9"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.purevolume.com/new/The1975", 
+                    "id": "376bf14b-9cf9-4f3d-9045-05d8e5176607"
+                }, 
+                "begin": null, 
+                "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purevolume", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://secondhandsongs.com/artist/74937", 
+                    "id": "57281802-154d-457e-be6a-4b890f9af1d3"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/the1975", 
+                    "id": "61db7a09-97aa-4006-aae9-aca47f5d7ecf"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://plus.google.com/109222879190373147816", 
+                    "id": "08fbded5-32bc-4d1b-9a6a-dace4bbbe261"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/the1975", 
+                    "id": "7ebebda4-6551-48dc-961d-3e9978d4a20e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/the1975", 
+                    "id": "8cb410c5-5952-408e-92ef-d3846a12173e"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/the1975", 
+                    "id": "c627b66d-2fa0-4420-9fd1-7f3bc74e2e98"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW", 
+                    "id": "1a58497a-1b79-4d6e-8613-4b344749fbc8"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q2811247", 
+                    "id": "30cc99c9-73af-41fb-8707-d8b9ef7c789a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_1975", 
+                    "id": "37afdec8-7bca-4fe5-9a51-b1661e088f7b"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/The1975VEVO", 
+                    "id": "3c6a9412-c318-4132-97fa-5933ca44f158"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/The1975music", 
+                    "id": "f2b28b2c-23c2-44ce-a67d-bb0e4e85fb4d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Manchester", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "GB-MAN"
+            ], 
+            "id": "852531bf-3410-401f-b432-9c3157a386b9", 
+            "name": "Manchester"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "1975, The", 
+        "type": "Group", 
+        "id": "5b6ebfe0-f72b-4902-bba9-74c8af0f1af0", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://concerts.livenation.com/event/0C0050EECFE84DA2"
+    }, 
+    "modified_time": 1479442036.0, 
+    "created_minutes": 18156, 
+    "created_time": 1478565996.0, 
+    "modified_minutes": 3555, 
+    "id": 27677739
+}

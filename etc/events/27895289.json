@@ -1,0 +1,128 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Japanese House at The Foundry Philadelphia (November 26, 2016)", 
+        "popularity": 0.005092, 
+        "venue": {
+            "displayName": "The Foundry Philadelphia", 
+            "uri": "http://www.songkick.com/venues/3068729-foundry-philadelphia?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9647703, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1344573, 
+            "id": 3068729
+        }, 
+        "uri": "http://www.songkick.com/concerts/27895289-japanese-house-at-foundry-philadelphia?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-26", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-26T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9647703, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1344573
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5db88fae-df24-490e-971a-1b3fe8d373ea", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5db88fae-df24-490e-971a-1b3fe8d373ea.json"
+                        }
+                    ], 
+                    "displayName": "The Japanese House", 
+                    "uri": "http://www.songkick.com/artists/8552784-japanese-house?utm_source=32233&utm_medium=partner", 
+                    "id": 8552784
+                }, 
+                "displayName": "The Japanese House", 
+                "id": 54325489, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27895289
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "The Japanese House", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/japanesehouse", 
+                    "id": "3bd8a851-3794-44fa-ad90-a009a37c3153"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/channel/UCrLuCLvpoujXvKP8FpkCIJQ", 
+                    "id": "bd9ffabe-78c8-455d-b52b-0cbe61b31b7c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Japanese House, The", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "id": "5db88fae-df24-490e-971a-1b3fe8d373ea", 
+        "type": null, 
+        "twitter": "japanesehouse", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://concerts1.livenation.com/event/02005112E5E6694B"
+    }, 
+    "modified_time": 1479442230.0, 
+    "created_minutes": 18162, 
+    "created_time": 1478566060.0, 
+    "modified_minutes": 3559, 
+    "id": 27895289
+}

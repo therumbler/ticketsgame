@@ -1,0 +1,180 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Perhaps Contraption at Unknown venue (November 12, 2016)", 
+        "popularity": 0.000122, 
+        "venue": {
+            "displayName": "Unknown venue", 
+            "uri": null, 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": null, 
+            "id": null
+        }, 
+        "uri": "http://www.songkick.com/concerts/28282044-perhaps-contraption-at-unknown-venue?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "12:00:00", 
+            "datetime": "2016-11-12T12:00:00+0000"
+        }, 
+        "location": {
+            "lat": null, 
+            "city": "Woolwich, UK", 
+            "lng": null
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f6049f71-e343-4489-b5d5-e925e73978d8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f6049f71-e343-4489-b5d5-e925e73978d8.json"
+                        }
+                    ], 
+                    "displayName": "Perhaps Contraption", 
+                    "uri": "http://www.songkick.com/artists/852519-perhaps-contraption?utm_source=32233&utm_medium=partner", 
+                    "id": 852519
+                }, 
+                "displayName": "Perhaps Contraption", 
+                "id": 55003704, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28282044
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Perhaps Contraption", 
+        "area": null, 
+        "gender": null, 
+        "twitter": "perhapscontrap", 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://perhapscontraption.co.uk/", 
+                    "id": "79c24f5b-d0f5-432a-a603-163dbc9313d3"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://listen.perhapscontraption.co.uk/", 
+                    "id": "46a54292-67dc-46fb-b5fa-f1c6e0c31414"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/perhapscontrap", 
+                    "id": "cdc7bed9-13e7-4e8b-97c1-44a154895b5a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/perhapscontraption", 
+                    "id": "35b3ca52-66a4-41bd-a258-9001388e7299"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/perhapscontraption", 
+                    "id": "94bf311e-db71-4f80-9e74-924366d3583a"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": "2004-03", 
+            "end": null
+        }, 
+        "end_area": null, 
+        "sort-name": "Perhaps Contraption", 
+        "begin_area": {
+            "sort-name": "Bristol", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "GB-BST"
+            ], 
+            "name": "Bristol", 
+            "id": "40d758a4-b7c2-40f3-b439-5efbd2a3b038"
+        }, 
+        "gender-id": null, 
+        "country": null, 
+        "id": "f6049f71-e343-4489-b5d5-e925e73978d8", 
+        "ipis": [], 
+        "type": "Group", 
+        "disambiguation": ""
+    }, 
+    "id": 28282044, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

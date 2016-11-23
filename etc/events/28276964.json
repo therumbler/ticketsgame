@@ -1,0 +1,156 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Swimm at Neumos Crystal Ball Reading Room (December 11, 2016)", 
+        "popularity": 0.000761, 
+        "venue": {
+            "displayName": "Neumos Crystal Ball Reading Room", 
+            "uri": "http://www.songkick.com/venues/1163-neumos-crystal-ball-reading-room?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6140125, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3200355, 
+            "id": 1163
+        }, 
+        "uri": "http://www.songkick.com/concerts/28276964-swimm-at-neumos-crystal-ball-reading-room?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-11", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 47.6140125, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3200355
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "13830d76-b635-4aaa-b51b-3c2dc6f39a8d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:13830d76-b635-4aaa-b51b-3c2dc6f39a8d.json"
+                        }
+                    ], 
+                    "displayName": "Swimm", 
+                    "uri": "http://www.songkick.com/artists/6627389-swimm?utm_source=32233&utm_medium=partner", 
+                    "id": 6627389
+                }, 
+                "displayName": "Swimm", 
+                "id": 54994724, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28276964
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "SWIMM", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002566530", 
+                    "id": "937f503b-27f4-496e-9294-959d4219bec6"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2940006", 
+                    "id": "da0580ea-75e2-44d3-be18-3633ea5fde1d"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/swimm", 
+                    "id": "34b7112d-7cdd-4402-ba61-14bba42eb821"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Florida", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-FL"
+            ], 
+            "name": "Florida", 
+            "id": "d2918f1a-c51e-4a4a-ad7f-cdd88877b25f"
+        }, 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "SWIMM", 
+        "type": "Group", 
+        "id": "13830d76-b635-4aaa-b51b-3c2dc6f39a8d", 
+        "disambiguation": ""
+    }, 
+    "id": 28276964, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

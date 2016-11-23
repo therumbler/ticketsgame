@@ -1,0 +1,129 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Ephwurd at Soundcheck (November 23, 2016)", 
+        "popularity": 0.000811, 
+        "venue": {
+            "displayName": "Soundcheck", 
+            "uri": "http://www.songkick.com/venues/3060354-soundcheck?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9021747, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0329211, 
+            "id": 3060354
+        }, 
+        "uri": "http://www.songkick.com/concerts/28259864-ephwurd-at-soundcheck?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-23", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-23T22:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.9021747, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0329211
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "23ce1613-a1e7-4083-b5d1-bf94c4e9eaa8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:23ce1613-a1e7-4083-b5d1-bf94c4e9eaa8.json"
+                        }
+                    ], 
+                    "displayName": "Ephwurd", 
+                    "uri": "http://www.songkick.com/artists/8732399-ephwurd?utm_source=32233&utm_medium=partner", 
+                    "id": 8732399
+                }, 
+                "displayName": "Ephwurd", 
+                "id": 54964764, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28259864
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Ephwurd", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Ephwurd", 
+                    "id": "f5bf0bf9-e0ff-4ce3-bf2a-80e51202902b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/ephwurd", 
+                    "id": "6404e0f4-2feb-48ca-b2c8-1301c2e83efa"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Ephwurd", 
+        "type": null, 
+        "id": "23ce1613-a1e7-4083-b5d1-bf94c4e9eaa8", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15493, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 20.0, 
+        "price_min": 20.0
+    }, 
+    "modified_time": 1479442842.0, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 881, 
+    "id": 28259864
+}

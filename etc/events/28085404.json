@@ -1,0 +1,118 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Midnight Club with Compass and Cavern at Summit Music Hall (November 11, 2016)", 
+        "popularity": 0.000282, 
+        "venue": {
+            "displayName": "Summit Music Hall", 
+            "uri": "http://www.songkick.com/venues/836146-summit-music-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7535064, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9953172, 
+            "id": 836146
+        }, 
+        "uri": "http://www.songkick.com/concerts/28085404-midnight-club-at-summit-music-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-11T19:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.7535064, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9953172
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "36daf61a-4b52-4481-904d-4a72e879dbf3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:36daf61a-4b52-4481-904d-4a72e879dbf3.json"
+                        }
+                    ], 
+                    "displayName": "Midnight Club", 
+                    "uri": "http://www.songkick.com/artists/1394755-midnight-club?utm_source=32233&utm_medium=partner", 
+                    "id": 1394755
+                }, 
+                "displayName": "Midnight Club", 
+                "id": 54662599, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Compass and Cavern", 
+                    "uri": "http://www.songkick.com/artists/8668459-compass-and-cavern?utm_source=32233&utm_medium=partner", 
+                    "id": 8668459
+                }, 
+                "displayName": "Compass and Cavern", 
+                "id": 54662604, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28085404
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Midnight Club", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/xxmidnightclubxx", 
+                    "id": "6009cea0-6fbb-4f24-b3af-078dff49b8a0"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Club, Midnight", 
+        "gender": null, 
+        "id": "36daf61a-4b52-4481-904d-4a72e879dbf3", 
+        "type": "Person", 
+        "disambiguation": "Just a disco filter", 
+        "gender-id": null
+    }, 
+    "id": 28085404, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "All Ages", 
+        "displayName": "Dave B. with Travis Thompson and Tiffany Gouche at Nuemos (November 12, 2016)", 
+        "popularity": 0.000584, 
+        "venue": {
+            "displayName": "Nuemos", 
+            "uri": "http://www.songkick.com/venues/3035944-nuemos?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6062095, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3320708, 
+            "id": 3035944
+        }, 
+        "uri": "http://www.songkick.com/concerts/28490059-dave-b-at-nuemos?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "datetime": "2016-11-12T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 47.6062095, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3320708
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5b88c359-2578-44f4-8f3b-7d213d201fd6", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5b88c359-2578-44f4-8f3b-7d213d201fd6.json"
+                        }
+                    ], 
+                    "displayName": "Dave B.", 
+                    "uri": "http://www.songkick.com/artists/1053345-dave-b?utm_source=32233&utm_medium=partner", 
+                    "id": 1053345
+                }, 
+                "displayName": "Dave B.", 
+                "id": 55364909, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Travis Thompson", 
+                    "uri": "http://www.songkick.com/artists/8674279-travis-thompson?utm_source=32233&utm_medium=partner", 
+                    "id": 8674279
+                }, 
+                "displayName": "Travis Thompson", 
+                "id": 55364914, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5c876205-3899-47fd-a5e9-4897015172f1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5c876205-3899-47fd-a5e9-4897015172f1.json"
+                        }
+                    ], 
+                    "displayName": "Tiffany Gouche", 
+                    "uri": "http://www.songkick.com/artists/6880739-tiffany-gouche?utm_source=32233&utm_medium=partner", 
+                    "id": 6880739
+                }, 
+                "displayName": "Tiffany Gouche", 
+                "id": 55364919, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28490059
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "Dave B", 
+        "end_area": null, 
+        "gender": null, 
+        "twitter": "davebspacedot", 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://davebspacedot.tumblr.com/", 
+                    "id": "9e87e29f-7b81-44cb-9a1a-91c4bc1bb3b8"
+                }, 
+                "begin": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/davebspacedot", 
+                    "id": "dcfd3c14-7c27-4cc1-8f96-6e188059c1e4"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/davebspacedot", 
+                    "id": "080c244d-0107-4bb6-a1b6-1740e57b82df"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/davebspacedot/", 
+                    "id": "b59c2a34-2bf2-40e0-b2c9-3ea5c13dcbdf"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/davebmusic", 
+                    "id": "a20d1dee-f796-4205-98f8-ea1189d01ce7"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/davebmusic", 
+                    "id": "d5c33f55-93cf-4cfa-b3e2-b449a2e0c3b7"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "disambiguation": "", 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "Dave B", 
+        "country": null, 
+        "id": "5b88c359-2578-44f4-8f3b-7d213d201fd6", 
+        "tags": [], 
+        "ipis": [], 
+        "type": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28490059, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 7e-06, 
+        "displayName": "Jeff Elliott at SOhO (November 21, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "SOhO", 
+            "uri": "http://www.songkick.com/venues/53324-soho?utm_source=32233&utm_medium=partner", 
+            "lat": 34.4237961, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -119.7052831, 
+            "id": 53324
+        }, 
+        "uri": "http://www.songkick.com/concerts/28518609-jeff-elliott-at-soho?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-21", 
+            "datetime": "2016-11-21T19:30:00-0800", 
+            "time": "19:30:00"
+        }, 
+        "location": {
+            "lat": 34.4237961, 
+            "city": "Santa Barbara, CA, US", 
+            "lng": -119.7052831
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2482da90-330f-4e50-b4c4-902040f4dc74", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2482da90-330f-4e50-b4c4-902040f4dc74.json"
+                        }, 
+                        {
+                            "mbid": "53857897-bf4e-4b9b-887a-2ed40a7a1625", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:53857897-bf4e-4b9b-887a-2ed40a7a1625.json"
+                        }
+                    ], 
+                    "displayName": "Jeff Elliott", 
+                    "uri": "http://www.songkick.com/artists/528045-jeff-elliott?utm_source=32233&utm_medium=partner", 
+                    "id": 528045
+                }, 
+                "displayName": "Jeff Elliott", 
+                "id": 55413479, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28518609
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Jeff Elliott", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+            "name": "Canada"
+        }, 
+        "isnis": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/761314", 
+                    "id": "09fd215f-3172-454f-8300-6dad33cde557"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "2482da90-330f-4e50-b4c4-902040f4dc74", 
+        "gender-id": null, 
+        "country": "CA", 
+        "sort-name": "Elliott, Jeff", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 28518609, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

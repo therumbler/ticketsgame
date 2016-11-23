@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Wes Walker at The Door (November 12, 2016)", 
+        "popularity": 0.003132, 
+        "venue": {
+            "displayName": "The Door", 
+            "uri": "http://www.songkick.com/venues/11339-door?utm_source=32233&utm_medium=partner", 
+            "lat": 32.7833618, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.7869418, 
+            "id": 11339
+        }, 
+        "uri": "http://www.songkick.com/concerts/28406899-wes-walker-at-door?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-12T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.7833618, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.7869418
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3efa367c-7663-45e9-ac13-76f24b02600d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3efa367c-7663-45e9-ac13-76f24b02600d.json"
+                        }
+                    ], 
+                    "displayName": "Wes Walker", 
+                    "uri": "http://www.songkick.com/artists/7863924-wes-walker?utm_source=32233&utm_medium=partner", 
+                    "id": 7863924
+                }, 
+                "displayName": "Wes Walker", 
+                "id": 55223089, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28406899
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Wes Walker", 
+        "area": null, 
+        "country": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id1012756811", 
+                    "id": "d8daa393-c20c-48b5-86f0-28792279e461"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Walker, Wes", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "3efa367c-7663-45e9-ac13-76f24b02600d", 
+        "type": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 28406899, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

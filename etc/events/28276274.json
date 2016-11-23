@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Spinn at Langosta Lounge (November 13, 2016)", 
+        "popularity": 0.000942, 
+        "venue": {
+            "displayName": "Langosta Lounge", 
+            "uri": "http://www.songkick.com/venues/804666-langosta-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 40.2206999, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9998836, 
+            "id": 804666
+        }, 
+        "uri": "http://www.songkick.com/concerts/28276274-spinn-at-langosta-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "13:00:00", 
+            "datetime": "2016-11-13T13:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.2206999, 
+            "city": "Asbury Park, NJ, US", 
+            "lng": -73.9998836
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b10fe5fd-b86f-4ba5-a92f-98b8a0d91eb1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b10fe5fd-b86f-4ba5-a92f-98b8a0d91eb1.json"
+                        }
+                    ], 
+                    "displayName": "Spinn", 
+                    "uri": "http://www.songkick.com/artists/1018566-spinn?utm_source=32233&utm_medium=partner", 
+                    "id": 1018566
+                }, 
+                "displayName": "Spinn", 
+                "id": 54993404, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28276274
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Spinn", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.spinnwebe.com/", 
+                    "id": "0c39155d-c450-4217-8f66-857e6272b765"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Spinn", 
+        "type": "Person", 
+        "id": "b10fe5fd-b86f-4ba5-a92f-98b8a0d91eb1", 
+        "disambiguation": ""
+    }, 
+    "id": 28276274, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

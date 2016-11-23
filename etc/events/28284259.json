@@ -1,0 +1,114 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Marquis Hill at Cullen Theatre - Wortham Center (March 11, 2017)", 
+        "popularity": 0.000112, 
+        "venue": {
+            "displayName": "Cullen Theatre - Wortham Center", 
+            "uri": "http://www.songkick.com/venues/4473-cullen-theatre-wortham-center?utm_source=32233&utm_medium=partner", 
+            "lat": 29.7629215, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.3660134, 
+            "id": 4473
+        }, 
+        "uri": "http://www.songkick.com/concerts/28284259-marquis-hill-at-cullen-theatre-wortham-center?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-03-11", 
+            "time": "19:30:00", 
+            "datetime": "2017-03-11T19:30:00-0600"
+        }, 
+        "location": {
+            "lat": 29.7629215, 
+            "city": "Houston, TX, US", 
+            "lng": -95.3660134
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8849eb24-3cff-4fa2-b750-acefc3dddf9d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8849eb24-3cff-4fa2-b750-acefc3dddf9d.json"
+                        }
+                    ], 
+                    "displayName": "Marquis Hill", 
+                    "uri": "http://www.songkick.com/artists/753800-marquis-hill?utm_source=32233&utm_medium=partner", 
+                    "id": 753800
+                }, 
+                "displayName": "Marquis Hill", 
+                "id": 55007434, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28284259
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Marquis Hill", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.marquishill.com/", 
+                    "id": "fc7c1126-a9c0-42b5-ba6a-4b44dc12875c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Hill, Marquis", 
+        "gender": "Male", 
+        "id": "8849eb24-3cff-4fa2-b750-acefc3dddf9d", 
+        "type": "Person", 
+        "disambiguation": "jazz trumpet", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28284259, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000249, 
+        "displayName": "Ron Reeser with Zebo at Portage Theater (December 10, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Portage Theater", 
+            "uri": "http://www.songkick.com/venues/2917-portage-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9543517, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.749032, 
+            "id": 2917
+        }, 
+        "uri": "http://www.songkick.com/concerts/28170314-ron-reeser-at-portage-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-10", 
+            "datetime": "2016-12-10T19:00:00-0600", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 41.9543517, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.749032
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Ron Reeser", 
+                "id": 54812224, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "26789789-bfec-40f3-8ded-b0e20f6897e5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:26789789-bfec-40f3-8ded-b0e20f6897e5.json"
+                        }
+                    ], 
+                    "displayName": "Ron Reeser", 
+                    "uri": "http://www.songkick.com/artists/449692-ron-reeser?utm_source=32233&utm_medium=partner", 
+                    "id": 449692
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Zebo", 
+                "id": 54812229, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d31e6a81-904e-4f6b-a661-c059eb256b02", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d31e6a81-904e-4f6b-a661-c059eb256b02.json"
+                        }
+                    ], 
+                    "displayName": "Zebo", 
+                    "uri": "http://www.songkick.com/artists/92061-zebo?utm_source=32233&utm_medium=partner", 
+                    "id": 92061
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28170314
+    }, 
+    "musicbrainz_response": {
+        "name": "Ron Reeser", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/583499", 
+                    "id": "a6c5c874-eecb-4950-9a13-b8b42de9419f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "Reeser, Ron", 
+        "country": null, 
+        "type": "Person", 
+        "id": "26789789-bfec-40f3-8ded-b0e20f6897e5", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 11524, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 50.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442555.0, 
+    "created_time": 1478803616.0, 
+    "modified_minutes": 875, 
+    "id": 28170314
+}

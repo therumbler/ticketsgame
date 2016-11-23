@@ -1,0 +1,399 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Big Daddy Kane and EPMD at Howard Theatre (December 28, 2016)", 
+        "popularity": 0.021044, 
+        "venue": {
+            "displayName": "Howard Theatre", 
+            "uri": "http://www.songkick.com/venues/74872-howard-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 38.915271, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.021098, 
+            "id": 74872
+        }, 
+        "uri": "http://www.songkick.com/concerts/27580024-big-daddy-kane-at-howard-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-28", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-28T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.915271, 
+            "city": "Washington, DC, US", 
+            "lng": -77.021098
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8e75d270-4d53-4a4a-bc14-e3ace37ebd4e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8e75d270-4d53-4a4a-bc14-e3ace37ebd4e.json"
+                        }
+                    ], 
+                    "displayName": "Big Daddy Kane", 
+                    "uri": "http://www.songkick.com/artists/35658-big-daddy-kane?utm_source=32233&utm_medium=partner", 
+                    "id": 35658
+                }, 
+                "displayName": "Big Daddy Kane", 
+                "id": 53747799, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4fa39dc8-c695-4e0e-ba04-92c63d99c9f9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4fa39dc8-c695-4e0e-ba04-92c63d99c9f9.json"
+                        }
+                    ], 
+                    "displayName": "EPMD", 
+                    "uri": "http://www.songkick.com/artists/103749-epmd?utm_source=32233&utm_medium=partner", 
+                    "id": 103749
+                }, 
+                "displayName": "EPMD", 
+                "id": 54919604, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27580024
+    }, 
+    "musicbrainz_response": {
+        "name": "Big Daddy Kane", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "hip hop"
+            }
+        ], 
+        "country": "US", 
+        "twitter": "officialbdk", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0437263/", 
+                    "id": "8f92bdd7-b0f8-452b-945f-e5c745638fe5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/2661898", 
+                    "id": "ba5106aa-96b9-4511-86e4-ef70062ee05e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000050434", 
+                    "id": "fb1df00a-9fd5-40f7-b37a-5b4704f450a8"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/17594", 
+                    "id": "67594cea-4571-4d61-b869-6b3303a67990"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://bdkfan.blogspot.com/", 
+                    "id": "c1c79f45-1df5-40d8-a5b8-083020a8c903"
+                }, 
+                "direction": "forward", 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/big-daddy-kane-lyrics", 
+                    "id": "d6a88f89-97e2-4a85-92be-5739b533d83d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.officialbigdaddykane.com/", 
+                    "id": "eccd3870-d144-4611-be65-fdb9c4032006"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://musicmoz.org/Bands_and_Artists/B/Big_Daddy_Kane/", 
+                    "id": "d96f574f-0a91-41d3-accd-c04056d6e8a1"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/big_daddy_kane", 
+                    "id": "747e4c68-2b6f-4ea1-9224-df40d6d9ad58"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/officialbdk", 
+                    "id": "53ecbbdb-637c-4a60-844c-4dd739bb78f2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/OfficialBigDaddyKane", 
+                    "id": "11f552ba-bace-4a03-84f8-eaf97beab522"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q535972", 
+                    "id": "1cfdf735-c386-4b71-ad16-0e47e9ad9840"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Big_Daddy_Kane", 
+                    "id": "e09fb334-6e7e-41b3-980e-2f5e20016d0f"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/OfficialBigdaddykane", 
+                    "id": "90ad528c-8621-45a5-a59e-20d1c0d565da"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Brooklyn", 
+            "disambiguation": "", 
+            "name": "Brooklyn", 
+            "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c"
+        }, 
+        "id": "8e75d270-4d53-4a4a-bc14-e3ace37ebd4e", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Big Daddy Kane", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1968-09-10", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15455, 
+    "bandsintown_response": {
+        "description": "One of the pivotal groups of the East Coast rap scene in the early 1990s, EPMD broke through thanks to classic, head-nodding beats and the playful rhymes of Erick Sermon and Parrish Smith. For years, EPMD captured the sound of New York City with hits like \"Strictly Business,\" \"Crossover,\" \"Headbanger\" and \"You Gots to Chill,\" while also introducing rap fans to newcomers like Redman and Keith Murray through their Def Squad family. After nearly 30 years, the duo is still going strong and will perform all its jams and some new tracks during this concert at Washington, D.C.'s Howard Theatre.", 
+        "title": "Big Daddy Kane @ Howard Theatre in Washington, DC", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Washington", 
+            "name": "Howard Theatre", 
+            "country": "United States", 
+            "region": "DC", 
+            "longitude": -77.021001, 
+            "place": "Howard Theatre", 
+            "latitude": 38.915552
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12514321?app_id=ticketgame&artist=Big+Daddy+Kane&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12514321/buy_tickets?app_id=ticketgame&artist=Big+Daddy+Kane&came_from=67", 
+        "on_sale_datetime": "2016-07-15T16:00:00", 
+        "formatted_datetime": "Wednesday, December 28, 2016 at 8:00PM", 
+        "datetime": "2016-12-28T20:00:00", 
+        "formatted_location": "Washington, DC", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F150050EBCE5C2C22&subId1=67%7E15664851%7E22925961%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "Big Daddy Kane", 
+                "url": "BigDaddyKane", 
+                "tracker_count": 59604, 
+                "mbid": "8e75d270-4d53-4a4a-bc14-e3ace37ebd4e", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6015426.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/BigDaddyKane/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6015426.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12514321
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 0, 
+        "price_min": 9999999
+    }, 
+    "modified_time": 1478566099.0, 
+    "id": 27580024
+}

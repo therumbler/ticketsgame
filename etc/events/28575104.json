@@ -1,0 +1,103 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "DJ Minx at Bar Standard (December 16, 2016)", 
+        "popularity": 0.00025, 
+        "venue": {
+            "displayName": "Bar Standard", 
+            "uri": "http://www.songkick.com/venues/16164-bar-standard?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7329234, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9876057, 
+            "id": 16164
+        }, 
+        "uri": "http://www.songkick.com/concerts/28575104-dj-minx-at-bar-standard?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-16", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-16T19:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.7329234, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9876057
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "DJ Minx", 
+                "id": 55512254, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4f0c464f-77bb-4ede-857c-edb2c44bf320", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4f0c464f-77bb-4ede-857c-edb2c44bf320.json"
+                        }
+                    ], 
+                    "displayName": "DJ Minx", 
+                    "uri": "http://www.songkick.com/artists/2109823-dj-minx?utm_source=32233&utm_medium=partner", 
+                    "id": 2109823
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28575104
+    }, 
+    "musicbrainz_response": {
+        "gender": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "DJ Minx", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Minx, DJ", 
+        "begin_area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/176792", 
+                    "id": "e73e7f07-7f8e-489e-9d22-41f883e41e43"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": null, 
+        "isnis": [], 
+        "type": "Person", 
+        "id": "4f0c464f-77bb-4ede-857c-edb2c44bf320"
+    }, 
+    "id": 28575104, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mur with Cover Letter at Double Wide (December 2, 2016)", 
+        "popularity": 7.2e-05, 
+        "venue": {
+            "displayName": "Double Wide", 
+            "uri": "http://www.songkick.com/venues/78786-double-wide?utm_source=32233&utm_medium=partner", 
+            "lat": 32.7851202, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.773785, 
+            "id": 78786
+        }, 
+        "uri": "http://www.songkick.com/concerts/28186719-mur-at-double-wide?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "time": "21:00:00", 
+            "datetime": "2016-12-02T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.7851202, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.773785
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8aa8b13a-4476-489b-8197-78621bc1e9d1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8aa8b13a-4476-489b-8197-78621bc1e9d1.json"
+                        }
+                    ], 
+                    "displayName": "Mur", 
+                    "uri": "http://www.songkick.com/artists/263422-mur?utm_source=32233&utm_medium=partner", 
+                    "id": 263422
+                }, 
+                "displayName": "Mur", 
+                "id": 54842214, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Cover Letter", 
+                    "uri": "http://www.songkick.com/artists/4126701-cover-letter?utm_source=32233&utm_medium=partner", 
+                    "id": 4126701
+                }, 
+                "displayName": "Cover Letter", 
+                "id": 54842219, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28186719
+    }, 
+    "musicbrainz_response": {
+        "name": "Mur", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3157112", 
+                    "id": "475d9e4a-e57c-4e64-a67e-b0f369fc3f15"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Mur", 
+        "type": null, 
+        "id": "8aa8b13a-4476-489b-8197-78621bc1e9d1", 
+        "disambiguation": "appears on french \u00abEt mon cul\u00bb netlabel compilation"
+    }, 
+    "age_minutes": 15485, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442583.0, 
+    "created_time": 1478565996.0, 
+    "modified_minutes": 876, 
+    "id": 28186719
+}

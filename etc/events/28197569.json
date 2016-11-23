@@ -1,0 +1,122 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Aman and The See at Arlene's Grocery (November 10, 2016)", 
+        "popularity": 0.000102, 
+        "venue": {
+            "displayName": "Arlene's Grocery", 
+            "uri": "http://www.songkick.com/venues/29191-arlenes-grocery?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7212926, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9883709, 
+            "id": 29191
+        }, 
+        "uri": "http://www.songkick.com/concerts/28197569-aman-at-arlenes-grocery?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-10T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7212926, 
+            "city": "Manhattan, NY, US", 
+            "lng": -73.9883709
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d6db2908-655a-4967-ac14-ec5f59a845c0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d6db2908-655a-4967-ac14-ec5f59a845c0.json"
+                        }, 
+                        {
+                            "mbid": "b2d40eb1-79b6-4676-a73d-56c48eece0e2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b2d40eb1-79b6-4676-a73d-56c48eece0e2.json"
+                        }
+                    ], 
+                    "displayName": "Aman", 
+                    "uri": "http://www.songkick.com/artists/229720-aman?utm_source=32233&utm_medium=partner", 
+                    "id": 229720
+                }, 
+                "displayName": "Aman", 
+                "id": 54861089, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The See", 
+                    "uri": "http://www.songkick.com/artists/3197416-see?utm_source=32233&utm_medium=partner", 
+                    "id": 3197416
+                }, 
+                "displayName": "The See", 
+                "id": 54861094, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28197569
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "A-Man", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/240353", 
+                    "id": "2d7b6d1a-fa6f-46da-9cef-a79be383c996"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "A-Man", 
+        "gender": null, 
+        "id": "d6db2908-655a-4967-ac14-ec5f59a845c0", 
+        "type": null, 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28197569, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

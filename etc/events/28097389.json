@@ -1,0 +1,209 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "My Goodness with Bread and Butter and Deep Creep at Chop Suey (November 23, 2016)", 
+        "popularity": 0.001975, 
+        "venue": {
+            "displayName": "Chop Suey", 
+            "uri": "http://www.songkick.com/venues/208-chop-suey?utm_source=32233&utm_medium=partner", 
+            "lat": 47.613646, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3144509, 
+            "id": 208
+        }, 
+        "uri": "http://www.songkick.com/concerts/28097389-my-goodness-at-chop-suey?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-23", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-23T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.613646, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3144509
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a82f36ee-b394-45dc-8303-0e61f968c285", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a82f36ee-b394-45dc-8303-0e61f968c285.json"
+                        }
+                    ], 
+                    "displayName": "My Goodness", 
+                    "uri": "http://www.songkick.com/artists/3121971-my-goodness?utm_source=32233&utm_medium=partner", 
+                    "id": 3121971
+                }, 
+                "displayName": "My Goodness", 
+                "id": 54684804, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e98cd40a-e007-4719-a6ae-4c49892eb30b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e98cd40a-e007-4719-a6ae-4c49892eb30b.json"
+                        }, 
+                        {
+                            "mbid": "18249cb4-2ce4-42d3-9c95-70f9ba63bdbb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:18249cb4-2ce4-42d3-9c95-70f9ba63bdbb.json"
+                        }
+                    ], 
+                    "displayName": "Bread and Butter", 
+                    "uri": "http://www.songkick.com/artists/175706-bread-and-butter?utm_source=32233&utm_medium=partner", 
+                    "id": 175706
+                }, 
+                "displayName": "Bread and Butter", 
+                "id": 54684809, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Deep Creep", 
+                    "uri": "http://www.songkick.com/artists/8057128-deep-creep?utm_source=32233&utm_medium=partner", 
+                    "id": 8057128
+                }, 
+                "displayName": "Deep Creep", 
+                "id": 54684814, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28097389
+    }, 
+    "musicbrainz_response": {
+        "name": "My Goodness", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002666469", 
+                    "id": "a37ea0ec-98d2-4640-81ef-db28281ba208"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2716854", 
+                    "id": "e039a081-777b-4cd5-b50a-f86f4c99d7a3"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/My%20Goodness", 
+                    "id": "7b625a0b-0e96-48b4-bdb4-fb7088e5cc97"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/my_goodness", 
+                    "id": "e0777e9b-bfa5-45b8-b11f-114d951c6d77"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Seattle", 
+            "disambiguation": "", 
+            "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc", 
+            "name": "Seattle"
+        }, 
+        "sort-name": "My Goodness", 
+        "country": "US", 
+        "id": "a82f36ee-b394-45dc-8303-0e61f968c285", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "age_minutes": 15476, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 12.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442450.0, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 870, 
+    "id": 28097389
+}

@@ -1,0 +1,406 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Devendra Banhart at Wonder Ballroom (January 24, 2017)", 
+        "popularity": 0.078273, 
+        "venue": {
+            "displayName": "Wonder Ballroom", 
+            "uri": "http://www.songkick.com/venues/1433-wonder-ballroom?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5408474, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6634854, 
+            "id": 1433
+        }, 
+        "uri": "http://www.songkick.com/concerts/28558689-devendra-banhart-at-wonder-ballroom?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-24", 
+            "time": "20:00:00", 
+            "datetime": "2017-01-24T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5408474, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6634854
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Devendra Banhart", 
+                "id": 55483989, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0110e63e-0a9b-4818-af8e-41e180c20b9a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0110e63e-0a9b-4818-af8e-41e180c20b9a.json"
+                        }
+                    ], 
+                    "displayName": "Devendra Banhart", 
+                    "uri": "http://www.songkick.com/artists/408780-devendra-banhart?utm_source=32233&utm_medium=partner", 
+                    "id": 408780
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28558689
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Devendra Banhart", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1981-05-30", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/0110e63e-0a9b-4818-af8e-41e180c20b9a", 
+                    "id": "e55a81f3-7502-4522-876e-9815d95b4693"
+                }, 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm1750366/", 
+                    "id": "330f94dc-98f9-41c0-b66a-8c5aa46e081c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/19926362", 
+                    "id": "4e714459-d165-4678-b4ef-99a3b6745bdc"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000246032", 
+                    "id": "b304f40a-3930-45dd-9fd2-99ff46ab67a3"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/202595", 
+                    "id": "130cd7fa-ea26-4590-8bed-5169bfc8b639"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/devendra-banhart-lyrics", 
+                    "id": "edbce8ba-135b-4ee3-a5e1-17123f5c32f4"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-5457/devendra-banhart/lyrics.html", 
+                    "id": "35d5441b-6e9b-4440-8751-76bee83f8b69"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/devendrabanhart", 
+                    "id": "7a97b913-b475-4309-80bf-ea0e1301bcb8"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.devendrabanhart.com/", 
+                    "id": "75b19cd7-1667-4d11-afac-1ea59f196077"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/devendra_banhart", 
+                    "id": "0b52a094-d60d-4d1a-8b29-4cbc3458fd9c"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/DevendraBanhart", 
+                    "id": "72dd2ab6-ee1a-43fd-ba52-9b919ec47eec"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/DevendraBanhartMusic", 
+                    "id": "5620d8d8-0fb9-4b43-81f3-936157aeb82e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q223443", 
+                    "id": "7460cbf3-098e-48a0-ad29-a0addfe5635a"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Devendra_Banhart", 
+                    "id": "4519dc5b-1c64-449f-803c-866588e08217"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/devbanhart", 
+                    "id": "edddedf4-ede2-40af-bee4-6f5cf4f90163"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00429951916"
+        ], 
+        "end_area": null, 
+        "sort-name": "Banhart, Devendra", 
+        "begin_area": {
+            "sort-name": "Houston", 
+            "disambiguation": "", 
+            "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b", 
+            "name": "Houston"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "isnis": [
+            "0000000063091043"
+        ], 
+        "id": "0110e63e-0a9b-4818-af8e-41e180c20b9a", 
+        "country": "US", 
+        "type": "Person", 
+        "twitter": "DevendraBanhart", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 3196, 
+    "bandsintown_response": {
+        "description": "Devendra Banhart", 
+        "title": "Devendra Banhart @ Wonder Ballroom in Portland, OR", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Portland", 
+            "name": "Wonder Ballroom", 
+            "country": "United States", 
+            "region": "OR", 
+            "longitude": -122.663737, 
+            "place": "Wonder Ballroom", 
+            "latitude": 45.540728
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13292665?app_id=ticketgame&artist=Devendra+Banhart&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13292665/buy_tickets?app_id=ticketgame&artist=Devendra+Banhart&came_from=67", 
+        "on_sale_datetime": "2016-11-18T10:00:00", 
+        "formatted_datetime": "Tuesday, January 24, 2017 at 8:00PM", 
+        "datetime": "2017-01-24T20:00:00", 
+        "formatted_location": "Portland, OR", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1383314/tfly%3Futm_medium%3Dapi&afftrack=67%7E16719823%7E24592040%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.devendrabanhart.com", 
+                "facebook_page_url": null, 
+                "name": "Devendra Banhart", 
+                "url": "DevendraBanhart", 
+                "tracker_count": 185483, 
+                "mbid": "0110e63e-0a9b-4818-af8e-41e180c20b9a", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/4844689.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/DevendraBanhart/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/4844689.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13292665
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 25.0, 
+        "price_min": 20.0
+    }, 
+    "modified_time": 1479442223.0, 
+    "created_time": 1479305717.0, 
+    "modified_minutes": 920, 
+    "id": 28558689
+}

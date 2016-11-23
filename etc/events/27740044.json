@@ -1,0 +1,307 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Lydia Loveless with Aaron Lee Tasjan at Milkboy Philly (November 11, 2016)", 
+        "popularity": 0.002693, 
+        "venue": {
+            "displayName": "Milkboy Philly", 
+            "uri": "http://www.songkick.com/venues/1472758-milkboy-philly?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9499787, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.158767, 
+            "id": 1472758
+        }, 
+        "uri": "http://www.songkick.com/concerts/27740044-lydia-loveless-at-milkboy-philly?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-11T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9499787, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.158767
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c306218f-6818-40ce-97ce-7cadd3d5213f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c306218f-6818-40ce-97ce-7cadd3d5213f.json"
+                        }
+                    ], 
+                    "displayName": "Lydia Loveless", 
+                    "uri": "http://www.songkick.com/artists/876239-lydia-loveless?utm_source=32233&utm_medium=partner", 
+                    "id": 876239
+                }, 
+                "displayName": "Lydia Loveless", 
+                "id": 54038784, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "20227147-c3aa-44e5-aaf4-4bc5baa1ffaf", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:20227147-c3aa-44e5-aaf4-4bc5baa1ffaf.json"
+                        }
+                    ], 
+                    "displayName": "Aaron Lee Tasjan", 
+                    "uri": "http://www.songkick.com/artists/1894530-aaron-lee-tasjan?utm_source=32233&utm_medium=partner", 
+                    "id": 1894530
+                }, 
+                "displayName": "Aaron Lee Tasjan", 
+                "id": 54379909, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27740044
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Lydia Loveless", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "twitter": "lydia_loveless", 
+        "tags": [], 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Coshocton", 
+            "disambiguation": "", 
+            "id": "14e7ba5a-846f-4b4e-9526-188dc1867e6f", 
+            "name": "Coshocton"
+        }, 
+        "id": "c306218f-6818-40ce-97ce-7cadd3d5213f", 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/187548772", 
+                    "id": "060563ee-dbad-47b6-9317-aea90dbc7a5b"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002645019", 
+                    "id": "18f92b0d-de76-4d04-9262-29c586fc8fce"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lydialoveless.bandcamp.com/", 
+                    "id": "3ce4b5b8-8297-4b58-ad8e-b2ff8109eebd"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2567345", 
+                    "id": "f4aa7396-4451-4274-b206-2917446a464f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lydialoveless.com/", 
+                    "id": "4eb6b7f4-fcc2-43fa-9294-ad7e0f29c462"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.worldcat.org/wcidentities/lccn-no2011-162361", 
+                    "id": "1771b929-55ae-4124-99fb-90e06228e69e"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/lydia_loveless", 
+                    "id": "624b2f97-9104-499a-a720-454c41d1e89d"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/lydia_loveless", 
+                    "id": "92ecce44-612f-49a6-ab72-1c18d7743c07"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pages/Lydia-Loveless/141806382514011", 
+                    "id": "ca2335bd-fbbf-46da-9c94-515af293dcb6"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q6707651", 
+                    "id": "4dea8ec2-458f-420c-8321-20ebaddeafc1"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Lydia_Loveless", 
+                    "id": "757d3a80-3bf9-45be-ba85-8ee1cc85059d"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Loveless, Lydia", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1990-09-04", 
+            "end": null
+        }
+    }, 
+    "id": 27740044, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

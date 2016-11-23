@@ -1,0 +1,87 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "DJ EVO-K with duskus and Pete Raver at Trapeze Basement Club (November 10, 2016)", 
+        "popularity": 0.000169, 
+        "venue": {
+            "displayName": "Trapeze Basement Club", 
+            "uri": "http://www.songkick.com/venues/3401419-trapeze-basement-club?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5257043, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0833216, 
+            "id": 3401419
+        }, 
+        "uri": "http://www.songkick.com/concerts/28395524-dj-evok-at-trapeze-basement-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-10T21:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5257043, 
+            "city": "London, UK", 
+            "lng": -0.0833216
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "DJ EVO-K", 
+                    "uri": "http://www.songkick.com/artists/8546524-dj-evok?utm_source=32233&utm_medium=partner", 
+                    "id": 8546524
+                }, 
+                "displayName": "DJ EVO-K", 
+                "id": 55203504, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "26b8fc71-a376-4cc2-a365-8f0efc2e66f6", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:26b8fc71-a376-4cc2-a365-8f0efc2e66f6.json"
+                        }
+                    ], 
+                    "displayName": "duskus", 
+                    "uri": "http://www.songkick.com/artists/8722384-duskus?utm_source=32233&utm_medium=partner", 
+                    "id": 8722384
+                }, 
+                "displayName": "duskus", 
+                "id": 55203509, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Pete Raver", 
+                    "uri": "http://www.songkick.com/artists/8919689-pete-raver?utm_source=32233&utm_medium=partner", 
+                    "id": 8919689
+                }, 
+                "displayName": "Pete Raver", 
+                "id": 55203514, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28395524
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "id": 28395524, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

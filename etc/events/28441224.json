@@ -1,0 +1,90 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Fringe (LA) with Espresso and The Crudes at Unknown venue (November 11, 2016)", 
+        "popularity": 5.5e-05, 
+        "venue": {
+            "displayName": "Unknown venue", 
+            "uri": null, 
+            "lat": 34.10885, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2234229, 
+            "id": null
+        }, 
+        "uri": "http://www.songkick.com/concerts/28441224-fringe-la-at-unknown-venue?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-11T19:00:00-0800"
+        }, 
+        "location": {
+            "lat": 34.10885, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2234229
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Fringe (LA)", 
+                    "uri": "http://www.songkick.com/artists/8923939-fringe-la?utm_source=32233&utm_medium=partner", 
+                    "id": 8923939
+                }, 
+                "displayName": "Fringe (LA)", 
+                "id": 55281129, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "72f77589-5c79-422e-939e-c92b8baa0939", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:72f77589-5c79-422e-939e-c92b8baa0939.json"
+                        }
+                    ], 
+                    "displayName": "Espresso", 
+                    "uri": "http://www.songkick.com/artists/500087-espresso?utm_source=32233&utm_medium=partner", 
+                    "id": 500087
+                }, 
+                "displayName": "Espresso", 
+                "id": 55281134, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Crudes", 
+                    "uri": "http://www.songkick.com/artists/8895679-crudes?utm_source=32233&utm_medium=partner", 
+                    "id": 8895679
+                }, 
+                "displayName": "The Crudes", 
+                "id": 55281139, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28441224
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "id": 28441224, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

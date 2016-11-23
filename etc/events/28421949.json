@@ -1,0 +1,293 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Must Die!, Apache, and M A Z E at The Yost Theater (November 10, 2016)", 
+        "popularity": 0.00438, 
+        "venue": {
+            "displayName": "The Yost Theater", 
+            "uri": "http://www.songkick.com/venues/48419-yost-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7474599, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -117.865278, 
+            "id": 48419
+        }, 
+        "uri": "http://www.songkick.com/concerts/28421949-must-die-at-yost-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-10T19:00:00-0800"
+        }, 
+        "location": {
+            "lat": 33.7474599, 
+            "city": "Santa Ana, CA, US", 
+            "lng": -117.865278
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c53c034e-158c-47cf-be36-1c326a1878de", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c53c034e-158c-47cf-be36-1c326a1878de.json"
+                        }
+                    ], 
+                    "displayName": "Must Die!", 
+                    "uri": "http://www.songkick.com/artists/5815854-must-die?utm_source=32233&utm_medium=partner", 
+                    "id": 5815854
+                }, 
+                "displayName": "Must Die!", 
+                "id": 55249294, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b4695996-9502-4e4f-b31b-fe585056ef1b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b4695996-9502-4e4f-b31b-fe585056ef1b.json"
+                        }, 
+                        {
+                            "mbid": "4a09f5d5-d843-4c16-9851-23efb0583c2a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4a09f5d5-d843-4c16-9851-23efb0583c2a.json"
+                        }, 
+                        {
+                            "mbid": "2b6ec8a8-91a9-4c59-bff4-ff6583692fc2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2b6ec8a8-91a9-4c59-bff4-ff6583692fc2.json"
+                        }, 
+                        {
+                            "mbid": "2a8ac4d9-2c0d-47fe-87f7-538f75cca5e0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2a8ac4d9-2c0d-47fe-87f7-538f75cca5e0.json"
+                        }, 
+                        {
+                            "mbid": "62c98b8b-e509-494e-9d2f-502bd8c115d5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:62c98b8b-e509-494e-9d2f-502bd8c115d5.json"
+                        }
+                    ], 
+                    "displayName": "Apache", 
+                    "uri": "http://www.songkick.com/artists/432062-apache?utm_source=32233&utm_medium=partner", 
+                    "id": 432062
+                }, 
+                "displayName": "Apache", 
+                "id": 55249299, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "M A Z E", 
+                    "uri": "http://www.songkick.com/artists/8413348-m-a-z-e?utm_source=32233&utm_medium=partner", 
+                    "id": 8413348
+                }, 
+                "displayName": "M A Z E", 
+                "id": 55249304, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28421949
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "MUST DIE!", 
+        "type-id": null, 
+        "gender": null, 
+        "twitter": "mustdiemusic", 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://mustdiemusic.com/", 
+                    "id": "a42641bc-22c4-4974-84cd-dcb1b6f33747"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id478780211", 
+                    "id": "7ea811c7-2b3f-4de7-8e6f-df447fc8253c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/mustdiemusic", 
+                    "id": "b952fd44-0463-4e0e-9705-ae74cb410a82"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/mustdiemusic", 
+                    "id": "3788f0a3-8027-4b27-a157-a038f24b1203"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/mustdiemusic", 
+                    "id": "87312677-6748-4fa2-a144-679f9a2b80e7"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://songkick.com/artists/5815854", 
+                    "id": "50eea891-9754-4904-b8bf-0242b4feff43"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/mustdiemusic", 
+                    "id": "4feb1283-5a98-4653-ad18-26177c240b40"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb", 
+                    "id": "a963d7d0-a52c-4c62-8aff-f74070256992"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/mustdiemusic", 
+                    "id": "311fd4e8-ad33-46e8-9772-b4d8ec81aae3"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "MUST DIE!", 
+        "country": null, 
+        "id": "c53c034e-158c-47cf-be36-1c326a1878de", 
+        "disambiguation": "", 
+        "type": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "owsla"
+            }
+        ]
+    }, 
+    "id": 28421949, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

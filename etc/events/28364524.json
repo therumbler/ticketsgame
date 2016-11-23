@@ -1,0 +1,140 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Michelle Willis at Rockwood Music Hall Stage 3 (November 9, 2016)", 
+        "popularity": 0.000129, 
+        "venue": {
+            "displayName": "Rockwood Music Hall Stage 3", 
+            "uri": "http://www.songkick.com/venues/2399549-rockwood-music-hall-stage-3?utm_source=32233&utm_medium=partner", 
+            "lat": 40.722071, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.98847, 
+            "id": 2399549
+        }, 
+        "uri": "http://www.songkick.com/concerts/28364524-michelle-willis-at-rockwood-music-hall-stage-3?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-09T22:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.722071, 
+            "city": "New York, NY, US", 
+            "lng": -73.98847
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ab6b3de0-765a-4093-a388-445d87374d02", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ab6b3de0-765a-4093-a388-445d87374d02.json"
+                        }
+                    ], 
+                    "displayName": "Michelle Willis", 
+                    "uri": "http://www.songkick.com/artists/4871143-michelle-willis?utm_source=32233&utm_medium=partner", 
+                    "id": 4871143
+                }, 
+                "displayName": "Michelle Willis", 
+                "id": 55149959, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28364524
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Michelle Willis", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://groundupmusic.net/artists/michellewillis/", 
+                    "id": "5b0c6434-8b52-4995-8cd8-a9b268cfe3de"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.michellewillis.ca/", 
+                    "id": "83a4356c-1d51-4f86-a77f-8f60cda963d2"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id1093322612", 
+                    "id": "c0351957-fb58-452e-acc4-e39fca0d9024"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Willis, Michelle", 
+        "gender": "Female", 
+        "disambiguation": "", 
+        "type": "Person", 
+        "id": "ab6b3de0-765a-4093-a388-445d87374d02", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2"
+    }, 
+    "id": 28364524, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

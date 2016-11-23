@@ -1,0 +1,126 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Peter Silberman with Brumes at The Old Church Concert Hall (November 16, 2016)", 
+        "popularity": 3.8e-05, 
+        "venue": {
+            "displayName": "The Old Church Concert Hall", 
+            "uri": "http://www.songkick.com/venues/2955428-old-church-concert-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5151433, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6855878, 
+            "id": 2955428
+        }, 
+        "uri": "http://www.songkick.com/concerts/28115639-peter-silberman-at-old-church-concert-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "datetime": "2016-11-16T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 45.5151433, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6855878
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5ea53863-5ee9-477a-b598-a9483f1bd245", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5ea53863-5ee9-477a-b598-a9483f1bd245.json"
+                        }
+                    ], 
+                    "displayName": "Peter Silberman", 
+                    "uri": "http://www.songkick.com/artists/7305369-peter-silberman?utm_source=32233&utm_medium=partner", 
+                    "id": 7305369
+                }, 
+                "displayName": "Peter Silberman", 
+                "id": 54716679, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Brumes", 
+                    "uri": "http://www.songkick.com/artists/7376324-brumes?utm_source=32233&utm_medium=partner", 
+                    "id": 7376324
+                }, 
+                "displayName": "Brumes", 
+                "id": 55258209, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28115639
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Peter Silberman", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1394742", 
+                    "id": "48ffd9e1-64e4-4bf6-a3fe-49b8a78c2043"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Silberman, Peter", 
+        "type": "Person", 
+        "id": "5ea53863-5ee9-477a-b598-a9483f1bd245", 
+        "disambiguation": ""
+    }, 
+    "id": 28115639, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "21+", 
+        "displayName": "The Band Camino at The Mint (November 17, 2016)", 
+        "popularity": 7.9e-05, 
+        "venue": {
+            "displayName": "The Mint", 
+            "uri": "http://www.songkick.com/venues/8-mint?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0524531, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.3715669, 
+            "id": 8
+        }, 
+        "uri": "http://www.songkick.com/concerts/28402079-band-camino-at-mint?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 34.0524531, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.3715669
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "fb4d3639-dac0-478e-8776-4417096d8381", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fb4d3639-dac0-478e-8776-4417096d8381.json"
+                        }
+                    ], 
+                    "displayName": "The Band Camino", 
+                    "uri": "http://www.songkick.com/artists/8697553-band-camino?utm_source=32233&utm_medium=partner", 
+                    "id": 8697553
+                }, 
+                "displayName": "The Band Camino", 
+                "id": 55215449, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28402079
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Band Camino", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "sort-name": "The Band Camino", 
+        "gender": null, 
+        "disambiguation": "", 
+        "area": {
+            "sort-name": "Memphis", 
+            "disambiguation": "", 
+            "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a", 
+            "name": "Memphis"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thebandcamino.com/", 
+                    "id": "8905a173-4d6e-4770-bbd6-652c73c3561f"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Thebandcamino", 
+                    "id": "006fa7e3-f5a5-4240-9dea-508d04e279e3"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "type": "Group", 
+        "id": "fb4d3639-dac0-478e-8776-4417096d8381", 
+        "tags": []
+    }, 
+    "id": 28402079, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

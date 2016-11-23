@@ -1,0 +1,174 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Young Hunter, Solo Viaje, and Mammoth Salmon at Turn Turn Turn (December 3, 2016)", 
+        "popularity": 5.2e-05, 
+        "venue": {
+            "displayName": "Turn Turn Turn", 
+            "uri": "http://www.songkick.com/venues/2648083-turn-turn-turn?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5625569, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6667248, 
+            "id": 2648083
+        }, 
+        "uri": "http://www.songkick.com/concerts/28354139-young-hunter-at-turn-turn-turn?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-03", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-03T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5625569, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6667248
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0d733cd6-f322-4f09-b740-5b892a3d2ffe", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0d733cd6-f322-4f09-b740-5b892a3d2ffe.json"
+                        }
+                    ], 
+                    "displayName": "Young Hunter", 
+                    "uri": "http://www.songkick.com/artists/4713913-young-hunter?utm_source=32233&utm_medium=partner", 
+                    "id": 4713913
+                }, 
+                "displayName": "Young Hunter", 
+                "id": 55131434, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Solo Viaje", 
+                    "uri": "http://www.songkick.com/artists/8874319-solo-viaje?utm_source=32233&utm_medium=partner", 
+                    "id": 8874319
+                }, 
+                "displayName": "Solo Viaje", 
+                "id": 55131439, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Mammoth Salmon", 
+                    "uri": "http://www.songkick.com/artists/6130639-mammoth-salmon?utm_source=32233&utm_medium=partner", 
+                    "id": 6130639
+                }, 
+                "displayName": "Mammoth Salmon", 
+                "id": 55131444, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28354139
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Young Hunter", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Tucson", 
+            "disambiguation": "", 
+            "name": "Tucson", 
+            "id": "7c71f821-98a0-4f1b-bf6b-87fe1d6c89f0"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://younghunter.bandcamp.com/", 
+                    "id": "e654b039-6924-467f-a788-be0f95f8c584"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3690128", 
+                    "id": "c2ebadcc-aad2-430c-ae87-bb0f6d8ac625"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pages/Young-Hunter/127424170682508", 
+                    "id": "db394055-ec37-413d-a41d-2085a476928b"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Young Hunter", 
+        "begin_area": {
+            "sort-name": "Portland", 
+            "disambiguation": "", 
+            "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557", 
+            "name": "Portland"
+        }, 
+        "gender-id": null, 
+        "country": null, 
+        "type": "Group", 
+        "id": "0d733cd6-f322-4f09-b740-5b892a3d2ffe", 
+        "disambiguation": ""
+    }, 
+    "id": 28354139, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

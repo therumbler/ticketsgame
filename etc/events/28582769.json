@@ -1,0 +1,396 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000526, 
+        "displayName": "Into Another with Supertouch at Rock & Roll Hotel (January 22, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Rock & Roll Hotel", 
+            "uri": "http://www.songkick.com/venues/10865-rock-and-roll-hotel?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9000902, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -76.9865779, 
+            "id": 10865
+        }, 
+        "uri": "http://www.songkick.com/concerts/28582769-into-another-at-rock-and-roll-hotel?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-22", 
+            "datetime": "2017-01-22T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 38.9000902, 
+            "city": "Washington, DC, US", 
+            "lng": -76.9865779
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c235e5fd-4144-4e53-95ff-b33dc5f239c8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c235e5fd-4144-4e53-95ff-b33dc5f239c8.json"
+                        }
+                    ], 
+                    "displayName": "Into Another", 
+                    "uri": "http://www.songkick.com/artists/431246-into-another?utm_source=32233&utm_medium=partner", 
+                    "id": 431246
+                }, 
+                "displayName": "Into Another", 
+                "id": 55525639, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ae7c0f49-c885-4b94-9424-fe4d890a5d6a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ae7c0f49-c885-4b94-9424-fe4d890a5d6a.json"
+                        }
+                    ], 
+                    "displayName": "Supertouch", 
+                    "uri": "http://www.songkick.com/artists/237140-supertouch?utm_source=32233&utm_medium=partner", 
+                    "id": 237140
+                }, 
+                "displayName": "Supertouch", 
+                "id": 55525644, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28582769
+    }, 
+    "musicbrainz_response": {
+        "name": "Into Another", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": true, 
+            "begin": "1990", 
+            "end": "1996"
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000095367", 
+                    "id": "aee28c3b-db38-4d9c-a59e-4911498dbb22"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://intoanother0.tumblr.com/", 
+                    "id": "f52e5737-1e34-4718-92de-97414cf197d3"
+                }, 
+                "direction": "forward", 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/259867", 
+                    "id": "63298df6-3b46-4820-b53d-6ac2fbaacc2b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Into%20Another", 
+                    "id": "6a9a0841-d547-4616-a5d1-49e5c6293a22"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://intoanother.com/", 
+                    "id": "186801db-28b0-49b1-8a05-44c8c34b9e4f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/into_another", 
+                    "id": "cf08b74e-bec0-4e49-8508-9d387635405d"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/intoanother0", 
+                    "id": "78698fd7-e3a6-47da-824a-c919259a9806"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/IntoAnother", 
+                    "id": "41bd86ec-56b1-4464-9a5e-e000a1466203"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/into_another/", 
+                    "id": "5565f404-fbed-40f1-bf89-06d91fdc96d4"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q16848283", 
+                    "id": "257a3b5c-fded-4427-b898-2ae84c0bc9b6"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Into_Another_(band)", 
+                    "id": "597217d5-cb4b-4f43-bf90-50972d223bdd"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/intoanothertv", 
+                    "id": "7ed565bf-0d1a-44ad-8ed0-f3af5ea96a98"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "name": "New York", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f"
+        }, 
+        "sort-name": "Into Another", 
+        "isnis": [], 
+        "id": "c235e5fd-4144-4e53-95ff-b33dc5f239c8", 
+        "disambiguation": "", 
+        "country": "US", 
+        "type": "Group", 
+        "twitter": "intoanother0", 
+        "gender-id": null
+    }, 
+    "age_minutes": 1486, 
+    "bandsintown_response": {
+        "description": "Doors: 7:00 PM \nShow: 8:00 PM\nAll Ages\n$16 - $19", 
+        "title": "Into Another @ Rock & Roll Hotel in Washington, DC", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Washington", 
+            "name": "Rock & Roll Hotel", 
+            "country": "United States", 
+            "region": "DC", 
+            "longitude": -76.986649, 
+            "place": "Rock & Roll Hotel", 
+            "latitude": 38.900007
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13305520?app_id=ticketgame&artist=Into+Another&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13305520/buy_tickets?app_id=ticketgame&artist=Into+Another&came_from=67", 
+        "on_sale_datetime": "2016-11-18T10:00:00", 
+        "formatted_datetime": "Sunday, January 22, 2017 at 8:00PM", 
+        "datetime": "2017-01-22T20:00:00", 
+        "formatted_location": "Washington, DC", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1386297/&afftrack=67%7E16740634%7E%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/IntoAnother", 
+                "name": "Into Another", 
+                "url": "IntoAnother", 
+                "tracker_count": 3361, 
+                "mbid": "c235e5fd-4144-4e53-95ff-b33dc5f239c8", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6047495.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/IntoAnother/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6047495.jpeg"
+            }, 
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/IntoAnother", 
+                "name": "Into Another", 
+                "url": "IntoAnother", 
+                "tracker_count": 3361, 
+                "mbid": "c235e5fd-4144-4e53-95ff-b33dc5f239c8", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/IntoAnother/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }, 
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "Supertouch", 
+                "url": "Supertouch", 
+                "tracker_count": 1709, 
+                "mbid": "ae7c0f49-c885-4b94-9424-fe4d890a5d6a", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Supertouch/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }, 
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "High Disciple", 
+                "url": "HighDisciple", 
+                "tracker_count": 23, 
+                "mbid": null, 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/HighDisciple/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13305520
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 19.0, 
+        "price_min": 16.0
+    }, 
+    "modified_time": 1479442156.0, 
+    "created_time": 1479409439.0, 
+    "modified_minutes": 940, 
+    "id": 28582769
+}

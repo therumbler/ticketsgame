@@ -1,0 +1,111 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Tiago Miranda at Brilliant Corners (November 12, 2016)", 
+        "popularity": 5e-06, 
+        "venue": {
+            "displayName": "Brilliant Corners", 
+            "uri": "http://www.songkick.com/venues/2778583-brilliant-corners?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5432752, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.075863, 
+            "id": 2778583
+        }, 
+        "uri": "http://www.songkick.com/concerts/28377344-tiago-miranda-at-brilliant-corners?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "23:30:00", 
+            "datetime": "2016-11-12T23:30:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5432752, 
+            "city": "London, UK", 
+            "lng": -0.075863
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "87aec4d9-d79c-40d8-8b9a-38deb78b3414", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:87aec4d9-d79c-40d8-8b9a-38deb78b3414.json"
+                        }
+                    ], 
+                    "displayName": "Tiago Miranda", 
+                    "uri": "http://www.songkick.com/artists/6716559-tiago-miranda?utm_source=32233&utm_medium=partner", 
+                    "id": 6716559
+                }, 
+                "displayName": "Tiago Miranda", 
+                "id": 55172679, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28377344
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Tiago Miranda", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "country": "PT", 
+        "disambiguation": "", 
+        "area": {
+            "sort-name": "Portugal", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "PT"
+            ], 
+            "name": "Portugal", 
+            "id": "781b0c54-3d54-362d-a941-8a617def4992"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/171989", 
+                    "id": "18c3c799-2f7a-4ad4-b341-81fedcdd1486"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Miranda, Tiago", 
+        "gender": "Male", 
+        "type": "Person", 
+        "id": "87aec4d9-d79c-40d8-8b9a-38deb78b3414", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28377344, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

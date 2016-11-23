@@ -1,0 +1,155 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "21+", 
+        "displayName": "City of the Sun at Doug Fir Lounge (December 8, 2016)", 
+        "popularity": 0.001127, 
+        "venue": {
+            "displayName": "Doug Fir Lounge", 
+            "uri": "http://www.songkick.com/venues/11585-doug-fir-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5229238, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6587133, 
+            "id": 11585
+        }, 
+        "uri": "http://www.songkick.com/concerts/28490679-city-of-the-sun-at-doug-fir-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-08", 
+            "datetime": "2016-12-08T21:00:00-0800", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 45.5229238, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6587133
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "055012f8-421f-448e-9741-23e8d82638f2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:055012f8-421f-448e-9741-23e8d82638f2.json"
+                        }
+                    ], 
+                    "displayName": "City of the Sun", 
+                    "uri": "http://www.songkick.com/artists/4763483-city-of-the-sun?utm_source=32233&utm_medium=partner", 
+                    "id": 4763483
+                }, 
+                "displayName": "City of the Sun", 
+                "id": 55365914, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28490679
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "City of the Sun", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2010", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003477935", 
+                    "id": "6b42ea81-8f0c-4db4-b2aa-da8d15a2b26f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://wearecityofthesun.com/", 
+                    "id": "edf224f6-1db5-45ea-868d-f44fc86a5c6e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/wearecityofthesun", 
+                    "id": "e291a1df-e4a6-40ef-8721-21cd5f0271f4"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "City of the Sun", 
+        "type": "Group", 
+        "id": "055012f8-421f-448e-9741-23e8d82638f2", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15516, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442387.0, 
+    "created_time": 1478566069.0, 
+    "modified_minutes": 911, 
+    "id": 28490679
+}

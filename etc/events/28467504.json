@@ -1,0 +1,120 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Flow Tribe at Club Dada (December 8, 2016)", 
+        "popularity": 0.000439, 
+        "venue": {
+            "displayName": "Club Dada", 
+            "uri": "http://www.songkick.com/venues/11346-club-dada?utm_source=32233&utm_medium=partner", 
+            "lat": 32.784338, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.784143, 
+            "id": 11346
+        }, 
+        "uri": "http://www.songkick.com/concerts/28467504-flow-tribe-at-club-dada?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-08", 
+            "datetime": "2016-12-08T20:00:00-0600", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 32.784338, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.784143
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2d779534-fdc1-45e8-bda0-53334f7872e4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2d779534-fdc1-45e8-bda0-53334f7872e4.json"
+                        }
+                    ], 
+                    "displayName": "Flow Tribe", 
+                    "uri": "http://www.songkick.com/artists/567792-flow-tribe?utm_source=32233&utm_medium=partner", 
+                    "id": 567792
+                }, 
+                "displayName": "Flow Tribe", 
+                "id": 55325289, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28467504
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Flow Tribe", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.flowtribe.com/", 
+                    "id": "25bf5a7d-993c-4a22-9a33-b29188aff296"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Flow Tribe", 
+        "type": "Group", 
+        "id": "2d779534-fdc1-45e8-bda0-53334f7872e4", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15516, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442434.0, 
+    "created_time": 1478565996.0, 
+    "modified_minutes": 908, 
+    "id": 28467504
+}

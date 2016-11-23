@@ -1,0 +1,83 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 6.3e-05, 
+        "displayName": "The Zipheads with WitchDoktors and Smokin' Durrys at The Fighting Cocks (November 19, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Fighting Cocks", 
+            "uri": "http://www.songkick.com/venues/91920-fighting-cocks?utm_source=32233&utm_medium=partner", 
+            "lat": 51.4106158, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.2982417, 
+            "id": 91920
+        }, 
+        "uri": "http://www.songkick.com/concerts/28297789-zipheads-at-fighting-cocks?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "datetime": "2016-11-19T19:30:00+0000", 
+            "time": "19:30:00"
+        }, 
+        "location": {
+            "lat": 51.4106158, 
+            "city": "Kingston Upon Thames, UK", 
+            "lng": -0.2982417
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "The Zipheads", 
+                "id": 55032104, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Zipheads", 
+                    "uri": "http://www.songkick.com/artists/1198884-zipheads?utm_source=32233&utm_medium=partner", 
+                    "id": 1198884
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "WitchDoktors", 
+                "id": 55032109, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9ea9ee7b-ae62-4d52-a1fe-dd2098dc08ed", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9ea9ee7b-ae62-4d52-a1fe-dd2098dc08ed.json"
+                        }
+                    ], 
+                    "displayName": "WitchDoktors", 
+                    "uri": "http://www.songkick.com/artists/404590-witchdoktors?utm_source=32233&utm_medium=partner", 
+                    "id": 404590
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Smokin' Durrys", 
+                "id": 55032114, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Smokin' Durrys", 
+                    "uri": "http://www.songkick.com/artists/8002283-smokin-durrys?utm_source=32233&utm_medium=partner", 
+                    "id": 8002283
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28297789
+    }, 
+    "id": 28297789, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,250 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Sublime With Rome and The Skints at The Paramount (November 14, 2016)", 
+        "popularity": 0.02734, 
+        "venue": {
+            "displayName": "The Paramount", 
+            "uri": "http://www.songkick.com/venues/1461018-paramount?utm_source=32233&utm_medium=partner", 
+            "lat": 40.8696883, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.4260544, 
+            "id": 1461018
+        }, 
+        "uri": "http://www.songkick.com/concerts/28080334-sublime-with-rome-at-paramount?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-14", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-14T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.8696883, 
+            "city": "Huntington, NY, US", 
+            "lng": -73.4260544
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "079f2e2b-b3f9-4574-ac5c-add977b40762", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:079f2e2b-b3f9-4574-ac5c-add977b40762.json"
+                        }
+                    ], 
+                    "displayName": "Sublime With Rome", 
+                    "uri": "http://www.songkick.com/artists/3356916-sublime-with-rome?utm_source=32233&utm_medium=partner", 
+                    "id": 3356916
+                }, 
+                "displayName": "Sublime With Rome", 
+                "id": 54653309, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7a279145-e778-4099-8f73-ea917a1956c9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7a279145-e778-4099-8f73-ea917a1956c9.json"
+                        }
+                    ], 
+                    "displayName": "The Skints", 
+                    "uri": "http://www.songkick.com/artists/330879-skints?utm_source=32233&utm_medium=partner", 
+                    "id": 330879
+                }, 
+                "displayName": "The Skints", 
+                "id": 54653314, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28080334
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Sublime with Rome", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2009", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "dub"
+            }, 
+            {
+                "count": 1, 
+                "name": "hip hop"
+            }, 
+            {
+                "count": 1, 
+                "name": "reggae"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002666176", 
+                    "id": "d5e30b27-bbff-4777-a3a8-6312ca8ea776"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2123009", 
+                    "id": "5650b95b-62f6-41df-99ed-0d8fd32e68b4"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/sublimewithrome", 
+                    "id": "07d4ea0e-029e-4702-98b5-24fd0004cd17"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://sublimewithrome.com/", 
+                    "id": "2799be59-9ead-4ad6-9555-dcae7686014b"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q7631506", 
+                    "id": "bf22d41b-c299-4b52-af69-bb3b857ac8a7"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Sublime_with_Rome", 
+                    "id": "692e0592-cbab-4948-b251-2825ab668285"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/SublimeWithRome", 
+                    "id": "ef2d0bbe-c64c-4aa5-bc56-c6bbb36e1262"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Sublime with Rome", 
+        "country": "US", 
+        "type": "Group", 
+        "id": "079f2e2b-b3f9-4574-ac5c-add977b40762", 
+        "disambiguation": ""
+    }, 
+    "id": 28080334, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

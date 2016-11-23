@@ -1,0 +1,199 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Purling Hiss with Lavender Flu and The Woolen Men at High Water Mark Lounge (November 12, 2016)", 
+        "popularity": 0.001261, 
+        "venue": {
+            "displayName": "High Water Mark Lounge", 
+            "uri": "http://www.songkick.com/venues/2574324-high-water-mark-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5719428, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6611701, 
+            "id": 2574324
+        }, 
+        "uri": "http://www.songkick.com/concerts/27852874-purling-hiss-at-high-water-mark-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-12T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5719428, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6611701
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0bfc42b8-2fdf-44c3-bdd1-e40bbe202e38", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0bfc42b8-2fdf-44c3-bdd1-e40bbe202e38.json"
+                        }
+                    ], 
+                    "displayName": "Purling Hiss", 
+                    "uri": "http://www.songkick.com/artists/3521041-purling-hiss?utm_source=32233&utm_medium=partner", 
+                    "id": 3521041
+                }, 
+                "displayName": "Purling Hiss", 
+                "id": 54245709, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Lavender Flu", 
+                    "uri": "http://www.songkick.com/artists/8676004-lavender-flu?utm_source=32233&utm_medium=partner", 
+                    "id": 8676004
+                }, 
+                "displayName": "Lavender Flu", 
+                "id": 54245714, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f5e1d780-701c-4f4b-8658-d7e65dc4eca5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f5e1d780-701c-4f4b-8658-d7e65dc4eca5.json"
+                        }
+                    ], 
+                    "displayName": "The Woolen Men", 
+                    "uri": "http://www.songkick.com/artists/2988891-woolen-men?utm_source=32233&utm_medium=partner", 
+                    "id": 2988891
+                }, 
+                "displayName": "The Woolen Men", 
+                "id": 54245719, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27852874
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Purling Hiss", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2009", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002376600", 
+                    "id": "899efe8c-6f6e-47b3-a9b1-b9182a3bce50"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1677135", 
+                    "id": "eb2dec88-91a2-49ff-a07a-63b2aa69031a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Purling%20Hiss", 
+                    "id": "c76769b7-f122-4c61-8a3c-282ff402da30"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/purling_hiss", 
+                    "id": "c499a99e-87d9-4af6-80be-1b046a8ee8b5"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Purling Hiss", 
+        "begin_area": {
+            "sort-name": "Philadelphia", 
+            "disambiguation": "", 
+            "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2", 
+            "name": "Philadelphia"
+        }, 
+        "gender-id": null, 
+        "country": "US", 
+        "id": "0bfc42b8-2fdf-44c3-bdd1-e40bbe202e38", 
+        "type": "Group", 
+        "disambiguation": ""
+    }, 
+    "id": 27852874, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

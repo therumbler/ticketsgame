@@ -1,0 +1,165 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Weyes Blood and The Shadow Band at Everybody Hits (November 9, 2016)", 
+        "popularity": 0.000877, 
+        "venue": {
+            "displayName": "Everybody Hits", 
+            "uri": "http://www.songkick.com/venues/2715528-everybody-hits?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9705922, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1462118, 
+            "id": 2715528
+        }, 
+        "uri": "http://www.songkick.com/concerts/27903894-weyes-blood-at-everybody-hits?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 39.9705922, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1462118
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "469d6414-1f06-43de-80d5-17762d4a356a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:469d6414-1f06-43de-80d5-17762d4a356a.json"
+                        }
+                    ], 
+                    "displayName": "Weyes Blood", 
+                    "uri": "http://www.songkick.com/artists/3042246-weyes-blood?utm_source=32233&utm_medium=partner", 
+                    "id": 3042246
+                }, 
+                "displayName": "Weyes Blood", 
+                "id": 54342434, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Shadow Band", 
+                    "uri": "http://www.songkick.com/artists/7127154-shadow-band?utm_source=32233&utm_medium=partner", 
+                    "id": 7127154
+                }, 
+                "displayName": "The Shadow Band", 
+                "id": 54342444, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27903894
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Weyes Blood", 
+        "tags": [], 
+        "country": "US", 
+        "disambiguation": "", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://weyesblood.bandcamp.com/", 
+                    "id": "c7b4f812-eadc-47b6-9b55-cd83bda928c9"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3733968", 
+                    "id": "9882faaa-03f2-4b62-8689-31e95eced77b"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pages/Weyes-Blood/210391499001392", 
+                    "id": "a64bdfd4-1176-46ff-ae9b-9afcf19affd2"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Santa Monica", 
+            "disambiguation": "", 
+            "id": "dbacf2e3-7e3e-4cee-8804-999b109285fa", 
+            "name": "Santa Monica"
+        }, 
+        "sort-name": "Weyes Blood", 
+        "gender": "Female", 
+        "id": "469d6414-1f06-43de-80d5-17762d4a356a", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2"
+    }, 
+    "id": 27903894, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000335, 
+        "displayName": "Drop Electric with Slow Lights at Gypsy Sally's (December 2, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Gypsy Sally's", 
+            "uri": "http://www.songkick.com/venues/2402744-gypsy-sallys?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9025936, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0627545, 
+            "id": 2402744
+        }, 
+        "uri": "http://www.songkick.com/concerts/28302784-drop-electric-at-gypsy-sallys?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "datetime": "2016-12-02T20:30:00-0500", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 38.9025936, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0627545
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Drop Electric", 
+                "id": 55040459, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f1a2a4b6-4b4b-41bd-91ea-5968336e0aaa", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f1a2a4b6-4b4b-41bd-91ea-5968336e0aaa.json"
+                        }
+                    ], 
+                    "displayName": "Drop Electric", 
+                    "uri": "http://www.songkick.com/artists/575508-drop-electric?utm_source=32233&utm_medium=partner", 
+                    "id": 575508
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Slow Lights", 
+                "id": 55040464, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Slow Lights", 
+                    "uri": "http://www.songkick.com/artists/8412573-slow-lights?utm_source=32233&utm_medium=partner", 
+                    "id": 8412573
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28302784
+    }, 
+    "musicbrainz_response": {
+        "name": "Drop Electric", 
+        "tags": [], 
+        "gender-id": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://dropelectric.bandcamp.com/", 
+                    "id": "3cde688b-d2ac-4a1a-8804-acc405288dc8"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.dropelectric.com/", 
+                    "id": "60aec3a4-d611-4d83-bcf4-f28b07684c71"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/DropElectric", 
+                    "id": "5f69f9e4-76dc-48ef-aa2a-c0a68aefc1fe"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "Drop Electric", 
+        "gender": null, 
+        "type": null, 
+        "id": "f1a2a4b6-4b4b-41bd-91ea-5968336e0aaa", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15496, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442899.0, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 883, 
+    "id": 28302784
+}

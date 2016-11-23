@@ -1,0 +1,145 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "all ages", 
+        "displayName": "Kiss The Sky at Tailgate Tavern (November 18, 2016)", 
+        "popularity": 7.7e-05, 
+        "venue": {
+            "displayName": "Tailgate Tavern", 
+            "uri": "http://www.songkick.com/venues/2113739-tailgate-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 39.5182492, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.7536212, 
+            "id": 2113739
+        }, 
+        "uri": "http://www.songkick.com/concerts/28070664-kiss-the-sky-at-tailgate-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "08:00:00", 
+            "datetime": "2016-11-18T08:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.5182492, 
+            "city": "Parker, CO, US", 
+            "lng": -104.7536212
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "43e802b4-6e85-41f9-b480-fd02edd2326d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:43e802b4-6e85-41f9-b480-fd02edd2326d.json"
+                        }
+                    ], 
+                    "displayName": "Kiss The Sky", 
+                    "uri": "http://www.songkick.com/artists/552693-kiss-the-sky?utm_source=32233&utm_medium=partner", 
+                    "id": 552693
+                }, 
+                "displayName": "Kiss The Sky", 
+                "id": 54638084, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28070664
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Kiss the Sky", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "smooth jazz"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000773255", 
+                    "id": "0655716b-1623-48ab-bdf4-fbda46d7fa37"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/90581", 
+                    "id": "795d2452-433d-4eae-8adb-4d4a778f66dd"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Kiss+the+Sky", 
+                    "id": "738320bb-7f07-459e-bbee-ead9e190cf2e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Kiss the Sky", 
+        "country": null, 
+        "disambiguation": "", 
+        "type": "Group", 
+        "id": "43e802b4-6e85-41f9-b480-fd02edd2326d", 
+        "gender-id": null
+    }, 
+    "id": 28070664, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

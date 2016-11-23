@@ -1,0 +1,186 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Kalya Scintilla with Subaqueous at Nectar Lounge (December 29, 2016)", 
+        "popularity": 0.001553, 
+        "venue": {
+            "displayName": "Nectar Lounge", 
+            "uri": "http://www.songkick.com/venues/11589-nectar-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6521845, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3538836, 
+            "id": 11589
+        }, 
+        "uri": "http://www.songkick.com/concerts/28226569-kalya-scintilla-at-nectar-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-29", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-29T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6521845, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3538836
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d5e3296d-085d-447e-9b2b-0877ff815aa4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d5e3296d-085d-447e-9b2b-0877ff815aa4.json"
+                        }
+                    ], 
+                    "displayName": "Kalya Scintilla", 
+                    "uri": "http://www.songkick.com/artists/4724353-kalya-scintilla?utm_source=32233&utm_medium=partner", 
+                    "id": 4724353
+                }, 
+                "displayName": "Kalya Scintilla", 
+                "id": 54909714, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cb971908-0d23-499b-957f-55e2c639a75a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cb971908-0d23-499b-957f-55e2c639a75a.json"
+                        }
+                    ], 
+                    "displayName": "Subaqueous", 
+                    "uri": "http://www.songkick.com/artists/4031766-subaqueous?utm_source=32233&utm_medium=partner", 
+                    "id": 4031766
+                }, 
+                "displayName": "Subaqueous", 
+                "id": 54909719, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28226569
+    }, 
+    "musicbrainz_response": {
+        "name": "Kalya Scintilla", 
+        "tags": [], 
+        "country": "AU", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Australia", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "AU"
+            ], 
+            "id": "106e0bec-b638-3b37-b731-f53d507dc00e", 
+            "name": "Australia"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://kalyascintilla.bandcamp.com/", 
+                    "id": "1a6a8efc-1046-4750-b677-f2818269472b"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1300219", 
+                    "id": "1f0bd76d-2f34-40e5-a78b-073142cc91c0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/kalyascintilla", 
+                    "id": "eed938ae-b88a-468c-bf49-49aa95f51b15"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/kalyascintilla", 
+                    "id": "58b096d4-c985-438a-b565-2d54c9ab79fb"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Scintilla, Kalya", 
+        "type": "Person", 
+        "id": "d5e3296d-085d-447e-9b2b-0877ff815aa4", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.eventbrite.com/e/kalya-scintilla-with-subaqueous-kozmo-tickets-28238827092?aff=aff0songkick"
+    }, 
+    "modified_time": 1479442742.0, 
+    "created_minutes": 18193, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 3582, 
+    "id": 28226569
+}

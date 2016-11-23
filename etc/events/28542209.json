@@ -1,0 +1,234 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Moresounds with Bogl at Monarch (November 29, 2016)", 
+        "popularity": 0.00016, 
+        "venue": {
+            "displayName": "Monarch", 
+            "uri": "http://www.songkick.com/venues/1595753-monarch?utm_source=32233&utm_medium=partner", 
+            "lat": 37.7809924, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.4085148, 
+            "id": 1595753
+        }, 
+        "uri": "http://www.songkick.com/concerts/28542209-moresounds-at-monarch?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-29", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-29T22:00:00-0800"
+        }, 
+        "location": {
+            "lat": 37.7809924, 
+            "city": "San Francisco, CA, US", 
+            "lng": -122.4085148
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Moresounds", 
+                "id": 55453549, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3bc572f8-5faf-4a78-8966-9faeecc39e78", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3bc572f8-5faf-4a78-8966-9faeecc39e78.json"
+                        }
+                    ], 
+                    "displayName": "Moresounds", 
+                    "uri": "http://www.songkick.com/artists/6134434-moresounds?utm_source=32233&utm_medium=partner", 
+                    "id": 6134434
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Bogl", 
+                "id": 55453554, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "282b01e2-5a65-474c-9c67-54c54ef111e3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:282b01e2-5a65-474c-9c67-54c54ef111e3.json"
+                        }
+                    ], 
+                    "displayName": "Bogl", 
+                    "uri": "http://www.songkick.com/artists/2377646-bogl?utm_source=32233&utm_medium=partner", 
+                    "id": 2377646
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28542209
+    }, 
+    "musicbrainz_response": {
+        "name": "Moresounds", 
+        "area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://moresounds.tumblr.com/", 
+                    "id": "b5fd59b7-3068-45c3-8cd6-4674e1e13e6c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1253344", 
+                    "id": "30330f75-f47f-43a4-afa1-0f96073c409f"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.moresounds.net/", 
+                    "id": "1c8c0934-ca6a-48e9-a0ed-263dcb00d341"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://moresounds.bandcamp.com/", 
+                    "id": "df2b69e1-0d04-4151-b4d5-aab0f959e01f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/moresounds", 
+                    "id": "290e3cb6-930d-4ad6-bf88-eb20c296a2af"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/moresounds", 
+                    "id": "64e9a8ef-e111-4c4d-a3fd-6ec2f3be3636"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/moresounds", 
+                    "id": "fc1b5a02-8a58-4f76-b7c8-1ab97f51d243"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "Moresounds", 
+        "isnis": [], 
+        "id": "3bc572f8-5faf-4a78-8966-9faeecc39e78", 
+        "country": null, 
+        "type": null, 
+        "twitter": "moresounds", 
+        "disambiguation": "Parisian beatsmith"
+    }, 
+    "age_minutes": 3193, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 14.0, 
+        "price_min": 12.0
+    }, 
+    "modified_time": 1479442271.0, 
+    "created_time": 1479305727.0, 
+    "modified_minutes": 917, 
+    "id": 28542209
+}

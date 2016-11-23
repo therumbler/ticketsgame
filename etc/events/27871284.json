@@ -1,0 +1,132 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mark Shelton at Firehouse Saloon (December 1, 2016)", 
+        "popularity": 8e-06, 
+        "venue": {
+            "displayName": "Firehouse Saloon", 
+            "uri": "http://www.songkick.com/venues/11403-firehouse-saloon?utm_source=32233&utm_medium=partner", 
+            "lat": 29.7259563, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.4823253, 
+            "id": 11403
+        }, 
+        "uri": "http://www.songkick.com/concerts/27871284-mark-shelton-at-firehouse-saloon?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-01", 
+            "time": "21:00:00", 
+            "datetime": "2016-12-01T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 29.7259563, 
+            "city": "Houston, TX, US", 
+            "lng": -95.4823253
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f1b901da-3293-454b-9380-6080b81fe053", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f1b901da-3293-454b-9380-6080b81fe053.json"
+                        }
+                    ], 
+                    "displayName": "Mark Shelton", 
+                    "uri": "http://www.songkick.com/artists/1622624-mark-shelton?utm_source=32233&utm_medium=partner", 
+                    "id": 1622624
+                }, 
+                "displayName": "Mark Shelton", 
+                "id": 54280394, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27871284
+    }, 
+    "musicbrainz_response": {
+        "name": "Mark Shelton", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1420921", 
+                    "id": "7a4d0329-2347-40e1-9c90-885a26f4fcc8"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/mark.shelton.330", 
+                    "id": "51aa23bd-598c-4a2e-84d4-d147d18b8f82"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00140326416", 
+            "00140326514"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Shelton, Mark", 
+        "type": "Person", 
+        "id": "f1b901da-3293-454b-9380-6080b81fe053", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15467, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442219.0, 
+    "created_time": 1478566013.0, 
+    "modified_minutes": 864, 
+    "id": 27871284
+}

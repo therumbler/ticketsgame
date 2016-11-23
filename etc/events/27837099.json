@@ -1,0 +1,707 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Goo Goo Dolls and SafetySuit at Jefferson Theatre (December 4, 2016)", 
+        "popularity": 0.25852, 
+        "venue": {
+            "displayName": "Jefferson Theatre", 
+            "uri": "http://www.songkick.com/venues/1084-jefferson-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 30.081954, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -94.097772, 
+            "id": 1084
+        }, 
+        "uri": "http://www.songkick.com/concerts/27837099-goo-goo-dolls-at-jefferson-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-04", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-04T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 30.081954, 
+            "city": "Beaumont, TX, US", 
+            "lng": -94.097772
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e2c00c56-8365-4160-9f40-a64682917633", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e2c00c56-8365-4160-9f40-a64682917633.json"
+                        }
+                    ], 
+                    "displayName": "The Goo Goo Dolls", 
+                    "uri": "http://www.songkick.com/artists/145102-goo-goo-dolls?utm_source=32233&utm_medium=partner", 
+                    "id": 145102
+                }, 
+                "displayName": "The Goo Goo Dolls", 
+                "id": 54217754, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9247edb7-1bb5-43f2-a58f-185a8ba6044f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9247edb7-1bb5-43f2-a58f-185a8ba6044f.json"
+                        }
+                    ], 
+                    "displayName": "SafetySuit", 
+                    "uri": "http://www.songkick.com/artists/2331623-safetysuit?utm_source=32233&utm_medium=partner", 
+                    "id": 2331623
+                }, 
+                "displayName": "SafetySuit", 
+                "id": 54217759, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27837099
+    }, 
+    "musicbrainz_response": {
+        "name": "Goo Goo Dolls", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": null, 
+        "twitter": "googoodolls", 
+        "tags": [
+            {
+                "count": 0, 
+                "name": "classic pop and rock"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/e2c00c56-8365-4160-9f40-a64682917633", 
+                    "id": "40247677-22c0-4a51-a3c3-366b9673b695"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm1665170/", 
+                    "id": "b20ead1b-1738-4311-bf4e-e257e688fcf9"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/139725726", 
+                    "id": "2aaa57b8-a0cf-4bda-a34a-9fb782aa2295"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000949630", 
+                    "id": "5f18d2e4-adae-48ff-bf48-f17a14751cf7"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/252661", 
+                    "id": "c18da80e-0d4e-48b1-922b-68967c2905bb"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://absolutegoo.com/", 
+                    "id": "83625205-96ac-4e7b-846c-5e60e8153e39"
+                }, 
+                "direction": "forward", 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.googoodolls.nl/", 
+                    "id": "58a9539b-8aa0-4fe8-9529-ea15d2699754"
+                }, 
+                "direction": "forward", 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.googoofans.com/", 
+                    "id": "c0788141-054d-4e69-9b2b-920dadf1c1b1"
+                }, 
+                "direction": "forward", 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:GooGooDollsJuly25th.jpg", 
+                    "id": "5d67be2d-40db-42fc-b2c5-36377b26ec0c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Goo+Goo+Dolls", 
+                    "id": "6902f714-733f-43f5-bf61-0d8c5773a6b6"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/goo-goo-dolls-lyrics", 
+                    "id": "4cb7e7f1-9901-4efb-826f-c7e2a57dcd96"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://genius.com/artists/Goo-goo-dolls", 
+                    "id": "9878d86b-6766-49e2-8429-749ca8102e2b"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/wiki/Goo_Goo_Dolls", 
+                    "id": "0d2d5da1-b1d9-455b-9d2f-0c5b1b33a462"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/googoodolls", 
+                    "id": "4c130864-aa93-4483-9769-0aeac4b8ba92"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.googoodolls.com/", 
+                    "id": "7156fe14-2f58-4398-aaab-c7e38babc0d9"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://musicmoz.org/Bands_and_Artists/G/Goo_Goo_Dolls/", 
+                    "id": "2b877233-e4ed-4313-9360-1d3c69bbd77a"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/the_goo_goo_dolls", 
+                    "id": "e393b88c-58ee-4024-b654-e9b56a64f10d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.45cat.com/artist/goo-goo-dolls", 
+                    "id": "59606523-0bf4-478e-a215-878735623c85"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.whosampled.com/Goo-Goo-Dolls/", 
+                    "id": "72e4a266-927a-49bd-a392-8e1edaf1793f"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://imvdb.com/n/goo-goo-dolls", 
+                    "id": "c52cc2a2-3072-479f-b582-60387703c107"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id147559", 
+                    "id": "817ac8f2-6a6c-418f-a9ae-2587f5a91f92"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=Aiprvql7cyqnqiwgo2j46u45pry", 
+                    "id": "0f7a298f-82c4-40cb-96d6-b2d0b068c121"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.purevolume.com/googoodolls", 
+                    "id": "5a561358-b263-41ff-997a-de7b0e723532"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purevolume", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://secondhandsongs.com/artist/2185", 
+                    "id": "f74c4713-6665-4582-9e50-bf39af76fdf8"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://plus.google.com/+googoodolls", 
+                    "id": "246df85c-f1d8-4cf0-9ba8-03c4a03e5be1"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/googoodolls", 
+                    "id": "6a79db70-6920-4a2a-b994-1aeea6041d43"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/googoodolls", 
+                    "id": "1a7516e6-9fef-4c99-b549-88e5be63da5b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/googoodollsofficial/", 
+                    "id": "4944c1cb-2707-494c-bd5e-cfb313b39ef2"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA", 
+                    "id": "0de3cb3a-b588-4aca-9218-65c07b3889f1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q730046", 
+                    "id": "69c73440-ea5c-4bee-b655-d3cdf8df3053"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Goo_Goo_Dolls", 
+                    "id": "2f65ed55-3a4d-4691-acdb-75f681dd9766"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/thegoogoodolls", 
+                    "id": "082bbec1-d4eb-49b3-9533-53744b26110d"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Buffalo", 
+            "disambiguation": "", 
+            "name": "Buffalo", 
+            "id": "7e5e7fd7-c1eb-4cb8-87e2-fb1c0eda9e48"
+        }, 
+        "id": "e2c00c56-8365-4160-9f40-a64682917633", 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "Goo Goo Dolls", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1986", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15465, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Goo Goo Dolls @ Jefferson Theatre in Beaumont, TX", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Beaumont", 
+            "name": "Jefferson Theatre", 
+            "country": "United States", 
+            "region": "TX", 
+            "longitude": -94.0981029, 
+            "place": "Jefferson Theatre", 
+            "latitude": 30.0820617
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12717428?app_id=ticketgame&artist=Goo+Goo+Dolls&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12717428/buy_tickets?app_id=ticketgame&artist=Goo+Goo+Dolls&came_from=67", 
+        "on_sale_datetime": "2016-08-19T15:00:00", 
+        "formatted_datetime": "Sunday, December 4, 2016 at 7:00PM", 
+        "datetime": "2016-12-04T19:00:00", 
+        "formatted_location": "Beaumont, TX", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F3a00510c96fb2255&subId1=67%7E15936204%7E%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.googoodolls.com", 
+                "facebook_page_url": "https://www.facebook.com/googoodolls", 
+                "name": "Goo Goo Dolls", 
+                "url": "GooGooDolls", 
+                "tracker_count": 843091, 
+                "mbid": "e2c00c56-8365-4160-9f40-a64682917633", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5086269.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/GooGooDolls/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5086269.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12717428
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 93.6, 
+        "price_min": 62.75
+    }, 
+    "modified_time": 1479442167.0, 
+    "created_time": 1478566013.0, 
+    "modified_minutes": 863, 
+    "id": 27837099
+}

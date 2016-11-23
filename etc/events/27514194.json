@@ -1,0 +1,420 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "We Are Scientists at Lincoln Hall (December 1, 2016)", 
+        "popularity": 0.059386, 
+        "venue": {
+            "displayName": "Lincoln Hall", 
+            "uri": "http://www.songkick.com/venues/513326-lincoln-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9260546, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6497465, 
+            "id": 513326
+        }, 
+        "uri": "http://www.songkick.com/concerts/27514194-we-are-scientists-at-lincoln-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-01", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-01T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.9260546, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6497465
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9386b36e-87f3-4716-a219-79a07a4e29cc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9386b36e-87f3-4716-a219-79a07a4e29cc.json"
+                        }
+                    ], 
+                    "displayName": "We Are Scientists", 
+                    "uri": "http://www.songkick.com/artists/199813-we-are-scientists?utm_source=32233&utm_medium=partner", 
+                    "id": 199813
+                }, 
+                "displayName": "We Are Scientists", 
+                "id": 53627844, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27514194
+    }, 
+    "musicbrainz_response": {
+        "name": "We Are Scientists", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "indie rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock and indie"
+            }
+        ], 
+        "gender": null, 
+        "twitter": "scientistbros", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/9386b36e-87f3-4716-a219-79a07a4e29cc", 
+                    "id": "099728cb-509e-4cc2-9ab2-da5d1a45257d"
+                }, 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm2075945/", 
+                    "id": "d976b63a-b8b9-4171-9ed5-3e60d842b79a"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000247699", 
+                    "id": "73819f83-cb95-4917-bd43-b4edd9e76384"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/360656", 
+                    "id": "15ae662b-be8e-432a-9b7a-296c95788738"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/We+Are+Scientists", 
+                    "id": "fbdd8951-b06a-4ccb-b0d2-1dbd4eb54d71"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/we-are-scientists-lyrics", 
+                    "id": "eb057382-0e72-41bd-9609-98a01bdb4b0a"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-5909/we-are-scientists/lyrics.html", 
+                    "id": "8d621b3d-2a73-4244-9454-0a4a20e4a864"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/wearescientists", 
+                    "id": "537d3194-4f2f-4b6e-bc9d-d1e460035b18"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://wearescientists.com/", 
+                    "id": "4c20466d-1182-48e1-a75e-1b46f211014a"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/we_are_scientists", 
+                    "id": "53883f46-9f32-4f89-b9a5-962db3e04fd2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/scientistbros", 
+                    "id": "728647ca-c416-4737-8626-90b715a81ba0"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/wearescientists", 
+                    "id": "f9771c7a-f100-4c80-bab1-f3d0f70b9865"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/we-are-scientists", 
+                    "id": "225beaac-2ad3-412a-9866-e233f16f35d5"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q388213", 
+                    "id": "6a7ddce0-3167-4454-b8da-e5da41b5aa6a"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/We_Are_Scientists", 
+                    "id": "0075f926-6b62-4b09-8795-23a14ec94b6b"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/wearescientists", 
+                    "id": "ef2823f4-27eb-4f02-bb0f-aa1d2d60421d"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Berkeley", 
+            "disambiguation": "", 
+            "id": "f9719692-c39a-4d9c-bf8c-dd4035b09534", 
+            "name": "Berkeley"
+        }, 
+        "id": "9386b36e-87f3-4716-a219-79a07a4e29cc", 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "We Are Scientists", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2000", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "We Are Scientists @ Lincoln Hall in Chicago, IL", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Chicago", 
+            "name": "Lincoln Hall", 
+            "country": "United States", 
+            "region": "IL", 
+            "longitude": -87.6498, 
+            "place": "Lincoln Hall", 
+            "latitude": 41.925898
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12834958?app_id=ticketgame&artist=We+Are+Scientists&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12834958/buy_tickets?app_id=ticketgame&artist=We+Are+Scientists&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Thursday, December 1, 2016 at 9:00PM", 
+        "datetime": "2016-12-01T21:00:00", 
+        "formatted_location": "Chicago, IL", 
+        "ticket_redirect_url": "http://bit.ly/2bQxQqL", 
+        "artists": [
+            {
+                "website": "http://www.wearescientists.com", 
+                "facebook_page_url": "https://www.facebook.com/wearescientists", 
+                "name": "We Are Scientists", 
+                "url": "WeAreScientists", 
+                "tracker_count": 110350, 
+                "mbid": "9386b36e-87f3-4716-a219-79a07a4e29cc", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6038331.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/WeAreScientists/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6038331.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12834958
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://bit.ly/2bQxQqL"
+    }, 
+    "modified_time": 1479441975.0, 
+    "created_minutes": 18154, 
+    "created_time": 1478565987.0, 
+    "modified_minutes": 3554, 
+    "id": 27514194
+}

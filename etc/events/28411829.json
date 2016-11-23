@@ -1,0 +1,127 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Manatee Commune and SISTERS at Doug Fir Lounge (November 27, 2016)", 
+        "popularity": 0.001038, 
+        "venue": {
+            "displayName": "Doug Fir Lounge", 
+            "uri": "http://www.songkick.com/venues/11585-doug-fir-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5229238, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6587133, 
+            "id": 11585
+        }, 
+        "uri": "http://www.songkick.com/concerts/28411829-manatee-commune-at-doug-fir-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-27", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-27T19:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5229238, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6587133
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5dfdbd4d-339e-46e2-b7a5-b487af114025", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5dfdbd4d-339e-46e2-b7a5-b487af114025.json"
+                        }
+                    ], 
+                    "displayName": "Manatee Commune", 
+                    "uri": "http://www.songkick.com/artists/6768134-manatee-commune?utm_source=32233&utm_medium=partner", 
+                    "id": 6768134
+                }, 
+                "displayName": "Manatee Commune", 
+                "id": 55231414, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b206ef44-af6a-4ad9-a84b-1c88b5818d35", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b206ef44-af6a-4ad9-a84b-1c88b5818d35.json"
+                        }, 
+                        {
+                            "mbid": "021c67a9-2fc1-4ca2-b410-84579a662ca0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:021c67a9-2fc1-4ca2-b410-84579a662ca0.json"
+                        }
+                    ], 
+                    "displayName": "SISTERS", 
+                    "uri": "http://www.songkick.com/artists/539530-sisters?utm_source=32233&utm_medium=partner", 
+                    "id": 539530
+                }, 
+                "displayName": "SISTERS", 
+                "id": 55231419, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28411829
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Manatee Commune", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "sort-name": "Manatee Commune", 
+        "gender": null, 
+        "disambiguation": "", 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://manateecommune.bandcamp.com/", 
+                    "id": "3c71f36f-7b39-4686-8c8b-d09e08aa0166"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "type": null, 
+        "id": "5dfdbd4d-339e-46e2-b7a5-b487af114025", 
+        "tags": []
+    }, 
+    "id": 28411829, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

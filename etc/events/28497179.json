@@ -1,0 +1,247 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001126, 
+        "displayName": "Meyhem Lauren and Retch at Howard Theatre (January 12, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Howard Theatre", 
+            "uri": "http://www.songkick.com/venues/74872-howard-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 38.915271, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.021098, 
+            "id": 74872
+        }, 
+        "uri": "http://www.songkick.com/concerts/28497179-meyhem-lauren-at-howard-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-12", 
+            "time": "20:00:00", 
+            "datetime": "2017-01-12T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.915271, 
+            "city": "Washington, DC, US", 
+            "lng": -77.021098
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Meyhem Lauren", 
+                "id": 55377074, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3293d72c-cdd3-4b2e-94e8-bbc2bf64d29a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3293d72c-cdd3-4b2e-94e8-bbc2bf64d29a.json"
+                        }
+                    ], 
+                    "displayName": "Meyhem Lauren", 
+                    "uri": "http://www.songkick.com/artists/4697648-meyhem-lauren?utm_source=32233&utm_medium=partner", 
+                    "id": 4697648
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Retch", 
+                "id": 55377079, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2ac56904-0e8a-42df-86db-17f3e886cded", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2ac56904-0e8a-42df-86db-17f3e886cded.json"
+                        }
+                    ], 
+                    "displayName": "Retch", 
+                    "uri": "http://www.songkick.com/artists/340011-retch?utm_source=32233&utm_medium=partner", 
+                    "id": 340011
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28497179
+    }, 
+    "musicbrainz_response": {
+        "name": "Meyhem Lauren", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "gender": "Male", 
+        "twitter": "MEYHEMLAUREN", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0001098847", 
+                    "id": "01eb0ec6-a7b4-4ef2-bd44-83dd8138e3e3"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/988770", 
+                    "id": "a2a37dc4-1e34-4945-b7cf-8100760a1033"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/meyhem-lauren-lyrics", 
+                    "id": "4131fd43-544e-4c8c-931f-a34b442c2c6d"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://meyhemlauren.com/", 
+                    "id": "552ca278-bd95-4080-b7e9-f8071bf96aae"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/meyhem_lauren", 
+                    "id": "21469a1a-747b-4d9f-978e-346107e2a50d"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/MEYHEMLAUREN", 
+                    "id": "841b4af0-2d24-4631-8b4b-d98184a11171"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pages/Meyhem-Lauren/87996258796", 
+                    "id": "426fcaa5-a361-4baf-bbf7-b4dc97d76d1e"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Queens", 
+            "disambiguation": "", 
+            "name": "Queens", 
+            "id": "431a085b-9f4c-4fbb-82de-2ca7ce735da8"
+        }, 
+        "sort-name": "Lauren, Meyhem", 
+        "isnis": [], 
+        "disambiguation": "US rapper", 
+        "country": "US", 
+        "type": "Person", 
+        "id": "3293d72c-cdd3-4b2e-94e8-bbc2bf64d29a", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "age_minutes": 11556, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 0, 
+        "price_min": 9999999
+    }, 
+    "modified_time": 1479442373.0, 
+    "created_time": 1478803733.0, 
+    "modified_minutes": 912, 
+    "id": 28497179
+}

@@ -1,0 +1,111 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Sub-Radio at Sehkraft Brewing (January 7, 2017)", 
+        "popularity": 3.6e-05, 
+        "venue": {
+            "displayName": "Sehkraft Brewing", 
+            "uri": "http://www.songkick.com/venues/3181739-sehkraft-brewing?utm_source=32233&utm_medium=partner", 
+            "lat": 38.88383, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.093098, 
+            "id": 3181739
+        }, 
+        "uri": "http://www.songkick.com/concerts/28192734-subradio-at-sehkraft-brewing?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-07", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 38.88383, 
+            "city": "Arlington, VA, US", 
+            "lng": -77.093098
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "04069ef3-871d-404b-aaba-0c3bfb178e46", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:04069ef3-871d-404b-aaba-0c3bfb178e46.json"
+                        }
+                    ], 
+                    "displayName": "Sub-Radio", 
+                    "uri": "http://www.songkick.com/artists/8742164-subradio?utm_source=32233&utm_medium=partner", 
+                    "id": 8742164
+                }, 
+                "displayName": "Sub-Radio", 
+                "id": 54852724, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28192734
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Sub-Radio", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2011", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://sub-radio.com/", 
+                    "id": "c30d8ec8-5fb5-43d5-9846-0e3f7afcd38e"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Sterling", 
+            "disambiguation": "", 
+            "id": "7d80f2fa-235a-4590-9b6e-5d9f371066eb", 
+            "name": "Sterling"
+        }, 
+        "sort-name": "Sub-Radio", 
+        "gender": null, 
+        "disambiguation": "", 
+        "type": "Group", 
+        "id": "04069ef3-871d-404b-aaba-0c3bfb178e46", 
+        "gender-id": null
+    }, 
+    "id": 28192734, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,252 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Milo and Otis and Nick Catchdubs with Four Color Zack at Avalon (November 18, 2016)", 
+        "popularity": 0.004643, 
+        "venue": {
+            "displayName": "Avalon", 
+            "uri": "http://www.songkick.com/venues/36614-avalon?utm_source=32233&utm_medium=partner", 
+            "lat": 34.10272, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.327153, 
+            "id": 36614
+        }, 
+        "uri": "http://www.songkick.com/concerts/27820119-milo-and-otis-at-avalon?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "21:30:00", 
+            "datetime": "2016-11-18T21:30:00-0800"
+        }, 
+        "location": {
+            "lat": 34.10272, 
+            "city": "Hollywood, CA, US", 
+            "lng": -118.327153
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9b56db08-13df-4e57-9e1c-5cbfb752b263", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9b56db08-13df-4e57-9e1c-5cbfb752b263.json"
+                        }
+                    ], 
+                    "displayName": "Milo and Otis", 
+                    "uri": "http://www.songkick.com/artists/4677343-milo-and-otis?utm_source=32233&utm_medium=partner", 
+                    "id": 4677343
+                }, 
+                "displayName": "Milo and Otis", 
+                "id": 54185119, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1a770687-d0b1-47a1-a48f-f1e84ab48bb8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1a770687-d0b1-47a1-a48f-f1e84ab48bb8.json"
+                        }
+                    ], 
+                    "displayName": "Nick Catchdubs", 
+                    "uri": "http://www.songkick.com/artists/27841-nick-catchdubs?utm_source=32233&utm_medium=partner", 
+                    "id": 27841
+                }, 
+                "displayName": "Nick Catchdubs", 
+                "id": 54977844, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4a894792-cdb2-4e79-8300-e42b752c7734", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4a894792-cdb2-4e79-8300-e42b752c7734.json"
+                        }
+                    ], 
+                    "displayName": "Four Color Zack", 
+                    "uri": "http://www.songkick.com/artists/3145931-four-color-zack?utm_source=32233&utm_medium=partner", 
+                    "id": 3145931
+                }, 
+                "displayName": "Four Color Zack", 
+                "id": 54185124, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27820119
+    }, 
+    "musicbrainz_response": {
+        "name": "Milo and Otis", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "name": "Los Angeles", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62"
+        }, 
+        "gender": null, 
+        "twitter": "miloandotis", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3026410", 
+                    "id": "7a23bea8-7a41-499e-b1bb-66ec5f8a9b29"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Milo+&+Otis", 
+                    "id": "3a3c96e9-95d8-4b4a-8ea7-3300013a4d94"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://pro.beatport.com/artist/milo-and-otis/259820", 
+                    "id": "cc0f34a4-bbdc-4f23-abd1-b68f3c1668ce"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/miloandotis", 
+                    "id": "60bdc39b-dbbd-4cb3-8632-0ca769394f7c"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/miloandotis", 
+                    "id": "a77c9d06-3a2d-48dc-b39e-b5d6151ea0a1"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/TheMiloAndOtis", 
+                    "id": "9b2efa21-25ac-4c51-94da-affd4e18be19"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/miloandotis", 
+                    "id": "f276dfdf-e8b3-4d80-90ad-a2d3efa953aa"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Milo and Otis", 
+        "type": "Group", 
+        "id": "9b56db08-13df-4e57-9e1c-5cbfb752b263", 
+        "disambiguation": "EDM producers"
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://wl.flavorus.com/event/Milo-and-Otis-Nick-CatchDubs-Four-Color-Zack-Gameday-Tour/333240?afflky=AvalonHollywood"
+    }, 
+    "modified_time": 1479442127.0, 
+    "created_minutes": 18158, 
+    "created_time": 1478566031.0, 
+    "modified_minutes": 3556, 
+    "id": 27820119
+}

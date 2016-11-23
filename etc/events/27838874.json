@@ -1,0 +1,128 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "JOHNNYSWIM at 9:30 Club (November 16, 2016)", 
+        "popularity": 0.009982, 
+        "venue": {
+            "displayName": "9:30 Club", 
+            "uri": "http://www.songkick.com/venues/922-930-club?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9178658, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0237219, 
+            "id": 922
+        }, 
+        "uri": "http://www.songkick.com/concerts/27838874-johnnyswim-at-930-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-16T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.9178658, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0237219
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f73fb555-9bce-4c67-b101-311efd2e9f79", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f73fb555-9bce-4c67-b101-311efd2e9f79.json"
+                        }
+                    ], 
+                    "displayName": "JOHNNYSWIM", 
+                    "uri": "http://www.songkick.com/artists/1141881-johnnyswim?utm_source=32233&utm_medium=partner", 
+                    "id": 1141881
+                }, 
+                "displayName": "JOHNNYSWIM", 
+                "id": 54221654, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27838874
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Johnnyswim", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2005", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.johnnyswim.com/", 
+                    "id": "e5523a47-e1f4-45d5-8dca-314413f9b077"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Johnnyswim", 
+                    "id": "8c9dc985-0ab8-440c-a3cc-a3da4ad50b58"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74", 
+            "name": "Nashville"
+        }, 
+        "sort-name": "Johnnyswim", 
+        "gender": null, 
+        "type": "Group", 
+        "id": "f73fb555-9bce-4c67-b101-311efd2e9f79", 
+        "disambiguation": ""
+    }, 
+    "id": 27838874, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

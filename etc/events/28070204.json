@@ -1,0 +1,370 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Guster at Granada Theater (December 2, 2016)", 
+        "popularity": 0.06311, 
+        "venue": {
+            "displayName": "Granada Theater", 
+            "uri": "http://www.songkick.com/venues/11334-granada-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 32.8308876, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.7700051, 
+            "id": 11334
+        }, 
+        "uri": "http://www.songkick.com/concerts/28070204-guster-at-granada-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-02T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.8308876, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.7700051
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6cbe1e63-5895-4168-ac7e-f0d2836ba0c1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6cbe1e63-5895-4168-ac7e-f0d2836ba0c1.json"
+                        }
+                    ], 
+                    "displayName": "Guster", 
+                    "uri": "http://www.songkick.com/artists/24336-guster?utm_source=32233&utm_medium=partner", 
+                    "id": 24336
+                }, 
+                "displayName": "Guster", 
+                "id": 54637324, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28070204
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Guster", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "twitter": "guster", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "acoustic rock"
+            }, 
+            {
+                "count": 2, 
+                "name": "alternative rock"
+            }, 
+            {
+                "count": 0, 
+                "name": "american"
+            }, 
+            {
+                "count": 1, 
+                "name": "jangle pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000945245", 
+                    "id": "566de58c-6df3-4dfa-978c-77c796c10c29"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/125053", 
+                    "id": "46fa2c75-619a-4b88-bd28-c77804d696a0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/guster-lyrics", 
+                    "id": "f1669142-4007-4278-b8a9-e2251ddd4a08"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/guster", 
+                    "id": "175c7c3d-7b02-4817-b2fc-bebf460c6e99"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.guster.com/", 
+                    "id": "b4c8976c-b156-48b3-9df0-eb43726caffa"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/guster", 
+                    "id": "36606523-cb4f-4ae1-8194-3fa28841d4d1"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/14190", 
+                    "id": "1cda11c9-fe05-4d45-b346-208326fdc563"
+                }, 
+                "begin": null, 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/guster", 
+                    "id": "cf9edc2c-a188-4320-8a61-428b8283709e"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Gustermusic", 
+                    "id": "968aa91a-19e4-42c7-9816-791cb173bd4c"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q775690", 
+                    "id": "bb35dc1d-c5e6-44f5-95ba-dd709938f8da"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Guster", 
+                    "id": "e96c160b-3b4c-45de-a0a4-28a6ab58cfb6"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/Guster", 
+                    "id": "ecb912bc-7de0-47dc-a5f7-3844dfb0a802"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Boston", 
+            "disambiguation": "", 
+            "id": "e331bfdf-b908-429c-a79b-710cf9c06abb", 
+            "name": "Boston"
+        }, 
+        "id": "6cbe1e63-5895-4168-ac7e-f0d2836ba0c1", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Guster", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1991", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15474, 
+    "bandsintown_response": {
+        "description": "Guster will be performing live at Granada Theater in Dallas, TX on December 2nd. Presale tickets go on sale Wednesday September 14th at 12PM local time. The first 200 to use the password BIGFRIEND will receive a $5 discount.\n\n- w/ Duncan Fellows\n- $24 - $33\n- 7PM doors / 8PM show\n- 14+", 
+        "title": "Guster @ Granada Theater in Dallas, TX", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Dallas", 
+            "name": "Granada Theater", 
+            "country": "United States", 
+            "region": "TX", 
+            "longitude": -96.770141, 
+            "place": "Granada Theater", 
+            "latitude": 32.83074
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12923344?app_id=ticketgame&artist=Guster&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12923344/buy_tickets?app_id=ticketgame&artist=Guster&came_from=67", 
+        "on_sale_datetime": "2016-09-14T12:00:00", 
+        "formatted_datetime": "Friday, December 2, 2016 at 7:00PM", 
+        "datetime": "2016-12-02T19:00:00", 
+        "formatted_location": "Dallas, TX", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink= https://www.ticketfly.com/purchase/event/1313703&afftrack=67%7E16221560%7E%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.guster.com", 
+                "facebook_page_url": "https://www.facebook.com/Gustermusic", 
+                "name": "Guster", 
+                "url": "Guster", 
+                "tracker_count": 171643, 
+                "mbid": "6cbe1e63-5895-4168-ac7e-f0d2836ba0c1", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6309051.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Guster/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6309051.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12923344
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442343.0, 
+    "created_time": 1478565996.0, 
+    "modified_minutes": 868, 
+    "id": 28070204
+}

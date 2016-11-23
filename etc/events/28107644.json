@@ -1,0 +1,210 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Blond:ish with Kitten at Doug Fir Lounge (November 18, 2016)", 
+        "popularity": 0.00798, 
+        "venue": {
+            "displayName": "Doug Fir Lounge", 
+            "uri": "http://www.songkick.com/venues/11585-doug-fir-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5229238, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6587133, 
+            "id": 11585
+        }, 
+        "uri": "http://www.songkick.com/concerts/28107644-blondish-at-doug-fir-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-18T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5229238, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6587133
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "598ded27-65cd-481b-b1d1-173f03e459de", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:598ded27-65cd-481b-b1d1-173f03e459de.json"
+                        }
+                    ], 
+                    "displayName": "Blond:ish", 
+                    "uri": "http://www.songkick.com/artists/5064488-blondish?utm_source=32233&utm_medium=partner", 
+                    "id": 5064488
+                }, 
+                "displayName": "Blond:ish", 
+                "id": 54703109, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1c1b1f2b-d5a7-4ea6-bfba-b93b168d3d2d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1c1b1f2b-d5a7-4ea6-bfba-b93b168d3d2d.json"
+                        }, 
+                        {
+                            "mbid": "de1dedac-c992-4f59-9380-13632ecf9af4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:de1dedac-c992-4f59-9380-13632ecf9af4.json"
+                        }
+                    ], 
+                    "displayName": "Kitten", 
+                    "uri": "http://www.songkick.com/artists/273260-kitten?utm_source=32233&utm_medium=partner", 
+                    "id": 273260
+                }, 
+                "displayName": "Kitten", 
+                "id": 54703114, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28107644
+    }, 
+    "musicbrainz_response": {
+        "name": "Blond:ish", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2008", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "name": "Canada", 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.blond-ish.com/", 
+                    "id": "d164506d-1177-4dee-b972-034bd53a4fb5"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/blond_ish", 
+                    "id": "bddab76b-e1e3-4a1e-93aa-f7ca0402d5e7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Blondish", 
+                    "id": "a828ff24-6536-440a-a380-ffbd7ca285fa"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/blondish", 
+                    "id": "503b8c95-ecf7-4fc3-b32b-9d44355f136f"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/BLONDISHTV", 
+                    "id": "9604d38b-c42b-4f0c-95b4-13c64dbbd3f4"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "id": "598ded27-65cd-481b-b1d1-173f03e459de", 
+        "gender-id": null, 
+        "country": "CA", 
+        "sort-name": "Blond:ish", 
+        "type": "Group", 
+        "twitter": "blond_ish", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15477, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 35.0, 
+        "price_min": 12.0
+    }, 
+    "modified_time": 1479442470.0, 
+    "created_time": 1478566069.0, 
+    "modified_minutes": 871, 
+    "id": 28107644
+}

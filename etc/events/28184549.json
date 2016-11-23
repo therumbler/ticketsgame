@@ -1,0 +1,277 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.197963, 
+        "displayName": "PartyNextDoor, Jeremih, and Ari Lennox at Fillmore Silver Spring (November 16, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Fillmore Silver Spring", 
+            "uri": "http://www.songkick.com/venues/1448428-fillmore-silver-spring?utm_source=32233&utm_medium=partner", 
+            "lat": 38.997482, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.027928, 
+            "id": 1448428
+        }, 
+        "uri": "http://www.songkick.com/concerts/28184549-partynextdoor-at-fillmore-silver-spring?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "datetime": "2016-11-16T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 38.997482, 
+            "city": "Silver Spring, MD, US", 
+            "lng": -77.027928
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f23ef341-33bd-47c1-b83c-846a78581f05", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f23ef341-33bd-47c1-b83c-846a78581f05.json"
+                        }
+                    ], 
+                    "displayName": "PartyNextDoor", 
+                    "uri": "http://www.songkick.com/artists/8325838-partynextdoor?utm_source=32233&utm_medium=partner", 
+                    "id": 8325838
+                }, 
+                "displayName": "PartyNextDoor", 
+                "id": 54837894, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1c009a08-74d1-4682-bc56-8bfbe9e66b62", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1c009a08-74d1-4682-bc56-8bfbe9e66b62.json"
+                        }
+                    ], 
+                    "displayName": "Jeremih", 
+                    "uri": "http://www.songkick.com/artists/2366944-jeremih?utm_source=32233&utm_medium=partner", 
+                    "id": 2366944
+                }, 
+                "displayName": "Jeremih", 
+                "id": 54837899, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6fe9125b-bd80-4704-9084-56bc7e07e48f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6fe9125b-bd80-4704-9084-56bc7e07e48f.json"
+                        }
+                    ], 
+                    "displayName": "Ari Lennox", 
+                    "uri": "http://www.songkick.com/artists/6771839-ari-lennox?utm_source=32233&utm_medium=partner", 
+                    "id": 6771839
+                }, 
+                "displayName": "Ari Lennox", 
+                "id": 55386654, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28184549
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "PARTYNEXTDOOR", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "canadian"
+            }, 
+            {
+                "count": 1, 
+                "name": "partynextdoor"
+            }, 
+            {
+                "count": 1, 
+                "name": "r&b"
+            }, 
+            {
+                "count": 1, 
+                "name": "soul"
+            }
+        ], 
+        "country": null, 
+        "twitter": "partyomo", 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3554300", 
+                    "id": "9df3df75-d969-4d11-bdbd-2fae091f0fb9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/partyomo", 
+                    "id": "05f29bdc-21ad-44be-87a4-376fcb6184f7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Partyomo", 
+                    "id": "952af79d-17a3-416b-9969-254ae497b55e"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/ovopartynextdoor/", 
+                    "id": "10e39698-f490-467c-9130-e35fb9e7a367"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/partyomo", 
+                    "id": "379e0e41-2ff6-4f7b-8efc-5e5a28450ffe"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q15929398", 
+                    "id": "45ad8b60-52d0-4126-a66b-c395c9c01e25"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/PartyNextDoor", 
+                    "id": "59ea8823-9f19-4517-b222-1e4ccd67e1fa"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/PARTYOMO", 
+                    "id": "3892855d-6293-4242-9e13-778a72a45aed"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "id": "f23ef341-33bd-47c1-b83c-846a78581f05", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "PARTYNEXTDOOR", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28184549, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

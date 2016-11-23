@@ -1,0 +1,171 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Francis & the Lights and Isaac Gracie at The Jazz Cafe (November 10, 2016)", 
+        "popularity": 0.008739, 
+        "venue": {
+            "displayName": "The Jazz Cafe", 
+            "uri": "http://www.songkick.com/venues/7404-jazz-cafe?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5387595, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1432729, 
+            "id": 7404
+        }, 
+        "uri": "http://www.songkick.com/concerts/28285769-francis-and-the-lights-at-jazz-cafe?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-10T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5387595, 
+            "city": "London, UK", 
+            "lng": -0.1432729
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d1073d49-539c-46b9-9b79-597b232a9a3c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d1073d49-539c-46b9-9b79-597b232a9a3c.json"
+                        }
+                    ], 
+                    "displayName": "Francis & the Lights", 
+                    "uri": "http://www.songkick.com/artists/2379743-francis-and-the-lights?utm_source=32233&utm_medium=partner", 
+                    "id": 2379743
+                }, 
+                "displayName": "Francis & the Lights", 
+                "id": 55009784, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cb82d695-fd24-43aa-99f8-44328cff0fac", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cb82d695-fd24-43aa-99f8-44328cff0fac.json"
+                        }
+                    ], 
+                    "displayName": "Isaac Gracie", 
+                    "uri": "http://www.songkick.com/artists/8044118-isaac-gracie?utm_source=32233&utm_medium=partner", 
+                    "id": 8044118
+                }, 
+                "displayName": "Isaac Gracie", 
+                "id": 55009789, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28285769
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Francis and the Lights", 
+        "sort-name": "Francis and the Lights", 
+        "gender": null, 
+        "disambiguation": "", 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1560282", 
+                    "id": "10a4b932-3658-43c3-a7f9-c4d8a9594d2f"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/francisandthelights", 
+                    "id": "7c57d499-dc3d-46d6-8827-07d7fe57b938"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q5482911", 
+                    "id": "734307a7-89a9-44fd-840b-a7285f9501e5"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Francis_and_the_Lights", 
+                    "id": "8e5dfa46-0b22-43fb-a5e7-d046673150a0"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "id": "d1073d49-539c-46b9-9b79-597b232a9a3c", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": []
+    }, 
+    "id": 28285769, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

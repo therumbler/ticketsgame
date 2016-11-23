@@ -1,0 +1,152 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Invoker with Earth Groans and A Tragedy at Hand at Reggie's (November 13, 2016)", 
+        "popularity": 0.000164, 
+        "venue": {
+            "displayName": "Reggie's", 
+            "uri": "http://www.songkick.com/venues/538951-reggies?utm_source=32233&utm_medium=partner", 
+            "lat": 41.8539841, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6270689, 
+            "id": 538951
+        }, 
+        "uri": "http://www.songkick.com/concerts/28323549-invoker-at-reggies?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-13T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.8539841, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6270689
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f6af93a5-0e71-4b01-b8ad-84c6b13def3a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f6af93a5-0e71-4b01-b8ad-84c6b13def3a.json"
+                        }
+                    ], 
+                    "displayName": "Invoker", 
+                    "uri": "http://www.songkick.com/artists/6233814-invoker?utm_source=32233&utm_medium=partner", 
+                    "id": 6233814
+                }, 
+                "displayName": "Invoker", 
+                "id": 55077634, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Earth Groans", 
+                    "uri": "http://www.songkick.com/artists/8704818-earth-groans?utm_source=32233&utm_medium=partner", 
+                    "id": 8704818
+                }, 
+                "displayName": "Earth Groans", 
+                "id": 55077639, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "A Tragedy at Hand", 
+                    "uri": "http://www.songkick.com/artists/2805741-a-tragedy-at-hand?utm_source=32233&utm_medium=partner", 
+                    "id": 2805741
+                }, 
+                "displayName": "A Tragedy at Hand", 
+                "id": 55077644, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28323549
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Invoker", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "sort-name": "Invoker", 
+        "gender": "Male", 
+        "disambiguation": "Remixer/Producer", 
+        "area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f", 
+            "name": "New York"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/InvokerMusic", 
+                    "id": "af05fb34-326c-44f3-9b47-f53b008862e7"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/invokermusic", 
+                    "id": "9485f8d8-43a9-4c75-9db1-47858d490eea"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "type": "Person", 
+        "id": "f6af93a5-0e71-4b01-b8ad-84c6b13def3a", 
+        "tags": []
+    }, 
+    "id": 28323549, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

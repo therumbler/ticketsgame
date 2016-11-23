@@ -1,0 +1,174 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 7e-05, 
+        "displayName": "American Standards with Stay Wild at Cirivellos (November 20, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Cirivellos", 
+            "uri": "http://www.songkick.com/venues/1180096-cirivellos?utm_source=32233&utm_medium=partner", 
+            "lat": 33.8329225, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.1265945, 
+            "id": 1180096
+        }, 
+        "uri": "http://www.songkick.com/concerts/28472414-american-standards-at-cirivellos?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-20", 
+            "time": "18:00:00", 
+            "datetime": "2016-11-20T18:00:00-0800"
+        }, 
+        "location": {
+            "lat": 33.8329225, 
+            "city": "Long Beach, CA, US", 
+            "lng": -118.1265945
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "American Standards", 
+                "id": 55333529, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "005b11a6-bdca-4bb9-875d-bfd5a0732b07", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:005b11a6-bdca-4bb9-875d-bfd5a0732b07.json"
+                        }
+                    ], 
+                    "displayName": "American Standards", 
+                    "uri": "http://www.songkick.com/artists/4351891-american-standards?utm_source=32233&utm_medium=partner", 
+                    "id": 4351891
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Stay Wild", 
+                "id": 55333534, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Stay Wild", 
+                    "uri": "http://www.songkick.com/artists/5872939-stay-wild?utm_source=32233&utm_medium=partner", 
+                    "id": 5872939
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28472414
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "gender": null, 
+        "name": "American Standards", 
+        "sort-name": "American Standards", 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4235362", 
+                    "id": "f663d50c-7d0d-43c6-affc-dc12fd15c698"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/AmericanStandards", 
+                    "id": "3ab1f244-17b0-4c5a-bce4-a6cfba4e62b2"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "isnis": [], 
+        "disambiguation": "USA punk band", 
+        "type": "Group", 
+        "id": "005b11a6-bdca-4bb9-875d-bfd5a0732b07", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "arizona"
+            }, 
+            {
+                "count": 1, 
+                "name": "chaotic hardcore"
+            }, 
+            {
+                "count": 1, 
+                "name": "hardcore punk"
+            }, 
+            {
+                "count": 1, 
+                "name": "metalcore"
+            }, 
+            {
+                "count": 1, 
+                "name": "noise punk"
+            }, 
+            {
+                "count": 1, 
+                "name": "punk"
+            }, 
+            {
+                "count": 1, 
+                "name": "usa"
+            }
+        ]
+    }, 
+    "id": 28472414, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

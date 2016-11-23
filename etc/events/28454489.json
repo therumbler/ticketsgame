@@ -1,0 +1,114 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Phillip-Michael Scales at Stone Room Concerts (November 20, 2016)", 
+        "popularity": 5.3e-05, 
+        "venue": {
+            "displayName": "Stone Room Concerts", 
+            "uri": "http://www.songkick.com/venues/1599858-stone-room-concerts?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": null, 
+            "id": 1599858
+        }, 
+        "uri": "http://www.songkick.com/concerts/28454489-phillipmichael-scales-at-stone-room-concerts?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-20", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-20T19:30:00-0500"
+        }, 
+        "location": {
+            "lat": 38.8845, 
+            "city": "Falls Church, VA, US", 
+            "lng": -77.1762
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5504d5de-a80c-4a31-ab99-91578e5549a8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5504d5de-a80c-4a31-ab99-91578e5549a8.json"
+                        }
+                    ], 
+                    "displayName": "Phillip-Michael Scales", 
+                    "uri": "http://www.songkick.com/artists/8701688-phillipmichael-scales?utm_source=32233&utm_medium=partner", 
+                    "id": 8701688
+                }, 
+                "displayName": "Phillip-Michael Scales", 
+                "id": 55303094, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28454489
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Briar Rabbit", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.briarrabbit.net/", 
+                    "id": "0612bdae-d72f-4fac-b0ca-15748e9c7d90"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Rabbit, Briar", 
+        "country": "US", 
+        "id": "5504d5de-a80c-4a31-ab99-91578e5549a8", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28454489, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

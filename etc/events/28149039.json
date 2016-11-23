@@ -1,0 +1,129 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Joe DeRosa at Relapse Comedy Theater (November 26, 2016)", 
+        "popularity": 0.000325, 
+        "venue": {
+            "displayName": "Relapse Comedy Theater", 
+            "uri": "http://www.songkick.com/venues/3293649-relapse-comedy-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7859047, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3993182, 
+            "id": 3293649
+        }, 
+        "uri": "http://www.songkick.com/concerts/28149039-joe-derosa-at-relapse-comedy-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-26", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-26T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 33.7859047, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.3993182
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "be281fd0-a22d-48ae-b63c-6ee3d751b047", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:be281fd0-a22d-48ae-b63c-6ee3d751b047.json"
+                        }
+                    ], 
+                    "displayName": "Joe DeRosa", 
+                    "uri": "http://www.songkick.com/artists/584860-joe-derosa?utm_source=32233&utm_medium=partner", 
+                    "id": 584860
+                }, 
+                "displayName": "Joe DeRosa", 
+                "id": 54774944, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28149039
+    }, 
+    "bandsintown_response": {
+        "facebook_page_url": null, 
+        "upcoming_event_count": 3, 
+        "name": "Joe Derosa", 
+        "tracker_count": 760, 
+        "mbid": "be281fd0-a22d-48ae-b63c-6ee3d751b047", 
+        "image_url": "https://s3.amazonaws.com/bit-photos/large/5015922.jpeg", 
+        "facebook_tour_dates_url": null, 
+        "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5015922.jpeg"
+    }, 
+    "musicbrainz_response": {
+        "name": "Joe Derosa", 
+        "tags": [], 
+        "country": null, 
+        "disambiguation": "", 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1864942", 
+                    "id": "25455cc0-3cb7-4ef1-9bd8-ed7c60e2b13e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://joederosacomedy.com/", 
+                    "id": "f61656a0-ac89-4d1a-b517-4a467ba0dcb6"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Derosa, Joe", 
+        "gender": null, 
+        "id": "be281fd0-a22d-48ae-b63c-6ee3d751b047", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28149039, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

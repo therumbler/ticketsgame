@@ -1,0 +1,103 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Super Best Friends Club at The George Tavern (November 17, 2016)", 
+        "popularity": 5.3e-05, 
+        "venue": {
+            "displayName": "The George Tavern", 
+            "uri": "http://www.songkick.com/venues/8066-george-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 51.51429, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0530295, 
+            "id": 8066
+        }, 
+        "uri": "http://www.songkick.com/concerts/28330024-super-best-friends-club-at-george-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.51429, 
+            "city": "London, UK", 
+            "lng": -0.0530295
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a3e81e73-d133-4bf0-9f79-866615b85c4e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a3e81e73-d133-4bf0-9f79-866615b85c4e.json"
+                        }
+                    ], 
+                    "displayName": "Super Best Friends Club", 
+                    "uri": "http://www.songkick.com/artists/859110-super-best-friends-club?utm_source=32233&utm_medium=partner", 
+                    "id": 859110
+                }, 
+                "displayName": "Super Best Friends Club", 
+                "id": 55088319, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28330024
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Super Best Friends Club", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/thisissbfc", 
+                    "id": "204d65ff-0def-475b-9436-c4d7b2eb5f7f"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Super Best Friends Club", 
+        "type": "Group", 
+        "id": "a3e81e73-d133-4bf0-9f79-866615b85c4e", 
+        "disambiguation": ""
+    }, 
+    "id": 28330024, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

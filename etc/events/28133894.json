@@ -1,0 +1,148 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Frank Catalano at Green Mill Jazz Club (November 23, 2016)", 
+        "popularity": 5.3e-05, 
+        "venue": {
+            "displayName": "Green Mill Jazz Club", 
+            "uri": "http://www.songkick.com/venues/31047-green-mill-jazz-club?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9692083, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6598771, 
+            "id": 31047
+        }, 
+        "uri": "http://www.songkick.com/concerts/28133894-frank-catalano-at-green-mill-jazz-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-23", 
+            "time": "23:50:00", 
+            "datetime": "2016-11-23T23:50:00-0600"
+        }, 
+        "location": {
+            "lat": 41.9692083, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6598771
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2eeca5f7-0358-403e-92fc-3eef3a84f236", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2eeca5f7-0358-403e-92fc-3eef3a84f236.json"
+                        }
+                    ], 
+                    "displayName": "Frank Catalano", 
+                    "uri": "http://www.songkick.com/artists/542785-frank-catalano?utm_source=32233&utm_medium=partner", 
+                    "id": 542785
+                }, 
+                "displayName": "Frank Catalano", 
+                "id": 54749204, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28133894
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Frank Catalano", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/328155", 
+                    "id": "07998504-fe19-4478-bcf5-cc08290cc6b6"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.catalanomusic.com/", 
+                    "id": "1557b652-3b21-4d96-84c0-bc7e1169ec2e"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q5485722", 
+                    "id": "2b6b7b7c-9653-41c6-9a55-673deef3eab7"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Catalano, Frank", 
+        "gender": "Male", 
+        "type": "Person", 
+        "id": "2eeca5f7-0358-403e-92fc-3eef3a84f236", 
+        "disambiguation": ""
+    }, 
+    "id": 28133894, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

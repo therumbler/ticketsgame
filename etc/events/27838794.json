@@ -1,0 +1,156 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Vektor, Black Fast, Xoth, and Sarcalogos at Highline (November 10, 2016)", 
+        "popularity": 0.00163, 
+        "venue": {
+            "displayName": "Highline", 
+            "uri": "http://www.songkick.com/venues/1163446-highline?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6286702, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.321256, 
+            "id": 1163446
+        }, 
+        "uri": "http://www.songkick.com/concerts/27838794-vektor-at-highline?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-10T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6286702, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.321256
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "098ca2ab-c92b-4b77-b60a-12fe0df84374", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:098ca2ab-c92b-4b77-b60a-12fe0df84374.json"
+                        }, 
+                        {
+                            "mbid": "c5119d8a-ffee-48bc-99c3-f323bdf16d82", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c5119d8a-ffee-48bc-99c3-f323bdf16d82.json"
+                        }
+                    ], 
+                    "displayName": "Vektor", 
+                    "uri": "http://www.songkick.com/artists/760461-vektor?utm_source=32233&utm_medium=partner", 
+                    "id": 760461
+                }, 
+                "displayName": "Vektor", 
+                "id": 54221474, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f0098db1-e340-4195-a0e4-cebd411892fb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f0098db1-e340-4195-a0e4-cebd411892fb.json"
+                        }
+                    ], 
+                    "displayName": "Black Fast", 
+                    "uri": "http://www.songkick.com/artists/6105799-black-fast?utm_source=32233&utm_medium=partner", 
+                    "id": 6105799
+                }, 
+                "displayName": "Black Fast", 
+                "id": 54221479, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5f46eadd-038e-4a71-9bf8-1016336c49dc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5f46eadd-038e-4a71-9bf8-1016336c49dc.json"
+                        }
+                    ], 
+                    "displayName": "Xoth", 
+                    "uri": "http://www.songkick.com/artists/8300323-xoth?utm_source=32233&utm_medium=partner", 
+                    "id": 8300323
+                }, 
+                "displayName": "Xoth", 
+                "id": 54221484, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Sarcalogos", 
+                    "uri": "http://www.songkick.com/artists/5008283-sarcalogos?utm_source=32233&utm_medium=partner", 
+                    "id": 5008283
+                }, 
+                "displayName": "Sarcalogos", 
+                "id": 54312229, 
+                "billing": "headline", 
+                "billingIndex": 4
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27838794
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "<vektor>", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/206769", 
+                    "id": "fa8300bb-b4c7-4f62-b744-e1b46e78b210"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "<vektor>", 
+        "country": null, 
+        "type": null, 
+        "id": "098ca2ab-c92b-4b77-b60a-12fe0df84374", 
+        "disambiguation": "minimal rhythmic noise"
+    }, 
+    "id": 27838794, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

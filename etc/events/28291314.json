@@ -1,0 +1,169 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Laser Background, Hecks, and The Purples at The Storefront (November 11, 2016)", 
+        "popularity": 8.7e-05, 
+        "venue": {
+            "displayName": "The Storefront", 
+            "uri": "http://www.songkick.com/venues/3224284-storefront?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9756685, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1341911, 
+            "id": 3224284
+        }, 
+        "uri": "http://www.songkick.com/concerts/28291314-laser-background-at-storefront?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-11T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9756685, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1341911
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cfb79086-dfbf-421d-adca-3f3a363411f3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cfb79086-dfbf-421d-adca-3f3a363411f3.json"
+                        }
+                    ], 
+                    "displayName": "Laser Background", 
+                    "uri": "http://www.songkick.com/artists/5327338-laser-background?utm_source=32233&utm_medium=partner", 
+                    "id": 5327338
+                }, 
+                "displayName": "Laser Background", 
+                "id": 55020489, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Hecks", 
+                    "uri": "http://www.songkick.com/artists/4983834-hecks?utm_source=32233&utm_medium=partner", 
+                    "id": 4983834
+                }, 
+                "displayName": "Hecks", 
+                "id": 55020494, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Purples", 
+                    "uri": "http://www.songkick.com/artists/1955489-purples?utm_source=32233&utm_medium=partner", 
+                    "id": 1955489
+                }, 
+                "displayName": "The Purples", 
+                "id": 55020499, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28291314
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Laser Background", 
+        "area": {
+            "sort-name": "Philadelphia", 
+            "disambiguation": "", 
+            "name": "Philadelphia", 
+            "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2"
+        }, 
+        "country": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://laserbackground.bandcamp.com/", 
+                    "id": "47826d5a-5c0f-450f-9c3d-8ce5ae06dd88"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://laserbackground.com/", 
+                    "id": "545be263-9b77-4e06-8a78-2f28827c1a59"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/laserbackground", 
+                    "id": "74a920c2-4cdc-4542-b46f-b152fd934eb6"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Laser Background", 
+        "gender": null, 
+        "id": "cfb79086-dfbf-421d-adca-3f3a363411f3", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28291314, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Davi Vieira at Club Bonafide (November 11, 2016)", 
+        "popularity": 9.5e-05, 
+        "venue": {
+            "displayName": "Club Bonafide", 
+            "uri": "http://www.songkick.com/venues/3059679-club-bonafide?utm_source=32233&utm_medium=partner", 
+            "lat": 40.756594, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.969291, 
+            "id": 3059679
+        }, 
+        "uri": "http://www.songkick.com/concerts/28293459-davi-vieira-at-club-bonafide?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "23:00:00", 
+            "datetime": "2016-11-11T23:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.756594, 
+            "city": "New York, NY, US", 
+            "lng": -73.969291
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a8029394-e322-4190-80c8-c055909a0ce5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a8029394-e322-4190-80c8-c055909a0ce5.json"
+                        }
+                    ], 
+                    "displayName": "Davi Vieira", 
+                    "uri": "http://www.songkick.com/artists/1020623-davi-vieira?utm_source=32233&utm_medium=partner", 
+                    "id": 1020623
+                }, 
+                "displayName": "Davi Vieira", 
+                "id": 55024599, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28293459
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Davi Vieira", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "sort-name": "Vieira, Davi", 
+        "gender": "Male", 
+        "disambiguation": "Brazilian percussionist, songwriter, and vocalist", 
+        "area": {
+            "sort-name": "Brazil", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "BR"
+            ], 
+            "name": "Brazil", 
+            "id": "f45b47f8-5796-386e-b172-6c31b009a5d8"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/davivieira", 
+                    "id": "0d2aba89-2015-4910-ba70-df3af8f07bc4"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.davivieira.com/", 
+                    "id": "f29eed5a-85e6-49ec-bc87-5ff9c1b431e8"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/davi.vieira", 
+                    "id": "c04de26e-b858-4447-9f30-3c5e77c7c9ae"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "BR", 
+        "type": "Person", 
+        "id": "a8029394-e322-4190-80c8-c055909a0ce5", 
+        "tags": []
+    }, 
+    "id": 28293459, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

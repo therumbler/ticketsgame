@@ -1,0 +1,200 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Sam Collins at Granada Theater (December 22, 2016)", 
+        "popularity": 0.000164, 
+        "venue": {
+            "displayName": "Granada Theater", 
+            "uri": "http://www.songkick.com/venues/11334-granada-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 32.8308876, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.7700051, 
+            "id": 11334
+        }, 
+        "uri": "http://www.songkick.com/concerts/28478299-sam-collins-at-granada-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-22", 
+            "datetime": "2016-12-22T19:00:00-0600", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 32.8308876, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.7700051
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "405cb0b9-cf25-4a37-8027-71bd0a753cee", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:405cb0b9-cf25-4a37-8027-71bd0a753cee.json"
+                        }
+                    ], 
+                    "displayName": "Sam Collins", 
+                    "uri": "http://www.songkick.com/artists/253728-sam-collins?utm_source=32233&utm_medium=partner", 
+                    "id": 253728
+                }, 
+                "displayName": "Sam Collins", 
+                "id": 55343534, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28478299
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Sam Collins", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": true, 
+            "begin": "1887-08-11", 
+            "end": "1949-10-20"
+        }, 
+        "tags": [
+            {
+                "count": 0, 
+                "name": "death by heart disease"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/23808995", 
+                    "id": "40ee2fa4-0555-469c-9185-775234ec7bc2"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.wirz.de/music/collifrm.htm", 
+                    "id": "3b7b83ca-2aef-4fef-a018-d5046c00b78f"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1148395", 
+                    "id": "c1b1b2e6-8327-4a84-9533-ccdf4184aaf4"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q3470463", 
+                    "id": "f52e7588-f8cf-472a-9317-5db655005954"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Sam_Collins_(musician)", 
+                    "id": "57947f97-c501-436f-a7dc-7e82264a7318"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": {
+            "sort-name": "Chicago", 
+            "disambiguation": "", 
+            "id": "29a709d8-0320-493e-8d0c-f2c386662b7f", 
+            "name": "Chicago"
+        }, 
+        "sort-name": "Collins, Sam", 
+        "begin_area": {
+            "sort-name": "Louisiana", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-LA"
+            ], 
+            "name": "Louisiana", 
+            "id": "fc68ecf5-507e-4012-b60b-d93747a3cfa7"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "type": "Person", 
+        "id": "405cb0b9-cf25-4a37-8027-71bd0a753cee", 
+        "disambiguation": "early blues singer and guitarist"
+    }, 
+    "id": 28478299, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

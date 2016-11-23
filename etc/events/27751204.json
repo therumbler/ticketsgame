@@ -1,0 +1,331 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Del McCoury Band at Aladdin Theater (December 1, 2016)", 
+        "popularity": 0.004208, 
+        "venue": {
+            "displayName": "Aladdin Theater", 
+            "uri": "http://www.songkick.com/venues/1207-aladdin-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 45.501102, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.654253, 
+            "id": 1207
+        }, 
+        "uri": "http://www.songkick.com/concerts/27751204-del-mccoury-band-at-aladdin-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-01", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-01T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.501102, 
+            "city": "Portland, OR, US", 
+            "lng": -122.654253
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7e5a0c3f-339a-4e5d-aed0-1946112b4a66", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7e5a0c3f-339a-4e5d-aed0-1946112b4a66.json"
+                        }
+                    ], 
+                    "displayName": "Del McCoury Band", 
+                    "uri": "http://www.songkick.com/artists/46897-del-mccoury-band?utm_source=32233&utm_medium=partner", 
+                    "id": 46897
+                }, 
+                "displayName": "Del McCoury Band", 
+                "id": 54059919, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27751204
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Del McCoury Band", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "twitter": "delmccouryband", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000146354", 
+                    "id": "f7327cae-8381-4ae0-92af-b1bd78a7e07c"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/290039", 
+                    "id": "893dbd67-2ae6-42db-acb3-3782af6d06e5"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/the-del-mccoury-band-lyrics", 
+                    "id": "bd2209e1-ecc0-48db-92eb-4df8fa779d68"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/delmccouryband", 
+                    "id": "0c4a55a3-12b2-4af4-b4ba-f6554fa7d7d3"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://delmccouryband.com/", 
+                    "id": "89f393aa-6815-4c0a-aa64-c75b53d3f325"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.reverbnation.com/delmccouryband", 
+                    "id": "0dc82e6c-5f8a-4e51-87ff-053f575bd757"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/delmccouryband", 
+                    "id": "b2c9d791-1cb0-4173-b076-890f35ba6ae7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/TheDelMcCouryBand", 
+                    "id": "6d2add4e-c9fb-4248-a203-1bdc0d89c674"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt", 
+                    "id": "03b91992-5c7c-45a3-8dd5-741278037ce1"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q5252931", 
+                    "id": "54ed2bd1-2257-4df3-a64a-822607afe538"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Del_McCoury_Band", 
+                    "id": "b2edcf91-9029-4fa0-9f24-4737d1b508f1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74", 
+            "name": "Nashville"
+        }, 
+        "id": "7e5a0c3f-339a-4e5d-aed0-1946112b4a66", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "McCoury, Del Band, The", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1967", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "The Del McCoury Band @ Aladdin Theater in Portland, OR", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Portland", 
+            "name": "Aladdin Theater", 
+            "country": "United States", 
+            "region": "OR", 
+            "longitude": -122.65432, 
+            "place": "Aladdin Theater", 
+            "latitude": 45.501066
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12691834?app_id=ticketgame&artist=The+Del+McCoury+Band&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12691834/buy_tickets?app_id=ticketgame&artist=The+Del+McCoury+Band&came_from=67", 
+        "on_sale_datetime": "2016-08-05T10:00:00", 
+        "formatted_datetime": "Thursday, December 1, 2016 at 8:00PM", 
+        "datetime": "2016-12-01T20:00:00", 
+        "formatted_location": "Portland, OR", 
+        "ticket_redirect_url": "http://www.aladdin-theatre.com/", 
+        "artists": [
+            {
+                "website": "http://www.delmccouryband.com", 
+                "facebook_page_url": "https://www.facebook.com/TheDelMcCouryBand", 
+                "name": "The Del McCoury Band", 
+                "url": "TheDelMccouryBand", 
+                "tracker_count": 25358, 
+                "mbid": "7e5a0c3f-339a-4e5d-aed0-1946112b4a66", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6304233.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheDelMccouryBand/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6304233.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12691834
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.aladdin-theatre.com/"
+    }, 
+    "modified_time": 1479442068.0, 
+    "created_minutes": 18155, 
+    "created_time": 1478566069.0, 
+    "modified_minutes": 3555, 
+    "id": 27751204
+}

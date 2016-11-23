@@ -1,0 +1,128 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Spanglish Fly at S.O.B.'s (November 12, 2016)", 
+        "popularity": 6.7e-05, 
+        "venue": {
+            "displayName": "S.O.B.'s", 
+            "uri": "http://www.songkick.com/venues/48772-sobs?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7284492, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -74.0051241, 
+            "id": 48772
+        }, 
+        "uri": "http://www.songkick.com/concerts/27936744-spanglish-fly-at-sobs?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-12T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7284492, 
+            "city": "Manhattan, NY, US", 
+            "lng": -74.0051241
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a0a76baa-ffe1-410b-b0a7-0b23ec0e3637", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a0a76baa-ffe1-410b-b0a7-0b23ec0e3637.json"
+                        }
+                    ], 
+                    "displayName": "Spanglish Fly", 
+                    "uri": "http://www.songkick.com/artists/2587771-spanglish-fly?utm_source=32233&utm_medium=partner", 
+                    "id": 2587771
+                }, 
+                "displayName": "Spanglish Fly", 
+                "id": 54401499, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27936744
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Spanglish Fly", 
+        "area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "name": "New York", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2632825", 
+                    "id": "91c46f35-47f7-4e6c-8ef4-33030b5a3bc1"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.spanglishfly.com/", 
+                    "id": "5c7a2fba-bd54-4fda-b6b6-707d591629b5"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Spanglish Fly", 
+        "country": null, 
+        "disambiguation": "", 
+        "type": "Group", 
+        "id": "a0a76baa-ffe1-410b-b0a7-0b23ec0e3637", 
+        "gender-id": null
+    }, 
+    "id": 27936744, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

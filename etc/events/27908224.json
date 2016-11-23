@@ -1,0 +1,192 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Billy Kenny with Maximono at U Street Music Hall (November 18, 2016)", 
+        "popularity": 0.00025, 
+        "venue": {
+            "displayName": "U Street Music Hall", 
+            "uri": "http://www.songkick.com/venues/839721-u-street-music-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 38.917202, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.027764, 
+            "id": 839721
+        }, 
+        "uri": "http://www.songkick.com/concerts/27908224-billy-kenny-at-u-street-music-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "22:30:00", 
+            "datetime": "2016-11-18T22:30:00-0500"
+        }, 
+        "location": {
+            "lat": 38.917202, 
+            "city": "Washington, DC, US", 
+            "lng": -77.027764
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "246bc606-f484-4517-a58a-f4113e0c6c99", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:246bc606-f484-4517-a58a-f4113e0c6c99.json"
+                        }
+                    ], 
+                    "displayName": "Billy Kenny", 
+                    "uri": "http://www.songkick.com/artists/8607644-billy-kenny?utm_source=32233&utm_medium=partner", 
+                    "id": 8607644
+                }, 
+                "displayName": "Billy Kenny", 
+                "id": 54350334, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "72e12734-37e5-43d8-a1db-01eb73e771a9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:72e12734-37e5-43d8-a1db-01eb73e771a9.json"
+                        }
+                    ], 
+                    "displayName": "Maximono", 
+                    "uri": "http://www.songkick.com/artists/8654004-maximono?utm_source=32233&utm_medium=partner", 
+                    "id": 8654004
+                }, 
+                "displayName": "Maximono", 
+                "id": 54350339, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27908224
+    }, 
+    "musicbrainz_response": {
+        "name": "Billy Kenny", 
+        "area": {
+            "sort-name": "Leeds", 
+            "disambiguation": "", 
+            "name": "Leeds", 
+            "id": "116e3eb1-2b14-42c9-91a1-7a2510dcc4b3"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1990-05-30", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/246bc606-f484-4517-a58a-f4113e0c6c99", 
+                    "id": "28fb7056-1260-4b04-9c1c-1aa135448ab8"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/billykennymusic", 
+                    "id": "03ede085-518a-419f-9fe4-fe2e354c3571"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/billykennymusic", 
+                    "id": "a6da1738-1ca8-493c-9093-ca8150720dc4"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/billykennymusic", 
+                    "id": "e12df40a-b57e-4c1b-831f-203f262ac50c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00659998551"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Gravesend", 
+            "disambiguation": "", 
+            "id": "f0723bcc-1f73-456d-b6fa-e12b2ec6016e", 
+            "name": "Gravesend"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Kenny, Billy", 
+        "type": "Person", 
+        "id": "246bc606-f484-4517-a58a-f4113e0c6c99", 
+        "disambiguation": "British Producer"
+    }, 
+    "age_minutes": 15468, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442239.0, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 865, 
+    "id": 27908224
+}

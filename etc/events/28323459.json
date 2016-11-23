@@ -1,0 +1,128 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Alanna Royale with Vita and the Woolf at Exit/In (November 11, 2016)", 
+        "popularity": 0.000158, 
+        "venue": {
+            "displayName": "Exit/In", 
+            "uri": "http://www.songkick.com/venues/35919-exitin?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1513349, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.8042602, 
+            "id": 35919
+        }, 
+        "uri": "http://www.songkick.com/concerts/28323459-alanna-royale-at-exitin?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-11T20:30:00-0600"
+        }, 
+        "location": {
+            "lat": 36.1513349, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.8042602
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8abfa6c3-3259-4e1a-b4a0-96f514dfcc5e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8abfa6c3-3259-4e1a-b4a0-96f514dfcc5e.json"
+                        }
+                    ], 
+                    "displayName": "Alanna Royale", 
+                    "uri": "http://www.songkick.com/artists/6229434-alanna-royale?utm_source=32233&utm_medium=partner", 
+                    "id": 6229434
+                }, 
+                "displayName": "Alanna Royale", 
+                "id": 55077469, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f9b807a2-e6e5-4d5d-9ef8-eeebd13c5f04", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f9b807a2-e6e5-4d5d-9ef8-eeebd13c5f04.json"
+                        }
+                    ], 
+                    "displayName": "Vita and the Woolf", 
+                    "uri": "http://www.songkick.com/artists/5897669-vita-and-the-woolf?utm_source=32233&utm_medium=partner", 
+                    "id": 5897669
+                }, 
+                "displayName": "Vita and the Woolf", 
+                "id": 55077474, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28323459
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Alanna Royale", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2012", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "name": "Nashville", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://alannaroyale.bandcamp.com/", 
+                    "id": "030b184d-c5c1-4bf2-9868-5d6a79594c98"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Alanna Royale", 
+        "gender": null, 
+        "id": "8abfa6c3-3259-4e1a-b4a0-96f514dfcc5e", 
+        "type": "Group", 
+        "disambiguation": "R&B band from Nashville", 
+        "gender-id": null
+    }, 
+    "id": 28323459, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

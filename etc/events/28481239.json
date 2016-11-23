@@ -1,0 +1,108 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Alyse Black at Concert Window (December 18, 2016)", 
+        "popularity": 6.8e-05, 
+        "venue": {
+            "displayName": "Concert Window", 
+            "uri": "http://www.songkick.com/venues/2645758-concert-window?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": null, 
+            "id": 2645758
+        }, 
+        "uri": "http://www.songkick.com/concerts/28481239-alyse-black-at-concert-window?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-18", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 30.3005, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7472
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Alyse Black", 
+                "id": 55348539, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c07bf853-f2b5-4dab-ae3a-a4e33b1d38ec", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c07bf853-f2b5-4dab-ae3a-a4e33b1d38ec.json"
+                        }
+                    ], 
+                    "displayName": "Alyse Black", 
+                    "uri": "http://www.songkick.com/artists/697668-alyse-black?utm_source=32233&utm_medium=partner", 
+                    "id": 697668
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28481239
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "area": null, 
+        "gender": null, 
+        "type-id": null, 
+        "name": "Alyse Black", 
+        "sort-name": "Alyse Black", 
+        "country": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "ended": false, 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Alyse_Black", 
+                    "id": "fb9cd79e-1b90-4045-ba73-df5ef557f763"
+                }, 
+                "target-type": "url", 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "isnis": [], 
+        "id": "c07bf853-f2b5-4dab-ae3a-a4e33b1d38ec", 
+        "type": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 28481239, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

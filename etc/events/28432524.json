@@ -1,0 +1,94 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "21+", 
+        "displayName": "Children (LA), Mood Beach, and Butter at DBA256 Wine Bar (November 10, 2016)", 
+        "popularity": 0.000189, 
+        "venue": {
+            "displayName": "DBA256 Wine Bar", 
+            "uri": "http://www.songkick.com/venues/979916-dba256-wine-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 34.05713, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -117.75203, 
+            "id": 979916
+        }, 
+        "uri": "http://www.songkick.com/concerts/28432524-children-la-at-dba256-wine-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-10T19:30:00-0800"
+        }, 
+        "location": {
+            "lat": 34.05713, 
+            "city": "Pomona, CA, US", 
+            "lng": -117.75203
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Children (LA)", 
+                    "uri": "http://www.songkick.com/artists/8569239-children-la?utm_source=32233&utm_medium=partner", 
+                    "id": 8569239
+                }, 
+                "displayName": "Children (LA)", 
+                "id": 55266649, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Mood Beach", 
+                    "uri": "http://www.songkick.com/artists/8835254-mood-beach?utm_source=32233&utm_medium=partner", 
+                    "id": 8835254
+                }, 
+                "displayName": "Mood Beach", 
+                "id": 55266654, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "aa66e763-3446-4147-aa1d-39b6efc96421", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:aa66e763-3446-4147-aa1d-39b6efc96421.json"
+                        }, 
+                        {
+                            "mbid": "a58350b7-e651-4355-a1cd-ea6a55cee10a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a58350b7-e651-4355-a1cd-ea6a55cee10a.json"
+                        }
+                    ], 
+                    "displayName": "Butter", 
+                    "uri": "http://www.songkick.com/artists/372639-butter?utm_source=32233&utm_medium=partner", 
+                    "id": 372639
+                }, 
+                "displayName": "Butter", 
+                "id": 55266659, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28432524
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "id": 28432524, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

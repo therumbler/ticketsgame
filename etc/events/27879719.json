@@ -1,0 +1,364 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "K.Flay with Nightly and LAYNE at Baby's All Right (November 18, 2016)", 
+        "popularity": 0.012911, 
+        "venue": {
+            "displayName": "Baby's All Right", 
+            "uri": "http://www.songkick.com/venues/2445014-babys-all-right?utm_source=32233&utm_medium=partner", 
+            "lat": 40.709985, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.96347, 
+            "id": 2445014
+        }, 
+        "uri": "http://www.songkick.com/concerts/27879719-kflay-at-babys-all-right?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-18T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.709985, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.96347
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d1fc999f-6184-41a6-bcb1-7c59bf74a6e1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d1fc999f-6184-41a6-bcb1-7c59bf74a6e1.json"
+                        }
+                    ], 
+                    "displayName": "K.Flay", 
+                    "uri": "http://www.songkick.com/artists/1893389-kflay?utm_source=32233&utm_medium=partner", 
+                    "id": 1893389
+                }, 
+                "displayName": "K.Flay", 
+                "id": 54296964, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Nightly", 
+                    "uri": "http://www.songkick.com/artists/8840674-nightly?utm_source=32233&utm_medium=partner", 
+                    "id": 8840674
+                }, 
+                "displayName": "Nightly", 
+                "id": 54964544, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d39e5bd7-6547-4f48-8d6b-6069c64153e3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d39e5bd7-6547-4f48-8d6b-6069c64153e3.json"
+                        }
+                    ], 
+                    "displayName": "LAYNE", 
+                    "uri": "http://www.songkick.com/artists/839795-layne?utm_source=32233&utm_medium=partner", 
+                    "id": 839795
+                }, 
+                "displayName": "LAYNE", 
+                "id": 55150409, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27879719
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "k.flay", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative"
+            }
+        ], 
+        "gender": "Female", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1985-06-30", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1230828", 
+                    "id": "3f2e6890-cd5b-4177-a494-798b31fc2091"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/kflay", 
+                    "id": "0053f00e-d367-4c31-ae62-83893dc64b9a"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.kflay.com/", 
+                    "id": "f240ccd0-b1ef-43d0-a62c-a623dce1408e"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/k_flay", 
+                    "id": "f8cc2ea2-27c0-4bc9-b293-b8a5bc64164e"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id297760267", 
+                    "id": "557a8cf5-00af-4cc6-90e3-4b66efb36eab"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/kflay", 
+                    "id": "1797d2c9-be47-4525-812e-14b266287521"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/kflay", 
+                    "id": "e34d79f8-6778-4b71-8ea6-77a15d1e2cf3"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/kflaymusic", 
+                    "id": "968c0bb4-a0c9-4e6e-9002-e45e8bc50362"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/kflay", 
+                    "id": "93b832b9-acdd-4233-9fee-623e70c466de"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q6322943", 
+                    "id": "ab3bafdb-e101-4a45-8813-dd2d98dc2ed4"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/K.Flay", 
+                    "id": "da2c3a64-65fc-4eca-806e-dffc0b060686"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Wilmette", 
+            "disambiguation": "", 
+            "id": "c4185c64-6396-45ce-bcad-3da7c7d4b73e", 
+            "name": "Wilmette"
+        }, 
+        "id": "d1fc999f-6184-41a6-bcb1-7c59bf74a6e1", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "isnis": [], 
+        "sort-name": "k.flay", 
+        "country": "US", 
+        "type": "Person", 
+        "twitter": "kflay", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "k.flay @ Baby's All Right in Brooklyn, NY", 
+        "ticket_type": "Sold Out", 
+        "venue": {
+            "city": "Brooklyn", 
+            "name": "Baby's All Right", 
+            "country": "United States", 
+            "region": "NY", 
+            "longitude": -73.9634781, 
+            "place": "Baby's All Right", 
+            "latitude": 40.7099838
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12750759?app_id=ticketgame&artist=k.flay&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12750759/buy_tickets?app_id=ticketgame&artist=k.flay&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Friday, November 18, 2016 at 7:00PM", 
+        "datetime": "2016-11-18T19:00:00", 
+        "formatted_location": "Brooklyn, NY", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1290379&afftrack=67%7E15981847%7E%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.kflay.com", 
+                "facebook_page_url": "https://www.facebook.com/kflaymusic", 
+                "name": "k.flay", 
+                "url": "k.flay", 
+                "tracker_count": 56393, 
+                "mbid": "d1fc999f-6184-41a6-bcb1-7c59bf74a6e1", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6825272.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/k.flay/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6825272.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12750759
+    }, 
+    "ticket_details": {
+        "status": "Sold Out", 
+        "price_max": 20.0, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1290379&afftrack=67%7E15981847%7E%7E%7E", 
+        "price_min": 17.0
+    }, 
+    "modified_time": 1479442228.0, 
+    "created_minutes": 14201, 
+    "created_time": 1478803684.0, 
+    "modified_minutes": 3558, 
+    "id": 27879719
+}

@@ -1,0 +1,135 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Time Columns with The Orchid (DC) at Cafe Nola (November 12, 2016)", 
+        "popularity": 0.000171, 
+        "venue": {
+            "displayName": "Cafe Nola", 
+            "uri": "http://www.songkick.com/venues/604091-cafe-nola?utm_source=32233&utm_medium=partner", 
+            "lat": 39.4141758, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.4108277, 
+            "id": 604091
+        }, 
+        "uri": "http://www.songkick.com/concerts/28453169-time-columns-at-cafe-nola?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-12T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.4141758, 
+            "city": "Frederick, MD, US", 
+            "lng": -77.4108277
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2d554406-3d3c-4413-bf54-d3010332a8a5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2d554406-3d3c-4413-bf54-d3010332a8a5.json"
+                        }
+                    ], 
+                    "displayName": "Time Columns", 
+                    "uri": "http://www.songkick.com/artists/2877836-time-columns?utm_source=32233&utm_medium=partner", 
+                    "id": 2877836
+                }, 
+                "displayName": "Time Columns", 
+                "id": 55300664, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Orchid (DC)", 
+                    "uri": "http://www.songkick.com/artists/8712818-orchid-dc?utm_source=32233&utm_medium=partner", 
+                    "id": 8712818
+                }, 
+                "displayName": "The Orchid (DC)", 
+                "id": 55302984, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28453169
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Time Columns", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "gender": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://timecolumns.tumblr.com/", 
+                    "id": "a57e27da-d278-47f0-8c6b-10b8b3482de6"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/timecolumns", 
+                    "id": "28a4a0b7-361a-4640-b0c8-ce7645465647"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Time Columns", 
+        "country": null, 
+        "type": "Group", 
+        "id": "2d554406-3d3c-4413-bf54-d3010332a8a5", 
+        "gender-id": null
+    }, 
+    "id": 28453169, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

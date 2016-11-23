@@ -1,0 +1,564 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Amanda Palmer at Boulder Theater (November 17, 2016)", 
+        "popularity": 0.015878, 
+        "venue": {
+            "displayName": "Boulder Theater", 
+            "uri": "http://www.songkick.com/venues/30382-boulder-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 40.019138, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -105.277207, 
+            "id": 30382
+        }, 
+        "uri": "http://www.songkick.com/concerts/28033984-amanda-palmer-at-boulder-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-17T20:00:00-0700"
+        }, 
+        "location": {
+            "lat": 40.019138, 
+            "city": "Boulder, CO, US", 
+            "lng": -105.277207
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3c0eb318-d2ba-45aa-9077-b83746cc56da", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3c0eb318-d2ba-45aa-9077-b83746cc56da.json"
+                        }
+                    ], 
+                    "displayName": "Amanda Palmer", 
+                    "uri": "http://www.songkick.com/artists/12076-amanda-palmer?utm_source=32233&utm_medium=partner", 
+                    "id": 12076
+                }, 
+                "displayName": "Amanda Palmer", 
+                "id": 54573684, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28033984
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Amanda Palmer", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": "Female", 
+        "twitter": "AFPwire", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "dark cabaret"
+            }, 
+            {
+                "count": 1, 
+                "name": "punk cabaret"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/71213377", 
+                    "id": "8f1dd85e-d201-42a4-af31-caa5e7df2fc6"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000089870", 
+                    "id": "541638f0-6885-46a0-a9db-db4606a1cd74"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://amandapalmer.bandcamp.com/", 
+                    "id": "ac68a84e-9391-4bb3-900c-9a078e54287c"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://amandapalmer.net/category/blog/", 
+                    "id": "62ce46fc-1e10-4ba9-bec0-e893bd44703e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://amandapalmer.tumblr.com/", 
+                    "id": "94396d43-7e45-4716-9d4a-9780498219e7"
+                }, 
+                "begin": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/575536", 
+                    "id": "0f18a4c7-896d-42e2-8390-671dcb72dff1"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Amanda+Palmer", 
+                    "id": "4cf6b773-83ca-4b81-a4f2-23875ce8ed71"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-9790/amanda-palmer/lyrics.html", 
+                    "id": "dc247b58-6cf3-40c2-b978-860f4667b8cf"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/afp", 
+                    "id": "1970878d-81c6-4a9f-a7a5-27b6547fd44c"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://amandapalmer.net/", 
+                    "id": "c1f8c08f-2f42-426e-b166-205b9648a448"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.flickr.com/amandapalmer", 
+                    "id": "2c29562c-61e1-4c42-8ac9-96cc7ecf134d"
+                }, 
+                "begin": null, 
+                "type-id": "35b3a50f-bf0e-4309-a3b4-58eeed8cee6a", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "online community", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/amanda_palmer", 
+                    "id": "bfeda3f9-9673-4ec6-8458-ff21db11fa63"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/40291", 
+                    "id": "1b3561a4-1a66-41fa-b16f-7e7c1491a3a0"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/AFPwire", 
+                    "id": "328871e9-0922-40b2-8365-430a15471937"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/amandapalmer", 
+                    "id": "e56c7720-79ef-4642-843c-9aeb846024b7"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/amandapalmer", 
+                    "id": "75e58c0d-35e3-4d70-b1e6-e6c9ca996a83"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/amandapalmer/", 
+                    "id": "2b984390-df55-4cd7-bba7-cd8a5bd97b16"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/amandapalmer", 
+                    "id": "ba221818-73cd-46e9-bcc3-358c5f827468"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0", 
+                    "id": "a4971e61-7536-4e71-9f1f-26ade6bdf6ec"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://vimeo.com/amandapalmer", 
+                    "id": "35aa4271-0dac-4f08-a78b-f6b41047ea74"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d86c9450-b6d0-4760-a275-e7547495b48b", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "video channel", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q240377", 
+                    "id": "31d5d588-1ed1-4648-b901-086a88f57a28"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Amanda_Palmer", 
+                    "id": "772bb269-a669-43d0-aebd-4722a37283b5"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/AmandaPalmerVEVO", 
+                    "id": "58bf8626-55fc-4e99-b9ec-1cca5cfe99ea"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/amandapalmer", 
+                    "id": "f290023d-ca0b-47aa-a346-fef465537d62"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00448241359"
+        ], 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "name": "New York", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f"
+        }, 
+        "sort-name": "Palmer, Amanda", 
+        "country": "US", 
+        "id": "3c0eb318-d2ba-45aa-9077-b83746cc56da", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1976-04-30", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15472, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Amanda Palmer @ Boulder Theater in Boulder, CO", 
+        "ticket_type": "Sold Out", 
+        "venue": {
+            "city": "Boulder", 
+            "name": "Boulder Theater", 
+            "country": "United States", 
+            "region": "CO", 
+            "longitude": -105.277326, 
+            "place": "Boulder Theater", 
+            "latitude": 40.018845
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12873870?app_id=ticketgame&artist=Amanda+Palmer&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12873870/buy_tickets?app_id=ticketgame&artist=Amanda+Palmer&came_from=67", 
+        "on_sale_datetime": "2016-09-09T10:00:00", 
+        "formatted_datetime": "Thursday, November 17, 2016 at 8:00PM", 
+        "datetime": "2016-11-17T20:00:00", 
+        "formatted_location": "Boulder, CO", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1309521&afftrack=67%7E16154313%7E%7E%7E", 
+        "artists": [
+            {
+                "website": "http://amandapalmer.net", 
+                "facebook_page_url": "https://www.facebook.com/amandapalmer", 
+                "name": "Amanda Palmer", 
+                "url": "AmandaPalmer", 
+                "tracker_count": 107453, 
+                "mbid": "3c0eb318-d2ba-45aa-9077-b83746cc56da", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6180297.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/AmandaPalmer/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6180297.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12873870
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 27.0, 
+        "price_min": 24.5
+    }, 
+    "modified_time": 1479442315.0, 
+    "created_time": 1478566005.0, 
+    "modified_minutes": 867, 
+    "id": 28033984
+}

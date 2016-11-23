@@ -1,0 +1,246 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Allure at Promontory (November 11, 2016)", 
+        "popularity": 0.00919, 
+        "venue": {
+            "displayName": "Promontory", 
+            "uri": "http://www.songkick.com/venues/2716303-promontory?utm_source=32233&utm_medium=partner", 
+            "lat": 41.7993889, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.587182, 
+            "id": 2716303
+        }, 
+        "uri": "http://www.songkick.com/concerts/28476189-allure-at-promontory?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "datetime": "2016-11-11T22:00:00-0600", 
+            "time": "22:00:00"
+        }, 
+        "location": {
+            "lat": 41.7993889, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.587182
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "fedd7b2a-bda1-4914-984a-e66fb4f2a561", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fedd7b2a-bda1-4914-984a-e66fb4f2a561.json"
+                        }, 
+                        {
+                            "mbid": "de684286-7eaf-4ad7-bd4d-2682e1aeddee", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:de684286-7eaf-4ad7-bd4d-2682e1aeddee.json"
+                        }, 
+                        {
+                            "mbid": "17f192f7-c298-4630-98e9-a5769401ddaf", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:17f192f7-c298-4630-98e9-a5769401ddaf.json"
+                        }
+                    ], 
+                    "displayName": "Allure", 
+                    "uri": "http://www.songkick.com/artists/156771-allure?utm_source=32233&utm_medium=partner", 
+                    "id": 156771
+                }, 
+                "displayName": "Allure", 
+                "id": 55339774, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28476189
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Allure", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1997", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000746707", 
+                    "id": "462eb258-bd02-49f1-86c7-4f5e4cbd164f"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/171146", 
+                    "id": "fdceb199-e19b-49d0-8465-7baa2f9e62b7"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/allure-lyrics", 
+                    "id": "ea9fd0f5-c3df-4dba-ab4d-473b8294cce7"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-3530/allure/lyrics.html", 
+                    "id": "a74d9b61-b1fe-4020-aee4-a1fc829902cd"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://allurelive.blogspot.com/", 
+                    "id": "691fad46-427e-45a4-a702-f534dfaa6964"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/allure", 
+                    "id": "c8455685-9ccc-463e-a21c-9caf92be983c"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q2646319", 
+                    "id": "884bd6e2-e3b6-4d94-a283-7b3af464c746"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Allure_(band)", 
+                    "id": "4c2a5a6a-6694-42fb-8269-f8cbba3bb94f"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Allure", 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "name": "New York", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "type": "Group", 
+        "id": "fedd7b2a-bda1-4914-984a-e66fb4f2a561", 
+        "disambiguation": "female R&B group"
+    }, 
+    "id": 28476189, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000178, 
+        "displayName": "Peoples Blues of Richmond and The Shack Band at Gypsy Sally's (December 29, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Gypsy Sally's", 
+            "uri": "http://www.songkick.com/venues/2402744-gypsy-sallys?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9025936, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0627545, 
+            "id": 2402744
+        }, 
+        "uri": "http://www.songkick.com/concerts/28324414-peoples-blues-of-richmond-at-gypsy-sallys?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-29", 
+            "datetime": "2016-12-29T21:00:00-0500", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 38.9025936, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0627545
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Peoples Blues of Richmond", 
+                "id": 55079129, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a57c539d-cd83-4d4c-8ad0-7f349d321744", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a57c539d-cd83-4d4c-8ad0-7f349d321744.json"
+                        }
+                    ], 
+                    "displayName": "Peoples Blues of Richmond", 
+                    "uri": "http://www.songkick.com/artists/4012071-peoples-blues-of-richmond?utm_source=32233&utm_medium=partner", 
+                    "id": 4012071
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "The Shack Band", 
+                "id": 55079134, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Shack Band", 
+                    "uri": "http://www.songkick.com/artists/2534491-shack-band?utm_source=32233&utm_medium=partner", 
+                    "id": 2534491
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28324414
+    }, 
+    "musicbrainz_response": {
+        "name": "People's Blues of Richmond", 
+        "area": {
+            "sort-name": "Richmond", 
+            "disambiguation": "", 
+            "name": "Richmond", 
+            "id": "afaa40c1-2e11-4a9b-9a33-ff0603e3e312"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://schedule.sxsw.com/2015/2015/events/event_MS31405", 
+                    "id": "006e73bb-9aec-40e8-b469-e4c213206652"
+                }, 
+                "begin": null, 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.peoplesblues.com/", 
+                    "id": "7fd45b6c-28ab-4a0c-9184-c38ef8eec724"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/peoplesblues", 
+                    "id": "0f567ee4-717b-4185-a46f-b1fde11a4ff9"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "People's Blues of Richmond", 
+        "type": "Group", 
+        "id": "a57c539d-cd83-4d4c-8ad0-7f349d321744", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15499, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442902.0, 
+    "created_time": 1478566099.0, 
+    "modified_minutes": 886, 
+    "id": 28324414
+}

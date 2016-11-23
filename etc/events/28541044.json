@@ -1,0 +1,130 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Silas with Blythe at Prophet Bar Elm Street (November 20, 2016)", 
+        "popularity": 0.000227, 
+        "venue": {
+            "displayName": "Prophet Bar Elm Street", 
+            "uri": "http://www.songkick.com/venues/15191-prophet-bar-elm-street?utm_source=32233&utm_medium=partner", 
+            "lat": 32.7837716, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.7871085, 
+            "id": 15191
+        }, 
+        "uri": "http://www.songkick.com/concerts/28541044-silas-at-prophet-bar-elm-street?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-20", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-20T19:30:00-0600"
+        }, 
+        "location": {
+            "lat": 32.7837716, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.7871085
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Silas", 
+                "id": 55451249, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1d1a50b6-182c-456e-873a-40638d01fda2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1d1a50b6-182c-456e-873a-40638d01fda2.json"
+                        }, 
+                        {
+                            "mbid": "fcad0f7b-0a7d-4ebf-b0c9-57c34c388095", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fcad0f7b-0a7d-4ebf-b0c9-57c34c388095.json"
+                        }
+                    ], 
+                    "displayName": "Silas", 
+                    "uri": "http://www.songkick.com/artists/3589-silas?utm_source=32233&utm_medium=partner", 
+                    "id": 3589
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Blythe", 
+                "id": 55451254, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Blythe", 
+                    "uri": "http://www.songkick.com/artists/8543109-blythe?utm_source=32233&utm_medium=partner", 
+                    "id": 8543109
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28541044
+    }, 
+    "musicbrainz_response": {
+        "name": "Silas", 
+        "area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1775901", 
+                    "id": "31900140-9c14-4a8a-aec1-514bb2052191"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Silas", 
+        "isnis": [], 
+        "country": null, 
+        "type": "Person", 
+        "id": "1d1a50b6-182c-456e-873a-40638d01fda2", 
+        "disambiguation": "of Citizen Fish"
+    }, 
+    "age_minutes": 3194, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442281.0, 
+    "created_time": 1479305644.0, 
+    "modified_minutes": 917, 
+    "id": 28541044
+}

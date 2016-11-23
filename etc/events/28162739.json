@@ -1,0 +1,93 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Chris Holm at Little Bear Saloon (November 8, 2016)", 
+        "popularity": 5.8e-05, 
+        "venue": {
+            "displayName": "Little Bear Saloon", 
+            "uri": "http://www.songkick.com/venues/7632-little-bear-saloon?utm_source=32233&utm_medium=partner", 
+            "lat": 39.633242, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -105.318738, 
+            "id": 7632
+        }, 
+        "uri": "http://www.songkick.com/concerts/28162739-chris-holm-at-little-bear-saloon?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-08", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-08T19:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.633242, 
+            "city": "Evergreen, CO, US", 
+            "lng": -105.318738
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2ca0c8a5-1813-43de-a0c4-bb190cae6296", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2ca0c8a5-1813-43de-a0c4-bb190cae6296.json"
+                        }
+                    ], 
+                    "displayName": "Chris Holm", 
+                    "uri": "http://www.songkick.com/artists/3727216-chris-holm?utm_source=32233&utm_medium=partner", 
+                    "id": 3727216
+                }, 
+                "displayName": "Chris Holm", 
+                "id": 54798354, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28162739
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Chris Holm", 
+        "area": null, 
+        "country": null, 
+        "disambiguation": "", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "c64 remix"
+            }
+        ], 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Holm, Chris", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "2ca0c8a5-1813-43de-a0c4-bb190cae6296", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 28162739, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

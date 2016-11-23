@@ -1,0 +1,401 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Dweezil Zappa at Marathon Music Works (January 21, 2017)", 
+        "popularity": 0.003297, 
+        "venue": {
+            "displayName": "Marathon Music Works", 
+            "uri": "http://www.songkick.com/venues/1519393-marathon-music-works?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1638608, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.7972118, 
+            "id": 1519393
+        }, 
+        "uri": "http://www.songkick.com/concerts/28571124-dweezil-zappa-at-marathon-music-works?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-21", 
+            "time": "20:00:00", 
+            "datetime": "2017-01-21T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.1638608, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.7972118
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Dweezil Zappa", 
+                "id": 55505539, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7f83b479-2030-47c5-937e-d4a8f142f1b1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7f83b479-2030-47c5-937e-d4a8f142f1b1.json"
+                        }, 
+                        {
+                            "mbid": "fcebdabe-319f-4690-8827-c8fac63b1b80", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fcebdabe-319f-4690-8827-c8fac63b1b80.json"
+                        }
+                    ], 
+                    "displayName": "Dweezil Zappa", 
+                    "uri": "http://www.songkick.com/artists/148807-dweezil-zappa?utm_source=32233&utm_medium=partner", 
+                    "id": 148807
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28571124
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Dweezil Zappa", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "hard rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "production music"
+            }
+        ], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1969-09-05", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0005574/", 
+                    "id": "b825d3bf-5504-46a2-b345-26a061df1254"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/29719782", 
+                    "id": "3bf96b26-e1db-421c-a8af-b9b1d8c0bebd"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://wiki.killuglyradio.com/index.php/Dweezil_Zappa", 
+                    "id": "9f50d0f0-0efb-4c33-9ce8-68f6295e7025"
+                }, 
+                "direction": "forward", 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/237886", 
+                    "id": "14b97b71-e959-4bea-858f-d7b442996f05"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Dweezil+Zappa", 
+                    "id": "7b8abac1-3925-47b7-be2a-56f890ac6f60"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/dweezilzappa", 
+                    "id": "96470bd5-7fe6-4541-83c7-67594785a8c0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.dweezilzappaworld.com/", 
+                    "id": "162ae056-4eac-411b-9ff4-658de8e94bba"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.zappa.com/dweezil/", 
+                    "id": "99b2228d-39a8-4217-ac04-a46bdd16fb28"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://ocremix.org/artist/13148/dweezil-zappa", 
+                    "id": "bcc344e4-2e46-4202-a61c-ab21f0aa7ebe"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://plus.google.com/101345729723833692843?pageId=103318393173613754334", 
+                    "id": "a7a70fee-7da7-44c7-9c15-3bec008780e4"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/DweezilZappa", 
+                    "id": "56697a6c-10bb-42ad-937f-6cc4045830ff"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/DweezilZappaOfficial", 
+                    "id": "c4f044f2-ce82-42db-921f-975e50d5a8ff"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://vgmdb.net/artist/9474", 
+                    "id": "a93ca678-e293-4fcd-80cd-a67ad8f6b8d5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "0af15ab3-c615-46d6-b95b-a5fcd2a92ed9", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "vgmdb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q127548", 
+                    "id": "e5b97f4f-202c-4009-bb12-0b6180adb5f6"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Dweezil_Zappa", 
+                    "id": "2475b8f6-a1a4-4c5d-8370-78a41a66e67c"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/TheDweezilZappa", 
+                    "id": "86051b8e-a4f0-4463-a45f-727cbaa58f09"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Zappa, Dweezil", 
+        "begin_area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62", 
+            "name": "Los Angeles"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "isnis": [], 
+        "id": "7f83b479-2030-47c5-937e-d4a8f142f1b1", 
+        "country": "US", 
+        "type": "Person", 
+        "twitter": "DweezilZappa", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 3197, 
+    "bandsintown_response": {
+        "facebook_page_url": "http://www.facebook.com/pages/Dweezil%20Zappa/109524015731923", 
+        "upcoming_event_count": 0, 
+        "name": "Dweezil Zappa", 
+        "tracker_count": 23067, 
+        "mbid": "7f83b479-2030-47c5-937e-d4a8f142f1b1", 
+        "image_url": "https://s3.amazonaws.com/bit-photos/large/4696495.jpeg", 
+        "facebook_tour_dates_url": "http://www.bandsintown.com/DweezilZappa/facebookapp?came_from=67", 
+        "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/4696495.jpeg"
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 75.0, 
+        "price_min": 25.0
+    }, 
+    "modified_time": 1479442194.0, 
+    "created_time": 1479305690.0, 
+    "modified_minutes": 922, 
+    "id": 28571124
+}

@@ -1,0 +1,365 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Dickies and The Queers with The Usuals at Reggie's Rock Club (November 17, 2016)", 
+        "popularity": 0.008605, 
+        "venue": {
+            "displayName": "Reggie's Rock Club", 
+            "uri": "http://www.songkick.com/venues/540136-reggies-rock-club?utm_source=32233&utm_medium=partner", 
+            "lat": 41.8540522, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6269514, 
+            "id": 540136
+        }, 
+        "uri": "http://www.songkick.com/concerts/27822179-dickies-at-reggies-rock-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-17T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.8540522, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6269514
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "82eeb914-c61b-4477-81c2-a0bf8604f2de", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:82eeb914-c61b-4477-81c2-a0bf8604f2de.json"
+                        }
+                    ], 
+                    "displayName": "Dickies", 
+                    "uri": "http://www.songkick.com/artists/186407-dickies?utm_source=32233&utm_medium=partner", 
+                    "id": 186407
+                }, 
+                "displayName": "Dickies", 
+                "id": 54189164, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "28fd67e8-573c-4cdd-a37d-8b74af74109c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:28fd67e8-573c-4cdd-a37d-8b74af74109c.json"
+                        }
+                    ], 
+                    "displayName": "The Queers", 
+                    "uri": "http://www.songkick.com/artists/532998-queers?utm_source=32233&utm_medium=partner", 
+                    "id": 532998
+                }, 
+                "displayName": "The Queers", 
+                "id": 54189169, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "810a1c0d-c96a-491b-bc70-507b37105125", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:810a1c0d-c96a-491b-bc70-507b37105125.json"
+                        }
+                    ], 
+                    "displayName": "The Usuals", 
+                    "uri": "http://www.songkick.com/artists/111506-usuals?utm_source=32233&utm_medium=partner", 
+                    "id": 111506
+                }, 
+                "displayName": "The Usuals", 
+                "id": 54369219, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27822179
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Dickies", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1977", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "california"
+            }, 
+            {
+                "count": 1, 
+                "name": "los angeles"
+            }, 
+            {
+                "count": 2, 
+                "name": "punk"
+            }, 
+            {
+                "count": 1, 
+                "name": "seen live"
+            }, 
+            {
+                "count": 1, 
+                "name": "usa"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000123007", 
+                    "id": "212f8766-a014-47a6-9c80-05208d3f704c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thedickies.bandcamp.com/", 
+                    "id": "f6a1e749-b161-4d50-9841-37d7f6c24469"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/253321", 
+                    "id": "30d1f422-6ad5-4b26-bdfb-81a165ba80c3"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/the-dickies-lyrics", 
+                    "id": "a675dd0d-5452-4377-9ae2-82e009adef87"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/dickiesband", 
+                    "id": "d7b5bdcf-dce7-4dc9-85af-eb8b6bc574f7"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.thedickies.com/", 
+                    "id": "5c5cd060-8c17-48cc-aa25-42ccd7be32d0"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/the_dickies", 
+                    "id": "659b9db3-dde2-417e-a842-972e3168a81c"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=Adbfusryptdf4lha4kvwhovo4wm", 
+                    "id": "47792aeb-f1fb-44fa-873e-a193349b2234"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1261942", 
+                    "id": "7b76abbe-4889-4d17-93cc-89cb716dc92a"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Dickies", 
+                    "id": "e1cdf86b-7ad0-4ba8-9e9d-9be4b582831e"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "name": "Los Angeles", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62"
+        }, 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "Dickies, The", 
+        "type": "Group", 
+        "id": "82eeb914-c61b-4477-81c2-a0bf8604f2de", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15466, 
+    "bandsintown_response": {
+        "description": "The Dickies, The Queers", 
+        "title": "The Dickies @ Reggies Rock Club in Chicago, IL", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Chicago", 
+            "name": "Reggies Rock Club", 
+            "country": "United States", 
+            "region": "IL", 
+            "longitude": -87.626936, 
+            "place": "Reggies Rock Club", 
+            "latitude": 41.854063
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12709867?app_id=ticketgame&artist=The+Dickies&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12709867/buy_tickets?app_id=ticketgame&artist=The+Dickies&came_from=67", 
+        "on_sale_datetime": "2016-08-15T12:00:00", 
+        "formatted_datetime": "Thursday, November 17, 2016 at 8:00PM", 
+        "datetime": "2016-11-17T20:00:00", 
+        "formatted_location": "Chicago, IL", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1274729/tfly%3Futm_medium%3Dapi&afftrack=67%7E15926660%7E23107346%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.thedickiesarchives.com/", 
+                "facebook_page_url": null, 
+                "name": "The Dickies", 
+                "url": "TheDickies", 
+                "tracker_count": 17524, 
+                "mbid": "82eeb914-c61b-4477-81c2-a0bf8604f2de", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5994273.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheDickies/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5994273.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12709867
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 20.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442147.0, 
+    "created_time": 1478565987.0, 
+    "modified_minutes": 863, 
+    "id": 27822179
+}

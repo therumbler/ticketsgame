@@ -1,0 +1,139 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Vektor with Black Fast and Necropanther at Hi-Dive (November 7, 2016)", 
+        "popularity": 0.001621, 
+        "venue": {
+            "displayName": "Hi-Dive", 
+            "uri": "http://www.songkick.com/venues/2951-hidive?utm_source=32233&utm_medium=partner", 
+            "lat": 39.6963545, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.987473, 
+            "id": 2951
+        }, 
+        "uri": "http://www.songkick.com/concerts/27838724-vektor-at-hidive?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-07", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-07T21:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.6963545, 
+            "city": "Denver, CO, US", 
+            "lng": -104.987473
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "098ca2ab-c92b-4b77-b60a-12fe0df84374", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:098ca2ab-c92b-4b77-b60a-12fe0df84374.json"
+                        }, 
+                        {
+                            "mbid": "c5119d8a-ffee-48bc-99c3-f323bdf16d82", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c5119d8a-ffee-48bc-99c3-f323bdf16d82.json"
+                        }
+                    ], 
+                    "displayName": "Vektor", 
+                    "uri": "http://www.songkick.com/artists/760461-vektor?utm_source=32233&utm_medium=partner", 
+                    "id": 760461
+                }, 
+                "displayName": "Vektor", 
+                "id": 54221314, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f0098db1-e340-4195-a0e4-cebd411892fb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f0098db1-e340-4195-a0e4-cebd411892fb.json"
+                        }
+                    ], 
+                    "displayName": "Black Fast", 
+                    "uri": "http://www.songkick.com/artists/6105799-black-fast?utm_source=32233&utm_medium=partner", 
+                    "id": 6105799
+                }, 
+                "displayName": "Black Fast", 
+                "id": 54221319, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Necropanther", 
+                    "uri": "http://www.songkick.com/artists/8466033-necropanther?utm_source=32233&utm_medium=partner", 
+                    "id": 8466033
+                }, 
+                "displayName": "Necropanther", 
+                "id": 54221324, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27838724
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "<vektor>", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/206769", 
+                    "id": "fa8300bb-b4c7-4f62-b744-e1b46e78b210"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "<vektor>", 
+        "country": null, 
+        "type": null, 
+        "id": "098ca2ab-c92b-4b77-b60a-12fe0df84374", 
+        "disambiguation": "minimal rhythmic noise"
+    }, 
+    "id": 27838724, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

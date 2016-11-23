@@ -1,0 +1,277 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "El Perro del Mar with Big Search at The Echo (November 22, 2016)", 
+        "popularity": 0.019796, 
+        "venue": {
+            "displayName": "The Echo", 
+            "uri": "http://www.songkick.com/venues/150303-echo?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0793291, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2691009, 
+            "id": 150303
+        }, 
+        "uri": "http://www.songkick.com/concerts/28053574-el-perro-del-mar-at-echo?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-22", 
+            "datetime": "2016-11-22T20:30:00-0800", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 34.0793291, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2691009
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5e88b386-cf20-4aee-86b3-5a22cb8c2fda", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5e88b386-cf20-4aee-86b3-5a22cb8c2fda.json"
+                        }
+                    ], 
+                    "displayName": "El Perro del Mar", 
+                    "uri": "http://www.songkick.com/artists/157884-el-perro-del-mar?utm_source=32233&utm_medium=partner", 
+                    "id": 157884
+                }, 
+                "displayName": "El Perro del Mar", 
+                "id": 54609974, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4af9c077-7343-45e4-b4de-932423a78b97", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4af9c077-7343-45e4-b4de-932423a78b97.json"
+                        }
+                    ], 
+                    "displayName": "Big Search", 
+                    "uri": "http://www.songkick.com/artists/1945764-big-search?utm_source=32233&utm_medium=partner", 
+                    "id": 1945764
+                }, 
+                "displayName": "Big Search", 
+                "id": 55342294, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28053574
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "El Perro del Mar", 
+        "area": {
+            "sort-name": "Sweden", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "SE"
+            ], 
+            "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb", 
+            "name": "Sweden"
+        }, 
+        "gender": "Female", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "classic pop and rock"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/273560", 
+                    "id": "4b696ed3-6294-44cd-9d64-10ceef3d54e1"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.hybrism.com/listen.php", 
+                    "id": "a6ecbda8-4692-4b72-8d7b-401538c97159"
+                }, 
+                "direction": "forward", 
+                "type-id": "34ae77fe-defb-43ea-95d4-63c7540bac78", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "download for free", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/elperrodelmar", 
+                    "id": "6019588c-1580-48b7-a552-41166e67e724"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.elperrodelmar.com/", 
+                    "id": "f1a09a13-3587-41c6-9f9b-185e07a414c8"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/ElPerroDelMarOfficial", 
+                    "id": "3958da18-514b-4253-aaa4-3cba3515f34a"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q453469", 
+                    "id": "e574a985-d5a2-4cab-a356-4825df9c8f86"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/El_Perro_del_Mar", 
+                    "id": "2d3360e3-34ac-4289-a369-f89efccf1349"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Perro del Mar, El", 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "isnis": [], 
+        "country": "SE", 
+        "type": "Person", 
+        "id": "5e88b386-cf20-4aee-86b3-5a22cb8c2fda", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 11512, 
+    "bandsintown_response": {
+        "description": "El Perro Del Mar", 
+        "title": "El Perro del Mar @ The Echo in Los Angeles, CA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Los Angeles", 
+            "name": "The Echo", 
+            "country": "United States", 
+            "region": "CA", 
+            "longitude": -118.259655, 
+            "place": "The Echo", 
+            "latitude": 34.077745
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12899306?app_id=ticketgame&artist=El+Perro+del+Mar&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12899306/buy_tickets?app_id=ticketgame&artist=El+Perro+del+Mar&came_from=67", 
+        "on_sale_datetime": "2016-09-08T12:00:00", 
+        "formatted_datetime": "Tuesday, November 22, 2016 at 8:30PM", 
+        "datetime": "2016-11-22T20:30:00", 
+        "formatted_location": "Los Angeles, CA", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1313043/tfly%3Futm_medium%3Dapi&afftrack=67%7E16189486%7E23608746%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.elperrodelmar.com", 
+                "facebook_page_url": null, 
+                "name": "El Perro del Mar", 
+                "url": "ElPerroDelMar", 
+                "tracker_count": 20190, 
+                "mbid": "5e88b386-cf20-4aee-86b3-5a22cb8c2fda", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/123292.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/ElPerroDelMar/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/123292.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12899306
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 13.0, 
+        "price_min": 11.5
+    }, 
+    "modified_time": 1479442335.0, 
+    "created_time": 1478803663.0, 
+    "modified_minutes": 868, 
+    "id": 28053574
+}

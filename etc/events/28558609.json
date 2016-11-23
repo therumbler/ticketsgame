@@ -1,0 +1,282 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.005752, 
+        "displayName": "The Band of Heathens at Gypsy Sally's (January 21, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Gypsy Sally's", 
+            "uri": "http://www.songkick.com/venues/2402744-gypsy-sallys?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9025936, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0627545, 
+            "id": 2402744
+        }, 
+        "uri": "http://www.songkick.com/concerts/28558609-band-of-heathens-at-gypsy-sallys?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-21", 
+            "datetime": "2017-01-21T20:30:00-0500", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 38.9025936, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0627545
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "913cd338-9439-4106-ab5f-76f98c48daee", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:913cd338-9439-4106-ab5f-76f98c48daee.json"
+                        }
+                    ], 
+                    "displayName": "The Band of Heathens", 
+                    "uri": "http://www.songkick.com/artists/492309-band-of-heathens?utm_source=32233&utm_medium=partner", 
+                    "id": 492309
+                }, 
+                "displayName": "The Band of Heathens", 
+                "id": 55483849, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28558609
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Band of Heathens", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "the band of heathens"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2006", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000996403", 
+                    "id": "94e76656-10ca-4c4b-a957-1c0869b5f98f"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1505210", 
+                    "id": "49c1f691-3dc6-4dc8-980b-2d4fe114bb9f"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/The%20Band%20of%20Heathens", 
+                    "id": "1875b1ff-2d4a-44c0-b89c-3a53ae047227"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/thebandofheathens", 
+                    "id": "75a60367-b5e0-445f-8ce2-0c46e0bfa397"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bandofheathens.com/", 
+                    "id": "5cd6a5e0-f68c-4c86-8c2c-007cf8e7ce2a"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/the_band_of_heathens", 
+                    "id": "90fe73ab-a111-466e-9549-f4fedd59b91d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1723223", 
+                    "id": "5a60fd60-7da0-4cb5-8319-9596ffef2d14"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Band_of_Heathens", 
+                    "id": "35bc4ed0-3c89-495b-9be9-677a34b56b2d"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Austin", 
+            "disambiguation": "", 
+            "name": "Austin", 
+            "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5"
+        }, 
+        "sort-name": "Band of Heathens, The", 
+        "isnis": [], 
+        "id": "913cd338-9439-4106-ab5f-76f98c48daee", 
+        "country": "US", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "The Band of Heathens @ Gypsy Sally's in Washington, DC", 
+        "ticket_type": null, 
+        "venue": {
+            "city": "Washington", 
+            "name": "Gypsy Sally's", 
+            "country": "United States", 
+            "region": "DC", 
+            "longitude": -77.062754, 
+            "place": "Gypsy Sally's", 
+            "latitude": 38.902594
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13289482?app_id=ticketgame&artist=The+Band+of+Heathens&came_from=67", 
+        "ticket_url": null, 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Saturday, January 21, 2017 at 8:30PM", 
+        "datetime": "2017-01-21T20:30:00", 
+        "formatted_location": "Washington, DC", 
+        "artists": [
+            {
+                "website": "http://www.bandofheathens.com", 
+                "facebook_page_url": "https://www.facebook.com/thebandofheathens", 
+                "name": "The Band of Heathens", 
+                "url": "TheBandOfHeathens", 
+                "tracker_count": 25722, 
+                "mbid": "913cd338-9439-4106-ab5f-76f98c48daee", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/7009705.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheBandOfHeathens/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/7009705.jpeg"
+            }
+        ], 
+        "ticket_status": "unavailable", 
+        "id": 13289482
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?u=291182&b=234786&m=27601&urllink=www.ticketfly.com/purchase/event/1384913/tfly?utm_medium=api&afftrack=e28558609", 
+        "price_min": false
+    }, 
+    "modified_time": 1479442224.0, 
+    "created_minutes": 5916, 
+    "created_time": 1479305746.0, 
+    "modified_minutes": 3641, 
+    "id": 28558609
+}

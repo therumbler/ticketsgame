@@ -1,0 +1,309 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Uncle Lucius at Live Oak Music Hall & Lounge (December 15, 2016)", 
+        "popularity": 0.001754, 
+        "venue": {
+            "displayName": "Live Oak Music Hall & Lounge", 
+            "uri": "http://www.songkick.com/venues/1824038-live-oak-music-hall-and-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 32.730151, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -97.333025, 
+            "id": 1824038
+        }, 
+        "uri": "http://www.songkick.com/concerts/28107819-uncle-lucius-at-live-oak-music-hall-and-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-15", 
+            "time": "21:00:00", 
+            "datetime": "2016-12-15T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.730151, 
+            "city": "Fort Worth, TX, US", 
+            "lng": -97.333025
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "43212d6e-2a58-4325-a6f6-2953ba00fa83", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:43212d6e-2a58-4325-a6f6-2953ba00fa83.json"
+                        }
+                    ], 
+                    "displayName": "Uncle Lucius", 
+                    "uri": "http://www.songkick.com/artists/937082-uncle-lucius?utm_source=32233&utm_medium=partner", 
+                    "id": 937082
+                }, 
+                "displayName": "Uncle Lucius", 
+                "id": 54703514, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28107819
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Uncle Lucius", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "twitter": "UncleLucius", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0001574273", 
+                    "id": "6ece3a72-eee8-452b-9b70-ce5d5960bc55"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://unclelucius.bandcamp.com/", 
+                    "id": "15f4879d-778c-46e0-a253-cdcfc4c161fb"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3419977", 
+                    "id": "91b140d1-2aa4-4917-93ae-e8d92c7e6522"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Uncle%20Lucius", 
+                    "id": "a8c5ec72-5df7-48b5-8712-468b1883faeb"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/unclelucius", 
+                    "id": "65a47c77-efb8-412b-a758-300cf4a491f2"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.uncleluciusmusic.com/", 
+                    "id": "26610057-78d0-43f4-9602-bd1ef8fb7914"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/uncle_lucius", 
+                    "id": "85bceadb-faff-462e-b46f-afa245e35d56"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/UncleLucius", 
+                    "id": "c3ba4ae3-c6fc-4726-9d2a-ff4266a482a4"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/unclelucius", 
+                    "id": "b2c92f2b-064e-4c97-b0eb-437e922dce89"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/unclelucius/", 
+                    "id": "5577c078-a92f-4632-90f5-7fe9f5916859"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Austin", 
+            "disambiguation": "", 
+            "name": "Austin", 
+            "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5"
+        }, 
+        "id": "43212d6e-2a58-4325-a6f6-2953ba00fa83", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Uncle Lucius", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2005", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": "", 
+        "title": "Uncle Lucius @ The Live Oak in Fort Worth, TX", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Fort Worth", 
+            "name": "The Live Oak", 
+            "country": "United States", 
+            "region": "TX", 
+            "longitude": -97.333311, 
+            "place": "The Live Oak", 
+            "latitude": 32.730385
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13173888?app_id=ticketgame&artist=Uncle+Lucius&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13173888/buy_tickets?app_id=ticketgame&artist=Uncle+Lucius&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Thursday, December 15, 2016 at 9:00PM", 
+        "datetime": "2016-12-15T21:00:00", 
+        "formatted_location": "Fort Worth, TX", 
+        "ticket_redirect_url": "http://www.theliveoak.com", 
+        "artists": [
+            {
+                "website": "http://www.uncleluciusmusic.com/", 
+                "facebook_page_url": "https://www.facebook.com/unclelucius", 
+                "name": "Uncle Lucius", 
+                "url": "UncleLucius", 
+                "tracker_count": 22435, 
+                "mbid": "43212d6e-2a58-4325-a6f6-2953ba00fa83", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6300246.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/UncleLucius/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6300246.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13173888
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.theliveoak.com"
+    }, 
+    "modified_time": 1479442472.0, 
+    "created_minutes": 18170, 
+    "created_time": 1478565997.0, 
+    "modified_minutes": 3562, 
+    "id": 28107819
+}

@@ -1,0 +1,131 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Arbor Labor Union at Mammal Gallery (November 16, 2016)", 
+        "popularity": 5.9e-05, 
+        "venue": {
+            "displayName": "Mammal Gallery", 
+            "uri": "http://www.songkick.com/venues/2456784-mammal-gallery?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7516628, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3934384, 
+            "id": 2456784
+        }, 
+        "uri": "http://www.songkick.com/concerts/28438309-arbor-labor-union-at-mammal-gallery?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 33.7516628, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.3934384
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "42bf37c1-4485-4e80-8a81-73d02a1760ec", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:42bf37c1-4485-4e80-8a81-73d02a1760ec.json"
+                        }
+                    ], 
+                    "displayName": "Arbor Labor Union", 
+                    "uri": "http://www.songkick.com/artists/8711838-arbor-labor-union?utm_source=32233&utm_medium=partner", 
+                    "id": 8711838
+                }, 
+                "displayName": "Arbor Labor Union", 
+                "id": 55275754, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28438309
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Arbor Labor Union", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Georgia", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-GA"
+            ], 
+            "name": "Georgia", 
+            "id": "d10ba752-c9ce-4804-afc0-7ff94aa5d8d6"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://arborlaborunion.bandcamp.com/", 
+                    "id": "b4689192-920f-4e03-a448-ee73595def80"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://schedule.sxsw.com/2015/2015/events/event_MS31933", 
+                    "id": "65abd667-063a-4065-8203-8618e7590c59"
+                }, 
+                "direction": "forward", 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Arbor Labor Union", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "type": "Group", 
+        "id": "42bf37c1-4485-4e80-8a81-73d02a1760ec", 
+        "disambiguation": "formerly Pinecones"
+    }, 
+    "id": 28438309, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

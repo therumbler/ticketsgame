@@ -1,0 +1,312 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Bianca Del Rio at Castro Theatre (November 19, 2016)", 
+        "popularity": 0.000206, 
+        "venue": {
+            "displayName": "Castro Theatre", 
+            "uri": "http://www.songkick.com/venues/10317-castro-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 37.762013, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.434696, 
+            "id": 10317
+        }, 
+        "uri": "http://www.songkick.com/concerts/28068614-bianca-del-rio-at-castro-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 37.762013, 
+            "city": "San Francisco, CA, US", 
+            "lng": -122.434696
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bbcbbd9d-01ac-4a19-acfa-d330a3193f3b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bbcbbd9d-01ac-4a19-acfa-d330a3193f3b.json"
+                        }
+                    ], 
+                    "displayName": "Bianca Del Rio", 
+                    "uri": "http://www.songkick.com/artists/5705459-bianca-del-rio?utm_source=32233&utm_medium=partner", 
+                    "id": 5705459
+                }, 
+                "displayName": "Bianca Del Rio", 
+                "id": 54634394, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28068614
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Bianca Del Rio", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": "Other", 
+        "twitter": "TheBiancaDelRio", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "drag queen"
+            }
+        ], 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Gretna", 
+            "disambiguation": "", 
+            "name": "Gretna", 
+            "id": "52f646b9-8a6c-423f-b034-fe81a7693323"
+        }, 
+        "id": "bbcbbd9d-01ac-4a19-acfa-d330a3193f3b", 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/bbcbbd9d-01ac-4a19-acfa-d330a3193f3b", 
+                    "id": "3926af58-35d5-43a9-bb84-7e7b17a2972e"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm1004435/", 
+                    "id": "65b2bd79-be49-4102-8079-992d257c40e8"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Bianca_Del_Rio_DQOC.jpg", 
+                    "id": "59668785-2498-4006-8501-b7152a486a37"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.vice.com/read/bianca-del-rio-hurricane-bianca-drag-race-interview", 
+                    "id": "530eb382-fd06-4f52-9fa8-59316b78c29b"
+                }, 
+                "direction": "forward", 
+                "type-id": "1f171391-1f98-4f45-b191-038ec3b12395", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "interview", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Bianca+Del+Rio", 
+                    "id": "a5d901cb-6d8c-4a81-8da8-ea9df119fc57"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.thebiancadelrio.com/", 
+                    "id": "8b8b0e96-866c-4cb5-ab09-9279ca9768b8"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/thebiancadelrio", 
+                    "id": "869484bf-0096-42e1-b24c-3876c3cd8ebb"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/TheBiancaDelRio", 
+                    "id": "ba57e27b-8d58-40fc-91d6-6e3de0c6c32c"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/TheBiancaDelRIo", 
+                    "id": "a8bb0598-c1f9-46f1-a1d6-8d9fd3f0d090"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q16226036", 
+                    "id": "298a7961-37e0-4d4f-a780-4c2e5c519746"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Bianca_Del_Rio", 
+                    "id": "9712eb31-d917-46bf-b528-881ea1452fdf"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/TheBiancaDelRio", 
+                    "id": "858b6242-ed56-42e7-8e48-d692fdbd9eaf"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": "081c0bf5-da60-37b0-95f8-2207a3f7f9d6", 
+        "country": "US", 
+        "sort-name": "Del Rio, Bianca", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1975-06-27", 
+            "end": null
+        }
+    }, 
+    "id": 28068614, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

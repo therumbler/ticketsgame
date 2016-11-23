@@ -1,0 +1,293 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Red Bull Sound Select 2016", 
+        "series": {
+            "displayName": "Red Bull Sound Select"
+        }, 
+        "popularity": 0.00695, 
+        "venue": {
+            "displayName": "The Theatre at the Ace Hotel", 
+            "uri": "http://www.songkick.com/venues/2502474-theatre-at-the-ace-hotel?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0415219, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2568454, 
+            "id": 2502474
+        }, 
+        "uri": "http://www.songkick.com/festivals/1175408/id/28137194-red-bull-sound-select-2016?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 34.0415219, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2568454
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f2e33434-ec54-4983-a05b-5b15cb3a3a49", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f2e33434-ec54-4983-a05b-5b15cb3a3a49.json"
+                        }
+                    ], 
+                    "displayName": "Lido", 
+                    "uri": "http://www.songkick.com/artists/302510-lido?utm_source=32233&utm_medium=partner", 
+                    "id": 302510
+                }, 
+                "displayName": "Lido", 
+                "id": 54755234, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "63283b34-0c24-4df9-b575-c434b9cfc9c7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:63283b34-0c24-4df9-b575-c434b9cfc9c7.json"
+                        }
+                    ], 
+                    "displayName": "Joey Dosik", 
+                    "uri": "http://www.songkick.com/artists/4045166-joey-dosik?utm_source=32233&utm_medium=partner", 
+                    "id": 4045166
+                }, 
+                "displayName": "Joey Dosik", 
+                "id": 54755239, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Nick Leon", 
+                    "uri": "http://www.songkick.com/artists/8800404-nick-leon?utm_source=32233&utm_medium=partner", 
+                    "id": 8800404
+                }, 
+                "displayName": "Nick Leon", 
+                "id": 54755244, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "end": {
+            "date": "2016-11-09", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "type": "Festival", 
+        "id": 28137194
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Lido", 
+        "area": {
+            "sort-name": "Norway", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "NO"
+            ], 
+            "id": "6743d351-6f37-3049-9724-5041161fff4d", 
+            "name": "Norway"
+        }, 
+        "country": "NO", 
+        "twitter": "Lido", 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1989736", 
+                    "id": "ab5cb706-e89e-468f-9dff-c85d8103f1ea"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "Lido", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lidogotlights.com/", 
+                    "id": "eecc17fb-3ad0-4f2d-bbed-39d1421f8c86"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/Lido", 
+                    "id": "0be705ce-efb3-48a0-bf52-42238cd1977c"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/lidogotsongs", 
+                    "id": "888017af-0eaf-4652-a3ec-0ca8405bb558"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Lidogotsongs", 
+                    "id": "b63db98e-ea8c-4572-9bb1-89596203343b"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Lidogotsongs/info?entry_point=page_nav_about_item", 
+                    "id": "d1ce039a-7b26-45b7-8158-0ff1aa0b6cb2"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "Lido", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/lidogotsongs", 
+                    "id": "4a510bab-1b7a-4829-a0ae-c738ee52d149"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "Lido", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q6543718", 
+                    "id": "53b75bf2-04cf-4c65-bd56-db199dd99571"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/LidoLido", 
+                    "id": "4d2bfe91-a0ba-4d0e-baeb-21b329d242d6"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Tysv\u00e6r", 
+            "disambiguation": "", 
+            "name": "Tysv\u00e6r", 
+            "id": "aa8546f8-e86e-4db4-a76b-ff3b0a7ffae0"
+        }, 
+        "sort-name": "Lido", 
+        "gender": "Male", 
+        "id": "f2e33434-ec54-4983-a05b-5b15cb3a3a49", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1992-10-26", 
+            "end": null
+        }, 
+        "disambiguation": "Norwegian hip-hop artist"
+    }, 
+    "id": 28137194, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

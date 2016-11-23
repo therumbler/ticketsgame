@@ -1,0 +1,221 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Nat Osborn Band with Jonny Zywiciel at Neck of the Woods (November 8, 2016)", 
+        "popularity": 3.4e-05, 
+        "venue": {
+            "displayName": "Neck of the Woods", 
+            "uri": "http://www.songkick.com/venues/2091824-neck-of-the-woods?utm_source=32233&utm_medium=partner", 
+            "lat": 37.7831143, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.4637331, 
+            "id": 2091824
+        }, 
+        "uri": "http://www.songkick.com/concerts/28143569-nat-osborn-band-at-neck-of-the-woods?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-08", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-08T20:30:00-0800"
+        }, 
+        "location": {
+            "lat": 37.7831143, 
+            "city": "San Francisco, CA, US", 
+            "lng": -122.4637331
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "064e302f-a045-4e67-808e-f6cf2ec6b352", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:064e302f-a045-4e67-808e-f6cf2ec6b352.json"
+                        }
+                    ], 
+                    "displayName": "Nat Osborn Band", 
+                    "uri": "http://www.songkick.com/artists/5000738-nat-osborn-band?utm_source=32233&utm_medium=partner", 
+                    "id": 5000738
+                }, 
+                "displayName": "Nat Osborn Band", 
+                "id": 54765599, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Jonny Zywiciel", 
+                    "uri": "http://www.songkick.com/artists/8862969-jonny-zywiciel?utm_source=32233&utm_medium=partner", 
+                    "id": 8862969
+                }, 
+                "displayName": "Jonny Zywiciel", 
+                "id": 54765604, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28143569
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Nat Osborn Band", 
+        "area": null, 
+        "gender": null, 
+        "twitter": "NatOsborn", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/natosborn", 
+                    "id": "e5432e2a-a9e2-4259-8b0e-c40db30aeb41"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://natosborn.com/", 
+                    "id": "083848e0-b53d-44ba-95b2-f2ff88035d7d"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/NatOsborn", 
+                    "id": "738408e0-5a44-45bc-93f9-b76b91bc9712"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/natosbornmusic", 
+                    "id": "7fba64a1-709e-4d8e-a4a6-9920f7a0c69a"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/natosborn/", 
+                    "id": "eaaa73eb-ef67-48f2-bea0-dfb1489acbb7"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/natosborn", 
+                    "id": "dc6a06ae-1423-4cae-a824-129f7b286a83"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/NathaniusOz", 
+                    "id": "38d515cc-569f-4541-a9ce-fb7800300830"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "id": "064e302f-a045-4e67-808e-f6cf2ec6b352", 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Nat Osborn Band", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28143569, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

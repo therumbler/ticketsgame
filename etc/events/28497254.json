@@ -1,0 +1,163 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 2.8e-05, 
+        "displayName": "Fly Ashtray, Lovey Dove, and Talsness at Cake Shop (November 18, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Cake Shop", 
+            "uri": "http://www.songkick.com/venues/18422-cake-shop?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7207829, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9879885, 
+            "id": 18422
+        }, 
+        "uri": "http://www.songkick.com/concerts/28497254-fly-ashtray-at-cake-shop?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-18T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7207829, 
+            "city": "New York, NY, US", 
+            "lng": -73.9879885
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Fly Ashtray", 
+                "id": 55377199, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2a785645-3b6b-42f9-b1ea-0e8626374d1e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2a785645-3b6b-42f9-b1ea-0e8626374d1e.json"
+                        }
+                    ], 
+                    "displayName": "Fly Ashtray", 
+                    "uri": "http://www.songkick.com/artists/266138-fly-ashtray?utm_source=32233&utm_medium=partner", 
+                    "id": 266138
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Lovey Dove", 
+                "id": 55377204, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Lovey Dove", 
+                    "uri": "http://www.songkick.com/artists/7841594-lovey-dove?utm_source=32233&utm_medium=partner", 
+                    "id": 7841594
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Talsness", 
+                "id": 55377209, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Talsness", 
+                    "uri": "http://www.songkick.com/artists/7799964-talsness?utm_source=32233&utm_medium=partner", 
+                    "id": 7799964
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28497254
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Fly Ashtray", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1983", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q5463122", 
+                    "id": "0691e799-8cc7-46a4-8da2-510ced98cc21"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Fly_Ashtray", 
+                    "id": "ae62810c-e706-479b-b8a3-927db7773913"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Fly Ashtray", 
+        "isnis": [], 
+        "id": "2a785645-3b6b-42f9-b1ea-0e8626374d1e", 
+        "country": "US", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "age_minutes": 11557, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442370.0, 
+    "created_time": 1478803684.0, 
+    "modified_minutes": 912, 
+    "id": 28497254
+}

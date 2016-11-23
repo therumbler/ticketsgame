@@ -1,0 +1,261 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.005394, 
+        "displayName": "Matmos with Jeff Carey at Holocene (December 7, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Holocene", 
+            "uri": "http://www.songkick.com/venues/11583-holocene?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5175739, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6553277, 
+            "id": 11583
+        }, 
+        "uri": "http://www.songkick.com/concerts/28198144-matmos-at-holocene?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-07", 
+            "datetime": "2016-12-07T20:30:00-0800", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 45.5175739, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6553277
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Matmos", 
+                "id": 54862299, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "46e8a8ee-d2cd-4165-9725-02f72d0027a9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:46e8a8ee-d2cd-4165-9725-02f72d0027a9.json"
+                        }
+                    ], 
+                    "displayName": "Matmos", 
+                    "uri": "http://www.songkick.com/artists/409071-matmos?utm_source=32233&utm_medium=partner", 
+                    "id": 409071
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Jeff Carey", 
+                "id": 54862304, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "51a734e2-aa9d-4558-b1c3-68ff7b9f9c6d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:51a734e2-aa9d-4558-b1c3-68ff7b9f9c6d.json"
+                        }
+                    ], 
+                    "displayName": "Jeff Carey", 
+                    "uri": "http://www.songkick.com/artists/2477496-jeff-carey?utm_source=32233&utm_medium=partner", 
+                    "id": 2477496
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28198144
+    }, 
+    "musicbrainz_response": {
+        "name": "Matmos", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "dance and electronica"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1995", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Baltimore", 
+            "disambiguation": "", 
+            "name": "Baltimore", 
+            "id": "2fb5445d-3987-49fe-957a-f730a7acc4a2"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000388762", 
+                    "id": "4fc882ec-39fb-4f39-a4cf-f5dbafb0d26e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1926", 
+                    "id": "aa686fdc-297d-4f3d-9355-0f2cc891a872"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://pitchfork.com/features/interviews/5821-matmos/", 
+                    "id": "eaf74cfa-671f-43f7-a8d8-337fe9e568fd"
+                }, 
+                "direction": "forward", 
+                "type-id": "1f171391-1f98-4f45-b191-038ec3b12395", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "interview", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/matmos", 
+                    "id": "e559a9e8-0ad7-4d5d-b348-970e1b28de9a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1256138", 
+                    "id": "35edc58f-1a76-4b52-a4d5-3545b3ab7289"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Matmos", 
+                    "id": "84ae6c3e-ec56-47dc-ba0e-0e2817e2841c"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "San Francisco", 
+            "disambiguation": "", 
+            "id": "83f22bb6-4631-443c-bace-9fae8540362a", 
+            "name": "San Francisco"
+        }, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Matmos", 
+        "type": "Group", 
+        "id": "46e8a8ee-d2cd-4165-9725-02f72d0027a9", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15488, 
+    "bandsintown_response": {
+        "description": "Matmos", 
+        "title": "Matmos @ Holocene in Portland, OR", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Portland", 
+            "name": "Holocene", 
+            "country": "United States", 
+            "region": "OR", 
+            "longitude": -122.675, 
+            "place": "Holocene", 
+            "latitude": 45.5236111
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13024931?app_id=ticketgame&artist=Matmos&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13024931/buy_tickets?app_id=ticketgame&artist=Matmos&came_from=67", 
+        "on_sale_datetime": "2016-09-29T10:00:21", 
+        "formatted_datetime": "Wednesday, December 7, 2016 at 8:30PM", 
+        "datetime": "2016-12-07T20:30:00", 
+        "formatted_location": "Portland, OR", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1336081/tfly%3Futm_medium%3Dapi&afftrack=67%7E16358703%7E23896642%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "Matmos", 
+                "url": "Matmos", 
+                "tracker_count": 7587, 
+                "mbid": "46e8a8ee-d2cd-4165-9725-02f72d0027a9", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5173918.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Matmos/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5173918.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13024931
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 14.0, 
+        "price_min": 14.0
+    }, 
+    "modified_time": 1479442711.0, 
+    "created_time": 1478566069.0, 
+    "modified_minutes": 877, 
+    "id": 28198144
+}

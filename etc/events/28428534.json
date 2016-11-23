@@ -1,0 +1,112 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "JOHNNY POPCORN at Milkboy Philly (December 16, 2016)", 
+        "popularity": 5.3e-05, 
+        "venue": {
+            "displayName": "Milkboy Philly", 
+            "uri": "http://www.songkick.com/venues/1472758-milkboy-philly?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9499787, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.158767, 
+            "id": 1472758
+        }, 
+        "uri": "http://www.songkick.com/concerts/28428534-johnny-popcorn-at-milkboy-philly?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-16", 
+            "time": "20:30:00", 
+            "datetime": "2016-12-16T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9499787, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.158767
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7c8cae90-e4b6-421d-a55b-7a5974b90457", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7c8cae90-e4b6-421d-a55b-7a5974b90457.json"
+                        }
+                    ], 
+                    "displayName": "JOHNNY POPCORN", 
+                    "uri": "http://www.songkick.com/artists/1148380-johnny-popcorn?utm_source=32233&utm_medium=partner", 
+                    "id": 1148380
+                }, 
+                "displayName": "JOHNNY POPCORN", 
+                "id": 55259689, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28428534
+    }, 
+    "musicbrainz_response": {
+        "name": "Johnny Popcorn", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1986300", 
+                    "id": "0070ad1a-959d-40ac-a271-f07f9e4cfc3a"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "sort-name": "Popcorn, Johnny", 
+        "type": "Person", 
+        "id": "7c8cae90-e4b6-421d-a55b-7a5974b90457", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15510, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442549.0, 
+    "created_time": 1478566061.0, 
+    "modified_minutes": 902, 
+    "id": 28428534
+}

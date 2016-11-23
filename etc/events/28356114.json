@@ -1,0 +1,161 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Bear Mountain at Sunset Tavern (December 15, 2016)", 
+        "popularity": 0.00333, 
+        "venue": {
+            "displayName": "Sunset Tavern", 
+            "uri": "http://www.songkick.com/venues/5812-sunset-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6681889, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3858426, 
+            "id": 5812
+        }, 
+        "uri": "http://www.songkick.com/concerts/28356114-bear-mountain-at-sunset-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-15", 
+            "time": "20:30:00", 
+            "datetime": "2016-12-15T20:30:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6681889, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3858426
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b5fbe258-52e6-4144-b012-83cce64427e4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b5fbe258-52e6-4144-b012-83cce64427e4.json"
+                        }
+                    ], 
+                    "displayName": "Bear Mountain", 
+                    "uri": "http://www.songkick.com/artists/4288386-bear-mountain?utm_source=32233&utm_medium=partner", 
+                    "id": 4288386
+                }, 
+                "displayName": "Bear Mountain", 
+                "id": 55135379, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28356114
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Bear Mountain", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://mybearmountain.tumblr.com/", 
+                    "id": "a200d702-4794-4d9a-9ee0-bd404a0fec4c"
+                }, 
+                "direction": "forward", 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://mybearmountain.com/", 
+                    "id": "6098e00d-74b6-409c-912b-6945b754e1e1"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/mybearmountain", 
+                    "id": "5078ffaa-cab3-4ea2-9279-0c529a10cb6b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/bearmountain", 
+                    "id": "d486ff94-9781-495e-86af-7b45e04f29bb"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Bear Mountain", 
+        "type": "Group", 
+        "id": "b5fbe258-52e6-4144-b012-83cce64427e4", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6974395&REFERRAL_ID=tmfeed"
+    }, 
+    "modified_time": 1479442690.0, 
+    "created_minutes": 18219, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 3609, 
+    "id": 28356114
+}

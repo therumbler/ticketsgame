@@ -1,0 +1,103 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "18+", 
+        "displayName": "Negative Scanner at The Victoria, Dalston (November 12, 2016)", 
+        "popularity": 8.7e-05, 
+        "venue": {
+            "displayName": "The Victoria, Dalston", 
+            "uri": "http://www.songkick.com/venues/947596-victoria-dalston?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5457871, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0697505, 
+            "id": 947596
+        }, 
+        "uri": "http://www.songkick.com/concerts/27736394-negative-scanner-at-victoria-dalston?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-12T19:30:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5457871, 
+            "city": "London, UK", 
+            "lng": -0.0697505
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c65d5b13-3310-44ae-9aec-9c3c44a2691c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c65d5b13-3310-44ae-9aec-9c3c44a2691c.json"
+                        }
+                    ], 
+                    "displayName": "Negative Scanner", 
+                    "uri": "http://www.songkick.com/artists/6254959-negative-scanner?utm_source=32233&utm_medium=partner", 
+                    "id": 6254959
+                }, 
+                "displayName": "Negative Scanner", 
+                "id": 54031954, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27736394
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Negative Scanner", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://negativescanner.bandcamp.com/", 
+                    "id": "4933b0a0-e449-4915-abe6-e72690daacb5"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Negative Scanner", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "id": "c65d5b13-3310-44ae-9aec-9c3c44a2691c", 
+        "type": "Group", 
+        "disambiguation": ""
+    }, 
+    "id": 27736394, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Lara Downes at WFMT 98.7 FM (December 8, 2016)", 
+        "popularity": 2e-05, 
+        "venue": {
+            "displayName": "WFMT 98.7 FM", 
+            "uri": "http://www.songkick.com/venues/841636-wfmt-987-fm?utm_source=32233&utm_medium=partner", 
+            "lat": 41.979694, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.7170248, 
+            "id": 841636
+        }, 
+        "uri": "http://www.songkick.com/concerts/28481129-lara-downes-at-wfmt-987-fm?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-08", 
+            "datetime": "2016-12-08T11:00:00-0600", 
+            "time": "11:00:00"
+        }, 
+        "location": {
+            "lat": 41.979694, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.7170248
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5d715755-23a0-4a3c-8cbc-bd952a472511", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5d715755-23a0-4a3c-8cbc-bd952a472511.json"
+                        }
+                    ], 
+                    "displayName": "Lara Downes", 
+                    "uri": "http://www.songkick.com/artists/765-lara-downes?utm_source=32233&utm_medium=partner", 
+                    "id": 765
+                }, 
+                "displayName": "Lara Downes", 
+                "id": 55348304, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28481129
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Lara Downes", 
+        "tags": [], 
+        "gender": "Female", 
+        "disambiguation": "", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.laradownes.com/", 
+                    "id": "c55e111c-df34-417a-ab33-fe21f4f51aed"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Downes, Lara", 
+        "country": "US", 
+        "id": "5d715755-23a0-4a3c-8cbc-bd952a472511", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2"
+    }, 
+    "id": 28481129, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

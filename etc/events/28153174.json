@@ -1,0 +1,203 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Yawpers and 4 On The Floor at Curtain Club (November 19, 2016)", 
+        "popularity": 0.00029, 
+        "venue": {
+            "displayName": "Curtain Club", 
+            "uri": "http://www.songkick.com/venues/35191-curtain-club?utm_source=32233&utm_medium=partner", 
+            "lat": 32.783721, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.7831999, 
+            "id": 35191
+        }, 
+        "uri": "http://www.songkick.com/concerts/28153174-yawpers-at-curtain-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "datetime": "2016-11-19T20:00:00-0600", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 32.783721, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.7831999
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "883fc6fe-02a6-4691-80b4-bf021f89b921", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:883fc6fe-02a6-4691-80b4-bf021f89b921.json"
+                        }
+                    ], 
+                    "displayName": "The Yawpers", 
+                    "uri": "http://www.songkick.com/artists/4535913-yawpers?utm_source=32233&utm_medium=partner", 
+                    "id": 4535913
+                }, 
+                "displayName": "The Yawpers", 
+                "id": 54782104, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ad4c4dde-556c-43de-95ce-a7a448355922", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ad4c4dde-556c-43de-95ce-a7a448355922.json"
+                        }
+                    ], 
+                    "displayName": "4 On The Floor", 
+                    "uri": "http://www.songkick.com/artists/84310-4-on-the-floor?utm_source=32233&utm_medium=partner", 
+                    "id": 84310
+                }, 
+                "displayName": "4 On The Floor", 
+                "id": 54782109, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28153174
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Yawpers", 
+        "area": {
+            "sort-name": "Denver", 
+            "disambiguation": "", 
+            "id": "fc1aee9a-f1a8-45dc-8820-af6b5d7f7450", 
+            "name": "Denver"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2011-07-21", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4287806", 
+                    "id": "439810c0-b06a-4d27-8423-24341a001afa"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.theyawpers.com/", 
+                    "id": "59a43662-df38-4966-871b-900d2990874f"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/theyawpers/", 
+                    "id": "6900a108-ab12-4f60-be3d-7903a1f8a747"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/TheYawpers", 
+                    "id": "032587db-b0d3-413a-8175-b96be70348cd"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/yawpersmusic", 
+                    "id": "5a8ec726-ab0c-4928-8f3a-0506f8ed0e46"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Yawpers, The", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "883fc6fe-02a6-4691-80b4-bf021f89b921", 
+        "type": "Group", 
+        "twitter": "TheYawpers", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15483, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 14.0, 
+        "price_min": 12.0
+    }, 
+    "modified_time": 1479442537.0, 
+    "created_time": 1478565996.0, 
+    "modified_minutes": 874, 
+    "id": 28153174
+}

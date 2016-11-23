@@ -1,0 +1,120 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Manhattan Murder Mystery, The Modern Age, and Name The Band at El Cid (November 12, 2016)", 
+        "popularity": 0.000101, 
+        "venue": {
+            "displayName": "El Cid", 
+            "uri": "http://www.songkick.com/venues/31275-el-cid?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0939546, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2821019, 
+            "id": 31275
+        }, 
+        "uri": "http://www.songkick.com/concerts/28457454-manhattan-murder-mystery-at-el-cid?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "datetime": "2016-11-12T22:00:00-0800", 
+            "time": "22:00:00"
+        }, 
+        "location": {
+            "lat": 34.0939546, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2821019
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f0271e1b-b42a-4e36-b350-c30d0e9be5ee", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f0271e1b-b42a-4e36-b350-c30d0e9be5ee.json"
+                        }
+                    ], 
+                    "displayName": "Manhattan Murder Mystery", 
+                    "uri": "http://www.songkick.com/artists/746000-manhattan-murder-mystery?utm_source=32233&utm_medium=partner", 
+                    "id": 746000
+                }, 
+                "displayName": "Manhattan Murder Mystery", 
+                "id": 55308099, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Modern Age", 
+                    "uri": "http://www.songkick.com/artists/677734-modern-age?utm_source=32233&utm_medium=partner", 
+                    "id": 677734
+                }, 
+                "displayName": "The Modern Age", 
+                "id": 55308104, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Name The Band", 
+                    "uri": "http://www.songkick.com/artists/2342752-name-the-band?utm_source=32233&utm_medium=partner", 
+                    "id": 2342752
+                }, 
+                "displayName": "Name The Band", 
+                "id": 55341539, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28457454
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Manhattan Murder Mystery", 
+        "tags": [], 
+        "country": "US", 
+        "disambiguation": "", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Manhattan Murder Mystery", 
+        "gender": null, 
+        "id": "f0271e1b-b42a-4e36-b350-c30d0e9be5ee", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28457454, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

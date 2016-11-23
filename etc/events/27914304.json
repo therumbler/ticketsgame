@@ -1,0 +1,357 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Anna Lunoe with Nina Las Vegas and Cray at Beta (November 10, 2016)", 
+        "popularity": 0.008609, 
+        "venue": {
+            "displayName": "Beta", 
+            "uri": "http://www.songkick.com/venues/15302-beta?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7536568, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9953611, 
+            "id": 15302
+        }, 
+        "uri": "http://www.songkick.com/concerts/27914304-anna-lunoe-at-beta?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 39.7536568, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9953611
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "55c48847-73e9-4272-8c87-612dadcf8a37", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:55c48847-73e9-4272-8c87-612dadcf8a37.json"
+                        }
+                    ], 
+                    "displayName": "Anna Lunoe", 
+                    "uri": "http://www.songkick.com/artists/1172619-anna-lunoe?utm_source=32233&utm_medium=partner", 
+                    "id": 1172619
+                }, 
+                "displayName": "Anna Lunoe", 
+                "id": 54361284, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b4073e84-2f35-4c77-adae-832429806b44", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b4073e84-2f35-4c77-adae-832429806b44.json"
+                        }
+                    ], 
+                    "displayName": "Nina Las Vegas", 
+                    "uri": "http://www.songkick.com/artists/3480106-nina-las-vegas?utm_source=32233&utm_medium=partner", 
+                    "id": 3480106
+                }, 
+                "displayName": "Nina Las Vegas", 
+                "id": 54361289, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0a69c8a2-582c-4965-abea-7d45c6454c72", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0a69c8a2-582c-4965-abea-7d45c6454c72.json"
+                        }
+                    ], 
+                    "displayName": "Cray", 
+                    "uri": "http://www.songkick.com/artists/77645-cray?utm_source=32233&utm_medium=partner", 
+                    "id": 77645
+                }, 
+                "displayName": "Cray", 
+                "id": 54361294, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27914304
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Anna Lunoe", 
+        "area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "name": "Los Angeles", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62"
+        }, 
+        "gender": "Female", 
+        "twitter": "annalunoe", 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002582434", 
+                    "id": "7661c404-7746-48bc-a321-2e92cc3f9735"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1734730", 
+                    "id": "b37bd8f9-741f-4403-ac1e-9c85b06fed10"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Anna%20Lunoe", 
+                    "id": "94d46e59-2db7-4486-8d74-519a60dd7cd5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://annalunoe.com/", 
+                    "id": "2016ddbd-475a-4f94-b864-fc26c7816a0e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/anna_lunoe", 
+                    "id": "ee0acb63-7f4b-4466-8d0b-5d705e9c946f"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id432291804", 
+                    "id": "20a592cf-2b24-4de1-827a-89ec256b736b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=Azauktykq4luqsydumiifxpwnzm", 
+                    "id": "8339af81-174c-42c5-b6c6-6ae748d29928"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.beatport.com/artist/anna-lunoe/158438", 
+                    "id": "e7aaa99c-ea0d-4913-9386-08bd37f4b067"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/annalunoe", 
+                    "id": "0c55ddbb-bd26-4886-b290-a2bc349af133"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/annalunoe", 
+                    "id": "7ef6fc3d-ed68-42de-b66d-4ceb8c862ee3"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/annalunoe/", 
+                    "id": "23c646ed-9767-41d6-9164-0b137be92b31"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/anna-lunoe", 
+                    "id": "ae20167f-6b29-4ac3-b38d-34a3973b605e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/AnnaLunoeOfficial", 
+                    "id": "6e787ce9-7d38-4da8-8c4e-b87f870c6738"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00643517254"
+        ], 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Sydney", 
+            "disambiguation": "", 
+            "id": "3f179da4-83c6-4a28-a627-e46b4a8ff1ed", 
+            "name": "Sydney"
+        }, 
+        "sort-name": "Lunoe, Anna", 
+        "country": null, 
+        "id": "55c48847-73e9-4272-8c87-612dadcf8a37", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 27914304, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

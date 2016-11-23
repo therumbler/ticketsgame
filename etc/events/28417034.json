@@ -1,0 +1,389 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.015829, 
+        "displayName": "L7 at Troubadour (November 20, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Troubadour", 
+            "uri": "http://www.songkick.com/venues/16268-troubadour?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0815247, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.3891802, 
+            "id": 16268
+        }, 
+        "uri": "http://www.songkick.com/concerts/28417034-l7-at-troubadour?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-20", 
+            "datetime": "2016-11-20T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 34.0815247, 
+            "city": "West Hollywood, CA, US", 
+            "lng": -118.3891802
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "L7", 
+                "id": 55241034, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "57111f1f-9829-45ea-bb4e-a5aba37cd1d1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:57111f1f-9829-45ea-bb4e-a5aba37cd1d1.json"
+                        }
+                    ], 
+                    "displayName": "L7", 
+                    "uri": "http://www.songkick.com/artists/364332-l7?utm_source=32233&utm_medium=partner", 
+                    "id": 364332
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28417034
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "L7", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "grunge"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock and indie"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": true, 
+            "begin": "1985", 
+            "end": "2000"
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/57111f1f-9829-45ea-bb4e-a5aba37cd1d1", 
+                    "id": "bec4e94f-b134-4ea2-92df-b05b54165f44"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/138523651", 
+                    "id": "5ba01292-252c-46e2-ba00-c343d78336d0"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000100473", 
+                    "id": "61201cb2-f875-41c8-bce5-0cbcca606045"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/227850", 
+                    "id": "3c8f9e6c-2ee9-491f-a978-1f13da2633ad"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/L7", 
+                    "id": "9b361669-53ae-4320-9666-f4b1b8285425"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/l7-lyrics", 
+                    "id": "f53e5556-93b1-49ba-9ffd-99b4d9345806"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-9277/l7/lyrics.html", 
+                    "id": "9cc21e97-5fdd-4407-a767-aff88f6ecd0b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/l7official", 
+                    "id": "f0c7eaa3-e43f-47a3-84e3-5ca2414a88f5"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://l7official.com/", 
+                    "id": "4f924426-623d-45f5-a7f3-6a83518471fe"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://musicmoz.org/Bands_and_Artists/L/L7/", 
+                    "id": "9c67dc69-8f88-4105-89ac-126915702ecb"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/l7", 
+                    "id": "c1feb9ab-b48a-443d-ba63-0a7e447e5034"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pages/L7-Official/190276091026597", 
+                    "id": "0dbd14ed-ce05-4a1b-8631-46f91d49fca4"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1138185", 
+                    "id": "be9e5aa7-d12c-4266-9fd5-d7da90b0f403"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/L7_(band)", 
+                    "id": "d01d0fe9-7589-44fc-bf2b-71411bc4705f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62", 
+            "name": "Los Angeles"
+        }, 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "L7", 
+        "country": "US", 
+        "type": "Group", 
+        "id": "57111f1f-9829-45ea-bb4e-a5aba37cd1d1", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": "L7", 
+        "title": "L7 @ Troubadour in West Hollywood, CA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "West Hollywood", 
+            "name": "Troubadour", 
+            "country": "United States", 
+            "region": "CA", 
+            "longitude": -118.389184, 
+            "place": "Troubadour", 
+            "latitude": 34.081677
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13197971?app_id=ticketgame&artist=L7&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13197971/buy_tickets?app_id=ticketgame&artist=L7&came_from=67", 
+        "on_sale_datetime": "2016-10-26T10:00:00", 
+        "formatted_datetime": "Sunday, November 20, 2016 at 8:00PM", 
+        "datetime": "2016-11-20T20:00:00", 
+        "formatted_location": "West Hollywood, CA", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1369061/tfly%3Futm_medium%3Dapi&afftrack=67%7E16595510%7E24336218%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.smelll7.com/", 
+                "facebook_page_url": "http://www.facebook.com/pages/L7%20Official/190276091026597", 
+                "name": "L7", 
+                "url": "L7", 
+                "tracker_count": 25466, 
+                "mbid": "57111f1f-9829-45ea-bb4e-a5aba37cd1d1", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6669421.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/L7/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6669421.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13197971
+    }, 
+    "ticket_details": {
+        "status": "Sold Out", 
+        "price_max": 29.5, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1369061/tfly%3Futm_medium%3Dapi&afftrack=67%7E16595510%7E24336218%7E%7E", 
+        "price_min": 29.5
+    }, 
+    "modified_time": 1479442578.0, 
+    "created_minutes": 14270, 
+    "created_time": 1478803663.0, 
+    "modified_minutes": 3621, 
+    "id": 28417034
+}

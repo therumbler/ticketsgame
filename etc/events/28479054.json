@@ -1,0 +1,373 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.011497, 
+        "displayName": "Plaid at Bluebird Theater (January 28, 2017)", 
+        "ageRestriction": "16+", 
+        "venue": {
+            "displayName": "Bluebird Theater", 
+            "uri": "http://www.songkick.com/venues/10459-bluebird-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7402806, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.948382, 
+            "id": 10459
+        }, 
+        "uri": "http://www.songkick.com/concerts/28479054-plaid-at-bluebird-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-28", 
+            "time": "20:00:00", 
+            "datetime": "2017-01-28T20:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.7402806, 
+            "city": "Denver, CO, US", 
+            "lng": -104.948382
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Plaid", 
+                "id": 55344754, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7e54d133-2525-4bc0-ae94-65584145a386", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7e54d133-2525-4bc0-ae94-65584145a386.json"
+                        }
+                    ], 
+                    "displayName": "Plaid", 
+                    "uri": "http://www.songkick.com/artists/62287-plaid?utm_source=32233&utm_medium=partner", 
+                    "id": 62287
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28479054
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Plaid", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "country": "GB", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1991", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "anime"
+            }, 
+            {
+                "count": 2, 
+                "name": "british"
+            }, 
+            {
+                "count": 1, 
+                "name": "dance and electronica"
+            }, 
+            {
+                "count": 1, 
+                "name": "electronic"
+            }, 
+            {
+                "count": 2, 
+                "name": "english"
+            }, 
+            {
+                "count": 1, 
+                "name": "uk"
+            }, 
+            {
+                "count": 1, 
+                "name": "warp"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/7e54d133-2525-4bc0-ae94-65584145a386", 
+                    "id": "eba77cb2-edd9-4fd6-b418-dc25da207552"
+                }, 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000352155", 
+                    "id": "c8fabef9-60c8-48a7-ab75-74b4d2e5a968"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/762", 
+                    "id": "1b3490c4-dbf9-42e4-9595-58e85401dec5"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Plaid", 
+                    "id": "43e809aa-05d2-4e1d-b447-fc2fb80de093"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/plaid4thepeople", 
+                    "id": "91aec5f6-88cb-4bd7-9f17-925fa07ce575"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.plaid.co.uk/", 
+                    "id": "af97d460-3842-4881-8724-988e351ef530"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/plaid", 
+                    "id": "fc98b854-6d24-4ebc-9ec7-8ba17f458621"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/plaid", 
+                    "id": "1a8deea2-3331-444b-bb40-b207228cd037"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://vgmdb.net/artist/16677", 
+                    "id": "9b971f69-1487-4bb4-8be4-c816a1504fd3"
+                }, 
+                "begin": null, 
+                "type-id": "0af15ab3-c615-46d6-b95b-a5fcd2a92ed9", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "vgmdb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1072372", 
+                    "id": "c1f7d87d-97d7-4907-91a2-f61d8eeb8400"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Plaid_(band)", 
+                    "id": "12162c32-bfb0-40d9-8892-d85409a517b0"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/plaidofficial", 
+                    "id": "97dcf632-9fac-4c6c-bf72-a9f06b2801c7"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "London", 
+            "disambiguation": "", 
+            "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f", 
+            "name": "London"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Plaid", 
+        "type": "Group", 
+        "id": "7e54d133-2525-4bc0-ae94-65584145a386", 
+        "disambiguation": "British electronic music duo"
+    }, 
+    "age_minutes": 15517, 
+    "bandsintown_response": {
+        "description": "Plaid & The Bee", 
+        "title": "Plaid @ Larimer Lounge in Denver, CO", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Denver", 
+            "name": "Larimer Lounge", 
+            "country": "United States", 
+            "region": "CO", 
+            "longitude": -104.983749, 
+            "place": "Larimer Lounge", 
+            "latitude": 39.7598
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13239897?app_id=ticketgame&artist=Plaid&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13239897/buy_tickets?app_id=ticketgame&artist=Plaid&came_from=67", 
+        "on_sale_datetime": "2016-11-04T10:00:00", 
+        "formatted_datetime": "Saturday, January 28, 2017 at 9:00PM", 
+        "datetime": "2017-01-28T21:00:00", 
+        "formatted_location": "Denver, CO", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1383643/tfly%3Futm_medium%3Dapi&afftrack=67%7E16649551%7E24545708%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.plaid.co.uk", 
+                "facebook_page_url": null, 
+                "name": "Plaid", 
+                "url": "Plaid", 
+                "tracker_count": 20372, 
+                "mbid": "7e54d133-2525-4bc0-ae94-65584145a386", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5304486.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Plaid/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5304486.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13239897
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 18.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442401.0, 
+    "created_time": 1478566006.0, 
+    "modified_minutes": 910, 
+    "id": 28479054
+}

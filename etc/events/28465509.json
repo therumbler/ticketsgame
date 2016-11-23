@@ -1,0 +1,378 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Tom Cochrane at Massey Hall (March 25, 2017)", 
+        "popularity": 0.013725, 
+        "venue": {
+            "displayName": "Massey Hall", 
+            "uri": "http://www.songkick.com/venues/30045-massey-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6541962, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.3790313, 
+            "id": 30045
+        }, 
+        "uri": "http://www.songkick.com/concerts/28465509-tom-cochrane-at-massey-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-03-25", 
+            "datetime": "2017-03-25T20:00:00-0400", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 43.6541962, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.3790313
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "825a918f-09fa-40ee-9c27-b0921d48bdbb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:825a918f-09fa-40ee-9c27-b0921d48bdbb.json"
+                        }
+                    ], 
+                    "displayName": "Tom Cochrane", 
+                    "uri": "http://www.songkick.com/artists/393699-tom-cochrane?utm_source=32233&utm_medium=partner", 
+                    "id": 393699
+                }, 
+                "displayName": "Tom Cochrane", 
+                "id": 55321674, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28465509
+    }, 
+    "musicbrainz_response": {
+        "name": "Tom Cochrane", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "canadian"
+            }, 
+            {
+                "count": 1, 
+                "name": "country"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock"
+            }
+        ], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1953-05-14", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+            "name": "Canada"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/88080211", 
+                    "id": "052fd31e-4d23-442a-aa21-53615d6c2c38"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000931015", 
+                    "id": "7ba2e720-09a6-4dda-bf3a-3b360390ce02"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/267599", 
+                    "id": "5c65ab71-fef4-4412-a0c4-f14c9fffdc98"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.tomcochrane.info/", 
+                    "id": "1f7ee495-974d-4236-94a4-1a469c625091"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Tom+Cochrane", 
+                    "id": "c1a5c6bb-4562-4dae-8792-3425c74d7010"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/tom-cochrane-lyrics", 
+                    "id": "90185317-2dd4-4f5f-9d6b-fec7f3ce918d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-14577/tom-cochrane/lyrics.html", 
+                    "id": "3e4b73ea-3e53-48b0-8995-5888cd6fbe9f"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/tomcochranemusic", 
+                    "id": "829f41df-c25c-4ca0-833a-ed645c5bbcee"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.tomcochrane.com/", 
+                    "id": "a4a640e1-1456-4bbc-84aa-1c130be59712"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.tomcochranemusic.com/", 
+                    "id": "02de7f5f-bc71-4933-870a-00815fa4f2d2"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/tom_cochrane", 
+                    "id": "b4300b68-6faa-484b-ac83-35d77bd84e42"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1360993", 
+                    "id": "ffb57b3c-37e0-4850-b820-3675eb38c67c"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Tom_Cochrane", 
+                    "id": "6a05028a-79c3-41e6-a264-39dbd4508ca7"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Lynn Lake", 
+            "disambiguation": "", 
+            "name": "Lynn Lake", 
+            "id": "b459e1a2-17be-4e09-83ed-9bdb1afd6fdb"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "CA", 
+        "sort-name": "Cochrane, Tom", 
+        "type": "Person", 
+        "id": "825a918f-09fa-40ee-9c27-b0921d48bdbb", 
+        "disambiguation": "of Red Rider"
+    }, 
+    "age_minutes": 15897, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Tom Cochrane @ Massey Hall in Toronto, Canada", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Toronto", 
+            "name": "Massey Hall", 
+            "country": "Canada", 
+            "region": "ON", 
+            "longitude": -79.37872, 
+            "place": "Massey Hall", 
+            "latitude": 43.653755
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13230603?app_id=ticketsgame&artist=Tom+Cochrane&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13230603/buy_tickets?app_id=ticketsgame&artist=Tom+Cochrane&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Saturday, March 25, 2017 at 7:00PM", 
+        "datetime": "2017-03-25T19:00:00", 
+        "formatted_location": "Toronto, Canada", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fwww.ticketmaster.ca%2Fevent%2F1000515F77820DAA&subId1=67%7E16637938%7E%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.tomcochrane.com/", 
+                "facebook_page_url": "https://www.facebook.com/TomCochraneMusic", 
+                "name": "Tom Cochrane", 
+                "url": "TomCochrane", 
+                "tracker_count": 25092, 
+                "mbid": "825a918f-09fa-40ee-9c27-b0921d48bdbb", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/7123318.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TomCochrane/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/7123318.jpeg"
+            }
+        ], 
+        "ticket_details": {
+            "price_max": 240.14, 
+            "price_min": 63.54
+        }, 
+        "ticket_status": "available", 
+        "id": 13230603
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 115.14, 
+        "price_min": 63.54
+    }, 
+    "modified_time": 1479442453.0, 
+    "created_time": 1478543016.0, 
+    "modified_minutes": 907, 
+    "id": 28465509
+}

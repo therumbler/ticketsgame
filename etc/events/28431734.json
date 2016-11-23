@@ -1,0 +1,302 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Eric Idle and John Cleese at Majestic Theatre (December 1, 2016)", 
+        "popularity": 0.00173, 
+        "venue": {
+            "displayName": "Majestic Theatre", 
+            "uri": "http://www.songkick.com/venues/498771-majestic-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 32.7823562, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.7949016, 
+            "id": 498771
+        }, 
+        "uri": "http://www.songkick.com/concerts/28431734-eric-idle-at-majestic-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-01", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 32.7823562, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.7949016
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c4b096cb-ffa2-48d2-81a2-04a498c7c5f8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c4b096cb-ffa2-48d2-81a2-04a498c7c5f8.json"
+                        }
+                    ], 
+                    "displayName": "Eric Idle", 
+                    "uri": "http://www.songkick.com/artists/473000-eric-idle?utm_source=32233&utm_medium=partner", 
+                    "id": 473000
+                }, 
+                "displayName": "Eric Idle", 
+                "id": 55265164, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "589a0ad5-30d4-4bbc-adb3-373ce0ad49ae", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:589a0ad5-30d4-4bbc-adb3-373ce0ad49ae.json"
+                        }
+                    ], 
+                    "displayName": "John Cleese", 
+                    "uri": "http://www.songkick.com/artists/288056-john-cleese?utm_source=32233&utm_medium=partner", 
+                    "id": 288056
+                }, 
+                "displayName": "John Cleese", 
+                "id": 55265169, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28431734
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Location"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "Eric Idle", 
+        "sort-name": "Idle, Eric", 
+        "country": "GB", 
+        "disambiguation": "", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/c4b096cb-ffa2-48d2-81a2-04a498c7c5f8", 
+                    "id": "0b5908d0-9170-4a52-bf48-dff9d9f102db"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0001385/", 
+                    "id": "7a92a018-a16c-4cb7-9383-51bef43f1825"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/64205965", 
+                    "id": "a48b3aaf-a59c-4b14-acf2-bb9d168720a5"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000122475", 
+                    "id": "7e8f04a4-da95-4b1c-a0e7-44f7f82d5827"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/306225", 
+                    "id": "c904f1ed-306e-42ef-8494-5152c634e5ff"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Eric+Idle", 
+                    "id": "72ec112a-3e8d-4625-b877-1d32c6727a7f"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://d-nb.info/gnd/114797145", 
+                    "id": "9acf54e9-d05c-4fe6-bc74-49b6a29befa9"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://secondhandsongs.com/artist/34646", 
+                    "id": "ea2b43b1-769b-425a-a697-62ff1b358649"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q210741", 
+                    "id": "3a089f63-708f-4afd-8b4f-8031614a5668"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Eric_Idle", 
+                    "id": "f34d91d5-5c06-408d-8897-58017a17f90f"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "id": "c4b096cb-ffa2-48d2-81a2-04a498c7c5f8", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1943-03-29", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "british"
+            }, 
+            {
+                "count": 1, 
+                "name": "comedy"
+            }, 
+            {
+                "count": 1, 
+                "name": "english"
+            }, 
+            {
+                "count": 1, 
+                "name": "uk"
+            }
+        ]
+    }, 
+    "id": 28431734, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

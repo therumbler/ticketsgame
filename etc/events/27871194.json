@@ -1,0 +1,129 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Alanna Royale with J.j. & Dre at Schuba's Tavern (November 18, 2016)", 
+        "popularity": 0.000157, 
+        "venue": {
+            "displayName": "Schuba's Tavern", 
+            "uri": "http://www.songkick.com/venues/2133-schubas-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 41.939657, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.663651, 
+            "id": 2133
+        }, 
+        "uri": "http://www.songkick.com/concerts/27871194-alanna-royale-at-schubas-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-18T22:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.939657, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.663651
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8abfa6c3-3259-4e1a-b4a0-96f514dfcc5e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8abfa6c3-3259-4e1a-b4a0-96f514dfcc5e.json"
+                        }
+                    ], 
+                    "displayName": "Alanna Royale", 
+                    "uri": "http://www.songkick.com/artists/6229434-alanna-royale?utm_source=32233&utm_medium=partner", 
+                    "id": 6229434
+                }, 
+                "displayName": "Alanna Royale", 
+                "id": 54280249, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "J.j. & Dre", 
+                    "uri": "http://www.songkick.com/artists/6130179-jj-and-dre?utm_source=32233&utm_medium=partner", 
+                    "id": 6130179
+                }, 
+                "displayName": "J.j. & Dre", 
+                "id": 54947174, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27871194
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Alanna Royale", 
+        "area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "name": "Nashville", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2012", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://alannaroyale.bandcamp.com/", 
+                    "id": "030b184d-c5c1-4bf2-9868-5d6a79594c98"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Alanna Royale", 
+        "gender": null, 
+        "id": "8abfa6c3-3259-4e1a-b4a0-96f514dfcc5e", 
+        "type": "Group", 
+        "disambiguation": "R&B band from Nashville", 
+        "gender-id": null
+    }, 
+    "age_minutes": 15467, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442219.0, 
+    "created_time": 1478565987.0, 
+    "modified_minutes": 864, 
+    "id": 27871194
+}

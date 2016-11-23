@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "16+", 
+        "displayName": "Jai Wolf with Khai at Gothic Theatre (November 10, 2016)", 
+        "popularity": 0.007765, 
+        "venue": {
+            "displayName": "Gothic Theatre", 
+            "uri": "http://www.songkick.com/venues/5229-gothic-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 39.6557761, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9876818, 
+            "id": 5229
+        }, 
+        "uri": "http://www.songkick.com/concerts/27744494-jai-wolf-at-gothic-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-10T19:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.6557761, 
+            "city": "Englewood, CO, US", 
+            "lng": -104.9876818
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4e65e361-e974-4c9f-a368-970d69b1c93b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4e65e361-e974-4c9f-a368-970d69b1c93b.json"
+                        }
+                    ], 
+                    "displayName": "Jai Wolf", 
+                    "uri": "http://www.songkick.com/artists/8041093-jai-wolf?utm_source=32233&utm_medium=partner", 
+                    "id": 8041093
+                }, 
+                "displayName": "Jai Wolf", 
+                "id": 54046829, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "fa1479aa-ceec-4e81-a48d-794694fec177", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fa1479aa-ceec-4e81-a48d-794694fec177.json"
+                        }
+                    ], 
+                    "displayName": "Khai", 
+                    "uri": "http://www.songkick.com/artists/8906469-khai?utm_source=32233&utm_medium=partner", 
+                    "id": 8906469
+                }, 
+                "displayName": "Khai", 
+                "id": 54988809, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27744494
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Jai Wolf", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.beatport.com/artist/jai-wolf/427446", 
+                    "id": "3c6725af-c622-47bb-a63f-7399b51d2433"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "id": "4e65e361-e974-4c9f-a368-970d69b1c93b", 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Jai Wolf", 
+        "type": null, 
+        "disambiguation": ""
+    }, 
+    "id": 27744494, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

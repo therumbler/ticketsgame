@@ -1,0 +1,152 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "18+", 
+        "displayName": "No\u00ebp with White Kite and Bangbang at The Lexington (November 11, 2016)", 
+        "popularity": 0.000211, 
+        "venue": {
+            "displayName": "The Lexington", 
+            "uri": "http://www.songkick.com/venues/34372-lexington?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5316567, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1114451, 
+            "id": 34372
+        }, 
+        "uri": "http://www.songkick.com/concerts/27958524-noep-at-lexington?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-11T20:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5316567, 
+            "city": "London, UK", 
+            "lng": -0.1114451
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4c414146-bd4f-4ce7-8be7-116288850ed0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4c414146-bd4f-4ce7-8be7-116288850ed0.json"
+                        }
+                    ], 
+                    "displayName": "No\u00ebp", 
+                    "uri": "http://www.songkick.com/artists/8805624-noep?utm_source=32233&utm_medium=partner", 
+                    "id": 8805624
+                }, 
+                "displayName": "No\u00ebp", 
+                "id": 54440169, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "White Kite", 
+                    "uri": "http://www.songkick.com/artists/8808044-white-kite?utm_source=32233&utm_medium=partner", 
+                    "id": 8808044
+                }, 
+                "displayName": "White Kite", 
+                "id": 55121029, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Bangbang", 
+                    "uri": "http://www.songkick.com/artists/503400-bangbang?utm_source=32233&utm_medium=partner", 
+                    "id": 503400
+                }, 
+                "displayName": "Bangbang", 
+                "id": 55121234, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27958524
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "NO\u00cbP", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Estonia", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "EE"
+            ], 
+            "name": "Estonia", 
+            "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/noepmusic", 
+                    "id": "7958e31b-e7f7-4f8d-9178-90025371020e"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/noepmusic", 
+                    "id": "88cbf3ad-af45-445e-a2d3-ac24c24ff901"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "NO\u00cbP", 
+        "country": "EE", 
+        "id": "4c414146-bd4f-4ce7-8be7-116288850ed0", 
+        "type": null, 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 27958524, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

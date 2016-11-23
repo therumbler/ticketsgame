@@ -1,0 +1,114 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Gabriella Cohen at Alphaville (November 12, 2016)", 
+        "popularity": 5.1e-05, 
+        "venue": {
+            "displayName": "Alphaville", 
+            "uri": "http://www.songkick.com/venues/2884073-alphaville?utm_source=32233&utm_medium=partner", 
+            "lat": 40.700486, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.925855, 
+            "id": 2884073
+        }, 
+        "uri": "http://www.songkick.com/concerts/28219649-gabriella-cohen-at-alphaville?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 40.700486, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.925855
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "200fecb6-7183-445a-8953-38f0453f6185", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:200fecb6-7183-445a-8953-38f0453f6185.json"
+                        }
+                    ], 
+                    "displayName": "Gabriella Cohen", 
+                    "uri": "http://www.songkick.com/artists/8722819-gabriella-cohen?utm_source=32233&utm_medium=partner", 
+                    "id": 8722819
+                }, 
+                "displayName": "Gabriella Cohen", 
+                "id": 54899009, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28219649
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Gabriella Cohen", 
+        "area": {
+            "sort-name": "Australia", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "AU"
+            ], 
+            "id": "106e0bec-b638-3b37-b731-f53d507dc00e", 
+            "name": "Australia"
+        }, 
+        "gender": "Female", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/gabriellacohenmusic", 
+                    "id": "b3e14195-4428-47de-b125-40775975d041"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Cohen, Gabriella", 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "country": "AU", 
+        "id": "200fecb6-7183-445a-8953-38f0453f6185", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 28219649, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

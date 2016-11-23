@@ -1,0 +1,141 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Salome at Nublu (November 11, 2016)", 
+        "popularity": 0.000399, 
+        "venue": {
+            "displayName": "Nublu", 
+            "uri": "http://www.songkick.com/venues/35990-nublu?utm_source=32233&utm_medium=partner", 
+            "lat": 40.722502, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.979677, 
+            "id": 35990
+        }, 
+        "uri": "http://www.songkick.com/concerts/28525604-salome-at-nublu?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-11T22:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.722502, 
+            "city": "New York, NY, US", 
+            "lng": -73.979677
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Salome", 
+                "id": 55424829, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6855714d-c0b5-4646-ba63-b93bf90a47fb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6855714d-c0b5-4646-ba63-b93bf90a47fb.json"
+                        }, 
+                        {
+                            "mbid": "7fa32778-1021-4f46-93bd-596545f2b50c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7fa32778-1021-4f46-93bd-596545f2b50c.json"
+                        }, 
+                        {
+                            "mbid": "98ff1598-162d-4d97-a078-becc2bb1deb7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:98ff1598-162d-4d97-a078-becc2bb1deb7.json"
+                        }
+                    ], 
+                    "displayName": "Salome", 
+                    "uri": "http://www.songkick.com/artists/153586-salome?utm_source=32233&utm_medium=partner", 
+                    "id": 153586
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28525604
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "gender": "Female", 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Salome", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1986-02-20", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Switzerland", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CH"
+            ], 
+            "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df", 
+            "name": "Switzerland"
+        }, 
+        "country": "CH", 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/717083", 
+                    "id": "8cb3f094-e17b-4f50-9378-1dcd5fbcc5eb"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q2214867", 
+                    "id": "50572166-f445-4966-9802-f7c9efc363e1"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Salome", 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "isnis": [], 
+        "type": "Person", 
+        "id": "6855714d-c0b5-4646-ba63-b93bf90a47fb"
+    }, 
+    "id": 28525604, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Appleseed Collective at Lagniappe House (November 10, 2016)", 
+        "popularity": 0.000156, 
+        "venue": {
+            "displayName": "Lagniappe House", 
+            "uri": "http://www.songkick.com/venues/2102939-lagniappe-house?utm_source=32233&utm_medium=partner", 
+            "lat": 25.8090345, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "FL"
+                }, 
+                "displayName": "Miami", 
+                "uri": "http://www.songkick.com/metro_areas/9776-us-miami?utm_source=32233&utm_medium=partner", 
+                "id": 9776
+            }, 
+            "lng": -80.1909984, 
+            "id": 2102939
+        }, 
+        "uri": "http://www.songkick.com/concerts/27716384-appleseed-collective-at-lagniappe-house?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-10T21:00:00-0500"
+        }, 
+        "location": {
+            "lat": 25.8090345, 
+            "city": "Miami, FL, US", 
+            "lng": -80.1909984
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ff49c819-0976-4a6d-bf9a-83be254a4354", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ff49c819-0976-4a6d-bf9a-83be254a4354.json"
+                        }
+                    ], 
+                    "displayName": "The Appleseed Collective", 
+                    "uri": "http://www.songkick.com/artists/3952366-appleseed-collective?utm_source=32233&utm_medium=partner", 
+                    "id": 3952366
+                }, 
+                "displayName": "The Appleseed Collective", 
+                "id": 53996919, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27716384
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Appleseed Collective", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "sort-name": "Appleseed Collective, The", 
+        "gender": null, 
+        "disambiguation": "", 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.theappleseedcollective.com/", 
+                    "id": "b483a896-06c5-404e-bfa4-058029b50169"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "type": null, 
+        "id": "ff49c819-0976-4a6d-bf9a-83be254a4354", 
+        "tags": []
+    }, 
+    "id": 27716384, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

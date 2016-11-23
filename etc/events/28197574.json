@@ -1,0 +1,308 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Andhim and Sarah Myers at Flash (November 10, 2016)", 
+        "popularity": 0.006013, 
+        "venue": {
+            "displayName": "Flash", 
+            "uri": "http://www.songkick.com/venues/2382729-flash?utm_source=32233&utm_medium=partner", 
+            "lat": 38.916281, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.021369, 
+            "id": 2382729
+        }, 
+        "uri": "http://www.songkick.com/concerts/28197574-andhim-at-flash?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-10T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.916281, 
+            "city": "Washington, DC, US", 
+            "lng": -77.021369
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "957146db-0f9f-471b-a9d6-8dc899de3f10", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:957146db-0f9f-471b-a9d6-8dc899de3f10.json"
+                        }
+                    ], 
+                    "displayName": "Andhim", 
+                    "uri": "http://www.songkick.com/artists/4217321-andhim?utm_source=32233&utm_medium=partner", 
+                    "id": 4217321
+                }, 
+                "displayName": "Andhim", 
+                "id": 54861099, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Sarah Myers", 
+                    "uri": "http://www.songkick.com/artists/5803594-sarah-myers?utm_source=32233&utm_medium=partner", 
+                    "id": 5803594
+                }, 
+                "displayName": "Sarah Myers", 
+                "id": 54861104, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28197574
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "andhim", 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "country": null, 
+        "twitter": "andhim_official", 
+        "area": null, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1783270", 
+                    "id": "94c80163-c8eb-4011-a0ad-10d96dde7078"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://andhim.de/", 
+                    "id": "b3b2b354-78cb-4447-a1bb-47f26d4a554c"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.residentadvisor.net/dj/andhim", 
+                    "id": "852c0559-8f4c-46d5-9575-7efeb43696f0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/andhim_official", 
+                    "id": "0619d10d-3777-4ce5-aa4e-d1f8da7360c5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/andhimmusic", 
+                    "id": "ee1c8609-c564-4d96-9430-723ec2960e37"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/andhim_music/", 
+                    "id": "47f22bc1-46b8-44c5-bc21-7f94f9a6a655"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/andhim", 
+                    "id": "8b8bf1ca-c71a-4653-a978-7b71fdc1f49d"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q491822", 
+                    "id": "6fad803f-1603-493e-a402-daf3ff6f45d1"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/andhimmusic", 
+                    "id": "f94c9f54-374d-4b14-8408-9ec665075dd6"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "andhim", 
+        "gender": null, 
+        "id": "957146db-0f9f-471b-a9d6-8dc899de3f10", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "2014"
+            }, 
+            {
+                "count": 1, 
+                "name": "2015"
+            }, 
+            {
+                "count": 1, 
+                "name": "andhim"
+            }, 
+            {
+                "count": 1, 
+                "name": "berlin"
+            }, 
+            {
+                "count": 1, 
+                "name": "djs."
+            }, 
+            {
+                "count": 1, 
+                "name": "germany"
+            }, 
+            {
+                "count": 1, 
+                "name": "house"
+            }, 
+            {
+                "count": 1, 
+                "name": "london"
+            }, 
+            {
+                "count": 1, 
+                "name": "music"
+            }, 
+            {
+                "count": 1, 
+                "name": "newyork"
+            }, 
+            {
+                "count": 1, 
+                "name": "producers"
+            }, 
+            {
+                "count": 1, 
+                "name": "sa"
+            }, 
+            {
+                "count": 1, 
+                "name": "ultra"
+            }
+        ], 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28197574, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

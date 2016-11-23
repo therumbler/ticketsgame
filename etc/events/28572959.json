@@ -1,0 +1,190 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "DVBBS at Stereo Live Dallas (December 30, 2016)", 
+        "popularity": 0.026994, 
+        "venue": {
+            "displayName": "Stereo Live Dallas", 
+            "uri": "http://www.songkick.com/venues/3275534-stereo-live-dallas?utm_source=32233&utm_medium=partner", 
+            "lat": 32.8601258, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.8793649, 
+            "id": 3275534
+        }, 
+        "uri": "http://www.songkick.com/concerts/28572959-dvbbs-at-stereo-live-dallas?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-30", 
+            "time": "21:00:00", 
+            "datetime": "2016-12-30T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.8601258, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.8793649
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "DVBBS", 
+                "id": 55508629, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c3bba486-b24b-4a39-bc4c-b0085950afcd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c3bba486-b24b-4a39-bc4c-b0085950afcd.json"
+                        }
+                    ], 
+                    "displayName": "DVBBS", 
+                    "uri": "http://www.songkick.com/artists/5692599-dvbbs?utm_source=32233&utm_medium=partner", 
+                    "id": 5692599
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28572959
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "DVBBS", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "electro house"
+            }, 
+            {
+                "count": 1, 
+                "name": "electronic dance"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3427524", 
+                    "id": "2b7dd23e-12ec-4eee-92ea-6594b0889d26"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/DVBBS", 
+                    "id": "39157d14-ea4e-4c3b-880b-2531ea23676b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/dvbbs", 
+                    "id": "79fa6e22-8dd1-4ea2-801e-50bf056eb26d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/dvbbs", 
+                    "id": "528902a5-e9c4-4ba8-a177-f7530e5247c1"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q15052698", 
+                    "id": "f79b5337-ba90-40f4-a2b6-b3192919c1be"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "DVBBS", 
+        "isnis": [], 
+        "id": "c3bba486-b24b-4a39-bc4c-b0085950afcd", 
+        "country": null, 
+        "type": "Group", 
+        "twitter": "DVBBS", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.eventbrite.com/e/dvbbs-dallas-tickets-28928332421?aff=aff0songkick"
+    }, 
+    "modified_time": 1479442185.0, 
+    "created_minutes": 5919, 
+    "created_time": 1479305644.0, 
+    "modified_minutes": 3644, 
+    "id": 28572959
+}

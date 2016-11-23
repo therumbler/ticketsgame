@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Adam Hunter at The Cutting Room (November 10, 2016)", 
+        "popularity": 4.9e-05, 
+        "venue": {
+            "displayName": "The Cutting Room", 
+            "uri": "http://www.songkick.com/venues/31311-cutting-room?utm_source=32233&utm_medium=partner", 
+            "lat": 40.745815, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.982968, 
+            "id": 31311
+        }, 
+        "uri": "http://www.songkick.com/concerts/28143594-adam-hunter-at-cutting-room?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-10T19:30:00-0500"
+        }, 
+        "location": {
+            "lat": 40.745815, 
+            "city": "New York, NY, US", 
+            "lng": -73.982968
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "310bf5a9-e0c2-4e4f-8b57-a5ef82da13a2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:310bf5a9-e0c2-4e4f-8b57-a5ef82da13a2.json"
+                        }
+                    ], 
+                    "displayName": "Adam Hunter", 
+                    "uri": "http://www.songkick.com/artists/567095-adam-hunter?utm_source=32233&utm_medium=partner", 
+                    "id": 567095
+                }, 
+                "displayName": "Adam Hunter", 
+                "id": 54765649, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28143594
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Adam Hunter", 
+        "tags": [], 
+        "country": null, 
+        "disambiguation": "", 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/416723", 
+                    "id": "99813659-b726-4f65-b969-274f1a86213f"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Hunter, Adam", 
+        "gender": null, 
+        "id": "310bf5a9-e0c2-4e4f-8b57-a5ef82da13a2", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28143594, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

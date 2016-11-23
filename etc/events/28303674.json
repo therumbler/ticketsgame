@@ -1,0 +1,182 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Black Masala at Ruba (December 9, 2016)", 
+        "popularity": 4.5e-05, 
+        "venue": {
+            "displayName": "Ruba", 
+            "uri": "http://www.songkick.com/venues/3424374-ruba?utm_source=32233&utm_medium=partner", 
+            "lat": 39.961802, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.145875, 
+            "id": 3424374
+        }, 
+        "uri": "http://www.songkick.com/concerts/28303674-black-masala-at-ruba?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-09", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-09T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.961802, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.145875
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4aba24a5-1eec-45e3-ba1f-d685b862f43d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4aba24a5-1eec-45e3-ba1f-d685b862f43d.json"
+                        }
+                    ], 
+                    "displayName": "Black Masala", 
+                    "uri": "http://www.songkick.com/artists/5489518-black-masala?utm_source=32233&utm_medium=partner", 
+                    "id": 5489518
+                }, 
+                "displayName": "Black Masala", 
+                "id": 55042074, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28303674
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Black Masala", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Washington, D.C.", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-DC"
+            ], 
+            "id": "af59135f-38b5-4ea4-b4e2-dd28c5f0bad7", 
+            "name": "Washington, D.C."
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://blackmasala.bandcamp.com/", 
+                    "id": "c8f172af-c5c7-41e4-907e-f2a5b5e4661f"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.reverbnation.com/blackmasala", 
+                    "id": "c1d3b791-3117-41ef-9332-340b3efdc846"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/BlackMasala", 
+                    "id": "005f6393-1b09-4e4e-afba-1f86e131aa9d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/black-masala", 
+                    "id": "3821e9ba-c555-4322-84f5-01bc2939133b"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/BlackMasala", 
+                    "id": "2956ae3a-4b13-423d-b787-2e57e01d156a"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Black Masala", 
+        "country": null, 
+        "disambiguation": "", 
+        "type": "Group", 
+        "id": "4aba24a5-1eec-45e3-ba1f-d685b862f43d", 
+        "gender-id": null
+    }, 
+    "id": 28303674, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

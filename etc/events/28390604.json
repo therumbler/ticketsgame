@@ -1,0 +1,383 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Father John Misty with J Mascis at The Showbox (December 3, 2016)", 
+        "popularity": 0.055025, 
+        "venue": {
+            "displayName": "The Showbox", 
+            "uri": "http://www.songkick.com/venues/5621-showbox?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6087897, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3399932, 
+            "id": 5621
+        }, 
+        "uri": "http://www.songkick.com/concerts/28390604-father-john-misty-at-showbox?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-03", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 47.6087897, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3399932
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "172053e5-a7fb-4548-a64d-c53858b5e775", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:172053e5-a7fb-4548-a64d-c53858b5e775.json"
+                        }
+                    ], 
+                    "displayName": "Father John Misty", 
+                    "uri": "http://www.songkick.com/artists/5113323-father-john-misty?utm_source=32233&utm_medium=partner", 
+                    "id": 5113323
+                }, 
+                "displayName": "Father John Misty", 
+                "id": 55196149, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "82315599-2215-4c3e-a36f-87be58d06ec0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:82315599-2215-4c3e-a36f-87be58d06ec0.json"
+                        }, 
+                        {
+                            "mbid": "a876d274-5bbb-4309-b8fd-4b062708af14", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a876d274-5bbb-4309-b8fd-4b062708af14.json"
+                        }
+                    ], 
+                    "displayName": "J Mascis", 
+                    "uri": "http://www.songkick.com/artists/226924-j-mascis?utm_source=32233&utm_medium=partner", 
+                    "id": 226924
+                }, 
+                "displayName": "J Mascis", 
+                "id": 55196154, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28390604
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Father John Misty", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": "Male", 
+        "twitter": "fatherjohnmisty", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "experimental rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "folk rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "indie rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "post-rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "psychedelic rock"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/172053e5-a7fb-4548-a64d-c53858b5e775", 
+                    "id": "15a7921c-9545-4884-b486-bf235b104670"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002877943", 
+                    "id": "1ae11929-6cb9-43d0-92ef-1f2e592c0e7d"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://fatherjohnmisty.tumblr.com/", 
+                    "id": "f95ef755-8c40-4ec8-a9bc-387c8d998426"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2607662", 
+                    "id": "42c41a16-7a12-463d-a3fc-ec3d2121652e"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Father+John+Misty", 
+                    "id": "2fd9dfaa-fa54-4d58-9155-478bed6202eb"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/father-john-misty-lyrics", 
+                    "id": "ee799eec-fb09-4179-bc50-3e39346abe6f"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-13212/father-john-misty/lyrics.html", 
+                    "id": "20ce13a1-8d60-4ea0-baaf-f71b9b0046cf"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://fatherjohnmisty.com/", 
+                    "id": "62548f90-dfff-495c-9488-576dc0332837"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/father_john_misty", 
+                    "id": "a8ee6845-86f5-42c1-b532-9a134a0cf745"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/fatherjohnmisty", 
+                    "id": "79bf1094-100f-415b-8f7f-3afb53018fe7"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/fatherjohnmisty", 
+                    "id": "e6014049-6ac5-49fe-a0dd-0632b316b95f"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/fatherjohnmisty/", 
+                    "id": "8a2d24d6-2c29-424d-a1d1-c34827193c54"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT", 
+                    "id": "b4291242-a959-4e28-882e-4138d8a338c7"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q6107266", 
+                    "id": "363e8556-0a98-4944-b0df-931ca4a60b5d"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Rockville", 
+            "disambiguation": "", 
+            "name": "Rockville", 
+            "id": "34b6f359-c7fb-489d-a1d2-198f8654a32e"
+        }, 
+        "id": "172053e5-a7fb-4548-a64d-c53858b5e775", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Father John Misty", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1981-05-03", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28390604, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

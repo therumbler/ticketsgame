@@ -1,0 +1,283 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Stylistics at The Orchard Theatre (November 30, 2016)", 
+        "popularity": 0.019394, 
+        "venue": {
+            "displayName": "The Orchard Theatre", 
+            "uri": "http://www.songkick.com/venues/573366-orchard-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 51.4449679, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": 0.2200705, 
+            "id": 573366
+        }, 
+        "uri": "http://www.songkick.com/concerts/26624609-stylistics-at-orchard-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-30", 
+            "datetime": "2016-11-30T19:00:00+0000", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 51.4449679, 
+            "city": "Dartford, UK", 
+            "lng": 0.2200705
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b3edafa8-0a78-40b9-9404-c6fc1920d2be", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b3edafa8-0a78-40b9-9404-c6fc1920d2be.json"
+                        }
+                    ], 
+                    "displayName": "The Stylistics", 
+                    "uri": "http://www.songkick.com/artists/306920-stylistics?utm_source=32233&utm_medium=partner", 
+                    "id": 306920
+                }, 
+                "displayName": "The Stylistics", 
+                "id": 51975774, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26624609
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Stylistics", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "american"
+            }, 
+            {
+                "count": 1, 
+                "name": "classic pop and rock"
+            }
+        ], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1968", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "isnis": [
+            "0000000119402251"
+        ], 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Stylistics, The", 
+        "begin_area": {
+            "sort-name": "Philadelphia", 
+            "disambiguation": "", 
+            "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2", 
+            "name": "Philadelphia"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/b3edafa8-0a78-40b9-9404-c6fc1920d2be", 
+                    "id": "2d8f9025-9eaf-4c38-b3dd-82a624990892"
+                }, 
+                "end": null, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000567624", 
+                    "id": "e31b9dcb-2fb3-4516-9d31-c29dedfc6e8a"
+                }, 
+                "end": null, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "url": {
+                    "resource": "http://www.phillysoulclassics.com/artists/stylistics", 
+                    "id": "15d056d6-c4e9-425c-a101-6446248fbc11"
+                }, 
+                "target-type": "url", 
+                "direction": "forward", 
+                "begin": null, 
+                "ended": false, 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/504145", 
+                    "id": "994c74dc-9ac1-49f4-8ee3-1d7415136536"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "url": {
+                    "resource": "http://www.thestylistics.org/", 
+                    "id": "1d80a1f5-20e0-4a0d-9586-2e2acd1b6cf3"
+                }, 
+                "target-type": "url", 
+                "direction": "forward", 
+                "begin": null, 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/the_stylistics", 
+                    "id": "df4a8856-cc83-4bc6-8d08-9be88a35c743"
+                }, 
+                "target-type": "url", 
+                "direction": "forward", 
+                "begin": null, 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q2307426", 
+                    "id": "73f6cda8-e6b6-432e-8af1-b3fcc306c522"
+                }, 
+                "target-type": "url", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "direction": "forward", 
+                "end": null, 
+                "ended": false, 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Stylistics", 
+                    "id": "aa40bc94-f87e-4593-b623-aa362450bed8"
+                }, 
+                "target-type": "url", 
+                "source-credit": "", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": null, 
+        "gender": null, 
+        "type": "Group", 
+        "id": "b3edafa8-0a78-40b9-9404-c6fc1920d2be"
+    }, 
+    "bandsintown_response": {
+        "description": "The Stylistics tickets for 30/11/2016", 
+        "title": "The Stylistics @ Orchard Theatre in Dartford, United Kingdom", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Dartford", 
+            "name": "Orchard Theatre", 
+            "country": "United Kingdom", 
+            "region": null, 
+            "longitude": 0.217783, 
+            "place": "Orchard Theatre", 
+            "latitude": 51.445958
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/11756905?app_id=ticketgame&artist=The+Stylistics&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/11756905/buy_tickets?app_id=ticketgame&artist=The+Stylistics&came_from=67", 
+        "on_sale_datetime": "2016-03-29T00:00:00", 
+        "formatted_datetime": "Wednesday, November 30, 2016 at 7:00PM", 
+        "datetime": "2016-11-30T19:00:00", 
+        "formatted_location": "Dartford, United Kingdom", 
+        "ticket_redirect_url": "https://www.gigantic.com/the-stylistics-orchard-theatre-2016-11-30-19-00?affiliate=bandsintown", 
+        "artists": [
+            {
+                "website": "http://www.thestylistics.org", 
+                "facebook_page_url": null, 
+                "name": "The Stylistics", 
+                "url": "TheStylistics", 
+                "tracker_count": 31236, 
+                "mbid": "b3edafa8-0a78-40b9-9404-c6fc1920d2be", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5378202.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheStylistics/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5378202.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 11756905
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.gigantic.com/the-stylistics-orchard-theatre-2016-11-30-19-00?affiliate=bandsintown"
+    }, 
+    "modified_time": 1479661116.0, 
+    "created_minutes": 1251, 
+    "created_time": 1479661116.0, 
+    "modified_minutes": 1251, 
+    "id": 26624609
+}

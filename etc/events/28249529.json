@@ -1,0 +1,311 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.004445, 
+        "displayName": "Schuyler Fisk with Carl Anderson at Boot & Saddle (December 13, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Boot & Saddle", 
+            "uri": "http://www.songkick.com/venues/2346454-boot-and-saddle?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9368934, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1667971, 
+            "id": 2346454
+        }, 
+        "uri": "http://www.songkick.com/concerts/28249529-schuyler-fisk-at-boot-and-saddle?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-13", 
+            "datetime": "2016-12-13T20:30:00-0500", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 39.9368934, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1667971
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Schuyler Fisk", 
+                "id": 54947939, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1d72c15a-391a-4d59-a76d-e538d126b87b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1d72c15a-391a-4d59-a76d-e538d126b87b.json"
+                        }
+                    ], 
+                    "displayName": "Schuyler Fisk", 
+                    "uri": "http://www.songkick.com/artists/407585-schuyler-fisk?utm_source=32233&utm_medium=partner", 
+                    "id": 407585
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Carl Anderson", 
+                "id": 54947944, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "81b960ff-6276-44aa-8640-02aaeda3d6ec", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:81b960ff-6276-44aa-8640-02aaeda3d6ec.json"
+                        }
+                    ], 
+                    "displayName": "Carl Anderson", 
+                    "uri": "http://www.songkick.com/artists/161603-carl-anderson?utm_source=32233&utm_medium=partner", 
+                    "id": 161603
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28249529
+    }, 
+    "musicbrainz_response": {
+        "name": "Schuyler Fisk", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1982-07-08", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0004922/", 
+                    "id": "12302654-fbda-43cd-913d-679073c4154b"
+                }, 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0001983895", 
+                    "id": "4615554a-e9a6-474c-bf4b-41e87735b2f8"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1274556", 
+                    "id": "88bb355f-23ab-4f01-91f9-a27b6af3299b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://cargocollective.com/schuylerfisk", 
+                    "id": "c7f5f469-ea06-4a2a-ae0b-f631d7971365"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/schuyler_fisk", 
+                    "id": "2a4c62be-c774-4c91-b61a-16ec56c083a0"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/SchuylerFisk", 
+                    "id": "5621f672-60d2-4be8-b017-75d2d09c39f9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/iloveschuylerfisk", 
+                    "id": "601fc575-3d0b-423e-af12-7a9ae1d040e0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q463239", 
+                    "id": "642d64ec-03bc-4f24-abb1-5b859811c3e7"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Schuyler_Fisk", 
+                    "id": "be158163-93d8-4741-acd5-4ae08cb2b5d2"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62", 
+            "name": "Los Angeles"
+        }, 
+        "id": "1d72c15a-391a-4d59-a76d-e538d126b87b", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Fisk, Schuyler", 
+        "type": "Person", 
+        "twitter": "SchuylerFisk", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15492, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Schuyler Fisk @ Boot And Saddle in Philadelphia, PA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Philadelphia", 
+            "name": "Boot And Saddle", 
+            "country": "United States", 
+            "region": "PA", 
+            "longitude": -75.166797, 
+            "place": "Boot And Saddle", 
+            "latitude": 39.936893
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13056444?app_id=ticketgame&artist=Schuyler+Fisk&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13056444/buy_tickets?app_id=ticketgame&artist=Schuyler+Fisk&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Tuesday, December 13, 2016 at 8:00PM", 
+        "datetime": "2016-12-13T20:00:00", 
+        "formatted_location": "Philadelphia, PA", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1337881/tfly%3Futm_medium%3Dapi&afftrack=67%7E16399501%7E23976789%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.schuylerfisk.com", 
+                "facebook_page_url": "http://www.facebook.com/pages/Schuyler%20Fisk%20Official/83646136080", 
+                "name": "Schuyler Fisk", 
+                "url": "SchuylerFisk", 
+                "tracker_count": 11157, 
+                "mbid": "1d72c15a-391a-4d59-a76d-e538d126b87b", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6022987.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/SchuylerFisk/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6022987.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13056444
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 12.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442816.0, 
+    "created_time": 1478566061.0, 
+    "modified_minutes": 880, 
+    "id": 28249529
+}

@@ -1,0 +1,114 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mallett Brothers Band at Cottonwood (December 10, 2016)", 
+        "popularity": 0.000215, 
+        "venue": {
+            "displayName": "Cottonwood", 
+            "uri": "http://www.songkick.com/venues/2358144-cottonwood?utm_source=32233&utm_medium=partner", 
+            "lat": 29.8183024, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.4101048, 
+            "id": 2358144
+        }, 
+        "uri": "http://www.songkick.com/concerts/28377554-mallett-brothers-band-at-cottonwood?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-10", 
+            "time": "18:30:00", 
+            "datetime": "2016-12-10T18:30:00-0600"
+        }, 
+        "location": {
+            "lat": 29.8183024, 
+            "city": "Houston, TX, US", 
+            "lng": -95.4101048
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8765fb93-546b-460e-abc3-161bab86c341", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8765fb93-546b-460e-abc3-161bab86c341.json"
+                        }
+                    ], 
+                    "displayName": "Mallett Brothers Band", 
+                    "uri": "http://www.songkick.com/artists/3728191-mallett-brothers-band?utm_source=32233&utm_medium=partner", 
+                    "id": 3728191
+                }, 
+                "displayName": "Mallett Brothers Band", 
+                "id": 55172984, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28377554
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Mallett Brothers Band", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.mallettbrothersband.com/", 
+                    "id": "ee035a32-c9af-4948-abd3-3ae7a2220c9b"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Mallett Brothers Band, The", 
+        "gender": null, 
+        "id": "8765fb93-546b-460e-abc3-161bab86c341", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28377554, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

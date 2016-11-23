@@ -1,0 +1,475 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Johnny Mathis and Nashville Symphony at Schermerhorn Symphony Center (June 23, 2017)", 
+        "popularity": 0.034368, 
+        "venue": {
+            "displayName": "Schermerhorn Symphony Center", 
+            "uri": "http://www.songkick.com/venues/11073-schermerhorn-symphony-center?utm_source=32233&utm_medium=partner", 
+            "lat": 36.159761, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.775546, 
+            "id": 11073
+        }, 
+        "uri": "http://www.songkick.com/concerts/27878719-johnny-mathis-at-schermerhorn-symphony-center?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-06-23", 
+            "time": "20:00:00", 
+            "datetime": "2017-06-23T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 36.159761, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.775546
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "48896dee-a985-424d-9849-84802f7e79c9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:48896dee-a985-424d-9849-84802f7e79c9.json"
+                        }
+                    ], 
+                    "displayName": "Johnny Mathis", 
+                    "uri": "http://www.songkick.com/artists/233352-johnny-mathis?utm_source=32233&utm_medium=partner", 
+                    "id": 233352
+                }, 
+                "displayName": "Johnny Mathis", 
+                "id": 54294609, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Nashville Symphony", 
+                    "uri": "http://www.songkick.com/artists/32128-nashville-symphony?utm_source=32233&utm_medium=partner", 
+                    "id": 32128
+                }, 
+                "displayName": "Nashville Symphony", 
+                "id": 54452189, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27878719
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Johnny Mathis", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1935-09-30", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "easy listening"
+            }, 
+            {
+                "count": 1, 
+                "name": "jazz"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "soul"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/48896dee-a985-424d-9849-84802f7e79c9", 
+                    "id": "7fd91965-6f90-4dcf-8f5f-bc8760d2d99c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0558922/", 
+                    "id": "a53f0fba-14a2-4096-b552-4b140eb93762"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/85492424", 
+                    "id": "e1976c74-eb8f-4fe3-afc1-e50d89af2a7c"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000246885", 
+                    "id": "af486eca-81ec-4307-b2a6-504f98e5b738"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/170755", 
+                    "id": "77387481-e344-4b16-894f-e679430a1620"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Johnny_Mathis.JPG", 
+                    "id": "030fe1b3-a813-4ba0-8329-4e42160f21bb"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-6566/johnny-mathis/lyrics.html", 
+                    "id": "0ac0bb33-ff02-4eec-b3b5-da7c3550cbf8"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/johnnymathismusic", 
+                    "id": "699f4760-41ad-48fb-9e67-551e1cd48926"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.johnnymathis.com/", 
+                    "id": "8c40d1ab-a42b-4b30-b2f5-5c5e2aee7598"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://ibdb.com/person.php?id=0086751", 
+                    "id": "fa603e19-2752-42eb-aa1f-63379bb92cde"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://musicmoz.org/Bands_and_Artists/M/Mathis,_Johnny/", 
+                    "id": "123c156e-8827-42c3-9883-eb599632cf26"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/johnny_mathis", 
+                    "id": "24621950-9ace-4026-8534-737921048fe3"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.musik-sammler.de/artist/johnny-mathis/", 
+                    "id": "24967726-6aaa-4902-a461-e8195866fff8"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://secondhandsongs.com/artist/2193", 
+                    "id": "dc8ccabd-976b-4172-aeb4-7a485dd666e0"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/JohnnyMathisMusic", 
+                    "id": "19437adf-bcd9-45ba-a07f-56600c4a9f5d"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q449612", 
+                    "id": "063615df-19f3-484e-bf1f-0d589a9cefbe"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Johnny_Mathis", 
+                    "id": "33c8132f-d146-4c4e-baed-8c312d9f9df3"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/19rebel57", 
+                    "id": "8ff77465-5001-415a-be13-5e899a10ab23"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Gilmer", 
+            "disambiguation": "", 
+            "id": "69546058-e609-47e6-bd56-2a3660776b1c", 
+            "name": "Gilmer"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Mathis, Johnny", 
+        "type": "Person", 
+        "id": "48896dee-a985-424d-9849-84802f7e79c9", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15467, 
+    "bandsintown_response": {
+        "description": "Johnny Mathis Schermerhorn Symphony Center Tickets - Buy and sell Johnny Mathis Nashville Tickets for June 23 at Schermerhorn Symphony Center in Nashville, TN on StubHub!", 
+        "title": "Johnny Mathis @ Schermerhorn Symphony Center in Nashville, TN", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Nashville", 
+            "name": "Schermerhorn Symphony Center", 
+            "country": "United States", 
+            "region": "TN", 
+            "longitude": -86.776331, 
+            "place": "Schermerhorn Symphony Center", 
+            "latitude": 36.160045
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12756630?app_id=ticketgame&artist=Johnny+Mathis&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12756630/buy_tickets?app_id=ticketgame&artist=Johnny+Mathis&came_from=67", 
+        "on_sale_datetime": "2016-08-26T15:00:00", 
+        "formatted_datetime": "Friday, June 23, 2017 at 8:00PM", 
+        "datetime": "2017-06-23T20:00:00", 
+        "formatted_location": "Nashville, TN", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F1B005111F27F60C5&subId1=67%7E16104402%7E23321026%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.johnnymathis.com/", 
+                "facebook_page_url": null, 
+                "name": "Johnny Mathis", 
+                "url": "JohnnyMathis", 
+                "tracker_count": 53608, 
+                "mbid": "48896dee-a985-424d-9849-84802f7e79c9", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6036504.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/JohnnyMathis/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6036504.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12756630
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 163.6, 
+        "price_min": 123.35
+    }, 
+    "modified_time": 1479442225.0, 
+    "created_time": 1478566042.0, 
+    "modified_minutes": 864, 
+    "id": 27878719
+}

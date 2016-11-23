@@ -1,0 +1,147 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.0023, 
+        "displayName": "Moonchild with Paper Void and Escape Hatch at Chi Theta Chi, Stanford University (November 12, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Chi Theta Chi, Stanford University", 
+            "uri": "http://www.songkick.com/venues/956286-chi-theta-chi-stanford-university?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": null, 
+            "id": 956286
+        }, 
+        "uri": "http://www.songkick.com/concerts/28387299-moonchild-at-chi-theta-chi-stanford-university?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "datetime": "2016-11-12T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 37.4293, 
+            "city": "Palo Alto, CA, US", 
+            "lng": -122.138
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Moonchild", 
+                "id": 55191054, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "253cb349-6b18-4617-99e8-71f76d201b4f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:253cb349-6b18-4617-99e8-71f76d201b4f.json"
+                        }, 
+                        {
+                            "mbid": "8b9b1f04-305b-4bca-ac29-dd039507f667", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8b9b1f04-305b-4bca-ac29-dd039507f667.json"
+                        }, 
+                        {
+                            "mbid": "2e750753-b1ec-4951-b78a-fc5e1c0c50a4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2e750753-b1ec-4951-b78a-fc5e1c0c50a4.json"
+                        }, 
+                        {
+                            "mbid": "4a2b734a-0e67-4c97-adb7-bb0f6e0f0cc8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4a2b734a-0e67-4c97-adb7-bb0f6e0f0cc8.json"
+                        }, 
+                        {
+                            "mbid": "445751a0-24fc-4072-b93f-5cbe021ca5fd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:445751a0-24fc-4072-b93f-5cbe021ca5fd.json"
+                        }
+                    ], 
+                    "displayName": "Moonchild", 
+                    "uri": "http://www.songkick.com/artists/133602-moonchild?utm_source=32233&utm_medium=partner", 
+                    "id": 133602
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Paper Void", 
+                "id": 55191059, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Paper Void", 
+                    "uri": "http://www.songkick.com/artists/8306678-paper-void?utm_source=32233&utm_medium=partner", 
+                    "id": 8306678
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Escape Hatch", 
+                "id": 55191064, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Escape Hatch", 
+                    "uri": "http://www.songkick.com/artists/953949-escape-hatch?utm_source=32233&utm_medium=partner", 
+                    "id": 953949
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28387299
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Location"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Moonchild", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/84692", 
+                    "id": "1e339c5d-ef71-4a9c-966f-c70a4955c454"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Moonchild", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "id": "253cb349-6b18-4617-99e8-71f76d201b4f", 
+        "type": "Person", 
+        "disambiguation": "alias for Lucas Rodenbush"
+    }, 
+    "id": 28387299, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

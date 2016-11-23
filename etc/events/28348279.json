@@ -1,0 +1,145 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mark Wynn at Museum of London (November 18, 2016)", 
+        "popularity": 0.000153, 
+        "venue": {
+            "displayName": "Museum of London", 
+            "uri": "http://www.songkick.com/venues/2061764-museum-of-london?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5177194, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0964997, 
+            "id": 2061764
+        }, 
+        "uri": "http://www.songkick.com/concerts/28348279-mark-wynn-at-museum-of-london?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.5177194, 
+            "city": "London, UK", 
+            "lng": -0.0964997
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "737a4f1c-e5ab-4dcf-9446-ad67f55d6a9b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:737a4f1c-e5ab-4dcf-9446-ad67f55d6a9b.json"
+                        }
+                    ], 
+                    "displayName": "Mark Wynn", 
+                    "uri": "http://www.songkick.com/artists/2521651-mark-wynn?utm_source=32233&utm_medium=partner", 
+                    "id": 2521651
+                }, 
+                "displayName": "Mark Wynn", 
+                "id": 55121564, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28348279
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Mark Wynn", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "York", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "GB-YOR"
+            ], 
+            "id": "3a28f05b-59e0-4aa1-9a79-b96f5ef6403b", 
+            "name": "York"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://markwynn.bandcamp.com/", 
+                    "id": "81020d98-3157-4124-8b54-117c2bcf78dd"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3618457", 
+                    "id": "32076bc4-f6c1-4bb8-b8b0-be8a80af20b8"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/markwynn", 
+                    "id": "49088e56-19bc-4c2c-981c-e3da0f4a5aaf"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "sort-name": "Wynn, Mark", 
+        "type": "Person", 
+        "id": "737a4f1c-e5ab-4dcf-9446-ad67f55d6a9b", 
+        "disambiguation": ""
+    }, 
+    "id": 28348279, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

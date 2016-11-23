@@ -1,0 +1,164 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Alessio Bax and Lucille Chung at The Barns at Wolf Trap (January 8, 2017)", 
+        "popularity": 0.000225, 
+        "venue": {
+            "displayName": "The Barns at Wolf Trap", 
+            "uri": "http://www.songkick.com/venues/4381-barns-at-wolf-trap?utm_source=32233&utm_medium=partner", 
+            "lat": 38.933483, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.265745, 
+            "id": 4381
+        }, 
+        "uri": "http://www.songkick.com/concerts/27830244-alessio-bax-at-barns-at-wolf-trap?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-08", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 38.933483, 
+            "city": "Vienna, VA, US", 
+            "lng": -77.265745
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5e2f6561-b801-49ac-88de-a530f9b7d769", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5e2f6561-b801-49ac-88de-a530f9b7d769.json"
+                        }
+                    ], 
+                    "displayName": "Alessio Bax", 
+                    "uri": "http://www.songkick.com/artists/120277-alessio-bax?utm_source=32233&utm_medium=partner", 
+                    "id": 120277
+                }, 
+                "displayName": "Alessio Bax", 
+                "id": 54204829, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Lucille Chung", 
+                    "uri": "http://www.songkick.com/artists/1158092-lucille-chung?utm_source=32233&utm_medium=partner", 
+                    "id": 1158092
+                }, 
+                "displayName": "Lucille Chung", 
+                "id": 54204834, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27830244
+    }, 
+    "musicbrainz_response": {
+        "name": "Alessio Bax", 
+        "tags": [], 
+        "country": "IT", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1977", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Italy", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "IT"
+            ], 
+            "id": "c6500277-9a3d-349b-bf30-41afdbf42add", 
+            "name": "Italy"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.alessiobax.com/", 
+                    "id": "633b2fb4-edfc-4c07-9dc1-2c7910ac6bba"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q3610470", 
+                    "id": "1e328574-b134-49ae-93d9-963518807d57"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Alessio_Bax", 
+                    "id": "aa0644ee-4788-4571-b2d8-df9669c31f27"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Bax, Alessio", 
+        "gender": "Male", 
+        "disambiguation": "pianist", 
+        "type": "Person", 
+        "id": "5e2f6561-b801-49ac-88de-a530f9b7d769", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://purchase.tickets.com/buy/TicketPurchase?orgid=44689&pid=8299815&mkt_code=WOLFTRAP&_ga=1.79150804.1934591388.1471011345"
+    }, 
+    "modified_time": 1479442149.0, 
+    "created_minutes": 18158, 
+    "created_time": 1478566099.0, 
+    "modified_minutes": 3557, 
+    "id": 27830244
+}

@@ -1,0 +1,213 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Post Malone, Jazz Cartier, Larry June, and SAINt JHN at The Wiltern (November 9, 2016)", 
+        "popularity": 0.036153, 
+        "venue": {
+            "displayName": "The Wiltern", 
+            "uri": "http://www.songkick.com/venues/780-wiltern?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0619389, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.3088392, 
+            "id": 780
+        }, 
+        "uri": "http://www.songkick.com/concerts/27781529-post-malone-at-wiltern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "datetime": "2016-11-09T19:00:00-0800", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 34.0619389, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.3088392
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b1e26560-60e5-4236-bbdb-9aa5a8d5ee19.json"
+                        }
+                    ], 
+                    "displayName": "Post Malone", 
+                    "uri": "http://www.songkick.com/artists/8508053-post-malone?utm_source=32233&utm_medium=partner", 
+                    "id": 8508053
+                }, 
+                "displayName": "Post Malone", 
+                "id": 54115974, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f7a3d5b9-1088-46fd-989e-3b2a565bfa79", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f7a3d5b9-1088-46fd-989e-3b2a565bfa79.json"
+                        }
+                    ], 
+                    "displayName": "Jazz Cartier", 
+                    "uri": "http://www.songkick.com/artists/8607884-jazz-cartier?utm_source=32233&utm_medium=partner", 
+                    "id": 8607884
+                }, 
+                "displayName": "Jazz Cartier", 
+                "id": 54115979, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "20d49152-11a2-4e55-8251-0d11dc6424fa", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:20d49152-11a2-4e55-8251-0d11dc6424fa.json"
+                        }
+                    ], 
+                    "displayName": "Larry June", 
+                    "uri": "http://www.songkick.com/artists/7958783-larry-june?utm_source=32233&utm_medium=partner", 
+                    "id": 7958783
+                }, 
+                "displayName": "Larry June", 
+                "id": 54115984, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "SAINt JHN", 
+                    "uri": "http://www.songkick.com/artists/8926399-saint-jhn?utm_source=32233&utm_medium=partner", 
+                    "id": 8926399
+                }, 
+                "displayName": "SAINt JHN", 
+                "id": 55349239, 
+                "billing": "headline", 
+                "billingIndex": 4
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27781529
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Post Malone", 
+        "area": {
+            "sort-name": "Dallas", 
+            "disambiguation": "", 
+            "id": "e96f1c0d-721b-470d-a9c4-0aa2d89cf9e7", 
+            "name": "Dallas"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1995-07-04", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003426458", 
+                    "id": "df275ca5-dbad-4419-ae8d-f9ca86d60c3b"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id966309175", 
+                    "id": "fec50aeb-e783-4086-828b-2ebe04649fa1"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.wikidata.org/entity/Q21621919", 
+                    "id": "9c5e5fea-98cf-48fc-adf7-79f4f0373dcb"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Post_Malone", 
+                    "id": "8c931d0a-fc28-488c-a2be-9c1036ad0a44"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Syracuse", 
+            "disambiguation": "", 
+            "id": "1fee56fe-5b76-4a50-bc63-37ee51d3300f", 
+            "name": "Syracuse"
+        }, 
+        "sort-name": "Post Malone", 
+        "country": null, 
+        "type": "Person", 
+        "id": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19", 
+        "disambiguation": ""
+    }, 
+    "id": 27781529, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

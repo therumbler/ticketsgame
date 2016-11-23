@@ -1,0 +1,264 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Drew Kennedy, Walt Wilkins, and Josh Grider at Live Oak Music Hall & Lounge (November 20, 2016)", 
+        "popularity": 0.001096, 
+        "venue": {
+            "displayName": "Live Oak Music Hall & Lounge", 
+            "uri": "http://www.songkick.com/venues/1824038-live-oak-music-hall-and-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 32.730151, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -97.333025, 
+            "id": 1824038
+        }, 
+        "uri": "http://www.songkick.com/concerts/28053544-drew-kennedy-at-live-oak-music-hall-and-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-20", 
+            "time": "18:00:00", 
+            "datetime": "2016-11-20T18:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.730151, 
+            "city": "Fort Worth, TX, US", 
+            "lng": -97.333025
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8bf61504-5176-4b45-bb8a-7d7221d5bdf1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8bf61504-5176-4b45-bb8a-7d7221d5bdf1.json"
+                        }
+                    ], 
+                    "displayName": "Drew Kennedy", 
+                    "uri": "http://www.songkick.com/artists/538281-drew-kennedy?utm_source=32233&utm_medium=partner", 
+                    "id": 538281
+                }, 
+                "displayName": "Drew Kennedy", 
+                "id": 54609919, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "400cef21-37e4-4de3-be38-aa1c84029556", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:400cef21-37e4-4de3-be38-aa1c84029556.json"
+                        }
+                    ], 
+                    "displayName": "Walt Wilkins", 
+                    "uri": "http://www.songkick.com/artists/84851-walt-wilkins?utm_source=32233&utm_medium=partner", 
+                    "id": 84851
+                }, 
+                "displayName": "Walt Wilkins", 
+                "id": 54609924, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "14b2c1aa-304b-45a3-b627-4d73c75672dd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:14b2c1aa-304b-45a3-b627-4d73c75672dd.json"
+                        }
+                    ], 
+                    "displayName": "Josh Grider", 
+                    "uri": "http://www.songkick.com/artists/604804-josh-grider?utm_source=32233&utm_medium=partner", 
+                    "id": 604804
+                }, 
+                "displayName": "Josh Grider", 
+                "id": 55150589, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28053544
+    }, 
+    "musicbrainz_response": {
+        "name": "Drew Kennedy", 
+        "twitter": "dk_music", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.cmt.com/artists/az/kennedy__drew/artist.jhtml", 
+                    "id": "ee1bbd83-d552-4bfc-8bfb-81f4acf59e77"
+                }, 
+                "begin": null, 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Drew+Kennedy", 
+                    "id": "5847ae4b-c1cf-44ab-9c09-a4d36d475e87"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.drewkennedymusic.com/", 
+                    "id": "2b9c06aa-edf8-4652-b680-b6c0a7e4fff4"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/dk_music", 
+                    "id": "49f0d7cc-d2d7-4aa1-a836-e5fbc7ce0119"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/drew.kennedy.music", 
+                    "id": "f497037c-a9f1-4338-80a2-01b86312ac7b"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/drewkennedymusic", 
+                    "id": "15830417-b322-47b5-8774-3c57cea4dc80"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Kennedy, Drew", 
+        "type": "Person", 
+        "id": "8bf61504-5176-4b45-bb8a-7d7221d5bdf1", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15473, 
+    "bandsintown_response": {
+        "description": "Sunday Supper Club: Drew Kennedy & Josh Grider", 
+        "title": "Drew Kennedy @ Live Oak Music Hall in Fort Worth, TX", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Fort Worth", 
+            "name": "Live Oak Music Hall", 
+            "country": "United States", 
+            "region": "TX", 
+            "longitude": -97.3330231, 
+            "place": "Live Oak Music Hall", 
+            "latitude": 32.7301521
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12899274?app_id=ticketgame&artist=Drew+Kennedy&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12899274/buy_tickets?app_id=ticketgame&artist=Drew+Kennedy&came_from=67", 
+        "on_sale_datetime": "2016-09-08T13:00:24", 
+        "formatted_datetime": "Sunday, November 20, 2016 at 6:00PM", 
+        "datetime": "2016-11-20T18:00:00", 
+        "formatted_location": "Fort Worth, TX", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1315079/tfly%3Futm_medium%3Dapi&afftrack=67%7E16189444%7E23608710%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.drewkennedymusic.com/", 
+                "facebook_page_url": "http://www.facebook.com/pages/Drew%20Kennedy/46145946061", 
+                "name": "Drew Kennedy", 
+                "url": "DrewKennedy", 
+                "tracker_count": 3106, 
+                "mbid": "8bf61504-5176-4b45-bb8a-7d7221d5bdf1", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6792846.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/DrewKennedy/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6792846.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12899274
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442334.0, 
+    "created_time": 1478565996.0, 
+    "modified_minutes": 868, 
+    "id": 28053544
+}

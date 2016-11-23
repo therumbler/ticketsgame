@@ -1,0 +1,234 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.004328, 
+        "displayName": "Maren Morris with Devin Dawson at Cannery Ballroom (April 5, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Cannery Ballroom", 
+            "uri": "http://www.songkick.com/venues/250-cannery-ballroom?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1528598, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.7804525, 
+            "id": 250
+        }, 
+        "uri": "http://www.songkick.com/concerts/28559424-maren-morris-at-cannery-ballroom?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-04-05", 
+            "datetime": "2017-04-05T19:30:00-0500", 
+            "time": "19:30:00"
+        }, 
+        "location": {
+            "lat": 36.1528598, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.7804525
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "109357f0-eb37-4672-9697-dca8c83a61b5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:109357f0-eb37-4672-9697-dca8c83a61b5.json"
+                        }
+                    ], 
+                    "displayName": "Maren Morris", 
+                    "uri": "http://www.songkick.com/artists/2055882-maren-morris?utm_source=32233&utm_medium=partner", 
+                    "id": 2055882
+                }, 
+                "displayName": "Maren Morris", 
+                "id": 55485239, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Devin Dawson", 
+                    "uri": "http://www.songkick.com/artists/7890339-devin-dawson?utm_source=32233&utm_medium=partner", 
+                    "id": 7890339
+                }, 
+                "displayName": "Devin Dawson", 
+                "id": 55485244, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28559424
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Maren Morris", 
+        "tags": [], 
+        "gender": "Female", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1990-04-10", 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2866905", 
+                    "id": "a796231a-d2ec-4438-9d7f-15b4f6476c72"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://marrenmorris.com/", 
+                    "id": "5d03ca06-b1fa-4cb5-9683-fb29b376bcdb"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/MarenMorris", 
+                    "id": "4b755b40-a524-4462-88ec-5a181272b1cb"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/marenmorris", 
+                    "id": "19b7c135-aa15-4eea-b019-95c611d032c2"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/marenmorris/", 
+                    "id": "0849c098-31da-47fe-9213-7a4d73240f4d"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Maren_Morris", 
+                    "id": "ee766d73-a697-4f49-9693-944862ae7184"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/channel/UCa-eS13D-FafU8ushde8Geg", 
+                    "id": "2bd14244-5524-492a-a71b-ed20f2e1aba7"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Arlington", 
+            "disambiguation": "", 
+            "name": "Arlington", 
+            "id": "bc468dff-11c5-47d0-b5f3-353acbcd14c0"
+        }, 
+        "id": "109357f0-eb37-4672-9697-dca8c83a61b5", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "isnis": [], 
+        "sort-name": "Morris, Maren", 
+        "country": null, 
+        "type": "Person", 
+        "twitter": "MarenMorris", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 3196, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 18.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442219.0, 
+    "created_time": 1479305690.0, 
+    "modified_minutes": 921, 
+    "id": 28559424
+}

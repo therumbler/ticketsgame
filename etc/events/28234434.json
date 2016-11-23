@@ -1,0 +1,139 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Anthony Raneri with Mark Rose at Beat Kitchen (December 2, 2016)", 
+        "popularity": 0.001205, 
+        "venue": {
+            "displayName": "Beat Kitchen", 
+            "uri": "http://www.songkick.com/venues/212-beat-kitchen?utm_source=32233&utm_medium=partner", 
+            "lat": 41.939803, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.680948, 
+            "id": 212
+        }, 
+        "uri": "http://www.songkick.com/concerts/28234434-anthony-raneri-at-beat-kitchen?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "datetime": "2016-12-02T20:00:00-0600", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 41.939803, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.680948
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a35b9cff-b5be-4032-9f1a-5c449182b9d7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a35b9cff-b5be-4032-9f1a-5c449182b9d7.json"
+                        }
+                    ], 
+                    "displayName": "Anthony Raneri", 
+                    "uri": "http://www.songkick.com/artists/1499142-anthony-raneri?utm_source=32233&utm_medium=partner", 
+                    "id": 1499142
+                }, 
+                "displayName": "Anthony Raneri", 
+                "id": 54921584, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bd119ea9-0ae0-4a0c-add9-af75b0ede5a9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bd119ea9-0ae0-4a0c-add9-af75b0ede5a9.json"
+                        }
+                    ], 
+                    "displayName": "Mark Rose", 
+                    "uri": "http://www.songkick.com/artists/1018756-mark-rose?utm_source=32233&utm_medium=partner", 
+                    "id": 1018756
+                }, 
+                "displayName": "Mark Rose", 
+                "id": 55371214, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28234434
+    }, 
+    "musicbrainz_response": {
+        "name": "Anthony Raneri", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1599704", 
+                    "id": "6955691f-c87d-405e-962c-477e4a2f45d2"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00407517176"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Raneri, Anthony", 
+        "country": "US", 
+        "disambiguation": "lead vocalist of Bayside", 
+        "type": "Person", 
+        "id": "a35b9cff-b5be-4032-9f1a-5c449182b9d7", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "age_minutes": 15491, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 17.0, 
+        "price_min": 14.0
+    }, 
+    "modified_time": 1479442772.0, 
+    "created_time": 1478565988.0, 
+    "modified_minutes": 878, 
+    "id": 28234434
+}

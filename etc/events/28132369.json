@@ -1,0 +1,105 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Honus Honus with Pink Mexico at Boot & Saddle (November 15, 2016)", 
+        "popularity": 4.2e-05, 
+        "venue": {
+            "displayName": "Boot & Saddle", 
+            "uri": "http://www.songkick.com/venues/2346454-boot-and-saddle?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9368934, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1667971, 
+            "id": 2346454
+        }, 
+        "uri": "http://www.songkick.com/concerts/28132369-honus-honus-at-boot-and-saddle?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-15T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9368934, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1667971
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "26b03f09-829b-473b-b647-4eab18f1efd4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:26b03f09-829b-473b-b647-4eab18f1efd4.json"
+                        }
+                    ], 
+                    "displayName": "Honus Honus", 
+                    "uri": "http://www.songkick.com/artists/8817564-honus-honus?utm_source=32233&utm_medium=partner", 
+                    "id": 8817564
+                }, 
+                "displayName": "Honus Honus", 
+                "id": 54746849, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Pink Mexico", 
+                    "uri": "http://www.songkick.com/artists/7378334-pink-mexico?utm_source=32233&utm_medium=partner", 
+                    "id": 7378334
+                }, 
+                "displayName": "Pink Mexico", 
+                "id": 54947054, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28132369
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Honus Honus", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Philadelphia", 
+            "disambiguation": "", 
+            "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2", 
+            "name": "Philadelphia"
+        }, 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Honus Honus", 
+        "type": "Person", 
+        "id": "26b03f09-829b-473b-b647-4eab18f1efd4", 
+        "disambiguation": ""
+    }, 
+    "id": 28132369, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

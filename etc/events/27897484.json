@@ -1,0 +1,159 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "SoMo at 9:30 Club (November 13, 2016)", 
+        "popularity": 0.036116, 
+        "venue": {
+            "displayName": "9:30 Club", 
+            "uri": "http://www.songkick.com/venues/922-930-club?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9178658, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0237219, 
+            "id": 922
+        }, 
+        "uri": "http://www.songkick.com/concerts/27897484-somo-at-930-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-13T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.9178658, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0237219
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bd83292c-242b-45cd-bd8d-6bd362c60e6e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bd83292c-242b-45cd-bd8d-6bd362c60e6e.json"
+                        }
+                    ], 
+                    "displayName": "SoMo", 
+                    "uri": "http://www.songkick.com/artists/6720604-somo?utm_source=32233&utm_medium=partner", 
+                    "id": 6720604
+                }, 
+                "displayName": "SoMo", 
+                "id": 54329979, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27897484
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "SoMo", 
+        "area": {
+            "sort-name": "Denison", 
+            "disambiguation": "", 
+            "name": "Denison", 
+            "id": "d60b9ab0-fb32-4540-9020-c259fc43460a"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1987-09-11", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "r&b"
+            }, 
+            {
+                "count": 1, 
+                "name": "somo"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/OfficialSoMo", 
+                    "id": "9a7f2453-91c9-427c-9689-d997f9906946"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q16231962", 
+                    "id": "6673188b-1f42-43af-95b6-f88b1ab7c677"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/SoMo", 
+                    "id": "31e59f2c-de70-45d6-822e-5bb1690e49b1"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Austin", 
+            "disambiguation": "", 
+            "name": "Austin", 
+            "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "sort-name": "SoMo", 
+        "type": "Person", 
+        "id": "bd83292c-242b-45cd-bd8d-6bd362c60e6e", 
+        "disambiguation": "U.S. R&B Artist"
+    }, 
+    "id": 27897484, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

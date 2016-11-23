@@ -1,0 +1,122 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Damned at House of Blues (May 17, 2017)", 
+        "popularity": 0.026599, 
+        "venue": {
+            "displayName": "House of Blues", 
+            "uri": "http://www.songkick.com/venues/30866-house-of-blues?utm_source=32233&utm_medium=partner", 
+            "lat": 29.7536888, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.3636718, 
+            "id": 30866
+        }, 
+        "uri": "http://www.songkick.com/concerts/28406734-damned-at-house-of-blues?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-05-17", 
+            "time": "19:00:00", 
+            "datetime": "2017-05-17T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 29.7536888, 
+            "city": "Houston, TX, US", 
+            "lng": -95.3636718
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "73c6cc6f-e300-42b4-8689-298fa2b29028", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:73c6cc6f-e300-42b4-8689-298fa2b29028.json"
+                        }, 
+                        {
+                            "mbid": "77d21c13-846f-4f48-9546-873949eff6ae", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:77d21c13-846f-4f48-9546-873949eff6ae.json"
+                        }
+                    ], 
+                    "displayName": "The Damned", 
+                    "uri": "http://www.songkick.com/artists/381837-damned?utm_source=32233&utm_medium=partner", 
+                    "id": 381837
+                }, 
+                "displayName": "The Damned", 
+                "id": 55222814, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28406734
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Damned", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "country": "GB", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/710424", 
+                    "id": "a0c9e837-adda-49e2-9e6d-e2ce810afa72"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Damned, The", 
+        "gender": null, 
+        "id": "73c6cc6f-e300-42b4-8689-298fa2b29028", 
+        "type": "Group", 
+        "disambiguation": "UK glam rock", 
+        "gender-id": null
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://concerts.livenation.com/event/3A005155C0AA3C4D"
+    }, 
+    "modified_time": 1479442603.0, 
+    "created_minutes": 18229, 
+    "created_time": 1478566013.0, 
+    "modified_minutes": 3620, 
+    "id": 28406734
+}

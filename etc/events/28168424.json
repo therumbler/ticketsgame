@@ -1,0 +1,451 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Battlecross with Allegaeon and Abyss Walker at The East Room (December 14, 2016)", 
+        "popularity": 0.002167, 
+        "venue": {
+            "displayName": "The East Room", 
+            "uri": "http://www.songkick.com/venues/1927264-east-room?utm_source=32233&utm_medium=partner", 
+            "lat": 36.19446, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.743247, 
+            "id": 1927264
+        }, 
+        "uri": "http://www.songkick.com/concerts/28168424-battlecross-at-east-room?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-14", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-14T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.19446, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.743247
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cc5785c3-82b7-4ebe-b238-4e4e4754f722", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cc5785c3-82b7-4ebe-b238-4e4e4754f722.json"
+                        }
+                    ], 
+                    "displayName": "Battlecross", 
+                    "uri": "http://www.songkick.com/artists/2159778-battlecross?utm_source=32233&utm_medium=partner", 
+                    "id": 2159778
+                }, 
+                "displayName": "Battlecross", 
+                "id": 54808684, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1d71cfe3-f105-4dd5-bdfe-61f6fde2cac7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1d71cfe3-f105-4dd5-bdfe-61f6fde2cac7.json"
+                        }
+                    ], 
+                    "displayName": "Allegaeon", 
+                    "uri": "http://www.songkick.com/artists/2358493-allegaeon?utm_source=32233&utm_medium=partner", 
+                    "id": 2358493
+                }, 
+                "displayName": "Allegaeon", 
+                "id": 54808689, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Abyss Walker", 
+                    "uri": "http://www.songkick.com/artists/8808534-abyss-walker?utm_source=32233&utm_medium=partner", 
+                    "id": 8808534
+                }, 
+                "displayName": "Abyss Walker", 
+                "id": 54808694, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28168424
+    }, 
+    "musicbrainz_response": {
+        "name": "Battlecross", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2003", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "melodic death metal"
+            }, 
+            {
+                "count": 2, 
+                "name": "thrash metal"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/250957190", 
+                    "id": "91c4e63f-62a4-4a8a-98db-0f04eb5fd9f8"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002726044", 
+                    "id": "2c99c537-01f5-4328-9684-0ed77528d5ca"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2632324", 
+                    "id": "dd08e9a9-e56c-4d03-8b5a-01c7fa771028"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Battlecross", 
+                    "id": "35ad9628-2311-447e-9d36-4313810c98de"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/battlecross", 
+                    "id": "c2affebb-581f-4c66-b866-a9b552f3a421"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://battlecrossmetal.com/", 
+                    "id": "0a81a723-94ce-40bd-b027-065a7b898d76"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.metalblade.com/battlecross/", 
+                    "id": "9557dcf2-83e5-45a0-831e-10c2f24424de"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.metal-archives.com/bands/Battlecross/50099", 
+                    "id": "19096955-bf42-475f-b973-88b950d35ab4"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/battlecross", 
+                    "id": "7f69cfca-a58b-4b94-b48e-7b5c9e8cfd0b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id384674892", 
+                    "id": "050ebd38-6325-411b-97ec-6099a8647973"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=Azg2ihvjc3tnkeiaxlxi32ymwya", 
+                    "id": "cdd11360-7858-4bd9-a3a3-a0b64ab7ed33"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/battlecrossmetal/", 
+                    "id": "fd9776f3-7d0c-46c1-afe1-7a81c062c909"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/battlecross", 
+                    "id": "72950782-2f92-4bec-a949-ff341b592746"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/battlecrossmetal", 
+                    "id": "a5d8fd7a-a005-47fa-8a2b-8d33d8b357b5"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/battlecross", 
+                    "id": "49afb3d6-9cf8-490a-a846-704effc19ed1"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/5yimluzyt2ZhLaha1KX1nn", 
+                    "id": "9744b484-6398-4745-bbe3-44b9895649f6"
+                }, 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q368660", 
+                    "id": "68326c03-e808-4118-8b25-f62d9e68b373"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Battlecross", 
+                    "id": "b53c2901-cd55-42b4-ad71-5857a2205489"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "id": "cc5785c3-82b7-4ebe-b238-4e4e4754f722", 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Canton", 
+            "disambiguation": "", 
+            "id": "e2420664-4308-48c9-99fb-84d2ca6ded58", 
+            "name": "Canton"
+        }, 
+        "sort-name": "Battlecross", 
+        "country": "US", 
+        "disambiguation": "", 
+        "ipis": [], 
+        "type": "Group", 
+        "twitter": "battlecross", 
+        "gender-id": null
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.brownpapertickets.com/event/2629030"
+    }, 
+    "modified_time": 1479442551.0, 
+    "created_minutes": 18172, 
+    "created_time": 1478566042.0, 
+    "modified_minutes": 3564, 
+    "id": 28168424
+}

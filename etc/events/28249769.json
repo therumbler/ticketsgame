@@ -1,0 +1,139 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Lizzo at Doug Fir Lounge (January 29, 2017)", 
+        "popularity": 0.004037, 
+        "venue": {
+            "displayName": "Doug Fir Lounge", 
+            "uri": "http://www.songkick.com/venues/11585-doug-fir-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5229238, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6587133, 
+            "id": 11585
+        }, 
+        "uri": "http://www.songkick.com/concerts/28249769-lizzo-at-doug-fir-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-29", 
+            "time": "21:00:00", 
+            "datetime": "2017-01-29T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5229238, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6587133
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8fb5370b-9568-4b61-9da5-2aa12c9928db", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8fb5370b-9568-4b61-9da5-2aa12c9928db.json"
+                        }
+                    ], 
+                    "displayName": "Lizzo", 
+                    "uri": "http://www.songkick.com/artists/5031783-lizzo?utm_source=32233&utm_medium=partner", 
+                    "id": 5031783
+                }, 
+                "displayName": "Lizzo", 
+                "id": 54948289, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28249769
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Lizzo", 
+        "tags": [], 
+        "gender": "Female", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1988-04-27", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Minnesota", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-MN"
+            ], 
+            "name": "Minnesota", 
+            "id": "f5ffcc03-ebf2-466a-bb11-b38c6c0c84f5"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q16232225", 
+                    "id": "03cff1c2-370e-46d2-b08a-bbd531c1a128"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "Lizzo", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Lizzo", 
+                    "id": "8131ed84-1448-4a6e-9bc0-10d64f617fd0"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "Lizzo", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00517643842"
+        ], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "country": null, 
+        "sort-name": "Lizzo", 
+        "type": "Person", 
+        "id": "8fb5370b-9568-4b61-9da5-2aa12c9928db", 
+        "disambiguation": "Minnesota rapper Melissa Viviane Jefferson"
+    }, 
+    "age_minutes": 15492, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 17.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442817.0, 
+    "created_time": 1478566069.0, 
+    "modified_minutes": 880, 
+    "id": 28249769
+}

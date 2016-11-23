@@ -1,0 +1,126 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Dave Holland at Birdland (November 30, 2016)", 
+        "popularity": 0.00233, 
+        "venue": {
+            "displayName": "Birdland", 
+            "uri": "http://www.songkick.com/venues/10734-birdland?utm_source=32233&utm_medium=partner", 
+            "lat": 40.759194, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9898, 
+            "id": 10734
+        }, 
+        "uri": "http://www.songkick.com/concerts/27987509-dave-holland-at-birdland?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-30", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-30T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 40.759194, 
+            "city": "New York, NY, US", 
+            "lng": -73.9898
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3c9ed911-02c1-4c4c-ae25-6ee1a74d8b24", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3c9ed911-02c1-4c4c-ae25-6ee1a74d8b24.json"
+                        }, 
+                        {
+                            "mbid": "7ea233ad-c340-4f62-8678-dbad528aa58e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7ea233ad-c340-4f62-8678-dbad528aa58e.json"
+                        }
+                    ], 
+                    "displayName": "Dave Holland", 
+                    "uri": "http://www.songkick.com/artists/210615-dave-holland?utm_source=32233&utm_medium=partner", 
+                    "id": 210615
+                }, 
+                "displayName": "Dave Holland", 
+                "id": 54492564, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27987509
+    }, 
+    "musicbrainz_response": {
+        "name": "Dave Holland", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "GB", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "isnis": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.biff.org.uk/dave/", 
+                    "id": "312b1e5f-6383-4a49-a8fe-fce0ca49ecfa"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Holland, Dave", 
+        "gender": "Male", 
+        "type": "Person", 
+        "id": "3c9ed911-02c1-4c4c-ae25-6ee1a74d8b24", 
+        "disambiguation": "British ceilidh musician"
+    }, 
+    "age_minutes": 130, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 40.0, 
+        "price_min": 40.0
+    }, 
+    "modified_time": 1479488332.0, 
+    "created_time": 1479486522.0, 
+    "modified_minutes": 99, 
+    "id": 27987509
+}

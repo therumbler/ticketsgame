@@ -1,0 +1,177 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Pure Disgust, Wound Man, The Outskirts, and The Hotheads at Alphaville (November 11, 2016)", 
+        "popularity": 5.5e-05, 
+        "venue": {
+            "displayName": "Alphaville", 
+            "uri": "http://www.songkick.com/venues/2884073-alphaville?utm_source=32233&utm_medium=partner", 
+            "lat": 40.700486, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.925855, 
+            "id": 2884073
+        }, 
+        "uri": "http://www.songkick.com/concerts/27966344-pure-disgust-at-alphaville?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-11T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.700486, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.925855
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "22eff952-071f-4342-b9a9-c2c85fc91120", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:22eff952-071f-4342-b9a9-c2c85fc91120.json"
+                        }
+                    ], 
+                    "displayName": "Pure Disgust", 
+                    "uri": "http://www.songkick.com/artists/7312844-pure-disgust?utm_source=32233&utm_medium=partner", 
+                    "id": 7312844
+                }, 
+                "displayName": "Pure Disgust", 
+                "id": 54454604, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Wound Man", 
+                    "uri": "http://www.songkick.com/artists/8840189-wound-man?utm_source=32233&utm_medium=partner", 
+                    "id": 8840189
+                }, 
+                "displayName": "Wound Man", 
+                "id": 54454609, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Outskirts", 
+                    "uri": "http://www.songkick.com/artists/334644-outskirts?utm_source=32233&utm_medium=partner", 
+                    "id": 334644
+                }, 
+                "displayName": "The Outskirts", 
+                "id": 54454614, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b0fd3252-69d5-4da6-92cd-d7e28e84bdd9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b0fd3252-69d5-4da6-92cd-d7e28e84bdd9.json"
+                        }
+                    ], 
+                    "displayName": "The Hotheads", 
+                    "uri": "http://www.songkick.com/artists/56060-hotheads?utm_source=32233&utm_medium=partner", 
+                    "id": 56060
+                }, 
+                "displayName": "The Hotheads", 
+                "id": 54454619, 
+                "billing": "headline", 
+                "billingIndex": 4
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27966344
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Pure Disgust", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "punk"
+            }
+        ], 
+        "country": null, 
+        "disambiguation": "", 
+        "area": {
+            "sort-name": "Washington, D.C.", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-DC"
+            ], 
+            "id": "af59135f-38b5-4ea4-b4e2-dd28c5f0bad7", 
+            "name": "Washington, D.C."
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://puredisgustdc.bandcamp.com/", 
+                    "id": "8bba0bb7-a696-4ddf-a335-dd5e0d009c2b"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/puredisgustdc", 
+                    "id": "273aef57-df10-4968-96f4-b480c4abaf61"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "22eff952-071f-4342-b9a9-c2c85fc91120", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Pure Disgust", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 27966344, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

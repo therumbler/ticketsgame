@@ -1,0 +1,154 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Aaron Carter with City Under Siege and clover the girl at The Door (November 19, 2016)", 
+        "popularity": 0.012756, 
+        "venue": {
+            "displayName": "The Door", 
+            "uri": "http://www.songkick.com/venues/11339-door?utm_source=32233&utm_medium=partner", 
+            "lat": 32.7833618, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.7869418, 
+            "id": 11339
+        }, 
+        "uri": "http://www.songkick.com/concerts/28161789-aaron-carter-at-door?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "datetime": "2016-11-19T19:30:00-0600", 
+            "time": "19:30:00"
+        }, 
+        "location": {
+            "lat": 32.7833618, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.7869418
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1273a30c-b8b1-483a-9d66-66a0c832fc57", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1273a30c-b8b1-483a-9d66-66a0c832fc57.json"
+                        }, 
+                        {
+                            "mbid": "4c0bb5bc-95ad-47de-99e3-fbb4fbc5f393", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4c0bb5bc-95ad-47de-99e3-fbb4fbc5f393.json"
+                        }
+                    ], 
+                    "displayName": "Aaron Carter", 
+                    "uri": "http://www.songkick.com/artists/481012-aaron-carter?utm_source=32233&utm_medium=partner", 
+                    "id": 481012
+                }, 
+                "displayName": "Aaron Carter", 
+                "id": 54796954, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a9edd049-7de7-49ac-8522-725b38d1e3d0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a9edd049-7de7-49ac-8522-725b38d1e3d0.json"
+                        }
+                    ], 
+                    "displayName": "City Under Siege", 
+                    "uri": "http://www.songkick.com/artists/627224-city-under-siege?utm_source=32233&utm_medium=partner", 
+                    "id": 627224
+                }, 
+                "displayName": "City Under Siege", 
+                "id": 55012869, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "clover the girl", 
+                    "uri": "http://www.songkick.com/artists/8858274-clover-the-girl?utm_source=32233&utm_medium=partner", 
+                    "id": 8858274
+                }, 
+                "displayName": "clover the girl", 
+                "id": 55012874, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28161789
+    }, 
+    "musicbrainz_response": {
+        "name": "Aaron Carter", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/258475", 
+                    "id": "b972b038-d662-4fd5-aabe-b93aaaf57a74"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Carter, Aaron", 
+        "gender": "Male", 
+        "id": "1273a30c-b8b1-483a-9d66-66a0c832fc57", 
+        "type": "Person", 
+        "disambiguation": "electronic producer, member of Cirrus", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Unknown", 
+        "price_max": 50.0, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?u=291182&b=234786&m=27601&urllink=www.ticketfly.com/purchase/event/1329351/tfly?utm_medium=api&afftrack=e28161789", 
+        "price_min": 16.0
+    }, 
+    "modified_time": 1479442546.0, 
+    "created_minutes": 18173, 
+    "created_time": 1478565996.0, 
+    "modified_minutes": 3564, 
+    "id": 28161789
+}

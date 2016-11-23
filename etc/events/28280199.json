@@ -1,0 +1,288 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Franklin Electric with Common Deer at Horseshoe Tavern (November 24, 2016)", 
+        "popularity": 0.001559, 
+        "venue": {
+            "displayName": "Horseshoe Tavern", 
+            "uri": "http://www.songkick.com/venues/32006-horseshoe-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6490276, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.3958802, 
+            "id": 32006
+        }, 
+        "uri": "http://www.songkick.com/concerts/28280199-franklin-electric-at-horseshoe-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-24", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-24T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 43.6490276, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.3958802
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3f5520e3-f3e6-4af9-8128-209f3cbb17dc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3f5520e3-f3e6-4af9-8128-209f3cbb17dc.json"
+                        }
+                    ], 
+                    "displayName": "The Franklin Electric", 
+                    "uri": "http://www.songkick.com/artists/6031349-franklin-electric?utm_source=32233&utm_medium=partner", 
+                    "id": 6031349
+                }, 
+                "displayName": "The Franklin Electric", 
+                "id": 55000484, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Common Deer", 
+                    "uri": "http://www.songkick.com/artists/8096313-common-deer?utm_source=32233&utm_medium=partner", 
+                    "id": 8096313
+                }, 
+                "displayName": "Common Deer", 
+                "id": 55223969, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28280199
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Franklin Electric", 
+        "twitter": "thefranklinelec", 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+            "name": "Canada"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "canadian"
+            }, 
+            {
+                "count": 1, 
+                "name": "electric"
+            }, 
+            {
+                "count": 1, 
+                "name": "franklin"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thefranklinelectric.bandcamp.com/", 
+                    "id": "42623862-0fd9-4b86-a06d-591c324a3b3f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4200925", 
+                    "id": "5c1a7dff-c5da-4321-acc7-e71d5507b795"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.thefranklinelectric.com/", 
+                    "id": "41bf4d82-aa8b-433f-9162-0c2507745da0"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/thefranklinelec", 
+                    "id": "bb0dad81-4044-4dda-86d1-547248647011"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/THEFRANKLINELECTRIC", 
+                    "id": "8ded0ff1-77bb-4f23-ab88-933d78fad741"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/thefranklinelectric", 
+                    "id": "a31d273e-28a9-4b4f-bc86-fe5740514d2f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/thefranklinelectric1", 
+                    "id": "759da338-6487-4c76-bffb-3dd7315d5f6d"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "CA", 
+        "sort-name": "Franklin Electric, The", 
+        "type": "Group", 
+        "id": "3f5520e3-f3e6-4af9-8128-209f3cbb17dc", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15879, 
+    "bandsintown_response": {
+        "description": "The Franklin Electric", 
+        "title": "The Franklin Electric @ The Horseshoe Tavern in Toronto, Canada", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Toronto", 
+            "name": "The Horseshoe Tavern", 
+            "country": "Canada", 
+            "region": "ON", 
+            "longitude": -79.395913, 
+            "place": "The Horseshoe Tavern", 
+            "latitude": 43.6490438
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13083445?app_id=ticketsgame&artist=The+Franklin+Electric&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13083445/buy_tickets?app_id=ticketsgame&artist=The+Franklin+Electric&came_from=67", 
+        "on_sale_datetime": "2016-10-07T12:00:03", 
+        "formatted_datetime": "Thursday, November 24, 2016 at 8:30PM", 
+        "datetime": "2016-11-24T20:30:00", 
+        "formatted_location": "Toronto, Canada", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1347001/tfly%3Futm_medium%3Dapi&afftrack=67%7E16436007%7E24033284%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/THEFRANKLINELECTRIC", 
+                "name": "The Franklin Electric", 
+                "url": "TheFranklinElectric", 
+                "tracker_count": 10158, 
+                "mbid": null, 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/7049995.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheFranklinElectric/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/7049995.jpeg"
+            }
+        ], 
+        "ticket_details": {
+            "price_max": 15.0, 
+            "price_min": 15.0
+        }, 
+        "ticket_status": "available", 
+        "id": 13083445
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442891.0, 
+    "created_time": 1478543016.0, 
+    "modified_minutes": 881, 
+    "id": 28280199
+}

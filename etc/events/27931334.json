@@ -1,0 +1,121 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "London Jazz Festival 2016", 
+        "series": {
+            "displayName": "London Jazz Festival"
+        }, 
+        "popularity": 8.4e-05, 
+        "venue": {
+            "displayName": "Brasserie Zedel", 
+            "uri": "http://www.songkick.com/venues/2522579-brasserie-zedel?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5111422, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1361376, 
+            "id": 2522579
+        }, 
+        "uri": "http://www.songkick.com/festivals/398/id/27931334-london-jazz-festival-2016?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.5111422, 
+            "city": "London, UK", 
+            "lng": -0.1361376
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6706e229-48ae-493f-911c-c310cedc508e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6706e229-48ae-493f-911c-c310cedc508e.json"
+                        }
+                    ], 
+                    "displayName": "Hailey Tuck", 
+                    "uri": "http://www.songkick.com/artists/7101594-hailey-tuck?utm_source=32233&utm_medium=partner", 
+                    "id": 7101594
+                }, 
+                "displayName": "Hailey Tuck", 
+                "id": 54392559, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "end": {
+            "date": "2016-11-20", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "type": "Festival", 
+        "id": 27931334
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Hailey Tuck", 
+        "area": {
+            "sort-name": "London", 
+            "disambiguation": "", 
+            "name": "London", 
+            "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1990-04-25", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.haileytuckmusic.com/", 
+                    "id": "b199319e-d878-413d-8b2b-65628c2d7e1f"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Hailey Tuck", 
+        "begin_area": {
+            "sort-name": "Austin", 
+            "disambiguation": "", 
+            "name": "Austin", 
+            "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5"
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "type": "Person", 
+        "id": "6706e229-48ae-493f-911c-c310cedc508e", 
+        "disambiguation": ""
+    }, 
+    "id": 27931334, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

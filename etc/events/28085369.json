@@ -1,0 +1,135 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Savoy Motel with Escape-ism and The Sueves at Union Pool (November 11, 2016)", 
+        "popularity": 3.5e-05, 
+        "venue": {
+            "displayName": "Union Pool", 
+            "uri": "http://www.songkick.com/venues/10751-union-pool?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7149447, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9516144, 
+            "id": 10751
+        }, 
+        "uri": "http://www.songkick.com/concerts/28085369-savoy-motel-at-union-pool?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-11T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7149447, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9516144
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "56af6c0d-8f3f-4194-9c0e-9ba3d8e0117a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:56af6c0d-8f3f-4194-9c0e-9ba3d8e0117a.json"
+                        }
+                    ], 
+                    "displayName": "Savoy Motel", 
+                    "uri": "http://www.songkick.com/artists/8595204-savoy-motel?utm_source=32233&utm_medium=partner", 
+                    "id": 8595204
+                }, 
+                "displayName": "Savoy Motel", 
+                "id": 54662529, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Escape-ism", 
+                    "uri": "http://www.songkick.com/artists/8572654-escapeism?utm_source=32233&utm_medium=partner", 
+                    "id": 8572654
+                }, 
+                "displayName": "Escape-ism", 
+                "id": 55091599, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Sueves", 
+                    "uri": "http://www.songkick.com/artists/4147296-sueves?utm_source=32233&utm_medium=partner", 
+                    "id": 4147296
+                }, 
+                "displayName": "The Sueves", 
+                "id": 55091604, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28085369
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Savoy Motel", 
+        "sort-name": "Savoy Motel", 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "name": "Nashville", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://savoymotel.com/", 
+                    "id": "f677a11b-d431-467b-bcec-6a507a9ea7cb"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "disambiguation": "", 
+        "type": null, 
+        "id": "56af6c0d-8f3f-4194-9c0e-9ba3d8e0117a", 
+        "tags": []
+    }, 
+    "id": 28085369, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Tow'rs at Knitting Factory (November 13, 2016)", 
+        "popularity": 0.000597, 
+        "venue": {
+            "displayName": "Knitting Factory", 
+            "uri": "http://www.songkick.com/venues/664591-knitting-factory?utm_source=32233&utm_medium=partner", 
+            "lat": 40.714173, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9556651, 
+            "id": 664591
+        }, 
+        "uri": "http://www.songkick.com/concerts/28168869-towrs-at-knitting-factory?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-13T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.714173, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9556651
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "33a0db54-2ce5-41ef-b050-188e920d5564", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:33a0db54-2ce5-41ef-b050-188e920d5564.json"
+                        }
+                    ], 
+                    "displayName": "Tow'rs", 
+                    "uri": "http://www.songkick.com/artists/8594239-towrs?utm_source=32233&utm_medium=partner", 
+                    "id": 8594239
+                }, 
+                "displayName": "Tow'rs", 
+                "id": 54809564, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28168869
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Tow'rs", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Flagstaff", 
+            "disambiguation": "", 
+            "name": "Flagstaff", 
+            "id": "aaf0d894-7d54-4df2-9405-7df6d09b5d6a"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.towrsmusic.com/", 
+                    "id": "a49ec7c6-d17a-474a-8cef-f8dac55ef7d0"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "33a0db54-2ce5-41ef-b050-188e920d5564", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Tow'rs", 
+        "type": "Group", 
+        "disambiguation": ""
+    }, 
+    "id": 28168869, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

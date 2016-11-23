@@ -1,0 +1,131 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Eric Dodd at Smith's Olde Bar (December 10, 2016)", 
+        "popularity": 2.7e-05, 
+        "venue": {
+            "displayName": "Smith's Olde Bar", 
+            "uri": "http://www.songkick.com/venues/1232701-smiths-olde-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7976407, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3688488, 
+            "id": 1232701
+        }, 
+        "uri": "http://www.songkick.com/concerts/27733049-eric-dodd-at-smiths-olde-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-10", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 33.7976407, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.3688488
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e5c040f0-4c42-4f14-987f-bd1fd264d00a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e5c040f0-4c42-4f14-987f-bd1fd264d00a.json"
+                        }
+                    ], 
+                    "displayName": "Eric Dodd", 
+                    "uri": "http://www.songkick.com/artists/4204101-eric-dodd?utm_source=32233&utm_medium=partner", 
+                    "id": 4204101
+                }, 
+                "displayName": "Eric Dodd", 
+                "id": 54025209, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27733049
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Eric Dodd", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/356462", 
+                    "id": "38d9193e-a7b3-463b-843c-c5736bfb27de"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Eric_Valentine", 
+                    "id": "2eafdbe9-8304-4406-baef-1edf954c05df"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Dodd, Eric", 
+        "gender": "Male", 
+        "id": "e5c040f0-4c42-4f14-987f-bd1fd264d00a", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 27733049, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

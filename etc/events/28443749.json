@@ -1,0 +1,128 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Chamber Orchestra of Philadelphia at World Cafe Live \u2013 Upstairs (November 30, 2016)", 
+        "popularity": 4.1e-05, 
+        "venue": {
+            "displayName": "World Cafe Live \u2013 Upstairs", 
+            "uri": "http://www.songkick.com/venues/855146-world-cafe-live-upstairs?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9522059, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.185114, 
+            "id": 855146
+        }, 
+        "uri": "http://www.songkick.com/concerts/28443749-chamber-orchestra-of-philadelphia-at-world-cafe-live-upstairs?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-30", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-30T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9522059, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.185114
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "90cef258-71e6-4558-8b82-65607489260a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:90cef258-71e6-4558-8b82-65607489260a.json"
+                        }
+                    ], 
+                    "displayName": "The Chamber Orchestra of Philadelphia", 
+                    "uri": "http://www.songkick.com/artists/282402-chamber-orchestra-of-philadelphia?utm_source=32233&utm_medium=partner", 
+                    "id": 282402
+                }, 
+                "displayName": "The Chamber Orchestra of Philadelphia", 
+                "id": 55285314, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28443749
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5", 
+        "name": "Chamber Orchestra of Philadelphia", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Philadelphia", 
+            "disambiguation": "", 
+            "name": "Philadelphia", 
+            "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://chamberorchestra.org/", 
+                    "id": "29896d75-b463-454f-be1d-e65269145ac1"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Chamber_Orchestra_of_Philadelphia", 
+                    "id": "13db869a-a8f2-4dfe-8c85-88ef7b83b66d"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Chamber Orchestra of Philadelphia", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "type": "Orchestra", 
+        "id": "90cef258-71e6-4558-8b82-65607489260a", 
+        "disambiguation": ""
+    }, 
+    "id": 28443749, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

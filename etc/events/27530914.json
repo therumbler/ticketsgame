@@ -1,0 +1,149 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Jefferson Hamer at Sunny's Bar (November 10, 2016)", 
+        "popularity": 9.5e-05, 
+        "venue": {
+            "displayName": "Sunny's Bar", 
+            "uri": "http://www.songkick.com/venues/1435838-sunnys-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 40.6757655, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -74.0168431, 
+            "id": 1435838
+        }, 
+        "uri": "http://www.songkick.com/concerts/27530914-jefferson-hamer-at-sunnys-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-10T21:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.6757655, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -74.0168431
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b2ee1071-52e4-447b-8233-7ab0a6e5e60b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b2ee1071-52e4-447b-8233-7ab0a6e5e60b.json"
+                        }
+                    ], 
+                    "displayName": "Jefferson Hamer", 
+                    "uri": "http://www.songkick.com/artists/641190-jefferson-hamer?utm_source=32233&utm_medium=partner", 
+                    "id": 641190
+                }, 
+                "displayName": "Jefferson Hamer", 
+                "id": 53658064, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27530914
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Jefferson Hamer", 
+        "tags": [], 
+        "country": "US", 
+        "twitter": "jeffersonhamer", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Hamer, Jefferson", 
+        "begin_area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.jeffersonhamer.com/", 
+                    "id": "6868602a-f978-474d-8e21-1122b2db1841"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/jeffersonhamer", 
+                    "id": "630ac923-d127-4fc1-8775-23716f131bec"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/jeffersonhamermusic", 
+                    "id": "39055e10-aad7-470b-a84b-85e8cb190098"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "id": "b2ee1071-52e4-447b-8233-7ab0a6e5e60b", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 27530914, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Cole Swindell and Jon Langston at Fillmore Silver Spring (November 12, 2016)", 
+        "popularity": 0.034121, 
+        "venue": {
+            "displayName": "Fillmore Silver Spring", 
+            "uri": "http://www.songkick.com/venues/1448428-fillmore-silver-spring?utm_source=32233&utm_medium=partner", 
+            "lat": 38.997482, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.027928, 
+            "id": 1448428
+        }, 
+        "uri": "http://www.songkick.com/concerts/27869379-cole-swindell-at-fillmore-silver-spring?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-12T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.997482, 
+            "city": "Silver Spring, MD, US", 
+            "lng": -77.027928
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "365247e5-db90-4d0e-bf2c-ca18b54fcab9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:365247e5-db90-4d0e-bf2c-ca18b54fcab9.json"
+                        }
+                    ], 
+                    "displayName": "Cole Swindell", 
+                    "uri": "http://www.songkick.com/artists/3488126-cole-swindell?utm_source=32233&utm_medium=partner", 
+                    "id": 3488126
+                }, 
+                "displayName": "Cole Swindell", 
+                "id": 54276494, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "86b3d293-cfd6-41c0-b97f-bdb3d760253a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:86b3d293-cfd6-41c0-b97f-bdb3d760253a.json"
+                        }
+                    ], 
+                    "displayName": "Jon Langston", 
+                    "uri": "http://www.songkick.com/artists/7120794-jon-langston?utm_source=32233&utm_medium=partner", 
+                    "id": 7120794
+                }, 
+                "displayName": "Jon Langston", 
+                "id": 54652969, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27869379
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Cole Swindell", 
+        "sort-name": "Swindell, Cole", 
+        "gender": "Male", 
+        "disambiguation": "", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002795282", 
+                    "id": "c1d44fc1-5c25-4221-a62c-04dbeb030e67"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q15101510", 
+                    "id": "320cc240-591c-4019-bd3b-8048ba7db47b"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Cole_Swindell", 
+                    "id": "6103cf83-ac55-4763-894f-a691f1996912"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00631031011"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Glennville", 
+            "disambiguation": "", 
+            "name": "Glennville", 
+            "id": "9a817c51-21a2-40d1-b808-1943902d59dc"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "id": "365247e5-db90-4d0e-bf2c-ca18b54fcab9", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1983-06-30", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "bro-country"
+            }, 
+            {
+                "count": 1, 
+                "name": "contemporary country"
+            }, 
+            {
+                "count": 0, 
+                "name": "country"
+            }, 
+            {
+                "count": 1, 
+                "name": "country pop"
+            }
+        ]
+    }, 
+    "id": 27869379, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

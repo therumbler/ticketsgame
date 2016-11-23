@@ -1,0 +1,147 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Toh Kay at The Showbox (December 12, 2016)", 
+        "popularity": 0.001729, 
+        "venue": {
+            "displayName": "The Showbox", 
+            "uri": "http://www.songkick.com/venues/5621-showbox?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6087897, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3399932, 
+            "id": 5621
+        }, 
+        "uri": "http://www.songkick.com/concerts/28333409-toh-kay-at-showbox?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-12", 
+            "time": "20:30:00", 
+            "datetime": "2016-12-12T20:30:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6087897, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3399932
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "efc3813f-abf4-4d4f-a5c8-0ff2dd7e7cb3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:efc3813f-abf4-4d4f-a5c8-0ff2dd7e7cb3.json"
+                        }
+                    ], 
+                    "displayName": "Toh Kay", 
+                    "uri": "http://www.songkick.com/artists/3328966-toh-kay?utm_source=32233&utm_medium=partner", 
+                    "id": 3328966
+                }, 
+                "displayName": "Toh Kay", 
+                "id": 55094019, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28333409
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Toh Kay", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2533095", 
+                    "id": "d22d7a2d-c5c7-4251-850f-de85ae6a46cb"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1270962", 
+                    "id": "c85cc8bc-dd20-4fb5-ad0c-9d54fd2c99c8"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Tomas_Kalnoky", 
+                    "id": "527c3c47-90fb-4f2d-9649-5fcc2ae703e3"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "sort-name": "Kay, Toh", 
+        "type": "Person", 
+        "id": "efc3813f-abf4-4d4f-a5c8-0ff2dd7e7cb3", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "ticket_redirect_url": "http://www.axs.com/events/326700/an-evening-with-toh-kay-tomas-of-streetlight-manifesto-tickets?aff=usaffsongkick", 
+        "price_min": false
+    }, 
+    "modified_time": 1479442717.0, 
+    "created_minutes": 18204, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 3593, 
+    "id": 28333409
+}

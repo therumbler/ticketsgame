@@ -1,0 +1,374 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "James Bay at The Slaughtered Lamb (November 25, 2016)", 
+        "popularity": 0.099475, 
+        "venue": {
+            "displayName": "The Slaughtered Lamb", 
+            "uri": "http://www.songkick.com/venues/6950-slaughtered-lamb?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5233496, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1011681, 
+            "id": 6950
+        }, 
+        "uri": "http://www.songkick.com/concerts/28538869-james-bay-at-slaughtered-lamb?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.5233496, 
+            "city": "London, UK", 
+            "lng": -0.1011681
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "James Bay", 
+                "id": 55447969, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6a997121-0919-482b-a91b-c6fe1b55a4b9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6a997121-0919-482b-a91b-c6fe1b55a4b9.json"
+                        }
+                    ], 
+                    "displayName": "James Bay", 
+                    "uri": "http://www.songkick.com/artists/3741276-james-bay?utm_source=32233&utm_medium=partner", 
+                    "id": 3741276
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28538869
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "James Bay", 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "gender": "Male", 
+        "twitter": "JamesBayMusic", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "isnis": [
+            "0000000447348338"
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/6a997121-0919-482b-a91b-c6fe1b55a4b9", 
+                    "id": "df2b0ac8-b256-4fad-a390-805e42bb03fe"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/315120139", 
+                    "id": "4b3f90f0-83d2-43ff-82e6-c5090d133577"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003056815", 
+                    "id": "1ab8a018-9715-4117-87e7-9dc3c10163da"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3488500", 
+                    "id": "39b4ce5c-e00c-459c-9185-b6ab27f3dd68"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.jamesbay.com/", 
+                    "id": "50122f15-c1f5-48a2-81b3-bdcfeffbcf56"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/james_bay", 
+                    "id": "6903820a-e849-4ff9-a4d4-6dc2acbf9c74"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.musik-sammler.de/artist/james-bay/", 
+                    "id": "ea2f88d9-ff09-4144-83dd-26167d99218e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/JamesBayMusic", 
+                    "id": "3423e4c5-7852-4bd4-a1b4-3ba863271e7d"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/jamesbaymusic", 
+                    "id": "3b6305d0-f828-42e0-a2ee-af94e72fd273"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/jamesbaymusic/", 
+                    "id": "7b92f680-eb3e-4bad-be2f-f78ddbd1d349"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/3741276-james-bay", 
+                    "id": "5061720a-0b3b-4492-ace2-b6852d0932e9"
+                }, 
+                "direction": "forward", 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/jamesbaymusic", 
+                    "id": "f4048994-c91b-4108-9e9c-0243debd775a"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q17811637", 
+                    "id": "21699bec-55c0-4f45-a0ac-43f530ea70d0"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/James_Bay_(singer)", 
+                    "id": "e40425c6-0316-4538-9b4e-62bd061458da"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/jamesbayofficial", 
+                    "id": "9ada72bb-5e7e-4d05-bd2f-94eeace79552"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00636008661"
+        ], 
+        "end_area": null, 
+        "sort-name": "Bay, James", 
+        "begin_area": {
+            "sort-name": "Hitchin", 
+            "disambiguation": "", 
+            "name": "Hitchin", 
+            "id": "93c74419-8556-418f-ba42-b2fb4f5b8671"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "GB", 
+        "id": "6a997121-0919-482b-a91b-c6fe1b55a4b9", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "indie pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "soul"
+            }
+        ], 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1990-09-04", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28538869, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

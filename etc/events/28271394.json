@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Bastille at Verizon Theatre at Grand Prairie (April 9, 2017)", 
+        "popularity": 0.300848, 
+        "venue": {
+            "displayName": "Verizon Theatre at Grand Prairie", 
+            "uri": "http://www.songkick.com/venues/36241-verizon-theatre-at-grand-prairie?utm_source=32233&utm_medium=partner", 
+            "lat": 32.766852, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.983464, 
+            "id": 36241
+        }, 
+        "uri": "http://www.songkick.com/concerts/28271394-bastille-at-verizon-theatre-at-grand-prairie?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-04-09", 
+            "time": "19:00:00", 
+            "datetime": "2017-04-09T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 32.766852, 
+            "city": "Grand Prairie, TX, US", 
+            "lng": -96.983464
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b53cab0a-f355-41eb-9bce-bf619b6d760e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b53cab0a-f355-41eb-9bce-bf619b6d760e.json"
+                        }, 
+                        {
+                            "mbid": "5e836184-f179-4e27-b96c-9b622a2626d6", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5e836184-f179-4e27-b96c-9b622a2626d6.json"
+                        }, 
+                        {
+                            "mbid": "7808accb-6395-4b25-858c-678bbb73896b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7808accb-6395-4b25-858c-678bbb73896b.json"
+                        }
+                    ], 
+                    "displayName": "Bastille", 
+                    "uri": "http://www.songkick.com/artists/561185-bastille?utm_source=32233&utm_medium=partner", 
+                    "id": 561185
+                }, 
+                "displayName": "Bastille", 
+                "id": 54985034, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28271394
+    }, 
+    "musicbrainz_response": {
+        "name": "Bastille", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2449673", 
+                    "id": "20527634-4b1f-4d51-81c4-e0622469dae6"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "Bastille", 
+        "country": null, 
+        "type": "Group", 
+        "id": "b53cab0a-f355-41eb-9bce-bf619b6d760e", 
+        "disambiguation": "metal band"
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "ticket_redirect_url": "http://www.axs.com/events/325920/bastille-tickets?aff=usaffsongkick", 
+        "price_min": false
+    }, 
+    "modified_time": 1479442890.0, 
+    "created_minutes": 5873, 
+    "created_time": 1479305645.0, 
+    "modified_minutes": 3586, 
+    "id": 28271394
+}

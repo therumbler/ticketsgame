@@ -1,0 +1,569 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.116033, 
+        "displayName": "Andrew Bird at Fourth Presbyterian Church of Chicago (December 15, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Fourth Presbyterian Church of Chicago", 
+            "uri": "http://www.songkick.com/venues/3166184-fourth-presbyterian-church-of-chicago?utm_source=32233&utm_medium=partner", 
+            "lat": 41.8985718, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6249154, 
+            "id": 3166184
+        }, 
+        "uri": "http://www.songkick.com/concerts/28314449-andrew-bird-at-fourth-presbyterian-church-of-chicago?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-15", 
+            "datetime": "2016-12-15T20:00:00-0600", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 41.8985718, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6249154
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Andrew Bird", 
+                "id": 55062084, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "081b133e-ce74-42ba-92c1-c18234acb532", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:081b133e-ce74-42ba-92c1-c18234acb532.json"
+                        }
+                    ], 
+                    "displayName": "Andrew Bird", 
+                    "uri": "http://www.songkick.com/artists/395944-andrew-bird?utm_source=32233&utm_medium=partner", 
+                    "id": 395944
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28314449
+    }, 
+    "musicbrainz_response": {
+        "name": "Andrew Bird", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": "Male", 
+        "twitter": "andrewbird", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "baroque pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "folk rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "indie folk"
+            }, 
+            {
+                "count": 1, 
+                "name": "indie rock"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/081b133e-ce74-42ba-92c1-c18234acb532", 
+                    "id": "f734f6d3-9935-4b9b-a479-1977cfcf9993"
+                }, 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/85835489", 
+                    "id": "ebed63df-991b-4a8b-b45f-b6771c8c7082"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000026193", 
+                    "id": "82a626ff-f6fe-40ff-ab99-f15a7f6de6ed"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/277114", 
+                    "id": "39264a7d-778d-49f2-80dd-b16d278e0a23"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://archive.org/details/AndrewBird", 
+                    "id": "d9e785ee-377b-4c35-a6ef-a35993406c0a"
+                }, 
+                "begin": null, 
+                "type-id": "34ae77fe-defb-43ea-95d4-63c7540bac78", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "download for free", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://iadore.net/andrewbird/", 
+                    "id": "2624b693-0b3e-4ff2-9c1a-4736614e435d"
+                }, 
+                "begin": null, 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Andrew+Bird", 
+                    "id": "806e1f9a-3473-474a-95a8-98feb4448eff"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://genius.com/artists/Andrew-bird", 
+                    "id": "b2df36cb-2c46-4fae-b26b-c432cccce52d"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/andrewbird", 
+                    "id": "bf19f257-cb96-493f-979e-1ed31a50647e"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.andrewbird.net/", 
+                    "id": "226f9485-bf45-484d-bb64-9ca052e713e4"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.45cat.com/artist/andrew-bird", 
+                    "id": "627459b6-d984-435f-bf7b-08fc21213fa6"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://imvdb.com/n/andrew-bird", 
+                    "id": "ce31ff10-fc8e-42c2-8f16-953f11ec5c33"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/andrew_bird", 
+                    "id": "fe9ff865-ecee-4a4f-97a0-24d4fe82842c"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id3883114", 
+                    "id": "7f09147f-f5b4-44a1-841b-8f14476a2200"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=A4xdzkhqytrm6wl3pitlkdptwky", 
+                    "id": "6d4e8be8-a018-4786-b224-b0dc7616513e"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/andrewbird", 
+                    "id": "5a844b45-d2a6-431a-ad88-87e6ed9eab0b"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/AndrewBirdMusic", 
+                    "id": "b59feafa-108a-4c14-8ebc-8392f1e6069a"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/andrewbirdmusic/", 
+                    "id": "1cc1bc13-1861-4813-b928-fc7592ac33c3"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/395944-andrew-bird", 
+                    "id": "7aee838c-c696-4ff2-a508-1d5092bdcef0"
+                }, 
+                "begin": null, 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/andrewbird", 
+                    "id": "7ed4e852-7a2c-4ac6-a0f3-5e25887072d0"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9", 
+                    "id": "56485ed0-1cf4-41dc-b00a-9aacec677303"
+                }, 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q503783", 
+                    "id": "93bcbd3c-bdb4-42a7-a9ca-145a6e40580e"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Andrew_Bird", 
+                    "id": "8eb62f50-fae3-4fbf-85de-4de8747155e4"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/andrewbirdmusic", 
+                    "id": "b0a27d46-bea1-423c-96b2-591ec2f846a3"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00189014362"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Lake Forest", 
+            "disambiguation": "", 
+            "id": "bb7716fa-595e-4d40-ac97-f9134ea6d073", 
+            "name": "Lake Forest"
+        }, 
+        "sort-name": "Bird, Andrew", 
+        "isnis": [
+            "0000000078450918"
+        ], 
+        "id": "081b133e-ce74-42ba-92c1-c18234acb532", 
+        "disambiguation": "", 
+        "country": "US", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1973-07-11", 
+            "end": null
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Andrew Bird @ Fourth Presbyterian Church in Chicago, IL", 
+        "ticket_type": "Sold Out", 
+        "venue": {
+            "city": "Chicago", 
+            "name": "Fourth Presbyterian Church", 
+            "country": "United States", 
+            "region": "IL", 
+            "longitude": -87.6248022, 
+            "place": "Fourth Presbyterian Church", 
+            "latitude": 41.8983938
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13105828?app_id=ticketgame&artist=Andrew+Bird&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13105828/buy_tickets?app_id=ticketgame&artist=Andrew+Bird&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Thursday, December 15, 2016 at 7:00PM", 
+        "datetime": "2016-12-15T19:00:00", 
+        "formatted_location": "Chicago, IL", 
+        "ticket_redirect_url": "http://found.ee/ABGezelligheidTix_1215", 
+        "artists": [
+            {
+                "website": "http://www.andrewbird.net", 
+                "facebook_page_url": "https://www.facebook.com/AndrewBirdMusic", 
+                "name": "Andrew Bird", 
+                "url": "AndrewBird", 
+                "tracker_count": 257548, 
+                "mbid": "081b133e-ce74-42ba-92c1-c18234acb532", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6789945.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/AndrewBird/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6789945.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13105828
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://found.ee/ABGezelligheidTix_1215"
+    }, 
+    "modified_time": 1479442901.0, 
+    "created_minutes": 5876, 
+    "created_time": 1479305635.0, 
+    "modified_minutes": 3589, 
+    "id": 28314449
+}

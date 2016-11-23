@@ -1,0 +1,517 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Gary Clark Jr. at The Theatre at the Ace Hotel (December 2, 2016)", 
+        "popularity": 0.058688, 
+        "venue": {
+            "displayName": "The Theatre at the Ace Hotel", 
+            "uri": "http://www.songkick.com/venues/2502474-theatre-at-the-ace-hotel?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0415219, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2568454, 
+            "id": 2502474
+        }, 
+        "uri": "http://www.songkick.com/concerts/28315539-gary-clark-jr-at-theatre-at-the-ace-hotel?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "time": "19:30:00", 
+            "datetime": "2016-12-02T19:30:00-0800"
+        }, 
+        "location": {
+            "lat": 34.0415219, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2568454
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c733c4e6-22a2-499d-ace7-17b832356aff", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c733c4e6-22a2-499d-ace7-17b832356aff.json"
+                        }, 
+                        {
+                            "mbid": "0c15371a-a7dd-474f-8092-2e13619ee239", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0c15371a-a7dd-474f-8092-2e13619ee239.json"
+                        }
+                    ], 
+                    "displayName": "Gary Clark Jr.", 
+                    "uri": "http://www.songkick.com/artists/309236-gary-clark-jr?utm_source=32233&utm_medium=partner", 
+                    "id": 309236
+                }, 
+                "displayName": "Gary Clark Jr.", 
+                "id": 55063864, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28315539
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Gary Clark, Jr.", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1984-02-15", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "blues"
+            }, 
+            {
+                "count": 1, 
+                "name": "blues rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "contemporary r&b"
+            }, 
+            {
+                "count": 1, 
+                "name": "hard rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock and roll"
+            }, 
+            {
+                "count": 1, 
+                "name": "soul"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm2237175/", 
+                    "id": "863c267d-810f-43d4-a682-f40e3fb31b2d"
+                }, 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000989208", 
+                    "id": "b8ace43e-a0b5-4da4-b41a-e4d3c04f9b9b"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.amazon.com/-/e/B006IZU1IM", 
+                    "id": "2749d873-77f2-478f-b658-38eb00a7da8a"
+                }, 
+                "direction": "forward", 
+                "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2699369", 
+                    "id": "f5e296e8-3894-4be5-92ef-b8806280f425"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/wiki/Gary_Clark_Jr.", 
+                    "id": "088bfe65-7044-4c7e-a910-630947ee64a4"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/garyclarkjr", 
+                    "id": "4864166c-e4d2-4b40-b913-14e02a9a1b96"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.garyclarkjr.com/", 
+                    "id": "829a2e5d-5bcc-48e6-95e6-457912784e49"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.whosampled.com/Gary-Clark-Jr./", 
+                    "id": "159d559f-d4c9-409a-a01c-c99df90277fc"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://imvdb.com/n/gary-clark-jr", 
+                    "id": "de52059e-045f-42ab-a70c-554935600467"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/gary_clark_jr_", 
+                    "id": "a3c6e9b3-f012-4099-9208-fb42daa0abad"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id266463936", 
+                    "id": "58746580-c274-4233-b7b5-be28e55e937f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=Akglwmsgvxjppwb5gbzxcsyb5di", 
+                    "id": "67e34c53-d1dc-421f-aa8d-5242a5c7f800"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://plus.google.com/106273704325222243743", 
+                    "id": "307d2d01-6807-49a1-a2d1-22824d3f7767"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/garyclarkjr", 
+                    "id": "56d77aa8-3475-4af1-9c34-0d4069b138e5"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/GaryClarkJr", 
+                    "id": "d11465f7-3545-4efb-85f5-5f64303bfd19"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/garyclarkjrmusic", 
+                    "id": "819e53ae-7a49-4a08-9afa-3125ed1d40b7"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/309236-gary-clark-jr", 
+                    "id": "bcf670e5-a89d-4024-bbed-039138541015"
+                }, 
+                "begin": null, 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/garyclarkjr", 
+                    "id": "e8f9d9c2-8f2d-4a60-ad5e-983e8f768ee3"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp", 
+                    "id": "05b25bf2-6559-4eac-944e-10db4d6a4e8b"
+                }, 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1153310", 
+                    "id": "2a903a81-0fc2-4b0e-8d25-a49804429c65"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Gary_Clark,_Jr.", 
+                    "id": "da1bc943-4a0b-461e-bad6-e68367fbf912"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/garyclarkjr", 
+                    "id": "645c1498-8bb8-4fd9-a145-9b82b8687907"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Austin", 
+            "disambiguation": "", 
+            "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5", 
+            "name": "Austin"
+        }, 
+        "id": "c733c4e6-22a2-499d-ace7-17b832356aff", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "isnis": [
+            "0000000071545682"
+        ], 
+        "sort-name": "Clark, Gary, Jr.", 
+        "country": "US", 
+        "type": "Person", 
+        "twitter": "garyclarkjr", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "ticket_redirect_url": "http://www.axs.com/events/326555/gary-clark-jr-tickets?aff=usaffsongkick", 
+        "price_min": false
+    }, 
+    "modified_time": 1479442901.0, 
+    "created_minutes": 5876, 
+    "created_time": 1479305680.0, 
+    "modified_minutes": 3589, 
+    "id": 28315539
+}

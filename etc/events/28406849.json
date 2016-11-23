@@ -1,0 +1,174 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Marineros with DJ Resistol 5000 at Subterranean (November 11, 2016)", 
+        "popularity": 0.00017, 
+        "venue": {
+            "displayName": "Subterranean", 
+            "uri": "http://www.songkick.com/venues/262-subterranean?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9104085, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.677996, 
+            "id": 262
+        }, 
+        "uri": "http://www.songkick.com/concerts/28406849-marineros-at-subterranean?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "22:30:00", 
+            "datetime": "2016-11-11T22:30:00-0600"
+        }, 
+        "location": {
+            "lat": 41.9104085, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.677996
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "39a81754-5b8c-4826-a96f-41b9aaa8f854", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:39a81754-5b8c-4826-a96f-41b9aaa8f854.json"
+                        }
+                    ], 
+                    "displayName": "Marineros", 
+                    "uri": "http://www.songkick.com/artists/8208448-marineros?utm_source=32233&utm_medium=partner", 
+                    "id": 8208448
+                }, 
+                "displayName": "Marineros", 
+                "id": 55223009, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "DJ Resistol 5000", 
+                    "uri": "http://www.songkick.com/artists/2365693-dj-resistol-5000?utm_source=32233&utm_medium=partner", 
+                    "id": 2365693
+                }, 
+                "displayName": "DJ Resistol 5000", 
+                "id": 55223014, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28406849
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Marineros", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Santiago", 
+            "disambiguation": "", 
+            "id": "77ec97c2-5377-4ac7-b156-620470e71940", 
+            "name": "Santiago"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://schedule.sxsw.com/2015/2015/events/event_MS31824", 
+                    "id": "6d19cf55-45c0-4176-87f9-7981480d27e9"
+                }, 
+                "direction": "forward", 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://omarineros.com/", 
+                    "id": "6e7fb16c-b331-44e9-88ab-e43fb4c45c65"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/omarineros", 
+                    "id": "2046c1c1-9d9d-4d65-8be0-d596ecb4fbf9"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/omarineros", 
+                    "id": "b1af2071-ba23-4355-81e2-56e6c3b75462"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Marineros", 
+        "gender": null, 
+        "type": "Group", 
+        "id": "39a81754-5b8c-4826-a96f-41b9aaa8f854", 
+        "disambiguation": ""
+    }, 
+    "id": 28406849, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

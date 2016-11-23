@@ -1,0 +1,164 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Golden Gardens with Planning For Burial and God and Vanilla at Highline (December 17, 2016)", 
+        "popularity": 0.000329, 
+        "venue": {
+            "displayName": "Highline", 
+            "uri": "http://www.songkick.com/venues/1163446-highline?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6286702, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.321256, 
+            "id": 1163446
+        }, 
+        "uri": "http://www.songkick.com/concerts/28496354-golden-gardens-at-highline?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-17", 
+            "datetime": "2016-12-17T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 47.6286702, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.321256
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "102657e7-69d5-4d94-bc73-10cb98693fbf", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:102657e7-69d5-4d94-bc73-10cb98693fbf.json"
+                        }
+                    ], 
+                    "displayName": "Golden Gardens", 
+                    "uri": "http://www.songkick.com/artists/4208666-golden-gardens?utm_source=32233&utm_medium=partner", 
+                    "id": 4208666
+                }, 
+                "displayName": "Golden Gardens", 
+                "id": 55375629, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "49f035ad-1fa0-4a2b-9d8b-7f67333570e9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:49f035ad-1fa0-4a2b-9d8b-7f67333570e9.json"
+                        }
+                    ], 
+                    "displayName": "Planning For Burial", 
+                    "uri": "http://www.songkick.com/artists/1598061-planning-for-burial?utm_source=32233&utm_medium=partner", 
+                    "id": 1598061
+                }, 
+                "displayName": "Planning For Burial", 
+                "id": 55375634, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "God and Vanilla", 
+                    "uri": "http://www.songkick.com/artists/8508258-god-and-vanilla?utm_source=32233&utm_medium=partner", 
+                    "id": 8508258
+                }, 
+                "displayName": "God and Vanilla", 
+                "id": 55375639, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28496354
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Golden Gardens", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Seattle", 
+            "disambiguation": "", 
+            "name": "Seattle", 
+            "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://goldengardens.bandcamp.com/", 
+                    "id": "1cc386d4-f2f6-4691-bce2-cdc3d8cdd9d3"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/goldengardens", 
+                    "id": "ac7087df-dffd-4935-ad14-97e21495c2aa"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Golden Gardens", 
+        "gender": null, 
+        "id": "102657e7-69d5-4d94-bc73-10cb98693fbf", 
+        "type": null, 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "age_minutes": 15516, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 12.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442376.0, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 912, 
+    "id": 28496354
+}

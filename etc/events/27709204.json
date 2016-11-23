@@ -1,0 +1,192 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Lane 8 at U Street Music Hall (November 10, 2016)", 
+        "popularity": 0.006149, 
+        "venue": {
+            "displayName": "U Street Music Hall", 
+            "uri": "http://www.songkick.com/venues/839721-u-street-music-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 38.917202, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.027764, 
+            "id": 839721
+        }, 
+        "uri": "http://www.songkick.com/concerts/27709204-lane-8-at-u-street-music-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 38.917202, 
+            "city": "Washington, DC, US", 
+            "lng": -77.027764
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bd052b81-353a-4bce-8cd8-72ba9d4ce414", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bd052b81-353a-4bce-8cd8-72ba9d4ce414.json"
+                        }
+                    ], 
+                    "displayName": "Lane 8", 
+                    "uri": "http://www.songkick.com/artists/6321339-lane-8?utm_source=32233&utm_medium=partner", 
+                    "id": 6321339
+                }, 
+                "displayName": "Lane 8", 
+                "id": 53983454, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27709204
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Lane 8", 
+        "area": null, 
+        "gender": "Male", 
+        "twitter": "Lane8music", 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3351905", 
+                    "id": "704e9b33-7fd1-4dd0-acf7-7f45ee1f0e1d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/artist/id634763116", 
+                    "id": "080323e0-c8d6-4636-8d72-05566c975c5f"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/Lane8music", 
+                    "id": "026d12f7-762e-4d2b-bff0-0a04a52a4dea"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/lane8music", 
+                    "id": "80e71898-1cf6-4c28-b7f9-983051eab654"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/lane8music", 
+                    "id": "5bbd7d3a-a453-468c-9d34-dfe7c2a3218e"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q20311234", 
+                    "id": "287ff5b2-a6a4-4661-a3f7-af6376b175e2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "end_area": null, 
+        "sort-name": "Lane 8", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "id": "bd052b81-353a-4bce-8cd8-72ba9d4ce414", 
+        "ipis": [], 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 27709204, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

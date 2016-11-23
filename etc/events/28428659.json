@@ -1,0 +1,238 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001845, 
+        "displayName": "Eric Marienthal with Gerald Veasley at SOUTH (December 22, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "SOUTH", 
+            "uri": "http://www.songkick.com/venues/3097269-south?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9641014, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1616243, 
+            "id": 3097269
+        }, 
+        "uri": "http://www.songkick.com/concerts/28428659-eric-marienthal-at-south?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-22", 
+            "datetime": "2016-12-22T19:00:00-0500", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 39.9641014, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1616243
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Eric Marienthal", 
+                "id": 55259894, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9e20cb53-1193-4dd0-a156-838b3e6278d0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9e20cb53-1193-4dd0-a156-838b3e6278d0.json"
+                        }
+                    ], 
+                    "displayName": "Eric Marienthal", 
+                    "uri": "http://www.songkick.com/artists/539154-eric-marienthal?utm_source=32233&utm_medium=partner", 
+                    "id": 539154
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Gerald Veasley", 
+                "id": 55259899, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "696bc433-dcb8-4f53-b11e-38f82ade17f4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:696bc433-dcb8-4f53-b11e-38f82ade17f4.json"
+                        }
+                    ], 
+                    "displayName": "Gerald Veasley", 
+                    "uri": "http://www.songkick.com/artists/438674-gerald-veasley?utm_source=32233&utm_medium=partner", 
+                    "id": 438674
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28428659
+    }, 
+    "musicbrainz_response": {
+        "name": "Eric Marienthal", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1957-12-19", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000195442", 
+                    "id": "008c7dc6-d3d9-4653-892f-48d90335dfc9"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/455740", 
+                    "id": "4d104058-f260-43c4-8274-7e764b1d9781"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.ericmarienthal.com/", 
+                    "id": "7b3c5ea9-4504-4695-9182-3c89e8330c86"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1351497", 
+                    "id": "bb3915bf-ac67-42c6-bb6f-b910f6b4aab5"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Eric_Marienthal", 
+                    "id": "2c161967-2ebb-4800-8e68-508a3301d19f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "isnis": [], 
+        "sort-name": "Marienthal, Eric", 
+        "country": "US", 
+        "type": "Person", 
+        "id": "9e20cb53-1193-4dd0-a156-838b3e6278d0", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 3183, 
+    "bandsintown_response": {
+        "description": "Eric Marienthal", 
+        "title": "Eric Marienthal @ SOUTH in Philadelphia, PA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Philadelphia", 
+            "name": "SOUTH", 
+            "country": "United States", 
+            "region": "PA", 
+            "longitude": -75.161624, 
+            "place": "SOUTH", 
+            "latitude": 39.964101
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13205420?app_id=ticketgame&artist=Eric+Marienthal&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13205420/buy_tickets?app_id=ticketgame&artist=Eric+Marienthal&came_from=67", 
+        "on_sale_datetime": "2016-10-26T12:32:01", 
+        "formatted_datetime": "Thursday, December 22, 2016 at 7:00PM", 
+        "datetime": "2016-12-22T19:00:00", 
+        "formatted_location": "Philadelphia, PA", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1375661/tfly%3Futm_medium%3Dapi&afftrack=67%7E16605621%7E24353032%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.ericmarienthal.com/", 
+                "facebook_page_url": null, 
+                "name": "Eric Marienthal", 
+                "url": "EricMarienthal", 
+                "tracker_count": 3803, 
+                "mbid": "9e20cb53-1193-4dd0-a156-838b3e6278d0", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5994478.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/EricMarienthal/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5994478.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13205420
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 32.0, 
+        "price_min": 32.0
+    }, 
+    "modified_time": 1479442548.0, 
+    "created_time": 1479305709.0, 
+    "modified_minutes": 902, 
+    "id": 28428659
+}

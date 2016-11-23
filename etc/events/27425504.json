@@ -1,0 +1,205 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Los Angeles Chamber Orchestra, Alexandre Bloch, and Project Trio at Alex Theatre (November 12, 2016)", 
+        "popularity": 0.000306, 
+        "venue": {
+            "displayName": "Alex Theatre", 
+            "uri": "http://www.songkick.com/venues/50558-alex-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 34.1488111, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2547162, 
+            "id": 50558
+        }, 
+        "uri": "http://www.songkick.com/concerts/27425504-los-angeles-chamber-orchestra-at-alex-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 34.1488111, 
+            "city": "Glendale, CA, US", 
+            "lng": -118.2547162
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cdba7b15-9b28-4ea3-ab75-e9c7002e990d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cdba7b15-9b28-4ea3-ab75-e9c7002e990d.json"
+                        }
+                    ], 
+                    "displayName": "Los Angeles Chamber Orchestra", 
+                    "uri": "http://www.songkick.com/artists/220578-los-angeles-chamber-orchestra?utm_source=32233&utm_medium=partner", 
+                    "id": 220578
+                }, 
+                "displayName": "Los Angeles Chamber Orchestra", 
+                "id": 53461224, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Alexandre Bloch", 
+                    "uri": "http://www.songkick.com/artists/8473208-alexandre-bloch?utm_source=32233&utm_medium=partner", 
+                    "id": 8473208
+                }, 
+                "displayName": "Alexandre Bloch", 
+                "id": 53461229, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9ae9e19c-8d87-47eb-aa0b-2f3ca2cbcf32", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9ae9e19c-8d87-47eb-aa0b-2f3ca2cbcf32.json"
+                        }
+                    ], 
+                    "displayName": "Project Trio", 
+                    "uri": "http://www.songkick.com/artists/2750836-project-trio?utm_source=32233&utm_medium=partner", 
+                    "id": 2750836
+                }, 
+                "displayName": "Project Trio", 
+                "id": 53461234, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27425504
+    }, 
+    "bandsintown_response": {
+        "facebook_page_url": null, 
+        "upcoming_event_count": 8, 
+        "name": "Los Angeles Chamber Orchestra", 
+        "tracker_count": 269, 
+        "mbid": "cdba7b15-9b28-4ea3-ab75-e9c7002e990d", 
+        "image_url": "https://s3.amazonaws.com/bit-photos/large/250798.jpeg", 
+        "facebook_tour_dates_url": null, 
+        "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/250798.jpeg"
+    }, 
+    "musicbrainz_response": {
+        "name": "Los Angeles Chamber Orchestra", 
+        "sort-name": "Los Angeles Chamber Orchestra", 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1968", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/146726916", 
+                    "id": "b449ca5d-b3c5-42bd-bf6e-bae9f08f3869"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.laco.org/", 
+                    "id": "8523a59c-b4ee-4a17-9ad6-1e018dfcac4e"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q2920139", 
+                    "id": "f1778bb2-1871-4aea-965d-bffce5e576cc"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Los_Angeles_Chamber_Orchestra", 
+                    "id": "a1c3dbca-f992-4335-bdb7-2ee00fc01663"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5", 
+        "begin_area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62", 
+            "name": "Los Angeles"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "tags": [], 
+        "type": "Orchestra", 
+        "id": "cdba7b15-9b28-4ea3-ab75-e9c7002e990d", 
+        "disambiguation": ""
+    }, 
+    "id": 27425504, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

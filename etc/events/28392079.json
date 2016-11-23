@@ -1,0 +1,170 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "SHEL at The Theatre at the Ace Hotel (November 12, 2016)", 
+        "popularity": 0.001324, 
+        "venue": {
+            "displayName": "The Theatre at the Ace Hotel", 
+            "uri": "http://www.songkick.com/venues/2502474-theatre-at-the-ace-hotel?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0415219, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2568454, 
+            "id": 2502474
+        }, 
+        "uri": "http://www.songkick.com/concerts/28392079-shel-at-theatre-at-the-ace-hotel?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 34.0415219, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2568454
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "35e2eefb-3592-4d34-a0e2-8bd915058cbb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:35e2eefb-3592-4d34-a0e2-8bd915058cbb.json"
+                        }
+                    ], 
+                    "displayName": "SHEL", 
+                    "uri": "http://www.songkick.com/artists/220150-shel?utm_source=32233&utm_medium=partner", 
+                    "id": 220150
+                }, 
+                "displayName": "SHEL", 
+                "id": 55198644, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28392079
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "SHEL", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2005", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002486147", 
+                    "id": "312d92fd-ef52-4df4-92e5-908068a63ce9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1788216", 
+                    "id": "df6c36f2-8e9e-4677-bdf2-0e35b77cd68b"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/shel", 
+                    "id": "40a0fd24-e00d-45f2-b2c9-3626ba5df666"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/4OCTXxXeu6etfZqxfqFihq", 
+                    "id": "b2f8fd7f-0a1f-4676-9494-81aa426fb0d7"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Fort Collins", 
+            "disambiguation": "", 
+            "id": "0931744e-659a-4db0-ad13-daa4d00f9a41", 
+            "name": "Fort Collins"
+        }, 
+        "sort-name": "SHEL", 
+        "gender": null, 
+        "type": "Group", 
+        "id": "35e2eefb-3592-4d34-a0e2-8bd915058cbb", 
+        "disambiguation": "US all-female rock group"
+    }, 
+    "id": 28392079, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

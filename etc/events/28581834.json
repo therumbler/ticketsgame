@@ -1,0 +1,235 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001414, 
+        "displayName": "Kaminanda with BogTroTTer and Grimblee at Subterranean (December 10, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Subterranean", 
+            "uri": "http://www.songkick.com/venues/262-subterranean?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9104085, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.677996, 
+            "id": 262
+        }, 
+        "uri": "http://www.songkick.com/concerts/28581834-kaminanda-at-subterranean?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-10", 
+            "datetime": "2016-12-10T20:30:00-0600", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 41.9104085, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.677996
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0b382ebc-9813-4162-b856-b4eaa26883c7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0b382ebc-9813-4162-b856-b4eaa26883c7.json"
+                        }
+                    ], 
+                    "displayName": "Kaminanda", 
+                    "uri": "http://www.songkick.com/artists/1598476-kaminanda?utm_source=32233&utm_medium=partner", 
+                    "id": 1598476
+                }, 
+                "displayName": "Kaminanda", 
+                "id": 55523944, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d80ae470-fa2b-48fb-a8c0-5854c0877ce5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d80ae470-fa2b-48fb-a8c0-5854c0877ce5.json"
+                        }
+                    ], 
+                    "displayName": "BogTroTTer", 
+                    "uri": "http://www.songkick.com/artists/3601921-bogtrotter?utm_source=32233&utm_medium=partner", 
+                    "id": 3601921
+                }, 
+                "displayName": "BogTroTTer", 
+                "id": 55523949, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "81b6ed56-84ae-42cd-b9c7-d82452871f69", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:81b6ed56-84ae-42cd-b9c7-d82452871f69.json"
+                        }
+                    ], 
+                    "displayName": "Grimblee", 
+                    "uri": "http://www.songkick.com/artists/3795241-grimblee?utm_source=32233&utm_medium=partner", 
+                    "id": 3795241
+                }, 
+                "displayName": "Grimblee", 
+                "id": 55523954, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28581834
+    }, 
+    "musicbrainz_response": {
+        "name": "Kaminanda", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "ambient"
+            }
+        ], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://kaminanda.bandcamp.com/", 
+                    "id": "d741d3bd-49e0-4b65-8784-c19998c0fbf1"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/840047", 
+                    "id": "c1805a16-fbb5-4aa3-8d0f-d372197f038f"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Kaminanda.music", 
+                    "id": "8f6830d8-49cb-49d5-aa04-ea9583f692b9"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/kaminanda", 
+                    "id": "9dd6e2c0-d108-4bda-a82d-b1c7a4c809f1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Kaminanda", 
+        "isnis": [], 
+        "country": null, 
+        "type": "Person", 
+        "id": "0b382ebc-9813-4162-b856-b4eaa26883c7", 
+        "disambiguation": "ambient musician"
+    }, 
+    "age_minutes": 1487, 
+    "bandsintown_response": {
+        "description": "Kaminanda", 
+        "title": "Kaminanda @ Subterranean in Chicago, IL", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Chicago", 
+            "name": "Subterranean", 
+            "country": "United States", 
+            "region": "IL", 
+            "longitude": -87.677985, 
+            "place": "Subterranean", 
+            "latitude": 41.910305
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13313219?app_id=ticketgame&artist=Kaminanda&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13313219/buy_tickets?app_id=ticketgame&artist=Kaminanda&came_from=67", 
+        "on_sale_datetime": "2016-11-16T15:13:28", 
+        "formatted_datetime": "Saturday, December 10, 2016 at 8:30PM", 
+        "datetime": "2016-12-10T20:30:00", 
+        "formatted_location": "Chicago, IL", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1386671/tfly%3Futm_medium%3Dapi&afftrack=67%7E16747906%7E24621111%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/Kaminanda.music", 
+                "name": "Kaminanda", 
+                "url": "Kaminanda", 
+                "tracker_count": 16311, 
+                "mbid": "0b382ebc-9813-4162-b856-b4eaa26883c7", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6186793.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Kaminanda/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6186793.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13313219
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442157.0, 
+    "created_time": 1479409324.0, 
+    "modified_minutes": 940, 
+    "id": 28581834
+}

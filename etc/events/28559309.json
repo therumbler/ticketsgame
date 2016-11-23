@@ -1,0 +1,393 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.007233, 
+        "displayName": "TroyBoi at Boulder Theater (March 11, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Boulder Theater", 
+            "uri": "http://www.songkick.com/venues/30382-boulder-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 40.019138, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -105.277207, 
+            "id": 30382
+        }, 
+        "uri": "http://www.songkick.com/concerts/28559309-troyboi-at-boulder-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-03-11", 
+            "datetime": "2017-03-11T21:00:00-0700", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 40.019138, 
+            "city": "Boulder, CO, US", 
+            "lng": -105.277207
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1f04b3bf-61cb-4dbd-a35d-139fc0c76f2e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1f04b3bf-61cb-4dbd-a35d-139fc0c76f2e.json"
+                        }
+                    ], 
+                    "displayName": "TroyBoi", 
+                    "uri": "http://www.songkick.com/artists/6922004-troyboi?utm_source=32233&utm_medium=partner", 
+                    "id": 6922004
+                }, 
+                "displayName": "TroyBoi", 
+                "id": 55485049, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28559309
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "TroyBoi", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "London", 
+            "disambiguation": "", 
+            "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f", 
+            "name": "London"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/1f04b3bf-61cb-4dbd-a35d-139fc0c76f2e", 
+                    "id": "16b5a2f1-b154-4ea8-b7bb-a39ccf549fa4"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003499455", 
+                    "id": "3339252b-e562-4160-b892-51fdb9a6b491"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bandsintown.com/TroyBoi", 
+                    "id": "261a1639-44e4-416b-af1d-a91f8c3c1d6b"
+                }, 
+                "begin": null, 
+                "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandsintown", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3093208", 
+                    "id": "b629345c-131b-4d8a-b2cd-b10865c8b51e"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/TroyBoi", 
+                    "id": "1ecba110-902e-4dc7-9cc5-a5dff997c0b1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://genius.com/artists/Troyboi", 
+                    "id": "b6ee9670-8523-49b0-b6ed-a8d482770a31"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.whosampled.com/TroyBoi/", 
+                    "id": "c5676d7d-e8e8-498b-a9b2-3034b4e41dff"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/artist/id688290482", 
+                    "id": "08855fde-f2ec-405d-a768-5b55872c99f4"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.beatport.com/artist/troyboi/315089", 
+                    "id": "3ecc3a75-811a-48e1-a55b-890bb81a0e27"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.setlist.fm/setlists/troyboi-7bd852b4.html", 
+                    "id": "c4544ba6-8cbf-4d46-88d5-1a3fdc374c24"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "setlistfm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/troyboimusic", 
+                    "id": "3543cb60-382f-4bde-804f-0b33b45fc826"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://vine.co/u/950353591099654144", 
+                    "id": "56bcbc1c-3132-4d5d-8a13-38fa224636fe"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/troyboimusic", 
+                    "id": "3efdbcc3-ada4-4975-b7f2-1793f0022a6d"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/troyboi_music/", 
+                    "id": "523c29ff-b1d0-4a65-94ae-8f4207cb2cd6"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/6922004-troyboi", 
+                    "id": "9cb8c207-3ffd-48a3-8964-505587ffa210"
+                }, 
+                "direction": "forward", 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/troyboi", 
+                    "id": "eac5e87e-98f6-456e-9475-7c323880d806"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI", 
+                    "id": "bfeb5b50-af9d-470e-98cc-34e7226a34cc"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "TroyBoi", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "isnis": [], 
+        "id": "1f04b3bf-61cb-4dbd-a35d-139fc0c76f2e", 
+        "country": null, 
+        "type": "Person", 
+        "twitter": "troyboimusic", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 25.0, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?u=291182&b=234786&m=27601&urllink=www.ticketfly.com/purchase/event/1383219/tfly?utm_medium=api&afftrack=e28559309", 
+        "price_min": 20.0
+    }, 
+    "modified_time": 1479442220.0, 
+    "created_minutes": 5917, 
+    "created_time": 1479305654.0, 
+    "modified_minutes": 3641, 
+    "id": 28559309
+}

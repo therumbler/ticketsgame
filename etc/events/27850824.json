@@ -1,0 +1,163 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Xylouris White with Marisa Anderson at DC9 Nightclub (November 30, 2016)", 
+        "popularity": 0.000376, 
+        "venue": {
+            "displayName": "DC9 Nightclub", 
+            "uri": "http://www.songkick.com/venues/20843-dc9-nightclub?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9166743, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0239493, 
+            "id": 20843
+        }, 
+        "uri": "http://www.songkick.com/concerts/27850824-xylouris-white-at-dc9-nightclub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-30", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-30T21:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.9166743, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0239493
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b7678eb7-72a9-4a5a-b7af-c7c6afed97ab", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b7678eb7-72a9-4a5a-b7af-c7c6afed97ab.json"
+                        }
+                    ], 
+                    "displayName": "Xylouris White", 
+                    "uri": "http://www.songkick.com/artists/7519899-xylouris-white?utm_source=32233&utm_medium=partner", 
+                    "id": 7519899
+                }, 
+                "displayName": "Xylouris White", 
+                "id": 54242299, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "88ad4c96-34e9-4fab-9e36-62739ad42048", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:88ad4c96-34e9-4fab-9e36-62739ad42048.json"
+                        }
+                    ], 
+                    "displayName": "Marisa Anderson", 
+                    "uri": "http://www.songkick.com/artists/2085862-marisa-anderson?utm_source=32233&utm_medium=partner", 
+                    "id": 2085862
+                }, 
+                "displayName": "Marisa Anderson", 
+                "id": 54881759, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27850824
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Xylouris White", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3614452", 
+                    "id": "e6f4e121-1947-4de0-81d4-526757b93f25"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.xylouriswhite.com/", 
+                    "id": "3195a370-4150-45cb-9ffa-9a03eef49b40"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/XylourisWhiteBand", 
+                    "id": "e38a58e7-ee70-43de-ad0a-7e6c360d6656"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Xylouris White", 
+        "type": "Group", 
+        "id": "b7678eb7-72a9-4a5a-b7af-c7c6afed97ab", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15465, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 12.0, 
+        "price_min": 12.0
+    }, 
+    "modified_time": 1479442193.0, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 863, 
+    "id": 27850824
+}

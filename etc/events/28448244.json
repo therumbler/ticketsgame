@@ -1,0 +1,328 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Ape Machine, Mammoth Salmon, and Old Kingdom at Dante's (November 16, 2016)", 
+        "popularity": 0.000276, 
+        "venue": {
+            "displayName": "Dante's", 
+            "uri": "http://www.songkick.com/venues/35260-dantes?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5229781, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6736892, 
+            "id": 35260
+        }, 
+        "uri": "http://www.songkick.com/concerts/28448244-ape-machine-at-dantes?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "datetime": "2016-11-16T19:00:00-0800", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 45.5229781, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6736892
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bf356c1f-d0d8-4fe2-95f9-634934b3b67d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bf356c1f-d0d8-4fe2-95f9-634934b3b67d.json"
+                        }
+                    ], 
+                    "displayName": "Ape Machine", 
+                    "uri": "http://www.songkick.com/artists/2517011-ape-machine?utm_source=32233&utm_medium=partner", 
+                    "id": 2517011
+                }, 
+                "displayName": "Ape Machine", 
+                "id": 55292894, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Mammoth Salmon", 
+                    "uri": "http://www.songkick.com/artists/6130639-mammoth-salmon?utm_source=32233&utm_medium=partner", 
+                    "id": 6130639
+                }, 
+                "displayName": "Mammoth Salmon", 
+                "id": 55319724, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Old Kingdom", 
+                    "uri": "http://www.songkick.com/artists/4301406-old-kingdom?utm_source=32233&utm_medium=partner", 
+                    "id": 4301406
+                }, 
+                "displayName": "Old Kingdom", 
+                "id": 55292899, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28448244
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Ape Machine", 
+        "tags": [], 
+        "gender": null, 
+        "twitter": "apemachine", 
+        "area": {
+            "sort-name": "Portland", 
+            "disambiguation": "", 
+            "name": "Portland", 
+            "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002878829", 
+                    "id": "018512d0-cf9d-45ef-9527-c8d6c167f854"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://apemachine.bandcamp.com/", 
+                    "id": "4a98da15-28a6-4dc8-ae11-50e14081bbc8"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3050558", 
+                    "id": "ca4e53e4-3b17-4e08-bbb8-edb2abc9ee6b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Ape%20Machine", 
+                    "id": "3b2e13d5-cae1-4edd-8f74-c6aa93675738"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/apemachinemusic", 
+                    "id": "cd895bbb-cfad-4301-b2c8-75b13dfcc552"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://apemachine.com/", 
+                    "id": "bbfc09eb-b2b6-4656-9c74-748e81afb756"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/ape_machine", 
+                    "id": "0ea4d4bb-1e89-47d1-8441-70150271198f"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.reverbnation.com/apemachinemusic", 
+                    "id": "a30bca42-4c9b-4530-93f9-4f5b10e6cf1d"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/apemachinemusic/", 
+                    "id": "6edc629a-5104-4f1e-9aba-70f784097a10"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/apemachine", 
+                    "id": "9d83b82b-d207-4581-979b-006e5b7fda3f"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/apemachinemusic", 
+                    "id": "9c828304-cba9-4e7c-b36f-d6856381489d"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/ApeMachineMusic", 
+                    "id": "2fcacadc-de76-4d13-9393-1a5ac2c3e5cb"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Portland", 
+            "disambiguation": "", 
+            "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557", 
+            "name": "Portland"
+        }, 
+        "id": "bf356c1f-d0d8-4fe2-95f9-634934b3b67d", 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Ape Machine", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2009-07", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28448244, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

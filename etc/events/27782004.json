@@ -1,0 +1,416 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Sister Hazel at House of Blues (December 10, 2016)", 
+        "popularity": 0.038273, 
+        "venue": {
+            "displayName": "House of Blues", 
+            "uri": "http://www.songkick.com/venues/621-house-of-blues?utm_source=32233&utm_medium=partner", 
+            "lat": 41.8882295, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6290953, 
+            "id": 621
+        }, 
+        "uri": "http://www.songkick.com/concerts/27782004-sister-hazel-at-house-of-blues?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-10", 
+            "time": "18:30:00", 
+            "datetime": "2016-12-10T18:30:00-0600"
+        }, 
+        "location": {
+            "lat": 41.8882295, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6290953
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3b141e34-8c02-4074-b68a-7d64e3212acd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3b141e34-8c02-4074-b68a-7d64e3212acd.json"
+                        }
+                    ], 
+                    "displayName": "Sister Hazel", 
+                    "uri": "http://www.songkick.com/artists/486732-sister-hazel?utm_source=32233&utm_medium=partner", 
+                    "id": 486732
+                }, 
+                "displayName": "Sister Hazel", 
+                "id": 54116849, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27782004
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Sister Hazel", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1993", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "southern rock"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/3b141e34-8c02-4074-b68a-7d64e3212acd", 
+                    "id": "518c17c0-d879-4972-9b35-b037bace7d31"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm3130884/", 
+                    "id": "b174788e-da2c-4756-9544-488bc93b8155"
+                }, 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/263350759", 
+                    "id": "235abf57-1737-458b-a886-e8d060ea83dc"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000014822", 
+                    "id": "e946e58c-53b6-40a1-958b-54c9a4a8a3ef"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/422727", 
+                    "id": "be881217-59a4-4476-9831-d145d922fb09"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Sister+Hazel", 
+                    "id": "7c91d583-a639-4ef0-ae91-51bcf56b2d01"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/sister-hazel-lyrics", 
+                    "id": "5dc86f21-fc52-45a6-be39-d8e1e297157d"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-4366/sister-hazel/lyrics.html", 
+                    "id": "baaaf07f-a1fc-4d38-a0e1-9b77777a2899"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/sisterhazel", 
+                    "id": "9d5e6f5c-dd14-4b12-8c59-d4881dd73de7"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.sisterhazel.com/", 
+                    "id": "9281012c-d1a9-449b-b6eb-7632eb87b7c7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/sister_hazel", 
+                    "id": "3625832c-6f5b-4158-ae6f-b0ccba039fd7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/21902", 
+                    "id": "54e5a5da-fc8d-4b23-b689-e9ad6ddff5f8"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/SisterHazelBand", 
+                    "id": "ede2f3c7-3d50-4a5f-b0ff-8b5beb3779df"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/SisterHazel", 
+                    "id": "d8d392da-3f8b-4a72-a4b9-7cf7887d41d6"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1968924", 
+                    "id": "b79cb29c-d62c-4c7c-8a64-11d5ca4fa9cf"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Sister_Hazel", 
+                    "id": "ddbffd9b-b6f7-480a-ba3a-6a5323990612"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Sister Hazel", 
+        "isnis": [], 
+        "id": "3b141e34-8c02-4074-b68a-7d64e3212acd", 
+        "country": "US", 
+        "type": "Group", 
+        "twitter": "SisterHazelBand", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Sister Hazel @ House of Blues in Chicago, IL", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Chicago", 
+            "name": "House of Blues", 
+            "country": "United States", 
+            "region": "IL", 
+            "longitude": -87.65, 
+            "place": "House of Blues", 
+            "latitude": 41.85
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12672624?app_id=ticketgame&artist=Sister+Hazel&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12672624/buy_tickets?app_id=ticketgame&artist=Sister+Hazel&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Saturday, December 10, 2016 at 10:00PM", 
+        "datetime": "2016-12-10T22:00:00", 
+        "formatted_location": "Chicago, IL", 
+        "ticket_redirect_url": "http://www.houseofblues.com/chicago/", 
+        "artists": [
+            {
+                "website": "http://www.sisterhazel.com", 
+                "facebook_page_url": "https://www.facebook.com/SisterHazel", 
+                "name": "Sister Hazel", 
+                "url": "SisterHazel", 
+                "tracker_count": 114624, 
+                "mbid": "3b141e34-8c02-4074-b68a-7d64e3212acd", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/7166165.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/SisterHazel/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/7166165.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12672624
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.houseofblues.com/chicago/"
+    }, 
+    "modified_time": 1479442097.0, 
+    "created_minutes": 14197, 
+    "created_time": 1478803616.0, 
+    "modified_minutes": 3556, 
+    "id": 27782004
+}

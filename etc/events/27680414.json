@@ -1,0 +1,138 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Tancred and Into It. Over It. at The Lexington (November 16, 2016)", 
+        "popularity": 0.008593, 
+        "venue": {
+            "displayName": "The Lexington", 
+            "uri": "http://www.songkick.com/venues/34372-lexington?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5316567, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1114451, 
+            "id": 34372
+        }, 
+        "uri": "http://www.songkick.com/concerts/27680414-tancred-at-lexington?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.5316567, 
+            "city": "London, UK", 
+            "lng": -0.1114451
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7d2532da-1310-4928-9ed0-e5a8d07afdd2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7d2532da-1310-4928-9ed0-e5a8d07afdd2.json"
+                        }
+                    ], 
+                    "displayName": "Tancred", 
+                    "uri": "http://www.songkick.com/artists/7451209-tancred?utm_source=32233&utm_medium=partner", 
+                    "id": 7451209
+                }, 
+                "displayName": "Tancred", 
+                "id": 53931344, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d308cde9-0e44-4fe0-986d-e4657b6e8b7c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d308cde9-0e44-4fe0-986d-e4657b6e8b7c.json"
+                        }
+                    ], 
+                    "displayName": "Into It. Over It.", 
+                    "uri": "http://www.songkick.com/artists/771204-into-it-over-it?utm_source=32233&utm_medium=partner", 
+                    "id": 771204
+                }, 
+                "displayName": "Into It. Over It.", 
+                "id": 53931349, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27680414
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Tancred", 
+        "tags": [], 
+        "country": null, 
+        "twitter": "tancredjess", 
+        "area": null, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Tancred", 
+        "begin_area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/tancredjess", 
+                    "id": "4b64adbe-febe-4c99-ae34-8a30025dadd6"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/tancredmusic", 
+                    "id": "d5878afc-0534-4a7c-b3fe-6edb7bed1984"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "7d2532da-1310-4928-9ed0-e5a8d07afdd2", 
+        "type": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 27680414, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

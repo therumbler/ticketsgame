@@ -1,0 +1,118 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mark Farina at The Mid (November 18, 2016)", 
+        "popularity": 0.010526, 
+        "venue": {
+            "displayName": "The Mid", 
+            "uri": "http://www.songkick.com/venues/1161186-mid?utm_source=32233&utm_medium=partner", 
+            "lat": 41.887093, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6476461, 
+            "id": 1161186
+        }, 
+        "uri": "http://www.songkick.com/concerts/27406324-mark-farina-at-mid?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 41.887093, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6476461
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5fce80af-90c3-419b-97e6-55d0a1e98c2f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5fce80af-90c3-419b-97e6-55d0a1e98c2f.json"
+                        }, 
+                        {
+                            "mbid": "723644fe-d2b7-4b9c-a8e8-9ed7d5cdb476", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:723644fe-d2b7-4b9c-a8e8-9ed7d5cdb476.json"
+                        }
+                    ], 
+                    "displayName": "Mark Farina", 
+                    "uri": "http://www.songkick.com/artists/527589-mark-farina?utm_source=32233&utm_medium=partner", 
+                    "id": 527589
+                }, 
+                "displayName": "Mark Farina", 
+                "id": 53427499, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27406324
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Mark Farina", 
+        "tags": [], 
+        "country": "IT", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Italy", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "IT"
+            ], 
+            "id": "c6500277-9a3d-349b-bf30-41afdbf42add", 
+            "name": "Italy"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/224077", 
+                    "id": "2724c699-f632-454b-a0bf-5c78874e07d5"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Farina, Mark", 
+        "type": "Person", 
+        "id": "5fce80af-90c3-419b-97e6-55d0a1e98c2f", 
+        "disambiguation": "Italian italodisco/eurobeat producer Mauro Farina"
+    }, 
+    "id": 27406324, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

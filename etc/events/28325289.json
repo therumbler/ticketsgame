@@ -1,0 +1,286 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.012933, 
+        "displayName": "The Manhattans and Mary Wilson at Verizon Theatre at Grand Prairie (March 31, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Verizon Theatre at Grand Prairie", 
+            "uri": "http://www.songkick.com/venues/36241-verizon-theatre-at-grand-prairie?utm_source=32233&utm_medium=partner", 
+            "lat": 32.766852, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.983464, 
+            "id": 36241
+        }, 
+        "uri": "http://www.songkick.com/concerts/28325289-manhattans-at-verizon-theatre-at-grand-prairie?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-03-31", 
+            "datetime": "2017-03-31T18:30:00-0500", 
+            "time": "18:30:00"
+        }, 
+        "location": {
+            "lat": 32.766852, 
+            "city": "Grand Prairie, TX, US", 
+            "lng": -96.983464
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "The Manhattans", 
+                "id": 55080314, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8dce8a2d-8ed5-4672-b25e-bfe198b02b82", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8dce8a2d-8ed5-4672-b25e-bfe198b02b82.json"
+                        }
+                    ], 
+                    "displayName": "The Manhattans", 
+                    "uri": "http://www.songkick.com/artists/38716-manhattans?utm_source=32233&utm_medium=partner", 
+                    "id": 38716
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Mary Wilson", 
+                "id": 55080319, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "197ed4d5-fe91-430b-8899-f26dcd1e2bba", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:197ed4d5-fe91-430b-8899-f26dcd1e2bba.json"
+                        }
+                    ], 
+                    "displayName": "Mary Wilson", 
+                    "uri": "http://www.songkick.com/artists/456390-mary-wilson?utm_source=32233&utm_medium=partner", 
+                    "id": 456390
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28325289
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Manhattans", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1962", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 0, 
+                "name": "classic pop and rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "philly soul"
+            }, 
+            {
+                "count": 1, 
+                "name": "smooth soul"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm3171063/", 
+                    "id": "643a6971-2245-436e-9234-8d589dc98ea3"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000051736", 
+                    "id": "24b67204-a04f-46dd-bdf2-13a7e6261d21"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/113675", 
+                    "id": "f462a782-baab-4544-abed-e314673297a8"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/the-manhattans-lyrics", 
+                    "id": "8b12d1f5-db87-4120-b8b0-cf91266ac852"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-8717/the-manhattans/lyrics.html", 
+                    "id": "5592fd73-5cb2-4b39-962d-5cad28ee03c0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/the_manhattans", 
+                    "id": "a9758674-ee1e-401b-8cb8-c36c8e1e2efc"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1535715", 
+                    "id": "7e56b7ed-e842-4118-bd74-3ebcde493dfd"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "Manhattans, The", 
+        "country": "US", 
+        "type": "Group", 
+        "id": "8dce8a2d-8ed5-4672-b25e-bfe198b02b82", 
+        "disambiguation": "New Jersey vocal group, notable for \"Kiss and Say Goodbye\""
+    }, 
+    "bandsintown_response": {
+        "description": "70s Soul Jam with The Whispers, The Manhattans and Mary Wilson Verizon Theatre at Grand Prairie Tickets - Buy and sell 70s Soul Jam with The Whispers, The Manhattans and Mary Wilson Grand Prairie Tickets for March 31 at Verizon Theatre at Grand Prairie in Grand Prairie, TX on StubHub!", 
+        "title": "The Manhattans @ Verizon Theatre at Grand Prairie in Grand Prairie, TX", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Grand Prairie", 
+            "name": "Verizon Theatre at Grand Prairie", 
+            "country": "United States", 
+            "region": "TX", 
+            "longitude": -96.983375, 
+            "place": "Verizon Theatre at Grand Prairie", 
+            "latitude": 32.766944
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13103105?app_id=ticketgame&artist=The+Manhattans&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13103105/buy_tickets?app_id=ticketgame&artist=The+Manhattans&came_from=67", 
+        "on_sale_datetime": "2016-10-14T10:00:00", 
+        "formatted_datetime": "Friday, March 31, 2017 at 7:30PM", 
+        "datetime": "2017-03-31T19:30:00", 
+        "formatted_location": "Grand Prairie, TX", 
+        "ticket_redirect_url": "http://www.axs.com/events/326628/70-s-soul-jam-feat-the-whispers-the-manhattans-and-mary-wilson-of-the-tickets?aff=usaffbandsintown", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "The Manhattans", 
+                "url": "TheManhattans", 
+                "tracker_count": 21113, 
+                "mbid": "8dce8a2d-8ed5-4672-b25e-bfe198b02b82", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5436722.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheManhattans/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5436722.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13103105
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "ticket_redirect_url": "http://www.axs.com/events/326628/70-s-soul-jam-feat-the-whispers-the-manhattans-and-mary-wilson-of-the-tickets?aff=usaffbandsintown", 
+        "price_min": false
+    }, 
+    "modified_time": 1479442902.0, 
+    "created_minutes": 12444, 
+    "created_time": 1478911640.0, 
+    "modified_minutes": 3589, 
+    "id": 28325289
+}

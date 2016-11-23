@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Jeremy Steding at Saxon Pub (November 15, 2016)", 
+        "popularity": 9.5e-05, 
+        "venue": {
+            "displayName": "Saxon Pub", 
+            "uri": "http://www.songkick.com/venues/61167-saxon-pub?utm_source=32233&utm_medium=partner", 
+            "lat": 30.2544135, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7624768, 
+            "id": 61167
+        }, 
+        "uri": "http://www.songkick.com/concerts/28323609-jeremy-steding-at-saxon-pub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-15T22:00:00-0600"
+        }, 
+        "location": {
+            "lat": 30.2544135, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7624768
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d2405465-da07-4845-874c-45d58dfd5c61", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d2405465-da07-4845-874c-45d58dfd5c61.json"
+                        }
+                    ], 
+                    "displayName": "Jeremy Steding", 
+                    "uri": "http://www.songkick.com/artists/2801891-jeremy-steding?utm_source=32233&utm_medium=partner", 
+                    "id": 2801891
+                }, 
+                "displayName": "Jeremy Steding", 
+                "id": 55077724, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28323609
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Jeremy Steding", 
+        "area": null, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://jeremysteding.com/", 
+                    "id": "f07339ec-4a13-41cd-b281-7c45a6bb9100"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/6BCRDL5Lz1rKckEAiizhr8", 
+                    "id": "9ca219ad-edd1-4eb3-a257-9a99004c9c91"
+                }, 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Steding, Jeremy", 
+        "country": null, 
+        "disambiguation": "", 
+        "type": "Person", 
+        "id": "d2405465-da07-4845-874c-45d58dfd5c61", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28323609, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

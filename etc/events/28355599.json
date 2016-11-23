@@ -1,0 +1,108 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Cassandra Kubinski with 78rpm at The Cutting Room (November 16, 2016)", 
+        "popularity": 0.000302, 
+        "venue": {
+            "displayName": "The Cutting Room", 
+            "uri": "http://www.songkick.com/venues/31311-cutting-room?utm_source=32233&utm_medium=partner", 
+            "lat": 40.745815, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.982968, 
+            "id": 31311
+        }, 
+        "uri": "http://www.songkick.com/concerts/28355599-cassandra-kubinski-at-cutting-room?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-16T19:30:00-0500"
+        }, 
+        "location": {
+            "lat": 40.745815, 
+            "city": "New York, NY, US", 
+            "lng": -73.982968
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a336d210-6c36-4374-8c8b-dbc675ada09c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a336d210-6c36-4374-8c8b-dbc675ada09c.json"
+                        }
+                    ], 
+                    "displayName": "Cassandra Kubinski", 
+                    "uri": "http://www.songkick.com/artists/4543513-cassandra-kubinski?utm_source=32233&utm_medium=partner", 
+                    "id": 4543513
+                }, 
+                "displayName": "Cassandra Kubinski", 
+                "id": 55134274, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "78rpm", 
+                    "uri": "http://www.songkick.com/artists/3828011-78rpm?utm_source=32233&utm_medium=partner", 
+                    "id": 3828011
+                }, 
+                "displayName": "78rpm", 
+                "id": 55134279, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28355599
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Cassandra Kubinski", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Kubinski, Cassandra", 
+        "type": "Person", 
+        "id": "a336d210-6c36-4374-8c8b-dbc675ada09c", 
+        "disambiguation": ""
+    }, 
+    "id": 28355599, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

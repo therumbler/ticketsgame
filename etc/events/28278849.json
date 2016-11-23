@@ -1,0 +1,155 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Joey B at Gramercy Theatre (November 23, 2016)", 
+        "popularity": 0.000381, 
+        "venue": {
+            "displayName": "Gramercy Theatre", 
+            "uri": "http://www.songkick.com/venues/502461-gramercy-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7397719, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9849309, 
+            "id": 502461
+        }, 
+        "uri": "http://www.songkick.com/concerts/28278849-joey-b-at-gramercy-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-23", 
+            "time": "23:00:00", 
+            "datetime": "2016-11-23T23:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7397719, 
+            "city": "New York, NY, US", 
+            "lng": -73.9849309
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0e49c76c-8686-4c34-a8e3-09716470b966", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0e49c76c-8686-4c34-a8e3-09716470b966.json"
+                        }
+                    ], 
+                    "displayName": "Joey B", 
+                    "uri": "http://www.songkick.com/artists/817427-joey-b?utm_source=32233&utm_medium=partner", 
+                    "id": 817427
+                }, 
+                "displayName": "Joey B", 
+                "id": 54997414, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28278849
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Joey B", 
+        "twitter": "1realjoeyb", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1989-08-20", 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://joeybeezy.com/", 
+                    "id": "dc1dce18-536e-40d3-8ad6-dd044259de78"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/1realjoeyb", 
+                    "id": "39a00905-701b-4833-a7d5-a42eab86f9ca"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/JoeyBGH", 
+                    "id": "feba0066-9f0b-4144-aa1c-f217c0daff78"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Ghana", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GH"
+            ], 
+            "name": "Ghana", 
+            "id": "cf48f4b4-28f0-39ab-9104-650324a1d1c8"
+        }, 
+        "sort-name": "Joey B", 
+        "isnis": [], 
+        "country": null, 
+        "type": "Person", 
+        "id": "0e49c76c-8686-4c34-a8e3-09716470b966", 
+        "disambiguation": "Ghanaian Rapper"
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://concerts.livenation.com/event/00005144E74AB115"
+    }, 
+    "modified_time": 1479442890.0, 
+    "created_minutes": 5873, 
+    "created_time": 1479305699.0, 
+    "modified_minutes": 3586, 
+    "id": 28278849
+}

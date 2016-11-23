@@ -1,0 +1,116 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 6.1e-05, 
+        "displayName": "B-SHOC at The Westin (April 8, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Westin", 
+            "uri": "http://www.songkick.com/venues/2913028-westin?utm_source=32233&utm_medium=partner", 
+            "lat": 32.9138911, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -97.0047958, 
+            "id": 2913028
+        }, 
+        "uri": "http://www.songkick.com/concerts/28215124-bshoc-at-westin?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-04-08", 
+            "datetime": "2017-04-08T18:00:00-0500", 
+            "time": "18:00:00"
+        }, 
+        "location": {
+            "lat": 32.9138911, 
+            "city": "Irving, TX, US", 
+            "lng": -97.0047958
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "B-SHOC", 
+                "id": 54891524, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "29ae03a6-506c-436d-99cd-1b768139be59", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:29ae03a6-506c-436d-99cd-1b768139be59.json"
+                        }
+                    ], 
+                    "displayName": "B-SHOC", 
+                    "uri": "http://www.songkick.com/artists/8364093-bshoc?utm_source=32233&utm_medium=partner", 
+                    "id": 8364093
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28215124
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "gender": "Male", 
+        "name": "B-SHOC", 
+        "sort-name": "B-SHOC", 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.b-shoc.com/", 
+                    "id": "69ddea56-d0aa-41a4-bbf2-9c6edeaa700f"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "isnis": [], 
+        "id": "29ae03a6-506c-436d-99cd-1b768139be59", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "tags": []
+    }, 
+    "id": 28215124, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

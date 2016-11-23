@@ -1,0 +1,118 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mark Farina at The Refuge (November 25, 2016)", 
+        "popularity": 0.010119, 
+        "venue": {
+            "displayName": "The Refuge", 
+            "uri": "http://www.songkick.com/venues/1028851-refuge?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5155719, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6645717, 
+            "id": 1028851
+        }, 
+        "uri": "http://www.songkick.com/concerts/28253384-mark-farina-at-refuge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 45.5155719, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6645717
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5fce80af-90c3-419b-97e6-55d0a1e98c2f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5fce80af-90c3-419b-97e6-55d0a1e98c2f.json"
+                        }, 
+                        {
+                            "mbid": "723644fe-d2b7-4b9c-a8e8-9ed7d5cdb476", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:723644fe-d2b7-4b9c-a8e8-9ed7d5cdb476.json"
+                        }
+                    ], 
+                    "displayName": "Mark Farina", 
+                    "uri": "http://www.songkick.com/artists/527589-mark-farina?utm_source=32233&utm_medium=partner", 
+                    "id": 527589
+                }, 
+                "displayName": "Mark Farina", 
+                "id": 54953919, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28253384
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Mark Farina", 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Italy", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "IT"
+            ], 
+            "name": "Italy", 
+            "id": "c6500277-9a3d-349b-bf30-41afdbf42add"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/224077", 
+                    "id": "2724c699-f632-454b-a0bf-5c78874e07d5"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Farina, Mark", 
+        "country": "IT", 
+        "id": "5fce80af-90c3-419b-97e6-55d0a1e98c2f", 
+        "type": "Person", 
+        "disambiguation": "Italian italodisco/eurobeat producer Mauro Farina", 
+        "tags": []
+    }, 
+    "id": 28253384, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

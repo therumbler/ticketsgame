@@ -1,0 +1,211 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 7.6e-05, 
+        "displayName": "Legion Within, The Accolade, and DJ Coldheart at High Dive (December 2, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "High Dive", 
+            "uri": "http://www.songkick.com/venues/2955-high-dive?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6513854, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3515738, 
+            "id": 2955
+        }, 
+        "uri": "http://www.songkick.com/concerts/28428254-legion-within-at-high-dive?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "datetime": "2016-12-02T21:00:00-0800", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 47.6513854, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3515738
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Legion Within", 
+                "id": 55259204, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "722111af-5f05-474b-a5c9-8c79436b97ce", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:722111af-5f05-474b-a5c9-8c79436b97ce.json"
+                        }
+                    ], 
+                    "displayName": "Legion Within", 
+                    "uri": "http://www.songkick.com/artists/147927-legion-within?utm_source=32233&utm_medium=partner", 
+                    "id": 147927
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "The Accolade", 
+                "id": 55259209, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d8386343-2f8b-4811-9f77-e03b00504e83", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d8386343-2f8b-4811-9f77-e03b00504e83.json"
+                        }, 
+                        {
+                            "mbid": "adc09ddc-b5a5-45ad-85cf-c483e0026319", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:adc09ddc-b5a5-45ad-85cf-c483e0026319.json"
+                        }
+                    ], 
+                    "displayName": "The Accolade", 
+                    "uri": "http://www.songkick.com/artists/280172-accolade?utm_source=32233&utm_medium=partner", 
+                    "id": 280172
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "DJ Coldheart", 
+                "id": 55259214, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "DJ Coldheart", 
+                    "uri": "http://www.songkick.com/artists/6615854-dj-coldheart?utm_source=32233&utm_medium=partner", 
+                    "id": 6615854
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28428254
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Legion Within", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/684092", 
+                    "id": "bdf9fc8c-ebe6-4401-bae8-47a5d1fda384"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/legionwithin", 
+                    "id": "59081e9b-102c-4bac-b76f-eaa1f4ea6add"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://legionwithin.com/", 
+                    "id": "5991436d-4e31-4505-a025-4d2fafad098b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Legion Within", 
+        "type": "Group", 
+        "id": "722111af-5f05-474b-a5c9-8c79436b97ce", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15510, 
+    "bandsintown_response": {
+        "description": "KRAMPUS MASS w/ Legion Within and guests!", 
+        "title": "Legion Within @ High Dive Seattle in Seattle, WA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Seattle", 
+            "name": "High Dive Seattle", 
+            "country": "United States", 
+            "region": "WA", 
+            "longitude": -122.351779, 
+            "place": "High Dive Seattle", 
+            "latitude": 47.651381
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13205164?app_id=ticketgame&artist=Legion+Within&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13205164/buy_tickets?app_id=ticketgame&artist=Legion+Within&came_from=67", 
+        "on_sale_datetime": "2016-10-26T14:00:25", 
+        "formatted_datetime": "Friday, December 2, 2016 at 9:00PM", 
+        "datetime": "2016-12-02T21:00:00", 
+        "formatted_location": "Seattle, WA", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1375954/tfly%3Futm_medium%3Dapi&afftrack=67%7E16605135%7E24351125%7E%7E", 
+        "artists": [
+            {
+                "website": "http://legionwithin.com/", 
+                "facebook_page_url": null, 
+                "name": "Legion Within", 
+                "url": "LegionWithin", 
+                "tracker_count": 697, 
+                "mbid": "722111af-5f05-474b-a5c9-8c79436b97ce", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5183207.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/LegionWithin/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5183207.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13205164
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442552.0, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 902, 
+    "id": 28428254
+}

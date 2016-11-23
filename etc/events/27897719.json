@@ -1,0 +1,147 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Japanese House with The Big Moon at DC9 Nightclub (November 25, 2016)", 
+        "popularity": 0.00557, 
+        "venue": {
+            "displayName": "DC9 Nightclub", 
+            "uri": "http://www.songkick.com/venues/20843-dc9-nightclub?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9166743, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0239493, 
+            "id": 20843
+        }, 
+        "uri": "http://www.songkick.com/concerts/27897719-japanese-house-at-dc9-nightclub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-25T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.9166743, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0239493
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5db88fae-df24-490e-971a-1b3fe8d373ea", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5db88fae-df24-490e-971a-1b3fe8d373ea.json"
+                        }
+                    ], 
+                    "displayName": "The Japanese House", 
+                    "uri": "http://www.songkick.com/artists/8552784-japanese-house?utm_source=32233&utm_medium=partner", 
+                    "id": 8552784
+                }, 
+                "displayName": "The Japanese House", 
+                "id": 54330404, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9bb06c9f-31d7-4809-9e95-2e647a23a735", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9bb06c9f-31d7-4809-9e95-2e647a23a735.json"
+                        }
+                    ], 
+                    "displayName": "The Big Moon", 
+                    "uri": "http://www.songkick.com/artists/2362456-big-moon?utm_source=32233&utm_medium=partner", 
+                    "id": 2362456
+                }, 
+                "displayName": "The Big Moon", 
+                "id": 54881669, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27897719
+    }, 
+    "musicbrainz_response": {
+        "name": "The Japanese House", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/japanesehouse", 
+                    "id": "3bd8a851-3794-44fa-ad90-a009a37c3153"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/channel/UCrLuCLvpoujXvKP8FpkCIJQ", 
+                    "id": "bd9ffabe-78c8-455d-b52b-0cbe61b31b7c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "Japanese House, The", 
+        "country": null, 
+        "id": "5db88fae-df24-490e-971a-1b3fe8d373ea", 
+        "disambiguation": "", 
+        "type": null, 
+        "twitter": "japanesehouse", 
+        "gender-id": null
+    }, 
+    "age_minutes": 15467, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 14.0, 
+        "price_min": 14.0
+    }, 
+    "modified_time": 1479442231.0, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 864, 
+    "id": 27897719
+}

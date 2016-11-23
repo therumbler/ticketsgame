@@ -1,0 +1,142 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Carroll, THICK, and Petunia at The Barbary (November 11, 2016)", 
+        "popularity": 0.000431, 
+        "venue": {
+            "displayName": "The Barbary", 
+            "uri": "http://www.songkick.com/venues/14437-barbary?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9655087, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1342939, 
+            "id": 14437
+        }, 
+        "uri": "http://www.songkick.com/concerts/28390109-carroll-at-barbary?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-11T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9655087, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1342939
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ffff7f23-866a-4a9a-a911-41832d824c4d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ffff7f23-866a-4a9a-a911-41832d824c4d.json"
+                        }
+                    ], 
+                    "displayName": "Carroll", 
+                    "uri": "http://www.songkick.com/artists/589901-carroll?utm_source=32233&utm_medium=partner", 
+                    "id": 589901
+                }, 
+                "displayName": "Carroll", 
+                "id": 55195069, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "dde22f92-b9e9-4085-8ff9-4c8a7f3f7d14", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:dde22f92-b9e9-4085-8ff9-4c8a7f3f7d14.json"
+                        }
+                    ], 
+                    "displayName": "THICK", 
+                    "uri": "http://www.songkick.com/artists/521039-thick?utm_source=32233&utm_medium=partner", 
+                    "id": 521039
+                }, 
+                "displayName": "THICK", 
+                "id": 55213099, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2d9a682a-76e9-4444-a8b1-1acc54a26b52", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2d9a682a-76e9-4444-a8b1-1acc54a26b52.json"
+                        }
+                    ], 
+                    "displayName": "Petunia", 
+                    "uri": "http://www.songkick.com/artists/291042-petunia?utm_source=32233&utm_medium=partner", 
+                    "id": 291042
+                }, 
+                "displayName": "Petunia", 
+                "id": 55213104, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28390109
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Carroll", 
+        "area": null, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4965098", 
+                    "id": "e06d39e6-d127-4484-ada8-85a8199ca999"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00159945813"
+        ], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Carroll", 
+        "country": null, 
+        "id": "ffff7f23-866a-4a9a-a911-41832d824c4d", 
+        "type": "Person", 
+        "disambiguation": "Andrew Philip Carroll", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28390109, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

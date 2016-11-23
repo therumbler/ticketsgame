@@ -1,0 +1,138 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Randy at Trocadero Theatre (November 12, 2016)", 
+        "popularity": 0.003174, 
+        "venue": {
+            "displayName": "Trocadero Theatre", 
+            "uri": "http://www.songkick.com/venues/913-trocadero-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 39.953617, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.156856, 
+            "id": 913
+        }, 
+        "uri": "http://www.songkick.com/concerts/27446724-randy-at-trocadero-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-12T21:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.953617, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.156856
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e03731fc-da2e-468f-970d-9d5d1b479acf", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e03731fc-da2e-468f-970d-9d5d1b479acf.json"
+                        }, 
+                        {
+                            "mbid": "19e3200a-3292-4926-9546-6419bcf67896", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:19e3200a-3292-4926-9546-6419bcf67896.json"
+                        }, 
+                        {
+                            "mbid": "193b99f4-a491-4a54-b397-2ce414f0f850", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:193b99f4-a491-4a54-b397-2ce414f0f850.json"
+                        }, 
+                        {
+                            "mbid": "5f63e991-ee4d-40e5-9195-2948097c22ee", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5f63e991-ee4d-40e5-9195-2948097c22ee.json"
+                        }, 
+                        {
+                            "mbid": "8f9ca657-91e6-4d5c-8e42-c397ac9acdd3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8f9ca657-91e6-4d5c-8e42-c397ac9acdd3.json"
+                        }, 
+                        {
+                            "mbid": "3b7f901a-cc51-44cf-a864-2d929c45dc9d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3b7f901a-cc51-44cf-a864-2d929c45dc9d.json"
+                        }, 
+                        {
+                            "mbid": "b61bcf77-e636-48de-a7dc-bad894d6fa8d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b61bcf77-e636-48de-a7dc-bad894d6fa8d.json"
+                        }
+                    ], 
+                    "displayName": "Randy", 
+                    "uri": "http://www.songkick.com/artists/154041-randy?utm_source=32233&utm_medium=partner", 
+                    "id": 154041
+                }, 
+                "displayName": "Randy", 
+                "id": 53509179, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27446724
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Randy", 
+        "area": {
+            "sort-name": "Italy", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "IT"
+            ], 
+            "id": "c6500277-9a3d-349b-bf30-41afdbf42add", 
+            "name": "Italy"
+        }, 
+        "country": "IT", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/13358", 
+                    "id": "a56eca9c-620a-44f2-81a9-07bfa2c411a1"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Randy", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "type": "Person", 
+        "id": "e03731fc-da2e-468f-970d-9d5d1b479acf", 
+        "disambiguation": "Italian hardcore DJ/Producer Stefano Landi"
+    }, 
+    "id": 27446724, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

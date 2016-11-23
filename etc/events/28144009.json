@@ -1,0 +1,268 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.047102, 
+        "displayName": "The Weepies at The Drake Hotel (December 2, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Drake Hotel", 
+            "uri": "http://www.songkick.com/venues/629576-drake-hotel?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6431574, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.4246248, 
+            "id": 629576
+        }, 
+        "uri": "http://www.songkick.com/concerts/28144009-weepies-at-drake-hotel?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "datetime": "2016-12-02T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 43.6431574, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.4246248
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "The Weepies", 
+                "id": 54766384, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "59d34d63-e209-4f26-8a09-b08d12202082", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:59d34d63-e209-4f26-8a09-b08d12202082.json"
+                        }
+                    ], 
+                    "displayName": "The Weepies", 
+                    "uri": "http://www.songkick.com/artists/330245-weepies?utm_source=32233&utm_medium=partner", 
+                    "id": 330245
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28144009
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Weepies", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2001", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 2, 
+                "name": "folk"
+            }, 
+            {
+                "count": 1, 
+                "name": "indie pop"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/705186", 
+                    "id": "a95fbe05-8087-400b-8754-545eb45ac469"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://archive.org/details/TheWeepies", 
+                    "id": "6fb8410e-29f2-4bd0-9ff4-7d50df30fb14"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "34ae77fe-defb-43ea-95d4-63c7540bac78", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "download for free", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/the-weepies-lyrics", 
+                    "id": "0ee81d5d-5742-420e-9eab-fb77f0af812c"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/theweepies", 
+                    "id": "7b769d17-b469-41ea-b42f-79b8114263a4"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.theweepies.com/", 
+                    "id": "a723e560-509a-4350-bcbc-15ba17948603"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1813380", 
+                    "id": "d09535b5-0030-4dd2-89fb-f036c80e4523"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Weepies", 
+                    "id": "58e0cafe-b19a-4138-bcbc-d198b1b3c997"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "Weepies, The", 
+        "type": "Group", 
+        "id": "59d34d63-e209-4f26-8a09-b08d12202082", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": "The Weepies", 
+        "title": "The Weepies @ The Drake Hotel in Toronto, Canada", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Toronto", 
+            "name": "The Drake Hotel", 
+            "country": "Canada", 
+            "region": "ON", 
+            "longitude": -79.4246457, 
+            "place": "The Drake Hotel", 
+            "latitude": 43.6431078
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12982381?app_id=ticketsgame&artist=The+Weepies&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12982381/buy_tickets?app_id=ticketsgame&artist=The+Weepies&came_from=67", 
+        "on_sale_datetime": "2016-09-23T12:00:00", 
+        "formatted_datetime": "Friday, December 2, 2016 at 8:00PM", 
+        "datetime": "2016-12-02T20:00:00", 
+        "formatted_location": "Toronto, Canada", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1326761/tfly%3Futm_medium%3Dapi&afftrack=67%7E16301042%7E23796181%7E%7E", 
+        "artists": [
+            {
+                "website": "http://theweepies.com", 
+                "facebook_page_url": "http://www.facebook.com/pages/The%20Weepies/7086604915", 
+                "name": "The Weepies", 
+                "url": "TheWeepies", 
+                "tracker_count": 113801, 
+                "mbid": "59d34d63-e209-4f26-8a09-b08d12202082", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6326901.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheWeepies/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6326901.jpeg"
+            }
+        ], 
+        "ticket_details": {
+            "price_max": 18.5, 
+            "price_min": 18.5
+        }, 
+        "ticket_status": "available", 
+        "id": 12982381
+    }, 
+    "ticket_details": {
+        "status": "Sold Out", 
+        "price_max": 18.5, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1326761/tfly%3Futm_medium%3Dapi&afftrack=67%7E16301042%7E23796181%7E%7E", 
+        "price_min": 18.5
+    }, 
+    "modified_time": 1479442529.0, 
+    "created_minutes": 18555, 
+    "created_time": 1478543016.0, 
+    "modified_minutes": 3563, 
+    "id": 28144009
+}

@@ -1,0 +1,148 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Forever Cult at Boileroom (November 14, 2016)", 
+        "popularity": 5.9e-05, 
+        "venue": {
+            "displayName": "Boileroom", 
+            "uri": "http://www.songkick.com/venues/3268-boileroom?utm_source=32233&utm_medium=partner", 
+            "lat": 51.2397042, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.5738364, 
+            "id": 3268
+        }, 
+        "uri": "http://www.songkick.com/concerts/28281789-forever-cult-at-boileroom?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-14", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.2397042, 
+            "city": "Guildford, UK", 
+            "lng": -0.5738364
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "adbdc5b9-6980-49f0-af4f-2b4cbea83d26", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:adbdc5b9-6980-49f0-af4f-2b4cbea83d26.json"
+                        }
+                    ], 
+                    "displayName": "Forever Cult", 
+                    "uri": "http://www.songkick.com/artists/6684814-forever-cult?utm_source=32233&utm_medium=partner", 
+                    "id": 6684814
+                }, 
+                "displayName": "Forever Cult", 
+                "id": 55003344, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28281789
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Forever Cult", 
+        "tags": [], 
+        "gender": null, 
+        "twitter": "forever_cult", 
+        "area": {
+            "sort-name": "Huddersfield", 
+            "disambiguation": "", 
+            "name": "Huddersfield", 
+            "id": "96cb90d8-8847-453d-8e74-1030d769ca6f"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Huddersfield", 
+            "disambiguation": "", 
+            "name": "Huddersfield", 
+            "id": "96cb90d8-8847-453d-8e74-1030d769ca6f"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/forever_cult", 
+                    "id": "7a8e5b0a-b5ab-433c-902e-c9474b9eb41f"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/FOREVERCULT", 
+                    "id": "41096d36-ea17-430b-8dee-dace5dde8cc8"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/forever-cult", 
+                    "id": "7504cd06-e3c9-473f-ba08-662847f4b3fb"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Forever Cult", 
+        "country": null, 
+        "id": "adbdc5b9-6980-49f0-af4f-2b4cbea83d26", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2012", 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28281789, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

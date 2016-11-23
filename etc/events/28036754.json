@@ -1,0 +1,656 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Stevie Nicks and Pretenders at United Center (December 3, 2016)", 
+        "popularity": 0.087402, 
+        "venue": {
+            "displayName": "United Center", 
+            "uri": "http://www.songkick.com/venues/521-united-center?utm_source=32233&utm_medium=partner", 
+            "lat": 41.8812601, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.674145, 
+            "id": 521
+        }, 
+        "uri": "http://www.songkick.com/concerts/28036754-stevie-nicks-at-united-center?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-03", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 41.8812601, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.674145
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b7f2cca2-72c6-41fb-ae33-53370fc62fe7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b7f2cca2-72c6-41fb-ae33-53370fc62fe7.json"
+                        }
+                    ], 
+                    "displayName": "Stevie Nicks", 
+                    "uri": "http://www.songkick.com/artists/528768-stevie-nicks?utm_source=32233&utm_medium=partner", 
+                    "id": 528768
+                }, 
+                "displayName": "Stevie Nicks", 
+                "id": 54579004, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "75ffaf7d-46ee-4794-a405-9ec20c0c1696", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:75ffaf7d-46ee-4794-a405-9ec20c0c1696.json"
+                        }, 
+                        {
+                            "mbid": "e9c832b0-384b-4ee6-aec0-111372784aac", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e9c832b0-384b-4ee6-aec0-111372784aac.json"
+                        }
+                    ], 
+                    "displayName": "Pretenders", 
+                    "uri": "http://www.songkick.com/artists/484568-pretenders?utm_source=32233&utm_medium=partner", 
+                    "id": 484568
+                }, 
+                "displayName": "Pretenders", 
+                "id": 54579009, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28036754
+    }, 
+    "musicbrainz_response": {
+        "name": "Stevie Nicks", 
+        "tags": [
+            {
+                "count": 0, 
+                "name": "american"
+            }, 
+            {
+                "count": 1, 
+                "name": "aor"
+            }, 
+            {
+                "count": 1, 
+                "name": "country rock"
+            }, 
+            {
+                "count": 2, 
+                "name": "pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop rock"
+            }, 
+            {
+                "count": 2, 
+                "name": "rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "singer/songwriter"
+            }, 
+            {
+                "count": 1, 
+                "name": "soft rock"
+            }
+        ], 
+        "gender": "Female", 
+        "twitter": "stevienicks", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/b7f2cca2-72c6-41fb-ae33-53370fc62fe7", 
+                    "id": "6d60516a-360a-4384-9f65-b6125ad5e513"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0630088/", 
+                    "id": "e5faa5f4-f8ba-4465-9446-aea6ff34220d"
+                }, 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/84210649", 
+                    "id": "3eaff63b-b358-474d-8cc5-db4e39788981"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000936190", 
+                    "id": "56c76654-4a27-4216-8dc8-642d285bbc4a"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/13735", 
+                    "id": "63ef19b6-4b89-409a-ab1d-ef5a30112d51"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:StevieNicks3.jpg", 
+                    "id": "985428de-1073-4d4e-b9c2-21a2dccfd96f"
+                }, 
+                "direction": "forward", 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Stevie+Nicks", 
+                    "id": "79f64283-86bc-4b5d-a6ac-aea30706ec37"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/stevie-nicks-lyrics", 
+                    "id": "336b6a61-5da7-40ac-b810-f7ba26e81af2"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://genius.com/artists/Stevie-nicks", 
+                    "id": "6ca85c37-b17d-461c-bbea-a12e73ac732e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/wiki/Stevie_Nicks", 
+                    "id": "911984a6-5a9c-45e4-9716-7e5855ae9b15"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-6453/stevie-nicks/lyrics.html", 
+                    "id": "6fa8b6ce-d488-4f21-9d72-bde6385f04af"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.nicksfix.com/", 
+                    "id": "28540ebc-777e-4a25-9488-4af8da3eb8bc"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://musicmoz.org/Bands_and_Artists/N/Nicks,_Stevie/", 
+                    "id": "ae320db6-65b5-44f0-8a95-e344a2a818cc"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.45cat.com/artist/stevie-nicks", 
+                    "id": "87e29f75-7f98-41b4-a75b-586d5bc7d5c8"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.whosampled.com/Stevie-Nicks/", 
+                    "id": "bb4dd43c-930a-407b-9cb3-85f1e487d2cd"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://imvdb.com/n/stevie-nicks", 
+                    "id": "2d416cd8-1d1b-4a4b-b87e-db0de83e5bab"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://openlibrary.org/search?q=Stevie+Nicks&author_key=OL3316279A", 
+                    "id": "2d844ada-e538-4435-8f1b-1bcd34edf6a4"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/stevie_nicks", 
+                    "id": "4fe55f28-dc17-4016-a133-d09bb5b57210"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/gb/artist/id147875", 
+                    "id": "5451c9d6-09ea-4706-b963-6c76fa95b964"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=Awawhrpqvh7zk266xmtuwbv3n6e", 
+                    "id": "53c1e377-2faf-47f7-b965-326ea6cac164"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/4057", 
+                    "id": "b21da955-9b5e-4aeb-af28-13a9c4f28296"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/stevienicks", 
+                    "id": "8328d357-faff-4dc0-bab3-5f14caff5bea"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/stevienicks", 
+                    "id": "72d846b3-3195-4239-83bc-df6f47681f83"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz", 
+                    "id": "11d31ae7-b4a4-479d-8641-7f01f51fbc8a"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q234691", 
+                    "id": "46083148-ea7e-4b7b-a556-ef34b7905a49"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Stevie_Nicks", 
+                    "id": "fcf33a02-4835-4d74-9d5f-893fe066560d"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/channel/UCfO0DvLW0NPwtLcxD6_nHEg", 
+                    "id": "c706d644-65fb-4a29-81d1-c0807efdc321"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00089151750"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Phoenix", 
+            "disambiguation": "", 
+            "name": "Phoenix", 
+            "id": "7f1c8f3f-69a9-454a-8633-c3d3a628858b"
+        }, 
+        "id": "b7f2cca2-72c6-41fb-ae33-53370fc62fe7", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "country": "US", 
+        "sort-name": "Nicks, Stevie", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1948-05-26", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15473, 
+    "bandsintown_response": {
+        "description": "Stevie Nicks United Center Tickets - Buy and sell Stevie Nicks Chicago Tickets for December 3 at United Center in Chicago, IL on StubHub!", 
+        "title": "Stevie Nicks @ United Center in Chicago, IL", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Chicago", 
+            "name": "United Center", 
+            "country": "United States", 
+            "region": "IL", 
+            "longitude": -87.65, 
+            "place": "United Center", 
+            "latitude": 41.85
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12880315?app_id=ticketgame&artist=Stevie+Nicks&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12880315/buy_tickets?app_id=ticketgame&artist=Stevie+Nicks&came_from=67", 
+        "on_sale_datetime": "2016-09-12T15:00:00", 
+        "formatted_datetime": "Saturday, December 3, 2016 at 7:00PM", 
+        "datetime": "2016-12-03T19:00:00", 
+        "formatted_location": "Chicago, IL", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F0400511FD5611F37&subId1=67%7E16163409%7E23576379%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.nicksfix.com", 
+                "facebook_page_url": "http://www.facebook.com/pages/Stevie%20Nicks/190450387631723", 
+                "name": "Stevie Nicks", 
+                "url": "StevieNicks", 
+                "tracker_count": 428476, 
+                "mbid": "b7f2cca2-72c6-41fb-ae33-53370fc62fe7", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6594230.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/StevieNicks/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6594230.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12880315
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 168.8, 
+        "price_min": 57.12
+    }, 
+    "modified_time": 1479442327.0, 
+    "created_time": 1478565988.0, 
+    "modified_minutes": 867, 
+    "id": 28036754
+}

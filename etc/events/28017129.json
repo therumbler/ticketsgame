@@ -1,0 +1,162 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Rhodri Davies at Dentist Brixton (November 11, 2016)", 
+        "popularity": 4.3e-05, 
+        "venue": {
+            "displayName": "Dentist Brixton", 
+            "uri": "http://www.songkick.com/venues/2058609-dentist-brixton?utm_source=32233&utm_medium=partner", 
+            "lat": 51.4597343, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.122205, 
+            "id": 2058609
+        }, 
+        "uri": "http://www.songkick.com/concerts/28017129-rhodri-davies-at-dentist-brixton?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.4597343, 
+            "city": "Brixton, UK", 
+            "lng": -0.122205
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7629f948-7f2a-4006-9193-61a73d144ec9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7629f948-7f2a-4006-9193-61a73d144ec9.json"
+                        }
+                    ], 
+                    "displayName": "Rhodri Davies", 
+                    "uri": "http://www.songkick.com/artists/431784-rhodri-davies?utm_source=32233&utm_medium=partner", 
+                    "id": 431784
+                }, 
+                "displayName": "Rhodri Davies", 
+                "id": 54543009, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28017129
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Rhodri Davies", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "country": "GB", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1971", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/400407", 
+                    "id": "c406b5a8-09a6-454b-bd6e-050f6e995967"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.rhodridavies.com/", 
+                    "id": "b66db983-fc4c-4a4a-b15b-03fb9e6c980b"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q7321237", 
+                    "id": "b8a38f2a-e096-44ee-afcc-e43b81427ebf"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Rhodri_Davies_(musician)", 
+                    "id": "c9a0b255-a96c-417d-93b8-4c4eab4ab436"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Davies, Rhodri", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "type": "Person", 
+        "id": "7629f948-7f2a-4006-9193-61a73d144ec9", 
+        "disambiguation": ""
+    }, 
+    "id": 28017129, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

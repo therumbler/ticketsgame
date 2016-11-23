@@ -1,0 +1,165 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Head For The Hills with Sweet Lou's Sour Mash at Nectar Lounge (November 11, 2016)", 
+        "popularity": 0.000521, 
+        "venue": {
+            "displayName": "Nectar Lounge", 
+            "uri": "http://www.songkick.com/venues/11589-nectar-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6521845, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3538836, 
+            "id": 11589
+        }, 
+        "uri": "http://www.songkick.com/concerts/28232659-head-for-the-hills-at-nectar-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-11T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6521845, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3538836
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e3ed0a41-3fcc-48cd-99cf-5a82779a11dd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e3ed0a41-3fcc-48cd-99cf-5a82779a11dd.json"
+                        }
+                    ], 
+                    "displayName": "Head For The Hills", 
+                    "uri": "http://www.songkick.com/artists/591659-head-for-the-hills?utm_source=32233&utm_medium=partner", 
+                    "id": 591659
+                }, 
+                "displayName": "Head For The Hills", 
+                "id": 54918474, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Sweet Lou's Sour Mash", 
+                    "uri": "http://www.songkick.com/artists/6854554-sweet-lous-sour-mash?utm_source=32233&utm_medium=partner", 
+                    "id": 6854554
+                }, 
+                "displayName": "Sweet Lou's Sour Mash", 
+                "id": 54918479, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28232659
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Head for the Hills", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002329965", 
+                    "id": "bce6e8dc-1558-48a1-a45c-23ed84523e55"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Head+for+the+Hills", 
+                    "id": "ecb6225d-a48a-4862-96cd-68cc32410aee"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/head_for_the_hills", 
+                    "id": "4825635b-fab4-4018-aab4-72a237fc360d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Golden", 
+            "disambiguation": "", 
+            "id": "a551ab62-4166-483c-b0e5-3e121abad371", 
+            "name": "Golden"
+        }, 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "Head for the Hills", 
+        "type": "Group", 
+        "id": "e3ed0a41-3fcc-48cd-99cf-5a82779a11dd", 
+        "disambiguation": ""
+    }, 
+    "id": 28232659, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

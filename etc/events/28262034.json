@@ -1,0 +1,163 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Affairs at The Victoria, Dalston (November 8, 2016)", 
+        "popularity": 6.5e-05, 
+        "venue": {
+            "displayName": "The Victoria, Dalston", 
+            "uri": "http://www.songkick.com/venues/947596-victoria-dalston?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5457871, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0697505, 
+            "id": 947596
+        }, 
+        "uri": "http://www.songkick.com/concerts/28262034-affairs-at-victoria-dalston?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-08", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-08T19:30:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5457871, 
+            "city": "London, UK", 
+            "lng": -0.0697505
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f7c98c82-7a46-4251-939d-de115538ed3c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f7c98c82-7a46-4251-939d-de115538ed3c.json"
+                        }
+                    ], 
+                    "displayName": "Affairs", 
+                    "uri": "http://www.songkick.com/artists/486412-affairs?utm_source=32233&utm_medium=partner", 
+                    "id": 486412
+                }, 
+                "displayName": "Affairs", 
+                "id": 54968319, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28262034
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Affairs", 
+        "tags": [], 
+        "country": "GB", 
+        "twitter": "affairsband", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://dl.dropbox.com/u/41002139/01.jpg", 
+                    "id": "d64bd91d-e789-4185-943b-5da7332ceac2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/affairsband", 
+                    "id": "c9ab5d3f-8c74-4160-8cc4-8c795e167e5c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Affairsband", 
+                    "id": "f2ec2aee-a3c8-4d78-9f0a-98e0456e779d"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/Affairsband", 
+                    "id": "7b9647c6-2857-404d-b9a6-b744b08e83f0"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Affairs", 
+        "gender": null, 
+        "id": "f7c98c82-7a46-4251-939d-de115538ed3c", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2011-12-10", 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28262034, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

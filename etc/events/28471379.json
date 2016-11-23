@@ -1,0 +1,111 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Jess Williamson at End Of An Ear (November 10, 2016)", 
+        "popularity": 0.000372, 
+        "venue": {
+            "displayName": "End Of An Ear", 
+            "uri": "http://www.songkick.com/venues/71481-end-of-an-ear?utm_source=32233&utm_medium=partner", 
+            "lat": 30.243674, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.757654, 
+            "id": 71481
+        }, 
+        "uri": "http://www.songkick.com/concerts/28471379-jess-williamson-at-end-of-an-ear?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "datetime": "2016-11-10T18:00:00-0600", 
+            "time": "18:00:00"
+        }, 
+        "location": {
+            "lat": 30.243674, 
+            "city": "Austin, TX, US", 
+            "lng": -97.757654
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "47f9c144-02dd-4c87-9be1-7bc945ac5544", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:47f9c144-02dd-4c87-9be1-7bc945ac5544.json"
+                        }
+                    ], 
+                    "displayName": "Jess Williamson", 
+                    "uri": "http://www.songkick.com/artists/2827511-jess-williamson?utm_source=32233&utm_medium=partner", 
+                    "id": 2827511
+                }, 
+                "displayName": "Jess Williamson", 
+                "id": 55331704, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28471379
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Jess Williamson", 
+        "area": {
+            "sort-name": "Austin", 
+            "disambiguation": "", 
+            "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5", 
+            "name": "Austin"
+        }, 
+        "country": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://jesswilliamson.com/", 
+                    "id": "56101a2f-3697-4e0e-863c-bff7eaf37960"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Williamson, Jess", 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "id": "47f9c144-02dd-4c87-9be1-7bc945ac5544", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 28471379, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

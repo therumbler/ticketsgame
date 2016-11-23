@@ -1,0 +1,213 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Emmavie at The Nottinghill Arts Club (November 26, 2016)", 
+        "popularity": 8.2e-05, 
+        "venue": {
+            "displayName": "The Nottinghill Arts Club", 
+            "uri": "http://www.songkick.com/venues/544531-nottinghill-arts-club?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5091327, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1947783, 
+            "id": 544531
+        }, 
+        "uri": "http://www.songkick.com/concerts/28550619-emmavie-at-nottinghill-arts-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-26", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-26T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5091327, 
+            "city": "London, UK", 
+            "lng": -0.1947783
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Emmavie", 
+                "id": 55469249, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "87cb18ee-157a-4497-978c-945c0dabb2d4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:87cb18ee-157a-4497-978c-945c0dabb2d4.json"
+                        }
+                    ], 
+                    "displayName": "Emmavie", 
+                    "uri": "http://www.songkick.com/artists/6094124-emmavie?utm_source=32233&utm_medium=partner", 
+                    "id": 6094124
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28550619
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "area": {
+            "sort-name": "London", 
+            "disambiguation": "", 
+            "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f", 
+            "name": "London"
+        }, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Emmavie", 
+        "twitter": "emmaviesxf", 
+        "sort-name": "Emmavie", 
+        "country": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "isnis": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://emmaviesxf.bandcamp.com/", 
+                    "id": "d0a97f8d-e412-445c-9ca6-2e5e2452cd5a"
+                }, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/emmaviesxf", 
+                    "id": "cebf6ea3-06cc-4cb2-b95f-240e2337ffb5"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/emmavie", 
+                    "id": "d3919cb8-9b3c-47ec-b711-f3ed7b5aae8b"
+                }, 
+                "end": null, 
+                "direction": "forward", 
+                "begin": null, 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/emmavie/", 
+                    "id": "8c4d05a0-9776-49e4-9d58-b449b0298004"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "ended": false, 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/6094124-emmavie", 
+                    "id": "3b9b3f0c-340d-4b4e-ad21-9be22fc15971"
+                }, 
+                "target-type": "url", 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "ended": false, 
+                "url": {
+                    "resource": "https://soundcloud.com/emmavie100", 
+                    "id": "e96e536f-3a94-43ea-bc5e-d66552eea978"
+                }, 
+                "target-type": "url", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/emmavieissexyfresh", 
+                    "id": "cb4dd1fc-9c1d-4ef6-8ecc-447c3f762d0a"
+                }, 
+                "source-credit": "", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "id": "87cb18ee-157a-4497-978c-945c0dabb2d4", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 28550619, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

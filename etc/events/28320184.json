@@ -1,0 +1,114 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "18+", 
+        "displayName": "DeafMind at Lola's Room at the Crystal Ballroom (November 10, 2016)", 
+        "popularity": 0.000171, 
+        "venue": {
+            "displayName": "Lola's Room at the Crystal Ballroom", 
+            "uri": "http://www.songkick.com/venues/728901-lolas-room-at-the-crystal-ballroom?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5229001, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6847806, 
+            "id": 728901
+        }, 
+        "uri": "http://www.songkick.com/concerts/28320184-deafmind-at-lolas-room-at-the-crystal-ballroom?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-10T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5229001, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6847806
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3cf80ecc-263c-46c8-811e-988c8ffca653", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3cf80ecc-263c-46c8-811e-988c8ffca653.json"
+                        }
+                    ], 
+                    "displayName": "DeafMind", 
+                    "uri": "http://www.songkick.com/artists/7642814-deafmind?utm_source=32233&utm_medium=partner", 
+                    "id": 7642814
+                }, 
+                "displayName": "DeafMind", 
+                "id": 55072479, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28320184
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "DeafMind", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/wearedeafmind", 
+                    "id": "9ec30448-c03f-4504-a358-5a75407c9a41"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "DeafMind", 
+        "gender": null, 
+        "id": "3cf80ecc-263c-46c8-811e-988c8ffca653", 
+        "type": "Group", 
+        "disambiguation": "US trap/bass production/DJ duo", 
+        "gender-id": null
+    }, 
+    "id": 28320184, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

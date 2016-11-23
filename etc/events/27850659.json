@@ -1,0 +1,194 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001674, 
+        "displayName": "Jeff Rosenstock with Hard Girls and Katie Ellen at Villain (November 18, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Villain", 
+            "uri": "http://www.songkick.com/venues/1078826-villain?utm_source=32233&utm_medium=partner", 
+            "lat": 40.717662, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.96385, 
+            "id": 1078826
+        }, 
+        "uri": "http://www.songkick.com/concerts/27850659-jeff-rosenstock-at-villain?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "datetime": "2016-11-18T20:30:00-0500", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 40.717662, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.96385
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Jeff Rosenstock", 
+                "id": 54242029, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "14892f45-a103-44f2-bb18-ee4a20d7876e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:14892f45-a103-44f2-bb18-ee4a20d7876e.json"
+                        }
+                    ], 
+                    "displayName": "Jeff Rosenstock", 
+                    "uri": "http://www.songkick.com/artists/5806184-jeff-rosenstock?utm_source=32233&utm_medium=partner", 
+                    "id": 5806184
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Hard Girls", 
+                "id": 54242034, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a7003f24-14b0-41d7-b6f3-fca668110e44", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a7003f24-14b0-41d7-b6f3-fca668110e44.json"
+                        }
+                    ], 
+                    "displayName": "Hard Girls", 
+                    "uri": "http://www.songkick.com/artists/3163071-hard-girls?utm_source=32233&utm_medium=partner", 
+                    "id": 3163071
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Katie Ellen", 
+                "id": 54242039, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Katie Ellen", 
+                    "uri": "http://www.songkick.com/artists/8798319-katie-ellen?utm_source=32233&utm_medium=partner", 
+                    "id": 8798319
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27850659
+    }, 
+    "musicbrainz_response": {
+        "name": "Jeff Rosenstock", 
+        "tags": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1982-09-07", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002074357", 
+                    "id": "60a22751-30e3-4539-b4ea-91249abe68d3"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1570913", 
+                    "id": "0c6a3279-a684-4db1-bc88-7e18043d5cfa"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/jeff_rosenstock", 
+                    "id": "b9b2ebd5-4f32-4f2c-b9b3-2a7bb9c60d28"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-NY"
+            ], 
+            "id": "75e398a3-5f3f-4224-9cd8-0fe44715bc95", 
+            "name": "New York"
+        }, 
+        "sort-name": "Rosenstock, Jeff", 
+        "isnis": [], 
+        "country": "US", 
+        "type": "Person", 
+        "id": "14892f45-a103-44f2-bb18-ee4a20d7876e", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Sold Out", 
+        "price_max": 15.0, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?u=291182&b=234786&m=27601&urllink=www.ticketfly.com/purchase/event/1279889/tfly?utm_medium=api&afftrack=e27850659", 
+        "price_min": 13.0
+    }, 
+    "modified_time": 1479442192.0, 
+    "created_minutes": 14198, 
+    "created_time": 1478803684.0, 
+    "modified_minutes": 3556, 
+    "id": 27850659
+}

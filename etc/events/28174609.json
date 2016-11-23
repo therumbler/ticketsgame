@@ -1,0 +1,154 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Collapsed Lung at Hoxton Square Bar & Kitchen (November 17, 2016)", 
+        "popularity": 0.00106, 
+        "venue": {
+            "displayName": "Hoxton Square Bar & Kitchen", 
+            "uri": "http://www.songkick.com/venues/8280-hoxton-square-bar-and-kitchen?utm_source=32233&utm_medium=partner", 
+            "lat": 51.527476, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.081657, 
+            "id": 8280
+        }, 
+        "uri": "http://www.songkick.com/concerts/28174609-collapsed-lung-at-hoxton-square-bar-and-kitchen?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-17T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.527476, 
+            "city": "London, UK", 
+            "lng": -0.081657
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8e6de880-b485-4ff8-8522-d3067649c83c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8e6de880-b485-4ff8-8522-d3067649c83c.json"
+                        }
+                    ], 
+                    "displayName": "Collapsed Lung", 
+                    "uri": "http://www.songkick.com/artists/560652-collapsed-lung?utm_source=32233&utm_medium=partner", 
+                    "id": 560652
+                }, 
+                "displayName": "Collapsed Lung", 
+                "id": 54819524, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28174609
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Collapsed Lung", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "britpop"
+            }, 
+            {
+                "count": 1, 
+                "name": "rap rock"
+            }
+        ], 
+        "country": "GB", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1992", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/45722", 
+                    "id": "ebfa2854-162c-4262-bbe3-05b1bca0da40"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q5145935", 
+                    "id": "c549db80-3935-4478-b6b2-96cb3ab54607"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Collapsed_Lung_(band)", 
+                    "id": "a73cd747-9d64-4f85-a880-20960b30438c"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Collapsed Lung", 
+        "type": "Group", 
+        "id": "8e6de880-b485-4ff8-8522-d3067649c83c", 
+        "disambiguation": ""
+    }, 
+    "id": 28174609, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

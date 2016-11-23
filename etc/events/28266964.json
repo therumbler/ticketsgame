@@ -1,0 +1,138 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Oliver Wilde at The Islington (November 16, 2016)", 
+        "popularity": 0.000489, 
+        "venue": {
+            "displayName": "The Islington", 
+            "uri": "http://www.songkick.com/venues/641891-islington?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5344315, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1087937, 
+            "id": 641891
+        }, 
+        "uri": "http://www.songkick.com/concerts/28266964-oliver-wilde-at-islington?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-16T19:30:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5344315, 
+            "city": "London, UK", 
+            "lng": -0.1087937
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a14e089a-1ba7-4994-ae8e-c84d7c9914a6", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a14e089a-1ba7-4994-ae8e-c84d7c9914a6.json"
+                        }
+                    ], 
+                    "displayName": "Oliver Wilde", 
+                    "uri": "http://www.songkick.com/artists/849197-oliver-wilde?utm_source=32233&utm_medium=partner", 
+                    "id": 849197
+                }, 
+                "displayName": "Oliver Wilde", 
+                "id": 54977454, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28266964
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Oliver Wilde", 
+        "sort-name": "Wilde, Oliver", 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1988-10-21", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Bristol", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "GB-BST"
+            ], 
+            "id": "40d758a4-b7c2-40f3-b439-5efbd2a3b038", 
+            "name": "Bristol"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q16232515", 
+                    "id": "bd1ef888-5376-4ef7-ba8d-c00ba1d4f223"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Oliver_Wilde_(musician)", 
+                    "id": "754935b7-033c-4404-af2d-e9a8d8d5d74b"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00724802748"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Bristol", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "GB-BST"
+            ], 
+            "name": "Bristol", 
+            "id": "40d758a4-b7c2-40f3-b439-5efbd2a3b038"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "id": "a14e089a-1ba7-4994-ae8e-c84d7c9914a6", 
+        "type": "Person", 
+        "disambiguation": "Bristol based recording artist", 
+        "tags": []
+    }, 
+    "id": 28266964, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

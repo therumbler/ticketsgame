@@ -1,0 +1,136 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Ballroom Thieves and Paper Bird at Johnny Brenda's (December 3, 2016)", 
+        "popularity": 0.002159, 
+        "venue": {
+            "displayName": "Johnny Brenda's", 
+            "uri": "http://www.songkick.com/venues/254-johnny-brendas?utm_source=32233&utm_medium=partner", 
+            "lat": 39.969054, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.134318, 
+            "id": 254
+        }, 
+        "uri": "http://www.songkick.com/concerts/27411694-ballroom-thieves-at-johnny-brendas?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-03", 
+            "time": "21:00:00", 
+            "datetime": "2016-12-03T21:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.969054, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.134318
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9ac84c2f-01db-4f05-b20c-7eacfa007fe3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9ac84c2f-01db-4f05-b20c-7eacfa007fe3.json"
+                        }
+                    ], 
+                    "displayName": "Ballroom Thieves", 
+                    "uri": "http://www.songkick.com/artists/5276668-ballroom-thieves?utm_source=32233&utm_medium=partner", 
+                    "id": 5276668
+                }, 
+                "displayName": "Ballroom Thieves", 
+                "id": 53436854, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "349a67c8-b369-430a-8e76-aa78168a2ceb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:349a67c8-b369-430a-8e76-aa78168a2ceb.json"
+                        }, 
+                        {
+                            "mbid": "a683dd47-e04d-4853-bf30-35b34ee548e5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a683dd47-e04d-4853-bf30-35b34ee548e5.json"
+                        }
+                    ], 
+                    "displayName": "Paper Bird", 
+                    "uri": "http://www.songkick.com/artists/494758-paper-bird?utm_source=32233&utm_medium=partner", 
+                    "id": 494758
+                }, 
+                "displayName": "Paper Bird", 
+                "id": 53436859, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27411694
+    }, 
+    "musicbrainz_response": {
+        "name": "The Ballroom Thieves", 
+        "area": {
+            "sort-name": "Boston", 
+            "disambiguation": "", 
+            "name": "Boston", 
+            "id": "e331bfdf-b908-429c-a79b-710cf9c06abb"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/ballroomthieves", 
+                    "id": "80d64560-61b3-4cfc-9c32-42a4ddd2044d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Ballroom Thieves, The", 
+        "type": "Group", 
+        "id": "9ac84c2f-01db-4f05-b20c-7eacfa007fe3", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15453, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 14.0, 
+        "price_min": 12.0
+    }, 
+    "modified_time": 1478566061.0, 
+    "id": 27411694
+}

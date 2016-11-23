@@ -1,0 +1,552 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.002586, 
+        "displayName": "William Control with MXMS at El Corazon (November 22, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "El Corazon", 
+            "uri": "http://www.songkick.com/venues/35259-el-corazon?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6187498, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3293058, 
+            "id": 35259
+        }, 
+        "uri": "http://www.songkick.com/concerts/28383114-william-control-at-el-corazon?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-22", 
+            "datetime": "2016-11-22T19:30:00-0800", 
+            "time": "19:30:00"
+        }, 
+        "location": {
+            "lat": 47.6187498, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3293058
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "William Control", 
+                "id": 55182814, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a09aa514-b1cb-4288-8613-3c292f0d6e0d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a09aa514-b1cb-4288-8613-3c292f0d6e0d.json"
+                        }
+                    ], 
+                    "displayName": "William Control", 
+                    "uri": "http://www.songkick.com/artists/2337943-william-control?utm_source=32233&utm_medium=partner", 
+                    "id": 2337943
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "MXMS", 
+                "id": 55182819, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "MXMS", 
+                    "uri": "http://www.songkick.com/artists/6875464-mxms?utm_source=32233&utm_medium=partner", 
+                    "id": 6875464
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28383114
+    }, 
+    "musicbrainz_response": {
+        "name": "William Control", 
+        "tags": [], 
+        "country": null, 
+        "twitter": "williamcontrol", 
+        "area": {
+            "sort-name": "Seattle", 
+            "disambiguation": "", 
+            "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc", 
+            "name": "Seattle"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm5464925/", 
+                    "id": "91cf8f03-b1a5-4825-a73c-d0674ec2d7d5"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0001015940", 
+                    "id": "c7ad9f61-da41-4b3b-94c5-ce14c77c5463"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.mtv.com/artists/william-control/", 
+                    "id": "6ed6f809-a8ed-41e6-8e49-8d1b37727478"
+                }, 
+                "begin": null, 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://therealwilliamcontrol.tumblr.com/", 
+                    "id": "e6294745-272e-45a6-a113-a3c73c6165fb"
+                }, 
+                "begin": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1265516", 
+                    "id": "d277c753-0cdb-4f30-ac00-ea3b2f386646"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://noisetrade.com/williamcontrol", 
+                    "id": "195fc068-2b43-4d56-8961-76ea3ef13b1b"
+                }, 
+                "begin": null, 
+                "type-id": "34ae77fe-defb-43ea-95d4-63c7540bac78", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "download for free", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://williamcontrol.proboards.com/", 
+                    "id": "aa3898f8-0b5b-4a09-8393-d0f00c41a253"
+                }, 
+                "begin": null, 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/William+Control", 
+                    "id": "3b9c8dab-7c26-4f51-bab3-c396d7621856"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/William_Control", 
+                    "id": "aadc36e0-15e3-43ce-bd25-92c4985fbab9"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/williamcontrol", 
+                    "id": "61f8aae8-7421-4b60-8bb9-6c823a057eb7"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://williamcontrol.com/", 
+                    "id": "2c9a010f-ba5f-45a4-b2f5-4dd80ef01299"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id291894039", 
+                    "id": "011570d7-075b-42b3-bc4a-8743e308fc3f"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/williamcontrol", 
+                    "id": "e5c3771c-2a31-4a2d-a849-d083e3081031"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/williamcontrol", 
+                    "id": "f2676bd7-7ec1-4c43-bf7a-d607b2938d66"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/williamcontrolofficial", 
+                    "id": "e2e2755a-9115-40cb-a74a-a9dc50b24e09"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.songkick.com/artists/2337943-william-control", 
+                    "id": "17de5a93-4a83-4fdc-9814-3468b3251217"
+                }, 
+                "direction": "forward", 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/william-control", 
+                    "id": "0923b521-429a-4308-beb2-ca899adb0018"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/1prBkGnTNcd5Z01DXSJaEo", 
+                    "id": "1cdc1dc2-c219-46d2-832c-98dfafc11e0c"
+                }, 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.vevo.com/artist/william-control", 
+                    "id": "3596490c-c150-4d47-b2b4-bbf795bb0ac4"
+                }, 
+                "begin": null, 
+                "type-id": "d86c9450-b6d0-4760-a275-e7547495b48b", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "video channel", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1575035", 
+                    "id": "5a5beb9c-bfc6-4854-b599-3cc32bd5083e"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/William_Control", 
+                    "id": "2f26a808-f282-4989-aaa9-497163f51780"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/Iamwilliamcontrol", 
+                    "id": "03cf0a7a-2cda-48ae-bb8e-f18e6761b330"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/williamcontrolVEVO", 
+                    "id": "742c2fa2-70ad-4625-890d-3e2d428bc433"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Seattle", 
+            "disambiguation": "", 
+            "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc", 
+            "name": "Seattle"
+        }, 
+        "id": "a09aa514-b1cb-4288-8613-3c292f0d6e0d", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "William Control", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2008", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15505, 
+    "bandsintown_response": {
+        "description": "William Control", 
+        "title": "William Control @ El Corazon in Seattle, WA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Seattle", 
+            "name": "El Corazon", 
+            "country": "United States", 
+            "region": "WA", 
+            "longitude": -122.32939, 
+            "place": "El Corazon", 
+            "latitude": 47.618743
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13170351?app_id=ticketgame&artist=William+Control&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13170351/buy_tickets?app_id=ticketgame&artist=William+Control&came_from=67", 
+        "on_sale_datetime": "2016-10-20T18:55:20", 
+        "formatted_datetime": "Tuesday, November 22, 2016 at 7:30PM", 
+        "datetime": "2016-11-22T19:30:00", 
+        "formatted_location": "Seattle, WA", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1369493/tfly%3Futm_medium%3Dapi&afftrack=67%7E16554037%7E24269935%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/williamcontrolofficial", 
+                "name": "William Control", 
+                "url": "WilliamControl", 
+                "tracker_count": 32943, 
+                "mbid": "a09aa514-b1cb-4288-8613-3c292f0d6e0d", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6914512.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/WilliamControl/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6914512.jpeg"
+            }, 
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/mxmsisdead", 
+                "name": "MXMS", 
+                "url": "MXMS", 
+                "tracker_count": 1785, 
+                "mbid": null, 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/MXMS/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13170351
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 12.0
+    }, 
+    "modified_time": 1479442645.0, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 896, 
+    "id": 28383114
+}

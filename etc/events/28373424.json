@@ -1,0 +1,172 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Marching Church with Bernardino Femminielli at Sunset Tavern (January 13, 2017)", 
+        "popularity": 0.000439, 
+        "venue": {
+            "displayName": "Sunset Tavern", 
+            "uri": "http://www.songkick.com/venues/5812-sunset-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6681889, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3858426, 
+            "id": 5812
+        }, 
+        "uri": "http://www.songkick.com/concerts/28373424-marching-church-at-sunset-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-13", 
+            "time": "21:00:00", 
+            "datetime": "2017-01-13T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6681889, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3858426
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "36ef8d40-754d-4024-9638-52ab2d845617", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:36ef8d40-754d-4024-9638-52ab2d845617.json"
+                        }
+                    ], 
+                    "displayName": "Marching Church", 
+                    "uri": "http://www.songkick.com/artists/5137553-marching-church?utm_source=32233&utm_medium=partner", 
+                    "id": 5137553
+                }, 
+                "displayName": "Marching Church", 
+                "id": 55165559, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Bernardino Femminielli", 
+                    "uri": "http://www.songkick.com/artists/8859874-bernardino-femminielli?utm_source=32233&utm_medium=partner", 
+                    "id": 8859874
+                }, 
+                "displayName": "Bernardino Femminielli", 
+                "id": 55168654, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28373424
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Marching Church", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock"
+            }
+        ], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Copenhagen", 
+            "disambiguation": "", 
+            "id": "e0e3c82a-aea8-48d3-beda-9e587db0b969", 
+            "name": "Copenhagen"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://marchingchurch.bandcamp.com/", 
+                    "id": "9b0f070c-e4ef-4930-829b-526fc64a6538"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2056765", 
+                    "id": "9bd6da29-7ced-4a7e-ad9a-f6162e0c8996"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/marchingchurch", 
+                    "id": "3f6b4c3f-62b2-4c7d-9cdf-5d1b7e7ddd2a"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Marching Church", 
+        "gender": null, 
+        "type": "Group", 
+        "id": "36ef8d40-754d-4024-9638-52ab2d845617", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15504, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442660.0, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 895, 
+    "id": 28373424
+}

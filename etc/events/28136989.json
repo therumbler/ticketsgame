@@ -1,0 +1,128 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Kirk Knight at XOYO (November 10, 2016)", 
+        "popularity": 0.003053, 
+        "venue": {
+            "displayName": "XOYO", 
+            "uri": "http://www.songkick.com/venues/1005531-xoyo?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5255168, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0858669, 
+            "id": 1005531
+        }, 
+        "uri": "http://www.songkick.com/concerts/28136989-kirk-knight-at-xoyo?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.5255168, 
+            "city": "London, UK", 
+            "lng": -0.0858669
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cfb2b071-9d3b-469d-b395-beeabc74881e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cfb2b071-9d3b-469d-b395-beeabc74881e.json"
+                        }
+                    ], 
+                    "displayName": "Kirk Knight", 
+                    "uri": "http://www.songkick.com/artists/8215853-kirk-knight?utm_source=32233&utm_medium=partner", 
+                    "id": 8215853
+                }, 
+                "displayName": "Kirk Knight", 
+                "id": 54754824, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28136989
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Kirk Knight", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/kirk-knight-lyrics", 
+                    "id": "9bea0c2b-d23f-4f65-821d-d44aa463a8be"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Kirk_Knight", 
+                    "id": "f5f02b21-68ff-42e9-9dfd-6b6865381a43"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "id": "cfb2b071-9d3b-469d-b395-beeabc74881e", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Knight, Kirk", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1995-11-16", 
+            "end": null
+        }
+    }, 
+    "id": 28136989, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

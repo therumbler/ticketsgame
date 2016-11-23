@@ -1,0 +1,190 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Jools Holland & His Rhythm & Blues Orchestra with Jools Holland and Beth Rowley at Royal Albert Hall (November 25, 2016)", 
+        "popularity": 0.005695, 
+        "venue": {
+            "displayName": "Royal Albert Hall", 
+            "uri": "http://www.songkick.com/venues/17538-royal-albert-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 51.500786, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1781517, 
+            "id": 17538
+        }, 
+        "uri": "http://www.songkick.com/concerts/26092268-jools-holland-and-his-rhythm-and-blues-orchestra-at-royal-albert-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-25T19:30:00+0000"
+        }, 
+        "location": {
+            "lat": 51.500786, 
+            "city": "London, UK", 
+            "lng": -0.1781517
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "740b8198-f3be-4d81-aabd-3eccb35611a5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:740b8198-f3be-4d81-aabd-3eccb35611a5.json"
+                        }
+                    ], 
+                    "displayName": "Jools Holland & His Rhythm & Blues Orchestra", 
+                    "uri": "http://www.songkick.com/artists/79796-jools-holland-and-his-rhythm-and-blues-orchestra?utm_source=32233&utm_medium=partner", 
+                    "id": 79796
+                }, 
+                "displayName": "Jools Holland & His Rhythm & Blues Orchestra", 
+                "id": 51016298, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "29a6f210-8c16-404a-9c0f-c26e26ecb29c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:29a6f210-8c16-404a-9c0f-c26e26ecb29c.json"
+                        }
+                    ], 
+                    "displayName": "Jools Holland", 
+                    "uri": "http://www.songkick.com/artists/38828-jools-holland?utm_source=32233&utm_medium=partner", 
+                    "id": 38828
+                }, 
+                "displayName": "Jools Holland", 
+                "id": 51026803, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a5d412b5-d7ca-48e6-8183-24586fa87382", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a5d412b5-d7ca-48e6-8183-24586fa87382.json"
+                        }
+                    ], 
+                    "displayName": "Beth Rowley", 
+                    "uri": "http://www.songkick.com/artists/154760-beth-rowley?utm_source=32233&utm_medium=partner", 
+                    "id": 154760
+                }, 
+                "displayName": "Beth Rowley", 
+                "id": 54617284, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26092268
+    }, 
+    "musicbrainz_response": {
+        "name": "Jools Holland & His Rhythm & Blues Orchestra", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000257274", 
+                    "id": "49f35397-b790-46be-9935-4bd370130ce1"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/152495", 
+                    "id": "6207caaa-c3c5-41f9-b50b-b0848ead4c14"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Jools%20Holland%20&%20His%20Rhythm%20&%20Blues%20Orchestra", 
+                    "id": "af54986a-063b-48e2-847a-62bfa42aca8d"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Holland, Jools & His Rhythm & Blues Orchestra", 
+        "isnis": [], 
+        "disambiguation": "", 
+        "country": "GB", 
+        "type": "Group", 
+        "id": "740b8198-f3be-4d81-aabd-3eccb35611a5", 
+        "gender-id": null
+    }, 
+    "age_minutes": 3120, 
+    "bandsintown_response": {
+        "facebook_page_url": null, 
+        "upcoming_event_count": 0, 
+        "name": "Jools Holland &amp; His Rhythm &amp; Blues Orchestra", 
+        "tracker_count": 20, 
+        "mbid": "740b8198-f3be-4d81-aabd-3eccb35611a5", 
+        "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+        "facebook_tour_dates_url": null, 
+        "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479305670.0, 
+    "id": 26092268
+}

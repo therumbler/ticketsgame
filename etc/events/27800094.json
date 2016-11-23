@@ -1,0 +1,133 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Josh Hoyer and Soul Colossal at Ziggie's (December 3, 2016)", 
+        "popularity": 3.6e-05, 
+        "venue": {
+            "displayName": "Ziggie's", 
+            "uri": "http://www.songkick.com/venues/768291-ziggies?utm_source=32233&utm_medium=partner", 
+            "lat": 39.769464, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -105.0504758, 
+            "id": 768291
+        }, 
+        "uri": "http://www.songkick.com/concerts/27800094-josh-hoyer-and-soul-colossal-at-ziggies?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-03", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-03T20:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.769464, 
+            "city": "Denver, CO, US", 
+            "lng": -105.0504758
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "99e197d8-002a-48bf-86df-4e6758b4062b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:99e197d8-002a-48bf-86df-4e6758b4062b.json"
+                        }
+                    ], 
+                    "displayName": "Josh Hoyer and Soul Colossal", 
+                    "uri": "http://www.songkick.com/artists/8583894-josh-hoyer-and-soul-colossal?utm_source=32233&utm_medium=partner", 
+                    "id": 8583894
+                }, 
+                "displayName": "Josh Hoyer and Soul Colossal", 
+                "id": 54149424, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27800094
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Josh Hoyer and The Shadowboxers", 
+        "area": {
+            "sort-name": "Lincoln", 
+            "disambiguation": "", 
+            "id": "33957ca3-f2cd-4b08-b667-c933eff5c1a7", 
+            "name": "Lincoln"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2012", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3474972", 
+                    "id": "bfdb8a6e-396a-458a-93fe-03793ffb9faa"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.joshhoyerandtheshadowboxers.com/", 
+                    "id": "864ced3d-25a3-43db-9392-34197b87e6b6"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Hoyer, Josh and Shadowboxers, The", 
+        "begin_area": {
+            "sort-name": "Lincoln", 
+            "disambiguation": "", 
+            "id": "33957ca3-f2cd-4b08-b667-c933eff5c1a7", 
+            "name": "Lincoln"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "99e197d8-002a-48bf-86df-4e6758b4062b", 
+        "type": "Group", 
+        "disambiguation": "Blues / R&B / Soul"
+    }, 
+    "id": 27800094, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

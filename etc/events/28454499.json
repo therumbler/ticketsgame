@@ -1,0 +1,114 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Phillip-Michael Scales at Sofar Sounds (November 17, 2016)", 
+        "popularity": 5.3e-05, 
+        "venue": {
+            "displayName": "Sofar Sounds", 
+            "uri": "http://www.songkick.com/venues/2042809-sofar-sounds?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7127837, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -74.0059413, 
+            "id": 2042809
+        }, 
+        "uri": "http://www.songkick.com/concerts/28454499-phillipmichael-scales-at-sofar-sounds?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-17T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7127837, 
+            "city": "New York, NY, US", 
+            "lng": -74.0059413
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5504d5de-a80c-4a31-ab99-91578e5549a8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5504d5de-a80c-4a31-ab99-91578e5549a8.json"
+                        }
+                    ], 
+                    "displayName": "Phillip-Michael Scales", 
+                    "uri": "http://www.songkick.com/artists/8701688-phillipmichael-scales?utm_source=32233&utm_medium=partner", 
+                    "id": 8701688
+                }, 
+                "displayName": "Phillip-Michael Scales", 
+                "id": 55303104, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28454499
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Briar Rabbit", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.briarrabbit.net/", 
+                    "id": "0612bdae-d72f-4fac-b0ca-15748e9c7d90"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Rabbit, Briar", 
+        "country": "US", 
+        "type": "Person", 
+        "id": "5504d5de-a80c-4a31-ab99-91578e5549a8", 
+        "disambiguation": ""
+    }, 
+    "id": 28454499, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

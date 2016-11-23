@@ -1,0 +1,130 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Alan at Club Bonafide (November 9, 2016)", 
+        "popularity": 0.000594, 
+        "venue": {
+            "displayName": "Club Bonafide", 
+            "uri": "http://www.songkick.com/venues/3059679-club-bonafide?utm_source=32233&utm_medium=partner", 
+            "lat": 40.756594, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.969291, 
+            "id": 3059679
+        }, 
+        "uri": "http://www.songkick.com/concerts/28227559-alan-at-club-bonafide?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-09T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.756594, 
+            "city": "New York, NY, US", 
+            "lng": -73.969291
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "40718460-ab7c-4010-95d7-f77d76025991", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:40718460-ab7c-4010-95d7-f77d76025991.json"
+                        }, 
+                        {
+                            "mbid": "e1976293-fa88-4b6e-88ab-4c3396a0b0b5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e1976293-fa88-4b6e-88ab-4c3396a0b0b5.json"
+                        }, 
+                        {
+                            "mbid": "dded0177-e235-474e-8529-a812b89f806c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:dded0177-e235-474e-8529-a812b89f806c.json"
+                        }, 
+                        {
+                            "mbid": "9fcf8346-ffde-48d0-ab1d-2b078084e7bb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9fcf8346-ffde-48d0-ab1d-2b078084e7bb.json"
+                        }, 
+                        {
+                            "mbid": "402187e0-d196-4bb5-9daa-d9a5e6fb910e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:402187e0-d196-4bb5-9daa-d9a5e6fb910e.json"
+                        }
+                    ], 
+                    "displayName": "Alan", 
+                    "uri": "http://www.songkick.com/artists/43761-alan?utm_source=32233&utm_medium=partner", 
+                    "id": 43761
+                }, 
+                "displayName": "Alan", 
+                "id": 54910889, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28227559
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Alan", 
+        "tags": [], 
+        "gender": null, 
+        "disambiguation": "Mexican artist", 
+        "area": {
+            "sort-name": "Mexico", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "MX"
+            ], 
+            "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e", 
+            "name": "Mexico"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q5662234", 
+                    "id": "39db909b-7139-4b2e-8e3d-cae82afee8c9"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "Alan", 
+        "country": "MX", 
+        "id": "40718460-ab7c-4010-95d7-f77d76025991", 
+        "type": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28227559, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

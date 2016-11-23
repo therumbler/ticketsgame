@@ -1,0 +1,273 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Wytches at Electric Ballroom (November 11, 2016)", 
+        "popularity": 0.004562, 
+        "venue": {
+            "displayName": "Electric Ballroom", 
+            "uri": "http://www.songkick.com/venues/16762-electric-ballroom?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5396805, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1430625, 
+            "id": 16762
+        }, 
+        "uri": "http://www.songkick.com/concerts/27774849-wytches-at-electric-ballroom?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-11T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5396805, 
+            "city": "London, UK", 
+            "lng": -0.1430625
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2cf75c6b-e686-4ba1-818a-7f3ad5f3f398", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2cf75c6b-e686-4ba1-818a-7f3ad5f3f398.json"
+                        }
+                    ], 
+                    "displayName": "The Wytches", 
+                    "uri": "http://www.songkick.com/artists/6176504-wytches?utm_source=32233&utm_medium=partner", 
+                    "id": 6176504
+                }, 
+                "displayName": "The Wytches", 
+                "id": 54103074, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27774849
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Wytches", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "gender": null, 
+        "twitter": "TheWytches", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "brighton"
+            }, 
+            {
+                "count": 1, 
+                "name": "psychedelic"
+            }, 
+            {
+                "count": 1, 
+                "name": "punk"
+            }, 
+            {
+                "count": 1, 
+                "name": "raygun music"
+            }, 
+            {
+                "count": 1, 
+                "name": "surf doom"
+            }, 
+            {
+                "count": 0, 
+                "name": "surf doom punk psychedelic brighton raygun music records"
+            }
+        ], 
+        "disambiguation": "Brighton based 'surf-doom' band", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "id": "2cf75c6b-e686-4ba1-818a-7f3ad5f3f398", 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3316040", 
+                    "id": "bcb58255-7713-4e90-a8d2-f02d67152af5"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.thewytches.com/", 
+                    "id": "616d33f7-6f5b-4bcb-b872-899cfa68ba73"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "611b1862-67af-4253-a64f-34adba305d1d", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.musicglue.com/the-wytches/", 
+                    "id": "f1be9bd6-7da5-4e33-96c4-33e2de546683"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for mail-order", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/TheWytches", 
+                    "id": "e522494b-1516-47f1-9630-07462df1b95d"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/thewytches", 
+                    "id": "f2bbf9a1-688a-4a18-b113-7b2070a7f6fe"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/thewytches", 
+                    "id": "12760b3e-bb71-47de-941a-0aff07022854"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q17031558", 
+                    "id": "a80362ac-82d5-480d-89b6-cc86c8448851"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Wytches", 
+                    "id": "1d8c2972-3b97-4325-af3e-95d1b433830c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/witchesmovies", 
+                    "id": "25cae9d3-4e56-489b-8181-473ee2f36124"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": null, 
+        "country": "GB", 
+        "sort-name": "Wytches, The", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2011", 
+            "end": null
+        }
+    }, 
+    "id": 27774849, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

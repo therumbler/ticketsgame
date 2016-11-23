@@ -1,0 +1,285 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Goldroom and Autograf with Patrick Baker at Neptune Theatre (November 12, 2016)", 
+        "popularity": 0.025264, 
+        "venue": {
+            "displayName": "Neptune Theatre", 
+            "uri": "http://www.songkick.com/venues/1276526-neptune-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6612806, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3136475, 
+            "id": 1276526
+        }, 
+        "uri": "http://www.songkick.com/concerts/27548269-goldroom-at-neptune-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 47.6612806, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3136475
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "73d91e4c-88f7-4da5-8d18-06fbb4bfcca3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:73d91e4c-88f7-4da5-8d18-06fbb4bfcca3.json"
+                        }
+                    ], 
+                    "displayName": "Goldroom", 
+                    "uri": "http://www.songkick.com/artists/1959719-goldroom?utm_source=32233&utm_medium=partner", 
+                    "id": 1959719
+                }, 
+                "displayName": "Goldroom", 
+                "id": 53761569, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4984d5a0-34af-4532-84fa-e48df024d31b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4984d5a0-34af-4532-84fa-e48df024d31b.json"
+                        }
+                    ], 
+                    "displayName": "Autograf", 
+                    "uri": "http://www.songkick.com/artists/7413259-autograf?utm_source=32233&utm_medium=partner", 
+                    "id": 7413259
+                }, 
+                "displayName": "Autograf", 
+                "id": 53694449, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "32d34543-8b10-4a2f-be98-755163d4d95a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:32d34543-8b10-4a2f-be98-755163d4d95a.json"
+                        }
+                    ], 
+                    "displayName": "Patrick Baker", 
+                    "uri": "http://www.songkick.com/artists/6011364-patrick-baker?utm_source=32233&utm_medium=partner", 
+                    "id": 6011364
+                }, 
+                "displayName": "Patrick Baker", 
+                "id": 55068574, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27548269
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "sort-name": "Goldroom", 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Goldroom", 
+        "tags": [], 
+        "gender": "Male", 
+        "twitter": "goldroom", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003198936", 
+                    "id": "82da3bd3-87b0-4b2c-a1f3-583c5400d19e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://goldroom.bandcamp.com/", 
+                    "id": "ca02e3e7-debb-44b9-85e9-e96156f4206f"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2456163", 
+                    "id": "0a44a131-c22b-46de-b502-5fdbd5796134"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://goldroom.la/", 
+                    "id": "b4a13e2f-35e1-4ba8-9bd5-5df3bb5cb878"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/goldroom", 
+                    "id": "23439ab6-02cc-4fe3-a55c-887b5daa3c07"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/goldroom", 
+                    "id": "0bf9c3cc-f84c-4460-9da6-abdd32a0213e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/goldroomtunes", 
+                    "id": "ce3adc8a-1d11-4a00-87b5-382998f58d82"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/goldroom", 
+                    "id": "5e7aa5d7-de76-49df-8c09-7d82251c3d9f"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/goldroomtunes", 
+                    "id": "02b67dfa-5794-4179-9880-fda05980d487"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "id": "73d91e4c-88f7-4da5-8d18-06fbb4bfcca3", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 27548269, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

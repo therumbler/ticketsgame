@@ -1,0 +1,121 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Craig Wayne Boyd at Eddie's Attic (December 29, 2016)", 
+        "popularity": 0.001563, 
+        "venue": {
+            "displayName": "Eddie's Attic", 
+            "uri": "http://www.songkick.com/venues/46595-eddies-attic?utm_source=32233&utm_medium=partner", 
+            "lat": 33.773966, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.296449, 
+            "id": 46595
+        }, 
+        "uri": "http://www.songkick.com/concerts/28374969-craig-wayne-boyd-at-eddies-attic?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-29", 
+            "time": "19:30:00", 
+            "datetime": "2016-12-29T19:30:00-0500"
+        }, 
+        "location": {
+            "lat": 33.773966, 
+            "city": "Decatur, GA, US", 
+            "lng": -84.296449
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4956c07c-cd2e-404a-ba0e-b7b5361df2e0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4956c07c-cd2e-404a-ba0e-b7b5361df2e0.json"
+                        }
+                    ], 
+                    "displayName": "Craig Wayne Boyd", 
+                    "uri": "http://www.songkick.com/artists/3931621-craig-wayne-boyd?utm_source=32233&utm_medium=partner", 
+                    "id": 3931621
+                }, 
+                "displayName": "Craig Wayne Boyd", 
+                "id": 55168529, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28374969
+    }, 
+    "musicbrainz_response": {
+        "name": "Craig Wayne Boyd", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/CWBYall", 
+                    "id": "455cb83b-6eef-414a-b0d7-0fc5c6de71ee"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Boyd, Craig Wayne", 
+        "country": "US", 
+        "id": "4956c07c-cd2e-404a-ba0e-b7b5361df2e0", 
+        "type": "Person", 
+        "twitter": "CWBYall", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15506, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 20.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442655.0, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 895, 
+    "id": 28374969
+}

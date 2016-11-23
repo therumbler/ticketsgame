@@ -1,0 +1,214 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Peter Wolf at S.P.A.C.E. (November 14, 2016)", 
+        "popularity": 0.002648, 
+        "venue": {
+            "displayName": "S.P.A.C.E.", 
+            "uri": "http://www.songkick.com/venues/34741-space?utm_source=32233&utm_medium=partner", 
+            "lat": 42.040885, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.680072, 
+            "id": 34741
+        }, 
+        "uri": "http://www.songkick.com/concerts/28261974-peter-wolf-at-space?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-14", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 42.040885, 
+            "city": "Evanston, IL, US", 
+            "lng": -87.680072
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1b55a2b3-c369-42fa-a679-d263765ef878", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1b55a2b3-c369-42fa-a679-d263765ef878.json"
+                        }, 
+                        {
+                            "mbid": "83701bad-b130-4c19-9783-59061ca79aa0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:83701bad-b130-4c19-9783-59061ca79aa0.json"
+                        }
+                    ], 
+                    "displayName": "Peter Wolf", 
+                    "uri": "http://www.songkick.com/artists/528289-peter-wolf?utm_source=32233&utm_medium=partner", 
+                    "id": 528289
+                }, 
+                "displayName": "Peter Wolf", 
+                "id": 54968229, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28261974
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Peter Wolf", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1952-08-25", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Austria", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "AT"
+            ], 
+            "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446", 
+            "name": "Austria"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/660953", 
+                    "id": "aa9f35e4-f464-42da-93ea-fdef98534cf4"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.wolfmillesi.com/", 
+                    "id": "947583ee-51f9-48b0-bf78-65cecbbebf85"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/13615", 
+                    "id": "7c598884-3602-4708-93c8-4de1ce675f39"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.whamslam.com/", 
+                    "id": "196a5f5a-90b9-45b6-9587-7fa696bf8bd5"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q87265", 
+                    "id": "1815b6a1-fdca-42b5-bdfb-f231931aad3b"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Peter_Wolf_(producer)", 
+                    "id": "0982acbc-a341-40a9-a4b2-b71ac2385e4d"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00057467452", 
+            "00059605656"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Wien", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "AT-9"
+            ], 
+            "name": "Wien", 
+            "id": "afff1a94-a98b-4322-8874-3148139ab6da"
+        }, 
+        "id": "1b55a2b3-c369-42fa-a679-d263765ef878", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "AT", 
+        "sort-name": "Wolf, Peter", 
+        "type": "Person", 
+        "disambiguation": "Austrian classical/jazz composer/producer, keyboards for Zappa"
+    }, 
+    "id": 28261974, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,530 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Kansas at The Paramount (November 19, 2016)", 
+        "popularity": 0.107639, 
+        "venue": {
+            "displayName": "The Paramount", 
+            "uri": "http://www.songkick.com/venues/1461018-paramount?utm_source=32233&utm_medium=partner", 
+            "lat": 40.8696883, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.4260544, 
+            "id": 1461018
+        }, 
+        "uri": "http://www.songkick.com/concerts/27011094-kansas-at-paramount?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-19T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.8696883, 
+            "city": "Huntington, NY, US", 
+            "lng": -73.4260544
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "69689acf-d9cd-4d20-a972-47db4ed51b1a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:69689acf-d9cd-4d20-a972-47db4ed51b1a.json"
+                        }
+                    ], 
+                    "displayName": "Kansas", 
+                    "uri": "http://www.songkick.com/artists/336136-kansas?utm_source=32233&utm_medium=partner", 
+                    "id": 336136
+                }, 
+                "displayName": "Kansas", 
+                "id": 52701849, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27011094
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Kansas", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1970", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "aor"
+            }, 
+            {
+                "count": 1, 
+                "name": "folk rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "hard rock"
+            }, 
+            {
+                "count": 0, 
+                "name": "kansas"
+            }, 
+            {
+                "count": 2, 
+                "name": "progressive rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "soft rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "symphonic prog"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000303626", 
+                    "id": "e8949026-feff-4e74-8207-e07556c4818a"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/254408", 
+                    "id": "e345aec7-ef00-42f1-9b93-3c96da771cf0"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Kansas_1976.JPG", 
+                    "id": "79b80200-315f-4267-b8f8-40493005dd53"
+                }, 
+                "direction": "forward", 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Kansas", 
+                    "id": "ea9fa9ee-265c-4929-b9e8-0dbbe9e6ab93"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/kansas-lyrics", 
+                    "id": "9b27eb02-c488-4736-b0d9-f0aa290483e5"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-7334/kansas/lyrics.html", 
+                    "id": "20c753f7-4ead-4bab-acd8-b1867f331a1b"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/kansas", 
+                    "id": "e728b5dc-0168-4582-821e-05bfa072a2c5"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.kansasband.com/", 
+                    "id": "1864d5ed-639a-43ec-a039-cacac11e7441"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.45cat.com/artist/kansas", 
+                    "id": "aa992b7e-6dca-4fd1-bcc3-e8b7b68d7887"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.whosampled.com/Kansas/", 
+                    "id": "17739cd2-b11c-470a-aacf-604ad3b2726b"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/kansas", 
+                    "id": "ba6baace-5d78-47a5-99a7-205a1458f032"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.musik-sammler.de/artist/kansas/", 
+                    "id": "d83939b4-a7bb-4152-97fb-0b8835628914"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/artist/id460828", 
+                    "id": "450a506c-8b51-4083-9554-78f643c9e516"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=Axc7j7iv7ox2pur3cdnif66yqeu", 
+                    "id": "85406258-afb3-4007-8dbc-2a3e62d93c05"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://secondhandsongs.com/artist/2254", 
+                    "id": "24203349-d3e6-4027-ac34-ac07c0422c70"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/kansasband", 
+                    "id": "0e3fdfe9-3159-443b-bec5-e909044c73bb"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/KansasBand", 
+                    "id": "3500ddf0-753d-4d71-950e-379ea985d735"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1", 
+                    "id": "b4a4601d-97bd-4147-afd5-40d5925edd5a"
+                }, 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q204328", 
+                    "id": "2e1b75dd-ee61-48ed-95e0-9a3ea514ceb9"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Kansas_(band)", 
+                    "id": "d1a51538-5591-41b2-b5f8-d33e5fa65d0b"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/kansasVEVO", 
+                    "id": "7f3aaa47-5d8a-4221-8c1b-5e516624e238"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Kansas", 
+        "begin_area": {
+            "sort-name": "Topeka", 
+            "disambiguation": "", 
+            "name": "Topeka", 
+            "id": "7bc72649-a3de-4772-8792-e77cb52d2f95"
+        }, 
+        "gender-id": null, 
+        "isnis": [], 
+        "id": "69689acf-d9cd-4d20-a972-47db4ed51b1a", 
+        "country": "US", 
+        "type": "Group", 
+        "twitter": "kansasband", 
+        "disambiguation": "US prog rock band"
+    }, 
+    "age_minutes": 11489, 
+    "bandsintown_response": {
+        "description": "The KANSAS: Leftoverture 40th Anniversary Tour is coming to The Paramount  in Huntington, NY on November 19!\n\nThe band KANSAS presents in concert the 6x Multi-Plantium Album \"Leftoverture\" performed in its entirety.\n\nThis 2 hour special concert will debut new songs from their upcoming album \"The Prelude Implicit.\" It will also feature hits such as 'Dust In The Wind,' 'Point of Know Return,' 'Play The Game Tonight' & 'Fight Fire With Fire' as well as deep cuts from their albums that have sold over 30 million copies worldwide.\n\nKANSAS Pre-sale tickets and VIP Packages become available at 10AM on Tuesday, May 10, using passcode KANSASBAND\n\nA limited number of KANSAS Wheat & Greet VIP Packages that include a ticket to the concert, exclusive KANSAS merchandise, and a pre-show meet & greet and photo with KANSAS will be available. \n\nPublic On-sale is Friday, May 13 at 10AM", 
+        "title": "Kansas @ The Paramount in Huntington, NY", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Huntington", 
+            "name": "The Paramount", 
+            "country": "United States", 
+            "region": "NY", 
+            "longitude": -73.4260049, 
+            "place": "The Paramount", 
+            "latitude": 40.8696147
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12044997?app_id=ticketgame&artist=Kansas&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12044997/buy_tickets?app_id=ticketgame&artist=Kansas&came_from=67", 
+        "on_sale_datetime": "2016-05-13T10:00:00", 
+        "formatted_datetime": "Saturday, November 19, 2016 at 8:00PM", 
+        "datetime": "2016-11-19T20:00:00", 
+        "formatted_location": "Huntington, NY", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fwww.ticketmaster.com%2Fkansas-leftoverture-40th-anniversary-tour-huntington-new-york-11-19-2016%2Fevent%2F000050A99B1E2610%3Fartistid%3D735426%26majorcatid%3D10001%26minorcatid%3D1&subId1=67%7E15031521%7E%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.kansasband.com", 
+                "facebook_page_url": "https://www.facebook.com/KansasBand", 
+                "name": "Kansas", 
+                "url": "Kansas", 
+                "tracker_count": 313344, 
+                "mbid": "69689acf-d9cd-4d20-a972-47db4ed51b1a", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6792656.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Kansas/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6792656.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12044997
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 109.0, 
+        "price_min": 76.5
+    }, 
+    "modified_time": 1478803684.0, 
+    "id": 27011094
+}

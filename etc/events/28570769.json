@@ -1,0 +1,383 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.009433, 
+        "displayName": "Lettuce with TAUK at 9:30 Club (January 6, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "9:30 Club", 
+            "uri": "http://www.songkick.com/venues/922-930-club?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9178658, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0237219, 
+            "id": 922
+        }, 
+        "uri": "http://www.songkick.com/concerts/28570769-lettuce-at-930-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-06", 
+            "datetime": "2017-01-06T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 38.9178658, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0237219
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e88313e2-22f6-4f6d-9656-6d2ad20ea415", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e88313e2-22f6-4f6d-9656-6d2ad20ea415.json"
+                        }
+                    ], 
+                    "displayName": "Lettuce", 
+                    "uri": "http://www.songkick.com/artists/204338-lettuce?utm_source=32233&utm_medium=partner", 
+                    "id": 204338
+                }, 
+                "displayName": "Lettuce", 
+                "id": 55504884, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6f2adbd6-7685-47a9-932e-b1e450a561a3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6f2adbd6-7685-47a9-932e-b1e450a561a3.json"
+                        }
+                    ], 
+                    "displayName": "TAUK", 
+                    "uri": "http://www.songkick.com/artists/633278-tauk?utm_source=32233&utm_medium=partner", 
+                    "id": 633278
+                }, 
+                "displayName": "TAUK", 
+                "id": 55504889, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28570769
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Lettuce", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "funk"
+            }, 
+            {
+                "count": 1, 
+                "name": "jam band"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1992", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000257067", 
+                    "id": "e02a1566-9cdc-4410-a197-29a8b7ae8b61"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1340226", 
+                    "id": "978ca15f-56a0-40cb-80de-b6b8c3cf533f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/lettucefunk", 
+                    "id": "7b486c15-bec6-4775-8c38-9ae25292e17d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lettucefunk.com/", 
+                    "id": "dc16e920-5d5a-4280-9a17-b0126261a35c"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/lettuce", 
+                    "id": "a9d98b0d-be2f-46f4-96e9-9b5d35933c8d"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/lettucefunk", 
+                    "id": "d218155b-e6d3-4745-b4e3-cd05df7f1b53"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/LettuceFunk", 
+                    "id": "b8576748-0175-47c6-9c48-4e1bea4c9aa2"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/lettucemusic/", 
+                    "id": "fdccd0a9-6e11-4966-893f-992490e04ed2"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/204338-lettuce", 
+                    "id": "18687e3d-0bc7-434a-829a-30d30cd522ef"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/lettucefunk", 
+                    "id": "6f7642ef-6b04-4d3e-8816-2e9c99ec2e40"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q6533861", 
+                    "id": "7fed5194-25a3-44d2-b8b9-f3fcb4127ad9"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Lettuce_(band)", 
+                    "id": "1d18c2e7-2ca7-4fd6-b079-9c6a8aa86326"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Boston", 
+            "disambiguation": "", 
+            "id": "e331bfdf-b908-429c-a79b-710cf9c06abb", 
+            "name": "Boston"
+        }, 
+        "sort-name": "Lettuce", 
+        "isnis": [], 
+        "id": "e88313e2-22f6-4f6d-9656-6d2ad20ea415", 
+        "country": "US", 
+        "type": "Group", 
+        "twitter": "lettucefunk", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 3196, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Lettuce @ 9:30 Club in Washington, DC", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Washington", 
+            "name": "9:30 Club", 
+            "country": "United States", 
+            "region": "DC", 
+            "longitude": -77.023628, 
+            "place": "9:30 Club", 
+            "latitude": 38.917913
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13298064?app_id=ticketgame&artist=Lettuce&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13298064/buy_tickets?app_id=ticketgame&artist=Lettuce&came_from=67", 
+        "on_sale_datetime": "2016-11-18T10:00:00", 
+        "formatted_datetime": "Friday, January 6, 2017 at 9:00PM", 
+        "datetime": "2017-01-06T21:00:00", 
+        "formatted_location": "Washington, DC", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1376446?utm_medium=bks&afftrack=67%7E16727128%7E%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.lettucefunk.com/", 
+                "facebook_page_url": "https://www.facebook.com/LettuceFunk", 
+                "name": "Lettuce", 
+                "url": "Lettuce", 
+                "tracker_count": 73077, 
+                "mbid": "e88313e2-22f6-4f6d-9656-6d2ad20ea415", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/7078437.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Lettuce/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/7078437.jpeg"
+            }, 
+            {
+                "website": "http://www.lettucefunk.com/", 
+                "facebook_page_url": "https://www.facebook.com/LettuceFunk", 
+                "name": "Lettuce", 
+                "url": "Lettuce", 
+                "tracker_count": 73077, 
+                "mbid": "e88313e2-22f6-4f6d-9656-6d2ad20ea415", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Lettuce/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13298064
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 25.0, 
+        "price_min": 25.0
+    }, 
+    "modified_time": 1479442197.0, 
+    "created_time": 1479305746.0, 
+    "modified_minutes": 922, 
+    "id": 28570769
+}

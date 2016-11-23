@@ -1,0 +1,130 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Jai Wolf with Jerry Folk at Wonder Ballroom (November 19, 2016)", 
+        "popularity": 0.007084, 
+        "venue": {
+            "displayName": "Wonder Ballroom", 
+            "uri": "http://www.songkick.com/venues/1433-wonder-ballroom?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5408474, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6634854, 
+            "id": 1433
+        }, 
+        "uri": "http://www.songkick.com/concerts/28085734-jai-wolf-at-wonder-ballroom?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-19T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5408474, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6634854
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4e65e361-e974-4c9f-a368-970d69b1c93b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4e65e361-e974-4c9f-a368-970d69b1c93b.json"
+                        }
+                    ], 
+                    "displayName": "Jai Wolf", 
+                    "uri": "http://www.songkick.com/artists/8041093-jai-wolf?utm_source=32233&utm_medium=partner", 
+                    "id": 8041093
+                }, 
+                "displayName": "Jai Wolf", 
+                "id": 54663299, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3317ba58-c284-42b7-83b1-e42977d2b7b6", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3317ba58-c284-42b7-83b1-e42977d2b7b6.json"
+                        }
+                    ], 
+                    "displayName": "Jerry Folk", 
+                    "uri": "http://www.songkick.com/artists/8404938-jerry-folk?utm_source=32233&utm_medium=partner", 
+                    "id": 8404938
+                }, 
+                "displayName": "Jerry Folk", 
+                "id": 54663304, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28085734
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Jai Wolf", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.beatport.com/artist/jai-wolf/427446", 
+                    "id": "3c6725af-c622-47bb-a63f-7399b51d2433"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Jai Wolf", 
+        "type": null, 
+        "id": "4e65e361-e974-4c9f-a368-970d69b1c93b", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 65.0, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?u=291182&b=234786&m=27601&urllink=www.ticketfly.com/purchase/event/1315785/tfly?utm_medium=api&afftrack=e28085734", 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442422.0, 
+    "created_minutes": 18168, 
+    "created_time": 1478566069.0, 
+    "modified_minutes": 3562, 
+    "id": 28085734
+}

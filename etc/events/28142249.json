@@ -1,0 +1,456 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mary Chapin Carpenter and Rose Cousins at Birchmere (December 6, 2016)", 
+        "popularity": 0.018249, 
+        "venue": {
+            "displayName": "Birchmere", 
+            "uri": "http://www.songkick.com/venues/32723-birchmere?utm_source=32233&utm_medium=partner", 
+            "lat": 38.839858, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.06129, 
+            "id": 32723
+        }, 
+        "uri": "http://www.songkick.com/concerts/28142249-mary-chapin-carpenter-at-birchmere?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-06", 
+            "time": "19:30:00", 
+            "datetime": "2016-12-06T19:30:00-0500"
+        }, 
+        "location": {
+            "lat": 38.839858, 
+            "city": "Alexandria, VA, US", 
+            "lng": -77.06129
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ba1bf556-2af2-4772-835f-ed2e15070758", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ba1bf556-2af2-4772-835f-ed2e15070758.json"
+                        }
+                    ], 
+                    "displayName": "Mary Chapin Carpenter", 
+                    "uri": "http://www.songkick.com/artists/304943-mary-chapin-carpenter?utm_source=32233&utm_medium=partner", 
+                    "id": 304943
+                }, 
+                "displayName": "Mary Chapin Carpenter", 
+                "id": 54763279, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4606cc91-77fa-43a3-a003-c4cb30bd1b7c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4606cc91-77fa-43a3-a003-c4cb30bd1b7c.json"
+                        }
+                    ], 
+                    "displayName": "Rose Cousins", 
+                    "uri": "http://www.songkick.com/artists/400770-rose-cousins?utm_source=32233&utm_medium=partner", 
+                    "id": 400770
+                }, 
+                "displayName": "Rose Cousins", 
+                "id": 54979919, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28142249
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Mary Chapin Carpenter", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "country"
+            }, 
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "country": "US", 
+        "twitter": "M_CCarpenter", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/ba1bf556-2af2-4772-835f-ed2e15070758", 
+                    "id": "d8d0d795-709e-4669-a9ff-3f9bb1a939c7"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0139414/", 
+                    "id": "6b6f60bb-044f-4fb1-a936-ec264e0c6362"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/14965843", 
+                    "id": "a436bf45-69fa-4f22-876a-52baa65167a9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000858375", 
+                    "id": "bcaddc6a-9603-464e-aa21-008cafd12210"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/266181", 
+                    "id": "804cafa1-8d59-4102-9d7b-687ad3aa68d0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Mary+Chapin+Carpenter", 
+                    "id": "28fd8be0-d611-455b-9add-8a09e587c139"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/mary-chapin-carpenter-lyrics", 
+                    "id": "3eb09726-5c1c-40c1-ae10-16ab3ae0edfe"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-4157/mary-chapin-carpenter/lyrics.html", 
+                    "id": "133d8730-ad0b-4ceb-a905-cca7ebd98175"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/marychapincarpenter", 
+                    "id": "8262feb1-fc7d-4433-810d-e31f4527a4dc"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.marychapincarpenter.com/", 
+                    "id": "ec9b81c2-07d8-43eb-bb71-7815e5e2e360"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/mary_chapin_carpenter", 
+                    "id": "5fb1a0bd-57f8-4802-a22a-d06ce2fe6d12"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/M_CCarpenter", 
+                    "id": "fb28d1f0-13ba-46ad-a847-ecdd9d469d22"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/officialmarychapin", 
+                    "id": "51aba84a-6836-45e0-b5cb-cbba1494f2ac"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr", 
+                    "id": "9a614a3d-89cf-474a-a762-06b8a91d7f93"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q270765", 
+                    "id": "3775ce6a-1532-498c-bf3f-92b8551e7a4e"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Mary_Chapin_Carpenter", 
+                    "id": "83ba6018-5438-4d37-907e-89ac6c856b36"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/marychapincarpenter", 
+                    "id": "65072968-d59c-4744-ace3-35d31b848f73"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Princeton", 
+            "disambiguation": "", 
+            "id": "61a9459b-05ee-483d-a364-785dfb6232e9", 
+            "name": "Princeton"
+        }, 
+        "id": "ba1bf556-2af2-4772-835f-ed2e15070758", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Carpenter, Mary Chapin", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1958-02-21", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15480, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Mary Chapin Carpenter @ Birchmere in Alexandria, VA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Alexandria", 
+            "name": "Birchmere", 
+            "country": "United States", 
+            "region": "VA", 
+            "longitude": -77.06245, 
+            "place": "Birchmere", 
+            "latitude": 38.83966
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12975919?app_id=ticketgame&artist=Mary+Chapin+Carpenter&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12975919/buy_tickets?app_id=ticketgame&artist=Mary+Chapin+Carpenter&came_from=67", 
+        "on_sale_datetime": "2016-09-23T16:00:00", 
+        "formatted_datetime": "Tuesday, December 6, 2016 at 7:30PM", 
+        "datetime": "2016-12-06T19:30:00", 
+        "formatted_location": "Alexandria, VA", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F15005133E891480A&subId1=67%7E16291334%7E23782881%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.marychapincarpenter.com/", 
+                "facebook_page_url": null, 
+                "name": "Mary Chapin Carpenter", 
+                "url": "MaryChapinCarpenter", 
+                "tracker_count": 51831, 
+                "mbid": "ba1bf556-2af2-4772-835f-ed2e15070758", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6091854.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/MaryChapinCarpenter/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6091854.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12975919
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 0, 
+        "price_min": 9999999
+    }, 
+    "modified_time": 1479442524.0, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 873, 
+    "id": 28142249
+}

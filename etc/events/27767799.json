@@ -1,0 +1,133 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Brady Toops with Matt Wheeler at World Cafe Live \u2013 Upstairs (November 9, 2016)", 
+        "popularity": 0.000368, 
+        "venue": {
+            "displayName": "World Cafe Live \u2013 Upstairs", 
+            "uri": "http://www.songkick.com/venues/855146-world-cafe-live-upstairs?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9522059, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.185114, 
+            "id": 855146
+        }, 
+        "uri": "http://www.songkick.com/concerts/27767799-brady-toops-at-world-cafe-live-upstairs?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-09T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9522059, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.185114
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "34b30abf-0355-4b22-bc87-c1069874b43b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:34b30abf-0355-4b22-bc87-c1069874b43b.json"
+                        }
+                    ], 
+                    "displayName": "Brady Toops", 
+                    "uri": "http://www.songkick.com/artists/7330329-brady-toops?utm_source=32233&utm_medium=partner", 
+                    "id": 7330329
+                }, 
+                "displayName": "Brady Toops", 
+                "id": 54089614, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f2be5a23-8ace-4f76-9f34-3d5254fd37f3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f2be5a23-8ace-4f76-9f34-3d5254fd37f3.json"
+                        }
+                    ], 
+                    "displayName": "Matt Wheeler", 
+                    "uri": "http://www.songkick.com/artists/5480678-matt-wheeler?utm_source=32233&utm_medium=partner", 
+                    "id": 5480678
+                }, 
+                "displayName": "Matt Wheeler", 
+                "id": 54572539, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27767799
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Brady Toops", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1981-07-31", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Minneapolis", 
+            "disambiguation": "", 
+            "name": "Minneapolis", 
+            "id": "3e80aaa7-9b71-450f-8147-0ecf101d8f1a"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Brady_Toops", 
+                    "id": "56610b00-7d6f-4a2f-bdd7-4b0b35de4d49"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Minneapolis", 
+            "disambiguation": "", 
+            "name": "Minneapolis", 
+            "id": "3e80aaa7-9b71-450f-8147-0ecf101d8f1a"
+        }, 
+        "sort-name": "Toops, Brady", 
+        "gender": "Male", 
+        "id": "34b30abf-0355-4b22-bc87-c1069874b43b", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 27767799, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Shonen Knife at Brighton Bar (November 10, 2016)", 
+        "popularity": 0.004832, 
+        "venue": {
+            "displayName": "Brighton Bar", 
+            "uri": "http://www.songkick.com/venues/10743-brighton-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 40.2845863, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9873435, 
+            "id": 10743
+        }, 
+        "uri": "http://www.songkick.com/concerts/27639384-shonen-knife-at-brighton-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-10T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.2845863, 
+            "city": "Long Branch, NJ, US", 
+            "lng": -73.9873435
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5089b746-7612-4a13-9153-33ff2560e161", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5089b746-7612-4a13-9153-33ff2560e161.json"
+                        }
+                    ], 
+                    "displayName": "Shonen Knife", 
+                    "uri": "http://www.songkick.com/artists/443101-shonen-knife?utm_source=32233&utm_medium=partner", 
+                    "id": 443101
+                }, 
+                "displayName": "Shonen Knife", 
+                "id": 53854484, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27639384
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Shonen Knife", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "japan"
+            }, 
+            {
+                "count": 1, 
+                "name": "japan punk"
+            }, 
+            {
+                "count": 1, 
+                "name": "punk"
+            }
+        ], 
+        "gender": null, 
+        "twitter": "ShonenKnife", 
+        "area": {
+            "sort-name": "Japan", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "JP"
+            ], 
+            "name": "Japan", 
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000036310", 
+                    "id": "5249014c-04e3-4bff-9bd1-f77ff359c24f"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/130682", 
+                    "id": "a45479c7-c70f-42f7-b76d-f252bb914dff"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.shonenknife.com/mainpage.html", 
+                    "id": "8d307264-28e0-405b-8d84-0b5b954e9320"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/shonenknife", 
+                    "id": "1d61dd96-dc38-45b7-9ca8-73d31fb216e6"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.shonenknife.net/", 
+                    "id": "6760aa41-eb48-4e64-a248-2b0faa5f4b52"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/shonen_knife", 
+                    "id": "4b26201d-be9c-42f1-a4c0-f336977c6e77"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.goodcharamel.com/?select=artists&data=shonenKnife#close", 
+                    "id": "7631df08-2664-4e8d-b476-3f33f1503790"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://shonenknifeofficial.tumblr.com/", 
+                    "id": "6b708fed-a455-44eb-98cd-3feab9441d34"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/ShonenKnife", 
+                    "id": "75f7dbe7-e40f-4db8-95aa-a74dba051663"
+                }, 
+                "begin": "2009-03-02", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/ShonenKnifeOfficial", 
+                    "id": "9a7fbc1f-0e8a-4127-81ee-43ec033239f9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1891518", 
+                    "id": "59d1ad62-22ba-45da-a0c6-d0ebad7fb446"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Shonen_Knife", 
+                    "id": "249ab3e3-de3c-4436-9dd1-bcd19909987d"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/SHONENKNIFETV", 
+                    "id": "d4b10531-bb9e-4421-ae51-897024198010"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "disambiguation": "Japanese Pop-Punk girl trio", 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Osaka", 
+            "disambiguation": "", 
+            "name": "Osaka", 
+            "id": "30bcaa92-9870-4798-be1a-4e0036755316"
+        }, 
+        "sort-name": "Shonen Knife", 
+        "country": "JP", 
+        "id": "5089b746-7612-4a13-9153-33ff2560e161", 
+        "ipis": [], 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1981", 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 27639384, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

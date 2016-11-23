@@ -1,0 +1,182 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.037124, 
+        "displayName": "SoMo with STANAJ at El Rey Theatre (November 30, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "El Rey Theatre", 
+            "uri": "http://www.songkick.com/venues/1039-el-rey-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 34.062397, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.3487992, 
+            "id": 1039
+        }, 
+        "uri": "http://www.songkick.com/concerts/27899719-somo-at-el-rey-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-30", 
+            "datetime": "2016-11-30T19:30:00-0800", 
+            "time": "19:30:00"
+        }, 
+        "location": {
+            "lat": 34.062397, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.3487992
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bd83292c-242b-45cd-bd8d-6bd362c60e6e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bd83292c-242b-45cd-bd8d-6bd362c60e6e.json"
+                        }
+                    ], 
+                    "displayName": "SoMo", 
+                    "uri": "http://www.songkick.com/artists/6720604-somo?utm_source=32233&utm_medium=partner", 
+                    "id": 6720604
+                }, 
+                "displayName": "SoMo", 
+                "id": 54333139, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8ead8d7e-0f53-49f1-85a4-a5a59e3c6bb3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8ead8d7e-0f53-49f1-85a4-a5a59e3c6bb3.json"
+                        }
+                    ], 
+                    "displayName": "STANAJ", 
+                    "uri": "http://www.songkick.com/artists/8925464-stanaj?utm_source=32233&utm_medium=partner", 
+                    "id": 8925464
+                }, 
+                "displayName": "STANAJ", 
+                "id": 55300819, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27899719
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "SoMo", 
+        "area": {
+            "sort-name": "Denison", 
+            "disambiguation": "", 
+            "id": "d60b9ab0-fb32-4540-9020-c259fc43460a", 
+            "name": "Denison"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1987-09-11", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "r&b"
+            }, 
+            {
+                "count": 1, 
+                "name": "somo"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/OfficialSoMo", 
+                    "id": "9a7f2453-91c9-427c-9689-d997f9906946"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q16231962", 
+                    "id": "6673188b-1f42-43af-95b6-f88b1ab7c677"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/SoMo", 
+                    "id": "31e59f2c-de70-45d6-822e-5bb1690e49b1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Austin", 
+            "disambiguation": "", 
+            "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5", 
+            "name": "Austin"
+        }, 
+        "sort-name": "SoMo", 
+        "isnis": [], 
+        "id": "bd83292c-242b-45cd-bd8d-6bd362c60e6e", 
+        "country": null, 
+        "type": "Person", 
+        "disambiguation": "U.S. R&B Artist", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.songkick.com/store/events/27899719"
+    }, 
+    "modified_time": 1479442233.0, 
+    "created_minutes": 5835, 
+    "created_time": 1479305679.0, 
+    "modified_minutes": 3559, 
+    "id": 27899719
+}

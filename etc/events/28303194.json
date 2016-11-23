@@ -1,0 +1,146 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.003537, 
+        "displayName": "Kane Brown and Jordan Rager at Summit Music Hall (January 14, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Summit Music Hall", 
+            "uri": "http://www.songkick.com/venues/836146-summit-music-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7535064, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9953172, 
+            "id": 836146
+        }, 
+        "uri": "http://www.songkick.com/concerts/28303194-kane-brown-at-summit-music-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-14", 
+            "datetime": "2017-01-14T19:00:00-0700", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 39.7535064, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9953172
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Kane Brown", 
+                "id": 55041214, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a62e299b-4707-4ff5-ad53-d80b2b03319d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a62e299b-4707-4ff5-ad53-d80b2b03319d.json"
+                        }
+                    ], 
+                    "displayName": "Kane Brown", 
+                    "uri": "http://www.songkick.com/artists/3587911-kane-brown?utm_source=32233&utm_medium=partner", 
+                    "id": 3587911
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Jordan Rager", 
+                "id": 55041219, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "fabdf1ad-d09b-484b-b587-c340dd424b58", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fabdf1ad-d09b-484b-b587-c340dd424b58.json"
+                        }
+                    ], 
+                    "displayName": "Jordan Rager", 
+                    "uri": "http://www.songkick.com/artists/4595208-jordan-rager?utm_source=32233&utm_medium=partner", 
+                    "id": 4595208
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28303194
+    }, 
+    "musicbrainz_response": {
+        "name": "Kane Brown", 
+        "area": null, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1993-10-21", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id930928857", 
+                    "id": "d72faf5f-fd2b-47a7-92c8-4323d1e7f4a7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Kane_Brown", 
+                    "id": "6b3db4f2-c015-4afc-903a-cceb0d9d4503"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "sort-name": "Brown, Kane", 
+        "type": "Person", 
+        "id": "a62e299b-4707-4ff5-ad53-d80b2b03319d", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15498, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 90.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442899.0, 
+    "created_time": 1478566006.0, 
+    "modified_minutes": 883, 
+    "id": 28303194
+}

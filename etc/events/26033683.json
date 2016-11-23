@@ -1,0 +1,578 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Billy Joel at Madison Square Garden (November 21, 2016)", 
+        "popularity": 0.244419, 
+        "venue": {
+            "displayName": "Madison Square Garden", 
+            "uri": "http://www.songkick.com/venues/477-madison-square-garden?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7497096, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.991556, 
+            "id": 477
+        }, 
+        "uri": "http://www.songkick.com/concerts/26033683-billy-joel-at-madison-square-garden?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-21", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-21T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7497096, 
+            "city": "Manhattan, NY, US", 
+            "lng": -73.991556
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "64b94289-9474-4d43-8c93-918ccc1920d1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:64b94289-9474-4d43-8c93-918ccc1920d1.json"
+                        }
+                    ], 
+                    "displayName": "Billy Joel", 
+                    "uri": "http://www.songkick.com/artists/296988-billy-joel?utm_source=32233&utm_medium=partner", 
+                    "id": 296988
+                }, 
+                "displayName": "Billy Joel", 
+                "id": 50912688, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26033683
+    }, 
+    "musicbrainz_response": {
+        "name": "Billy Joel", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "american"
+            }, 
+            {
+                "count": 0, 
+                "name": "classic pop and rock"
+            }, 
+            {
+                "count": 0, 
+                "name": "classical"
+            }, 
+            {
+                "count": 2, 
+                "name": "piano rock"
+            }, 
+            {
+                "count": 2, 
+                "name": "pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop rock"
+            }, 
+            {
+                "count": 2, 
+                "name": "rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "singer/songwriter"
+            }, 
+            {
+                "count": 1, 
+                "name": "soft rock"
+            }, 
+            {
+                "count": 0, 
+                "name": "this is the time"
+            }
+        ], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1949-05-09", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/64b94289-9474-4d43-8c93-918ccc1920d1", 
+                    "id": "d9eb151d-bb78-4171-a08c-aae4a2ff5bcf"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0005055/", 
+                    "id": "6bb68b62-99d8-4d29-b991-6793c7d816e8"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/74037916", 
+                    "id": "76ca623b-5508-4a7f-a31c-d44e3aefa0cf"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000085915", 
+                    "id": "5e4c06c7-0489-4dca-b1e0-116034588899"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/137418", 
+                    "id": "f858daf4-cd20-4bc5-9016-9536eea9e522"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Billy_Joel_Shankbone_NYC_2009.jpg", 
+                    "id": "2a6842c6-1731-4068-b1bc-8f63102f7a0b"
+                }, 
+                "direction": "forward", 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Billy+Joel", 
+                    "id": "bc453006-1e88-436a-a4fe-f66dd505d616"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/billy-joel-lyrics", 
+                    "id": "08c683b6-de76-4ec8-a74e-69c0c72bfd28"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/Billy_Joel", 
+                    "id": "eb26784f-53e5-467c-945c-cb7ef67d6b14"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-3712/billy-joel/lyrics.html", 
+                    "id": "edff7b24-1c6f-40e6-ba72-e95ec69750e6"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/billy_joel", 
+                    "id": "fc3dc166-e80e-4b71-99bc-7a0dbfe778c8"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.billyjoel.com/", 
+                    "id": "1a70d20a-e895-47ae-a297-e67da63de26d"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://musicmoz.org/Bands_and_Artists/J/Joel,_Billy/", 
+                    "id": "318b394c-bf9e-4323-abc6-b92e6b735fda"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/billy_joel", 
+                    "id": "6d3f3489-f049-4403-8e31-8bbfbf9efbf3"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.musik-sammler.de/artist/2484", 
+                    "id": "2387cd04-0ee5-439c-82fe-6d33c3b043f1"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.worldcat.org/identities/lccn-n81146974/", 
+                    "id": "a4c77d67-8159-491f-9856-10fb6f3df765"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/5091", 
+                    "id": "eaa157fb-d342-48bf-822c-af46056ed796"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/billyjoel", 
+                    "id": "1b2b88c9-7f95-436b-a720-6f3d816bba49"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/billyjoel", 
+                    "id": "11b29533-c435-4a5e-ba94-8b9ed19d77eb"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e", 
+                    "id": "5b7aa6cf-af08-47b6-8c4e-6c0444059d9c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q194333", 
+                    "id": "6bf8f86c-8405-443f-9b0e-599813172c11"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Billy_Joel", 
+                    "id": "d35f917f-cd4f-41d7-a31c-e4823984b58f"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/billyjoel", 
+                    "id": "70d764d8-a8f7-4d24-8af6-1d9779dae414"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00064277861", 
+            "00064277959"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "The Bronx", 
+            "disambiguation": "", 
+            "name": "The Bronx", 
+            "id": "eb4a386e-1178-4e3a-a371-30418dd6fd2e"
+        }, 
+        "sort-name": "Joel, Billy", 
+        "isnis": [
+            "000000000128769X", 
+            "0000000081542979"
+        ], 
+        "id": "64b94289-9474-4d43-8c93-918ccc1920d1", 
+        "country": "US", 
+        "type": "Person", 
+        "twitter": "billyjoel", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 3119, 
+    "bandsintown_response": {
+        "description": "Billy Joel", 
+        "title": "Billy Joel @ Madison Square Garden in New York, NY", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "New York", 
+            "name": "Madison Square Garden", 
+            "country": "United States", 
+            "region": "NY", 
+            "longitude": -73.991556, 
+            "place": "Madison Square Garden", 
+            "latitude": 40.7497096
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12860719?app_id=ticketgame&artist=Billy+Joel&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12860719/buy_tickets?app_id=ticketgame&artist=Billy+Joel&came_from=67", 
+        "on_sale_datetime": "2016-02-05T15:00:00", 
+        "formatted_datetime": "Monday, November 21, 2016 at 8:00PM", 
+        "datetime": "2016-11-21T20:00:00", 
+        "formatted_location": "New York, NY", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F3B004F8BCAC03111&subId1=67%7E16224917%7E22537148%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.billyjoel.com/", 
+                "facebook_page_url": null, 
+                "name": "Billy Joel", 
+                "url": "BillyJoel", 
+                "tracker_count": 794540, 
+                "mbid": "64b94289-9474-4d43-8c93-918ccc1920d1", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5289660.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/BillyJoel/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5289660.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12860719
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 153.8, 
+        "price_min": 127.0
+    }, 
+    "modified_time": 1479305699.0, 
+    "id": 26033683
+}

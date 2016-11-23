@@ -1,0 +1,162 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Ratboys, Meristems, and New Holland at Hungry Brain (November 21, 2016)", 
+        "popularity": 0.000183, 
+        "venue": {
+            "displayName": "Hungry Brain", 
+            "uri": "http://www.songkick.com/venues/34814-hungry-brain?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9393746, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6863911, 
+            "id": 34814
+        }, 
+        "uri": "http://www.songkick.com/concerts/28034249-ratboys-at-hungry-brain?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-21", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-21T20:30:00-0600"
+        }, 
+        "location": {
+            "lat": 41.9393746, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6863911
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "423a85de-66ba-4113-abdc-ba2678ee89ba", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:423a85de-66ba-4113-abdc-ba2678ee89ba.json"
+                        }
+                    ], 
+                    "displayName": "Ratboys", 
+                    "uri": "http://www.songkick.com/artists/5607023-ratboys?utm_source=32233&utm_medium=partner", 
+                    "id": 5607023
+                }, 
+                "displayName": "Ratboys", 
+                "id": 54574144, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Meristems", 
+                    "uri": "http://www.songkick.com/artists/8730924-meristems?utm_source=32233&utm_medium=partner", 
+                    "id": 8730924
+                }, 
+                "displayName": "Meristems", 
+                "id": 54574149, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "257171d2-151e-4e21-936a-0f78a273ac2c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:257171d2-151e-4e21-936a-0f78a273ac2c.json"
+                        }
+                    ], 
+                    "displayName": "New Holland", 
+                    "uri": "http://www.songkick.com/artists/840297-new-holland?utm_source=32233&utm_medium=partner", 
+                    "id": 840297
+                }, 
+                "displayName": "New Holland", 
+                "id": 54574154, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28034249
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Ratboys", 
+        "area": {
+            "sort-name": "Chicago", 
+            "disambiguation": "", 
+            "name": "Chicago", 
+            "id": "29a709d8-0320-493e-8d0c-f2c386662b7f"
+        }, 
+        "gender-id": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2009", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://ratboys.bandcamp.com/", 
+                    "id": "f71ecbd4-3908-4b34-a166-21d163c777db"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/ratboysmusic", 
+                    "id": "96b31ac3-3e22-4c40-a6ef-daf3c0070dcc"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Chicago", 
+            "disambiguation": "", 
+            "name": "Chicago", 
+            "id": "29a709d8-0320-493e-8d0c-f2c386662b7f"
+        }, 
+        "sort-name": "Ratboys", 
+        "gender": null, 
+        "type": "Group", 
+        "id": "423a85de-66ba-4113-abdc-ba2678ee89ba", 
+        "disambiguation": ""
+    }, 
+    "id": 28034249, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

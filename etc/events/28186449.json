@@ -1,0 +1,226 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Steady Holiday with Bedouine and Alex Lilly at Bootleg Theater (November 15, 2016)", 
+        "popularity": 0.000147, 
+        "venue": {
+            "displayName": "Bootleg Theater", 
+            "uri": "http://www.songkick.com/venues/74901-bootleg-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0673514, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2721714, 
+            "id": 74901
+        }, 
+        "uri": "http://www.songkick.com/concerts/28186449-steady-holiday-at-bootleg-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-15T20:30:00-0800"
+        }, 
+        "location": {
+            "lat": 34.0673514, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2721714
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "db838699-7233-48b4-ba9b-d372be1d63ac", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:db838699-7233-48b4-ba9b-d372be1d63ac.json"
+                        }
+                    ], 
+                    "displayName": "Steady Holiday", 
+                    "uri": "http://www.songkick.com/artists/8625304-steady-holiday?utm_source=32233&utm_medium=partner", 
+                    "id": 8625304
+                }, 
+                "displayName": "Steady Holiday", 
+                "id": 54841654, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Bedouine", 
+                    "uri": "http://www.songkick.com/artists/8635264-bedouine?utm_source=32233&utm_medium=partner", 
+                    "id": 8635264
+                }, 
+                "displayName": "Bedouine", 
+                "id": 54841659, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "49d33838-610f-4b61-9ba8-55db8081fcb3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:49d33838-610f-4b61-9ba8-55db8081fcb3.json"
+                        }
+                    ], 
+                    "displayName": "Alex Lilly", 
+                    "uri": "http://www.songkick.com/artists/787106-alex-lilly?utm_source=32233&utm_medium=partner", 
+                    "id": 787106
+                }, 
+                "displayName": "Alex Lilly", 
+                "id": 55105834, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28186449
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Steady Holiday", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative"
+            }, 
+            {
+                "count": 1, 
+                "name": "dream pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "indie"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop"
+            }
+        ], 
+        "country": null, 
+        "twitter": "steadyholiday", 
+        "area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "name": "Los Angeles", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://steadyholiday.bandcamp.com/", 
+                    "id": "1f763dcf-1f15-4dd6-93b0-538594c52f1d"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://steadyholiday.com/", 
+                    "id": "277ceaf7-baee-4aa7-8c1a-c58659088242"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/steadyholiday", 
+                    "id": "0b3abbab-168d-484a-adb2-bddc6bd8b287"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/steadyholiday", 
+                    "id": "df11a75c-4b71-4173-b082-504e55e091ef"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/steadyholiday/", 
+                    "id": "dbc35f41-20b6-4680-8f72-b7caa99482c2"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "Steady Holiday", 
+        "gender": null, 
+        "id": "db838699-7233-48b4-ba9b-d372be1d63ac", 
+        "ipis": [], 
+        "type": null, 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28186449, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

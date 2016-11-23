@@ -1,0 +1,204 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000151, 
+        "displayName": "Patrick Lamb at The Sentinel Hotel (December 31, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Sentinel Hotel", 
+            "uri": "http://www.songkick.com/venues/2855683-sentinel-hotel?utm_source=32233&utm_medium=partner", 
+            "lat": 45.520598, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.68258, 
+            "id": 2855683
+        }, 
+        "uri": "http://www.songkick.com/concerts/25825609-patrick-lamb-at-sentinel-hotel?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-31", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-31T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.520598, 
+            "city": "Portland, OR, US", 
+            "lng": -122.68258
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Patrick Lamb", 
+                "id": 50554814, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "829d6d29-8857-486e-b9ca-b68a32a41808", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:829d6d29-8857-486e-b9ca-b68a32a41808.json"
+                        }
+                    ], 
+                    "displayName": "Patrick Lamb", 
+                    "uri": "http://www.songkick.com/artists/559555-patrick-lamb?utm_source=32233&utm_medium=partner", 
+                    "id": 559555
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 25825609
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Patrick Lamb", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000009683", 
+                    "id": "c8349267-da49-4b81-8931-ef01387af52a"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1579329", 
+                    "id": "a122c968-232d-4604-bdd2-a37fa0e06ace"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Patrick%20Lamb", 
+                    "id": "5663f6e0-8d86-4748-9743-1a62b9da3c76"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/patricklamb", 
+                    "id": "10066bf5-5ffc-43a1-83ae-6ee9cb14f604"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.patricklamb.com/", 
+                    "id": "a2a91161-395a-4140-820b-0eb5f361bfee"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/patrick_lamb", 
+                    "id": "59e9e4b1-1ded-4b23-a49c-62453bf09467"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Jackson", 
+            "disambiguation": "", 
+            "id": "4591c662-32c8-4278-9e28-fa509e6c57aa", 
+            "name": "Jackson"
+        }, 
+        "sort-name": "Lamb, Patrick", 
+        "country": "US", 
+        "id": "829d6d29-8857-486e-b9ca-b68a32a41808", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 25825609, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

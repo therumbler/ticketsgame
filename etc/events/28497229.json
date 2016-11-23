@@ -1,0 +1,107 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "CFM at Georgia Theatre Rooftop (November 14, 2016)", 
+        "popularity": 5.5e-05, 
+        "venue": {
+            "displayName": "Georgia Theatre Rooftop", 
+            "uri": "http://www.songkick.com/venues/1997579-georgia-theatre-rooftop?utm_source=32233&utm_medium=partner", 
+            "lat": 33.9583371, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -83.3772112, 
+            "id": 1997579
+        }, 
+        "uri": "http://www.songkick.com/concerts/28497229-cfm-at-georgia-theatre-rooftop?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-14", 
+            "datetime": "2016-11-14T23:00:00-0500", 
+            "time": "23:00:00"
+        }, 
+        "location": {
+            "lat": 33.9583371, 
+            "city": "Athens, GA, US", 
+            "lng": -83.3772112
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f5501f11-ab06-4d10-b603-d87e4970d32b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f5501f11-ab06-4d10-b603-d87e4970d32b.json"
+                        }
+                    ], 
+                    "displayName": "CFM", 
+                    "uri": "http://www.songkick.com/artists/8721219-cfm?utm_source=32233&utm_medium=partner", 
+                    "id": 8721219
+                }, 
+                "displayName": "CFM", 
+                "id": 55377164, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28497229
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "CFM", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/173220", 
+                    "id": "bbfd5308-d561-4c7e-b7fc-85aa5199f02c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "CFM", 
+        "country": null, 
+        "disambiguation": "", 
+        "type": null, 
+        "id": "f5501f11-ab06-4d10-b603-d87e4970d32b", 
+        "gender-id": null
+    }, 
+    "id": 28497229, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

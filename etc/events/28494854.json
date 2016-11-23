@@ -1,0 +1,368 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.017327, 
+        "displayName": "Paris Hilton at The Wall, W Hotel (December 2, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Wall, W Hotel", 
+            "uri": "http://www.songkick.com/venues/915731-wall-w-hotel?utm_source=32233&utm_medium=partner", 
+            "lat": 25.797829, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "FL"
+                }, 
+                "displayName": "Miami", 
+                "uri": "http://www.songkick.com/metro_areas/9776-us-miami?utm_source=32233&utm_medium=partner", 
+                "id": 9776
+            }, 
+            "lng": -80.127861, 
+            "id": 915731
+        }, 
+        "uri": "http://www.songkick.com/concerts/28494854-paris-hilton-at-wall-w-hotel?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "time": "23:00:00", 
+            "datetime": "2016-12-02T23:00:00-0500"
+        }, 
+        "location": {
+            "lat": 25.797829, 
+            "city": "Miami, FL, US", 
+            "lng": -80.127861
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Paris Hilton", 
+                "id": 55373094, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0d9ff9c7-394e-4228-93aa-c4afd4765324", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0d9ff9c7-394e-4228-93aa-c4afd4765324.json"
+                        }
+                    ], 
+                    "displayName": "Paris Hilton", 
+                    "uri": "http://www.songkick.com/artists/502783-paris-hilton?utm_source=32233&utm_medium=partner", 
+                    "id": 502783
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28494854
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Paris Hilton", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1981-02-17", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": "Female", 
+        "twitter": "ParisHilton", 
+        "tags": [
+            {
+                "count": 0, 
+                "name": "brutal death metal"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0385296/", 
+                    "id": "db08045e-dd70-4507-926d-104e8985be09"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/5186209", 
+                    "id": "79c4be18-e5e2-478d-9413-fc9bd14c3233"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000721416", 
+                    "id": "a38eeb54-5c5a-4bdd-b870-7f8458b9d566"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/539235", 
+                    "id": "4e055ac9-b591-403f-8ce6-248eaeb005c7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.paris-h.org/", 
+                    "id": "40bd37d8-9be8-42ca-a79b-d423c55ac1af"
+                }, 
+                "begin": null, 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Paris%20Hilton", 
+                    "id": "c25e5369-b20a-4415-ac77-ab8850895f80"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-6245/paris-hilton/lyrics.html", 
+                    "id": "d14ca572-f52a-4d7c-a4eb-bed0a7826426"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/parishilton", 
+                    "id": "b74067e6-689d-4e69-a8b9-0f2cb9492be7"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://parishilton.com/", 
+                    "id": "4b529a3b-4e13-4a20-99ee-5513fef55cb2"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/paris_hilton", 
+                    "id": "cae3e068-7ae0-44c2-abc0-0873f6740333"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/ParisHilton", 
+                    "id": "2998f37a-31fd-4349-8395-b1655641ab19"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q47899", 
+                    "id": "384c7526-7da3-44c5-a746-4df9b3ccd4ef"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Paris_Hilton", 
+                    "id": "86754da7-805e-42f8-be03-c3ab683d5b93"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-NY"
+            ], 
+            "id": "75e398a3-5f3f-4224-9cd8-0fe44715bc95", 
+            "name": "New York"
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "country": "US", 
+        "sort-name": "Hilton, Paris", 
+        "type": "Person", 
+        "id": "0d9ff9c7-394e-4228-93aa-c4afd4765324", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": "Paris Hilton (Art Basel Edition)", 
+        "title": "Paris Hilton @ WALL LOUNGE MIAMI BEACH in Miami Beach, FL", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Miami Beach", 
+            "name": "WALL LOUNGE MIAMI BEACH", 
+            "country": "United States", 
+            "region": "FL", 
+            "longitude": -80.1274804, 
+            "place": "WALL LOUNGE MIAMI BEACH", 
+            "latitude": 25.7977417
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13251023?app_id=ticketgame&artist=Paris+Hilton&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13251023/buy_tickets?app_id=ticketgame&artist=Paris+Hilton&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Friday, December 2, 2016 at 11:00PM", 
+        "datetime": "2016-12-02T23:00:00", 
+        "formatted_location": "Miami Beach, FL", 
+        "ticket_redirect_url": "http://www.wantickets.com/Events/ShowEvent.aspx?eventId=213925&affCode=63fd72ff92874568a348", 
+        "artists": [
+            {
+                "website": "http://www.parishilton.com/", 
+                "facebook_page_url": null, 
+                "name": "Paris Hilton", 
+                "url": "ParisHilton", 
+                "tracker_count": 22667, 
+                "mbid": "0d9ff9c7-394e-4228-93aa-c4afd4765324", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5428820.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/ParisHilton/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5428820.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13251023
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.wantickets.com/Events/ShowEvent.aspx?eventId=213925&affCode=63fd72ff92874568a348"
+    }, 
+    "modified_time": 1479442381.0, 
+    "created_minutes": 18238, 
+    "created_time": 1478566034.0, 
+    "modified_minutes": 3633, 
+    "id": 28494854
+}

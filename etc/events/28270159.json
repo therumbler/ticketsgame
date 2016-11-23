@@ -1,0 +1,398 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Emmylou Harris at The Hamilton Live (December 4, 2016)", 
+        "popularity": 0.03602, 
+        "venue": {
+            "displayName": "The Hamilton Live", 
+            "uri": "http://www.songkick.com/venues/1611908-hamilton-live?utm_source=32233&utm_medium=partner", 
+            "lat": 38.89749, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0321542, 
+            "id": 1611908
+        }, 
+        "uri": "http://www.songkick.com/concerts/28270159-emmylou-harris-at-hamilton-live?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-04", 
+            "time": "19:30:00", 
+            "datetime": "2016-12-04T19:30:00-0500"
+        }, 
+        "location": {
+            "lat": 38.89749, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0321542
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "35ef61ca-43db-4772-ba27-0489e9ebcb69", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:35ef61ca-43db-4772-ba27-0489e9ebcb69.json"
+                        }
+                    ], 
+                    "displayName": "Emmylou Harris", 
+                    "uri": "http://www.songkick.com/artists/337767-emmylou-harris?utm_source=32233&utm_medium=partner", 
+                    "id": 337767
+                }, 
+                "displayName": "Emmylou Harris", 
+                "id": 54983164, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28270159
+    }, 
+    "musicbrainz_response": {
+        "name": "Emmylou Harris", 
+        "tags": [
+            {
+                "count": 2, 
+                "name": "folk"
+            }
+        ], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1947-04-02", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/35ef61ca-43db-4772-ba27-0489e9ebcb69", 
+                    "id": "fa49e1b9-35b3-4434-be5e-6a287bb063ae"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0004994/", 
+                    "id": "494a4652-7835-46c8-a9cf-e6500f5037bc"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/88075729", 
+                    "id": "347eaf96-61b8-4dac-84a6-fb59c446bc73"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000159699", 
+                    "id": "85507c48-7339-4278-9752-a00e6ccc9824"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/83609", 
+                    "id": "c52a2dcd-2ec7-4c7f-8f87-4352029db357"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.emmylou.net/", 
+                    "id": "de42fef8-a8d0-436d-8608-b65406d5ea5e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-5855/emmylou-harris/lyrics.html", 
+                    "id": "a126ca98-eb43-4d25-ba84-1352984e4f3c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/emmylouharris", 
+                    "id": "3b1757da-20c9-48ba-a2b4-c82d8c05dd1b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.emmylou.net/", 
+                    "id": "de42fef8-a8d0-436d-8608-b65406d5ea5e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/emmylou_harris", 
+                    "id": "e315990c-da2d-43e2-a6b1-c5b0602b50f7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/1500", 
+                    "id": "3b901723-1eba-4960-bffa-ce02da63ab93"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/EmmylouHarris", 
+                    "id": "2aa84ae2-970c-4d8d-89ad-de320b8a94e4"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q231286", 
+                    "id": "fa57d1fe-0edc-4f49-a3ce-a9fa2fc97d0b"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Emmylou_Harris", 
+                    "id": "166cb2cf-1f1b-4cd2-b878-70d36b4aba51"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/emmylouharris", 
+                    "id": "7b4d455b-80e0-4b59-ba12-5a2a9586bbc5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Birmingham", 
+            "disambiguation": "", 
+            "name": "Birmingham", 
+            "id": "8995a377-da74-40b6-ab76-b1f2d6eed01f"
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Harris, Emmylou", 
+        "type": "Person", 
+        "id": "35ef61ca-43db-4772-ba27-0489e9ebcb69", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": "An Intimate Evening with Emmylou Harris Benefiting Bonaparte\u2019s Retreat", 
+        "title": "Emmylou Harris @ The Hamilton Live in Washington, DC", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Washington", 
+            "name": "The Hamilton Live", 
+            "country": "United States", 
+            "region": "DC", 
+            "longitude": -77.031968, 
+            "place": "The Hamilton Live", 
+            "latitude": 38.897433
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13078661?app_id=ticketgame&artist=Emmylou+Harris&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13078661/buy_tickets?app_id=ticketgame&artist=Emmylou+Harris&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Sunday, December 4, 2016 at 7:30PM", 
+        "datetime": "2016-12-04T19:30:00", 
+        "formatted_location": "Washington, DC", 
+        "ticket_redirect_url": "http://smarturl.it/dmvu03", 
+        "artists": [
+            {
+                "website": "http://www.EmmylouHarris.com", 
+                "facebook_page_url": "https://www.facebook.com/EmmylouHarris", 
+                "name": "Emmylou Harris", 
+                "url": "EmmylouHarris", 
+                "tracker_count": 105063, 
+                "mbid": "35ef61ca-43db-4772-ba27-0489e9ebcb69", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6286578.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/EmmylouHarris/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6286578.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13078661
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://smarturl.it/dmvu03"
+    }, 
+    "modified_time": 1479442890.0, 
+    "created_minutes": 18199, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 3586, 
+    "id": 28270159
+}

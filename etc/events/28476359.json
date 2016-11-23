@@ -1,0 +1,94 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "21+", 
+        "displayName": "PROM (US), And The Echo, and Aaron Krause at The Basement (November 26, 2016)", 
+        "popularity": 0.001195, 
+        "venue": {
+            "displayName": "The Basement", 
+            "uri": "http://www.songkick.com/venues/11066-basement?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1370083, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.778447, 
+            "id": 11066
+        }, 
+        "uri": "http://www.songkick.com/concerts/28476359-prom-us-at-basement?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-26", 
+            "datetime": "2016-11-26T21:00:00-0600", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 36.1370083, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.778447
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "PROM (US)", 
+                    "uri": "http://www.songkick.com/artists/8779114-prom-us?utm_source=32233&utm_medium=partner", 
+                    "id": 8779114
+                }, 
+                "displayName": "PROM (US)", 
+                "id": 55363969, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "And The Echo", 
+                    "uri": "http://www.songkick.com/artists/8349463-and-the-echo?utm_source=32233&utm_medium=partner", 
+                    "id": 8349463
+                }, 
+                "displayName": "And The Echo", 
+                "id": 55363974, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a81fc574-ce1b-4e9b-b909-37e9023dca86", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a81fc574-ce1b-4e9b-b909-37e9023dca86.json"
+                        }
+                    ], 
+                    "displayName": "Aaron Krause", 
+                    "uri": "http://www.songkick.com/artists/4712403-aaron-krause?utm_source=32233&utm_medium=partner", 
+                    "id": 4712403
+                }, 
+                "displayName": "Aaron Krause", 
+                "id": 55339999, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28476359
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=7000345&REFERRAL_ID=tmfeed"
+    }, 
+    "modified_time": 1479442416.0, 
+    "created_minutes": 18236, 
+    "created_time": 1478566041.0, 
+    "modified_minutes": 3630, 
+    "id": 28476359
+}

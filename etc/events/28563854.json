@@ -1,0 +1,91 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000476, 
+        "displayName": "Hama Hama with Evan Egerer and Hip Hatchet at Conor Byrne Pub (December 1, 2016)", 
+        "ageRestriction": "21+", 
+        "venue": {
+            "displayName": "Conor Byrne Pub", 
+            "uri": "http://www.songkick.com/venues/219643-conor-byrne-pub?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6655258, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3817337, 
+            "id": 219643
+        }, 
+        "uri": "http://www.songkick.com/concerts/28563854-hama-hama-at-conor-byrne-pub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-01", 
+            "datetime": "2016-12-01T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 47.6655258, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3817337
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Hama Hama", 
+                    "uri": "http://www.songkick.com/artists/8935839-hama-hama?utm_source=32233&utm_medium=partner", 
+                    "id": 8935839
+                }, 
+                "displayName": "Hama Hama", 
+                "id": 55493094, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Evan Egerer", 
+                    "uri": "http://www.songkick.com/artists/7991488-evan-egerer?utm_source=32233&utm_medium=partner", 
+                    "id": 7991488
+                }, 
+                "displayName": "Evan Egerer", 
+                "id": 55493099, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "13af4f2f-1efc-40a3-894d-d7096b514ae2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:13af4f2f-1efc-40a3-894d-d7096b514ae2.json"
+                        }
+                    ], 
+                    "displayName": "Hip Hatchet", 
+                    "uri": "http://www.songkick.com/artists/3605126-hip-hatchet?utm_source=32233&utm_medium=partner", 
+                    "id": 3605126
+                }, 
+                "displayName": "Hip Hatchet", 
+                "id": 55493104, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28563854
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Rate limit exceeded"
+        ]
+    }, 
+    "id": 28563854, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

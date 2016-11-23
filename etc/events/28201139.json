@@ -1,0 +1,195 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Tchami at Electric Brixton (November 25, 2016)", 
+        "popularity": 0.015413, 
+        "venue": {
+            "displayName": "Electric Brixton", 
+            "uri": "http://www.songkick.com/venues/9022-electric-brixton?utm_source=32233&utm_medium=partner", 
+            "lat": 51.4598359, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1170324, 
+            "id": 9022
+        }, 
+        "uri": "http://www.songkick.com/concerts/28201139-tchami-at-electric-brixton?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-25T22:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.4598359, 
+            "city": "London, UK", 
+            "lng": -0.1170324
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "374a63ed-2502-495a-8e31-139e3ed7507e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:374a63ed-2502-495a-8e31-139e3ed7507e.json"
+                        }
+                    ], 
+                    "displayName": "Tchami", 
+                    "uri": "http://www.songkick.com/artists/7764939-tchami?utm_source=32233&utm_medium=partner", 
+                    "id": 7764939
+                }, 
+                "displayName": "Tchami", 
+                "id": 54866829, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28201139
+    }, 
+    "musicbrainz_response": {
+        "name": "Tchami", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3462852", 
+                    "id": "a234f551-541f-4a87-ba70-79315fcb88a6"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.beatport.com/tchamiofficial", 
+                    "id": "c13f0deb-6077-4894-a5de-998ab2657a87"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/iamTchami", 
+                    "id": "9a01acfa-e510-4162-b095-521a57460160"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/iamTchami", 
+                    "id": "c6b87c1f-479f-4802-bf32-473c74f54237"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/tchami/", 
+                    "id": "e3896fd8-568a-41e0-a23c-76613c0c2390"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/iamtchami", 
+                    "id": "cdd1bb73-d848-4206-ad22-65a4f72e7900"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "Tchami", 
+        "isnis": [], 
+        "id": "374a63ed-2502-495a-8e31-139e3ed7507e", 
+        "disambiguation": "", 
+        "country": null, 
+        "type": null, 
+        "twitter": "iamTchami", 
+        "gender-id": null
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.co.uk/event/XUL2511A"
+    }, 
+    "modified_time": 1479442714.0, 
+    "created_minutes": 5847, 
+    "created_time": 1479305670.0, 
+    "modified_minutes": 3563, 
+    "id": 28201139
+}

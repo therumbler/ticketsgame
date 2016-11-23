@@ -1,0 +1,101 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Luke Combs at 9:30 Club (January 26, 2017)", 
+        "popularity": 0.00052, 
+        "venue": {
+            "displayName": "9:30 Club", 
+            "uri": "http://www.songkick.com/venues/922-930-club?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9178658, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0237219, 
+            "id": 922
+        }, 
+        "uri": "http://www.songkick.com/concerts/28558709-luke-combs-at-930-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-26", 
+            "time": "19:00:00", 
+            "datetime": "2017-01-26T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.9178658, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0237219
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Luke Combs", 
+                "id": 55484009, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c20ee61f-071f-4e65-9c81-45ee931a54ce", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c20ee61f-071f-4e65-9c81-45ee931a54ce.json"
+                        }
+                    ], 
+                    "displayName": "Luke Combs", 
+                    "uri": "http://www.songkick.com/artists/8782319-luke-combs?utm_source=32233&utm_medium=partner", 
+                    "id": 8782319
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28558709
+    }, 
+    "musicbrainz_response": {
+        "name": "Luke Combs", 
+        "area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "name": "Nashville", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "isnis": [], 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Combs, Luke", 
+        "type": "Person", 
+        "id": "c20ee61f-071f-4e65-9c81-45ee931a54ce", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 3195, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442223.0, 
+    "created_time": 1479305746.0, 
+    "modified_minutes": 920, 
+    "id": 28558709
+}

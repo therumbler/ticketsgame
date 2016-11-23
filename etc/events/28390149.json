@@ -1,0 +1,199 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Henry Hall at Mercury Lounge (November 16, 2016)", 
+        "popularity": 0.000379, 
+        "venue": {
+            "displayName": "Mercury Lounge", 
+            "uri": "http://www.songkick.com/venues/364-mercury-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7221646, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9867142, 
+            "id": 364
+        }, 
+        "uri": "http://www.songkick.com/concerts/28390149-henry-hall-at-mercury-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": "21:15:00", 
+            "datetime": "2016-11-16T21:15:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7221646, 
+            "city": "New York, NY, US", 
+            "lng": -73.9867142
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6e8f93a7-eb40-4dec-a781-69b6dd77d145", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6e8f93a7-eb40-4dec-a781-69b6dd77d145.json"
+                        }
+                    ], 
+                    "displayName": "Henry Hall", 
+                    "uri": "http://www.songkick.com/artists/8319878-henry-hall?utm_source=32233&utm_medium=partner", 
+                    "id": 8319878
+                }, 
+                "displayName": "Henry Hall", 
+                "id": 55195204, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28390149
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Henry Hall", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": true, 
+            "begin": "1898-05-02", 
+            "end": "1989-10-28"
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0355644/", 
+                    "id": "2225f5e5-44ea-40f7-931f-a4d558492795"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/51888569", 
+                    "id": "64de1a8e-31aa-41f7-969c-24792c11ea56"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000954987", 
+                    "id": "1d52777a-4ed6-4fad-a69d-f9037d1a978e"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/419463", 
+                    "id": "d2ab0ab3-4d53-402d-b175-4b4579c86417"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1521852", 
+                    "id": "336da306-927f-4e8f-9042-96758dc98b38"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Henry_Hall_(bandleader)", 
+                    "id": "7078f550-3f50-461a-8cf7-3722dbdeef65"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Hall, Henry", 
+        "country": "GB", 
+        "disambiguation": "", 
+        "type": "Person", 
+        "id": "6e8f93a7-eb40-4dec-a781-69b6dd77d145", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28390149, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Boy Named Banjo at Atlanta Room, Smith's Olde Bar (December 16, 2016)", 
+        "popularity": 0.000275, 
+        "venue": {
+            "displayName": "Atlanta Room, Smith's Olde Bar", 
+            "uri": "http://www.songkick.com/venues/10963-atlanta-room-smiths-olde-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7975898, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3687665, 
+            "id": 10963
+        }, 
+        "uri": "http://www.songkick.com/concerts/27848269-boy-named-banjo-at-atlanta-room-smiths-olde-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-16", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-16T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 33.7975898, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.3687665
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ea80fe64-075c-4218-b24b-81c82f195608", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ea80fe64-075c-4218-b24b-81c82f195608.json"
+                        }
+                    ], 
+                    "displayName": "Boy Named Banjo", 
+                    "uri": "http://www.songkick.com/artists/5734969-boy-named-banjo?utm_source=32233&utm_medium=partner", 
+                    "id": 5734969
+                }, 
+                "displayName": "Boy Named Banjo", 
+                "id": 54237499, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27848269
+    }, 
+    "musicbrainz_response": {
+        "name": "Boy Named Banjo", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "name": "Nashville", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.boynamedbanjo.com/", 
+                    "id": "17b72554-3cb9-4e8e-b9b3-63e13313509d"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Boy Named Banjo", 
+        "type": "Group", 
+        "id": "ea80fe64-075c-4218-b24b-81c82f195608", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6857845&REFERRAL_ID=tmfeed"
+    }, 
+    "modified_time": 1479442178.0, 
+    "created_minutes": 18160, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 3557, 
+    "id": 27848269
+}

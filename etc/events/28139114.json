@@ -1,0 +1,234 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Empress Of at Club Bahia (November 7, 2016)", 
+        "popularity": 0.006386, 
+        "venue": {
+            "displayName": "Club Bahia", 
+            "uri": "http://www.songkick.com/venues/1374206-club-bahia?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0664845, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.249829, 
+            "id": 1374206
+        }, 
+        "uri": "http://www.songkick.com/concerts/28139114-empress-of-at-club-bahia?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-07", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-07T19:00:00-0800"
+        }, 
+        "location": {
+            "lat": 34.0664845, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.249829
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "91cd6a5a-e0db-4329-837e-9b6479d1ed2d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:91cd6a5a-e0db-4329-837e-9b6479d1ed2d.json"
+                        }
+                    ], 
+                    "displayName": "Empress Of", 
+                    "uri": "http://www.songkick.com/artists/6092694-empress-of?utm_source=32233&utm_medium=partner", 
+                    "id": 6092694
+                }, 
+                "displayName": "Empress Of", 
+                "id": 54758539, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28139114
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Empress Of", 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "gender": "Female", 
+        "twitter": "empressof", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "disambiguation": "Lorely Rodriguez", 
+        "ipis": [], 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "end_area": null, 
+        "begin_area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2986678", 
+                    "id": "62d9329e-d0e1-4ff5-92f2-60ea1e0628f6"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://empressof.com/", 
+                    "id": "81791759-ff8c-4b8c-9f2c-651cd74f1780"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/empress_of", 
+                    "id": "eac60b4f-8ce6-4e13-94fc-7a61e317e491"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/empressof", 
+                    "id": "1c93790e-88e7-4e7c-b41f-5474aa3ed029"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/EmpressOf", 
+                    "id": "202d8c0d-9339-4749-b7e1-08b64cac05e8"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/empressof", 
+                    "id": "8db29ed2-3356-4c09-8449-af57ba02673f"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q20684061", 
+                    "id": "f58fe6e3-5e53-42f3-8847-3e5ba6992d6c"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Empress_Of", 
+                    "id": "3cf017b4-d98b-4f5d-bcea-cc791691db63"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Empress Of", 
+        "country": "US", 
+        "id": "91cd6a5a-e0db-4329-837e-9b6479d1ed2d", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": []
+    }, 
+    "id": 28139114, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

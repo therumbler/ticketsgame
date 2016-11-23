@@ -1,0 +1,211 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Moon Hooch with Honeycomb and Jackson Whalan at Velvet Jones (November 16, 2016)", 
+        "popularity": 0.003682, 
+        "venue": {
+            "displayName": "Velvet Jones", 
+            "uri": "http://www.songkick.com/venues/395-velvet-jones?utm_source=32233&utm_medium=partner", 
+            "lat": 34.416277, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -119.6950933, 
+            "id": 395
+        }, 
+        "uri": "http://www.songkick.com/concerts/27686134-moon-hooch-at-velvet-jones?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-16T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 34.416277, 
+            "city": "Santa Barbara, CA, US", 
+            "lng": -119.6950933
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "abf9640c-076c-4f89-9dad-df9ee851ff29", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:abf9640c-076c-4f89-9dad-df9ee851ff29.json"
+                        }
+                    ], 
+                    "displayName": "Moon Hooch", 
+                    "uri": "http://www.songkick.com/artists/3927026-moon-hooch?utm_source=32233&utm_medium=partner", 
+                    "id": 3927026
+                }, 
+                "displayName": "Moon Hooch", 
+                "id": 53942064, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2d203990-5f8a-4546-9f2c-128087286fe8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2d203990-5f8a-4546-9f2c-128087286fe8.json"
+                        }
+                    ], 
+                    "displayName": "Honeycomb", 
+                    "uri": "http://www.songkick.com/artists/78539-honeycomb?utm_source=32233&utm_medium=partner", 
+                    "id": 78539
+                }, 
+                "displayName": "Honeycomb", 
+                "id": 55048889, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Jackson Whalan", 
+                    "uri": "http://www.songkick.com/artists/8582914-jackson-whalan?utm_source=32233&utm_medium=partner", 
+                    "id": 8582914
+                }, 
+                "displayName": "Jackson Whalan", 
+                "id": 55048894, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27686134
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Moon Hooch", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://moonhooch.blogspot.com/", 
+                    "id": "8cf27d6c-3029-4081-8cd6-e55ae7435d94"
+                }, 
+                "begin": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://moonhooch.bandcamp.com/", 
+                    "id": "4032e7fa-4b31-4046-9d69-f5b9dd9940f2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/moonhooch1", 
+                    "id": "9eb0cb61-3ce4-4d2d-a0cf-fdb61d921946"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q18155671", 
+                    "id": "eca81389-1846-4aad-82b9-b568a0454fd2"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Moon_Hooch", 
+                    "id": "96443421-3ba7-4344-bb8f-f78840c6733a"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Moon Hooch", 
+        "country": "US", 
+        "type": "Group", 
+        "id": "abf9640c-076c-4f89-9dad-df9ee851ff29", 
+        "disambiguation": ""
+    }, 
+    "id": 27686134, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

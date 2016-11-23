@@ -1,0 +1,150 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "21+", 
+        "displayName": "Mr Wrong with bAd bAd, Turqouiz Noiz, and Little Pilgrims at Twilight Cafe & Bar (November 22, 2016)", 
+        "popularity": 5.8e-05, 
+        "venue": {
+            "displayName": "Twilight Cafe & Bar", 
+            "uri": "http://www.songkick.com/venues/114895-twilight-cafe-and-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5001509, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.651077, 
+            "id": 114895
+        }, 
+        "uri": "http://www.songkick.com/concerts/28214904-mr-wrong-at-twilight-cafe-and-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-22", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-22T20:30:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5001509, 
+            "city": "Portland, OR, US", 
+            "lng": -122.651077
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8d5bf9b0-9191-4233-bb71-24e20aba96c5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8d5bf9b0-9191-4233-bb71-24e20aba96c5.json"
+                        }
+                    ], 
+                    "displayName": "Mr Wrong", 
+                    "uri": "http://www.songkick.com/artists/617799-mr-wrong?utm_source=32233&utm_medium=partner", 
+                    "id": 617799
+                }, 
+                "displayName": "Mr Wrong", 
+                "id": 54891144, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "bAd bAd", 
+                    "uri": "http://www.songkick.com/artists/6040294-bad-bad?utm_source=32233&utm_medium=partner", 
+                    "id": 6040294
+                }, 
+                "displayName": "bAd bAd", 
+                "id": 54891149, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Turqouiz Noiz", 
+                    "uri": "http://www.songkick.com/artists/8903899-turqouiz-noiz?utm_source=32233&utm_medium=partner", 
+                    "id": 8903899
+                }, 
+                "displayName": "Turqouiz Noiz", 
+                "id": 54891154, 
+                "billing": "support", 
+                "billingIndex": 3
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Little Pilgrims", 
+                    "uri": "http://www.songkick.com/artists/6466204-little-pilgrims?utm_source=32233&utm_medium=partner", 
+                    "id": 6466204
+                }, 
+                "displayName": "Little Pilgrims", 
+                "id": 54891159, 
+                "billing": "support", 
+                "billingIndex": 4
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28214904
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Mr. Wrong", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+            "name": "Canada"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/516059", 
+                    "id": "3da8c186-b76d-4778-9ad7-66b10244b075"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Mr. Wrong", 
+        "country": "CA", 
+        "disambiguation": "", 
+        "type": "Person", 
+        "id": "8d5bf9b0-9191-4233-bb71-24e20aba96c5", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28214904, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

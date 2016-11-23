@@ -1,0 +1,220 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.003315, 
+        "displayName": "Whitehorse with Chris Kasper at Bootleg Theater (December 1, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Bootleg Theater", 
+            "uri": "http://www.songkick.com/venues/74901-bootleg-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0673514, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2721714, 
+            "id": 74901
+        }, 
+        "uri": "http://www.songkick.com/concerts/28143994-whitehorse-at-bootleg-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-01", 
+            "datetime": "2016-12-01T20:30:00-0800", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 34.0673514, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2721714
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0f886f68-1000-46f2-9f47-ee9a2887d28f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0f886f68-1000-46f2-9f47-ee9a2887d28f.json"
+                        }, 
+                        {
+                            "mbid": "958d3f9d-afe6-486e-820e-18ec7cdcb2ad", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:958d3f9d-afe6-486e-820e-18ec7cdcb2ad.json"
+                        }
+                    ], 
+                    "displayName": "Whitehorse", 
+                    "uri": "http://www.songkick.com/artists/214355-whitehorse?utm_source=32233&utm_medium=partner", 
+                    "id": 214355
+                }, 
+                "displayName": "Whitehorse", 
+                "id": 54766369, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Chris Kasper", 
+                    "uri": "http://www.songkick.com/artists/543484-chris-kasper?utm_source=32233&utm_medium=partner", 
+                    "id": 543484
+                }, 
+                "displayName": "Chris Kasper", 
+                "id": 55426804, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28143994
+    }, 
+    "musicbrainz_response": {
+        "name": "Whitehorse", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2004", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Australia", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "AU"
+            ], 
+            "id": "106e0bec-b638-3b37-b731-f53d507dc00e", 
+            "name": "Australia"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://whitehorsedestroys.bandcamp.com/", 
+                    "id": "4aaddb63-a8ec-40ab-b579-da8d67d74f87"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/511220", 
+                    "id": "d341ff5f-4994-44c7-9262-99f1f194cca2"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/whitehorse", 
+                    "id": "9aa9b16d-7d55-41c9-a2a2-ad8054c4e363"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.metal-archives.com/bands/Whitehorse/41423", 
+                    "id": "127496fb-75db-4d5d-a836-2e3cabfae0d2"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Whitehorse", 
+        "isnis": [], 
+        "disambiguation": "Australian doom project", 
+        "country": "AU", 
+        "type": "Group", 
+        "id": "0f886f68-1000-46f2-9f47-ee9a2887d28f", 
+        "gender-id": null
+    }, 
+    "age_minutes": 3155, 
+    "bandsintown_response": {
+        "description": "Whitehorse", 
+        "title": "Whitehorse @ Bootleg Theater in Los Angeles, CA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Los Angeles", 
+            "name": "Bootleg Theater", 
+            "country": "United States", 
+            "region": "CA", 
+            "longitude": -118.272036, 
+            "place": "Bootleg Theater", 
+            "latitude": 34.067259
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12982370?app_id=ticketgame&artist=Whitehorse&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12982370/buy_tickets?app_id=ticketgame&artist=Whitehorse&came_from=67", 
+        "on_sale_datetime": "2016-09-22T01:56:04", 
+        "formatted_datetime": "Thursday, December 1, 2016 at 8:30PM", 
+        "datetime": "2016-12-01T20:30:00", 
+        "formatted_location": "Los Angeles, CA", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1313907/tfly%3Futm_medium%3Dapi&afftrack=67%7E16301031%7E23796169%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "http://www.facebook.com/pages/Whitehorse/204533686258917", 
+                "name": "Whitehorse", 
+                "url": "Whitehorse", 
+                "tracker_count": 15657, 
+                "mbid": "0f886f68-1000-46f2-9f47-ee9a2887d28f", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6435219.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Whitehorse/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6435219.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12982370
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442529.0, 
+    "created_time": 1479305680.0, 
+    "modified_minutes": 874, 
+    "id": 28143994
+}

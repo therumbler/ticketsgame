@@ -1,0 +1,232 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "CRX and Dead Heavens with Streets of Laredo at Doug Fir Lounge (November 29, 2016)", 
+        "popularity": 0.001665, 
+        "venue": {
+            "displayName": "Doug Fir Lounge", 
+            "uri": "http://www.songkick.com/venues/11585-doug-fir-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5229238, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6587133, 
+            "id": 11585
+        }, 
+        "uri": "http://www.songkick.com/concerts/28259924-crx-at-doug-fir-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-29", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-29T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5229238, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6587133
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b4600630-58a9-4693-b4ae-e18ecaf95f10", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b4600630-58a9-4693-b4ae-e18ecaf95f10.json"
+                        }
+                    ], 
+                    "displayName": "CRX", 
+                    "uri": "http://www.songkick.com/artists/8921364-crx?utm_source=32233&utm_medium=partner", 
+                    "id": 8921364
+                }, 
+                "displayName": "CRX", 
+                "id": 55233159, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "223676d1-b900-4293-a89e-e44b85a72e10", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:223676d1-b900-4293-a89e-e44b85a72e10.json"
+                        }
+                    ], 
+                    "displayName": "Dead Heavens", 
+                    "uri": "http://www.songkick.com/artists/8412428-dead-heavens?utm_source=32233&utm_medium=partner", 
+                    "id": 8412428
+                }, 
+                "displayName": "Dead Heavens", 
+                "id": 54964884, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "32e24179-0ba6-4430-b03a-a1766cd80ceb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:32e24179-0ba6-4430-b03a-a1766cd80ceb.json"
+                        }
+                    ], 
+                    "displayName": "Streets of Laredo", 
+                    "uri": "http://www.songkick.com/artists/5527983-streets-of-laredo?utm_source=32233&utm_medium=partner", 
+                    "id": 5527983
+                }, 
+                "displayName": "Streets of Laredo", 
+                "id": 54964889, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28259924
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "CRX", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2016-08", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bandsintown.com/CRX", 
+                    "id": "d1ea99f9-6cf0-4715-b683-e65893567c6a"
+                }, 
+                "direction": "forward", 
+                "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandsintown", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.crxmusic.com/", 
+                    "id": "dee7c4bb-24ba-4598-a078-fcef273e3ddb"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/crxmusic", 
+                    "id": "d2305062-ccbc-4bcc-b98e-6b6dec0c32e6"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/CRXmusic", 
+                    "id": "ac1673f0-43d2-4a30-9514-068c6899a807"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/crxmusic/", 
+                    "id": "b343f680-2a08-45fc-b7c7-9f51e41524aa"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/channel/UC6xZZUuXbyeQQppJ9XDGyMg", 
+                    "id": "ec138698-ff30-4a14-b2a7-83111e210193"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "b4600630-58a9-4693-b4ae-e18ecaf95f10", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "CRX", 
+        "type": "Group", 
+        "twitter": "crxmusic", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15493, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442842.0, 
+    "created_time": 1478566069.0, 
+    "modified_minutes": 881, 
+    "id": 28259924
+}

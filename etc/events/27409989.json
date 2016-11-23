@@ -1,0 +1,481 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Boney James at Schermerhorn Symphony Center (April 21, 2017)", 
+        "popularity": 0.009999, 
+        "venue": {
+            "displayName": "Schermerhorn Symphony Center", 
+            "uri": "http://www.songkick.com/venues/11073-schermerhorn-symphony-center?utm_source=32233&utm_medium=partner", 
+            "lat": 36.159761, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.775546, 
+            "id": 11073
+        }, 
+        "uri": "http://www.songkick.com/concerts/27409989-boney-james-at-schermerhorn-symphony-center?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-04-21", 
+            "time": "20:00:00", 
+            "datetime": "2017-04-21T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 36.159761, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.775546
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7ef63058-495c-42a1-b326-ddbea57fe1b5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7ef63058-495c-42a1-b326-ddbea57fe1b5.json"
+                        }
+                    ], 
+                    "displayName": "Boney James", 
+                    "uri": "http://www.songkick.com/artists/136882-boney-james?utm_source=32233&utm_medium=partner", 
+                    "id": 136882
+                }, 
+                "displayName": "Boney James", 
+                "id": 53433304, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27409989
+    }, 
+    "musicbrainz_response": {
+        "name": "Boney James", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1961-09-01", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://bbc.co.uk/music/artists/7ef63058-495c-42a1-b326-ddbea57fe1b5", 
+                    "id": "cd0dc309-1696-4ed8-a273-9e3c1f6ab883"
+                }, 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm1859646/", 
+                    "id": "5445a99d-4805-4a70-a3a0-155f1e958e94"
+                }, 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/71592737", 
+                    "id": "93dcf766-61fd-40c4-88e0-3b2dbeb65587"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000081849", 
+                    "id": "809f1fc5-741a-4947-abe1-1c7b7e184339"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/282300", 
+                    "id": "bbc85ea9-d2ca-4d10-9615-418d8be5e7c4"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Boney_James_2013.jpg", 
+                    "id": "732d15ab-1b3d-452c-8103-12a79ae76e31"
+                }, 
+                "direction": "forward", 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Boney+James", 
+                    "id": "1d019aae-2296-4d9a-baa7-094507c1776e"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/wiki/Boney_James", 
+                    "id": "2b246fb2-0e5b-4acf-9b20-6ea658f287c1"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/boneyjamesmusic", 
+                    "id": "51a30d63-fc9f-4919-ba71-eb998eec8ae5"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.boneyjames.com/", 
+                    "id": "7fe9c649-89cb-4225-bc18-65d3940a1814"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://d-nb.info/gnd/135131952", 
+                    "id": "6c0c9de5-9cbf-4f8b-9e6e-aec290c98746"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/boney_james", 
+                    "id": "b715ca8f-b68c-4d9e-9b98-adb07f5c7a94"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.whosampled.com/Boney-James/", 
+                    "id": "83490256-a584-4a00-ba4b-5687c0e26c15"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.musik-sammler.de/artist/boney-james/", 
+                    "id": "a40bc8cb-f9f9-422f-895d-34d3ec56df89"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.worldcat.org/identities/lccn-no97-070077", 
+                    "id": "f7f67267-0d6a-482d-9480-c3462ec1ba4b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/artist/id148602", 
+                    "id": "efba872e-1ae3-4ad5-8d2a-411254de8097"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.amazon.com/-/e/B000APECQS", 
+                    "id": "be408c75-eda8-4b59-b880-60887c155e9c"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.amazon.com/-/e/B000APECQS", 
+                    "id": "be408c75-eda8-4b59-b880-60887c155e9c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "611b1862-67af-4253-a64f-34adba305d1d", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for mail-order", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://secondhandsongs.com/artist/22026", 
+                    "id": "c873ee49-f899-4136-8873-580b8711f8e0"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS", 
+                    "id": "776e2099-249d-48fd-8917-fa06dd41215e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q726018", 
+                    "id": "8cee563a-e2e4-4e63-b697-ec53724bbff4"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Boney_James", 
+                    "id": "544d5b86-53bf-48dc-8f24-f91dcc5cbb42"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "James, Boney", 
+        "country": "US", 
+        "disambiguation": "", 
+        "type": "Person", 
+        "id": "7ef63058-495c-42a1-b326-ddbea57fe1b5", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "age_minutes": 15453, 
+    "bandsintown_response": {
+        "facebook_page_url": "https://www.facebook.com/boneyjames", 
+        "upcoming_event_count": 8, 
+        "name": "Boney James", 
+        "tracker_count": 27778, 
+        "mbid": "7ef63058-495c-42a1-b326-ddbea57fe1b5", 
+        "image_url": "https://s3.amazonaws.com/bit-photos/large/6056432.jpeg", 
+        "facebook_tour_dates_url": "http://www.bandsintown.com/BoneyJames/facebookapp?came_from=67", 
+        "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6056432.jpeg"
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 140.6, 
+        "price_min": 48.6
+    }, 
+    "modified_time": 1478566042.0, 
+    "id": 27409989
+}

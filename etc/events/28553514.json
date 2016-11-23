@@ -1,0 +1,294 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "A.J. Croce at Franklin Theatre (January 14, 2017)", 
+        "popularity": 0.000845, 
+        "venue": {
+            "displayName": "Franklin Theatre", 
+            "uri": "http://www.songkick.com/venues/1351186-franklin-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 35.923861, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.870651, 
+            "id": 1351186
+        }, 
+        "uri": "http://www.songkick.com/concerts/28553514-aj-croce-at-franklin-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-14", 
+            "time": "19:00:00", 
+            "datetime": "2017-01-14T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 35.923861, 
+            "city": "Franklin, TN, US", 
+            "lng": -86.870651
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "A.J. Croce", 
+                "id": 55474344, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c21ff19f-cb3c-4a16-8884-30afda198cc9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c21ff19f-cb3c-4a16-8884-30afda198cc9.json"
+                        }
+                    ], 
+                    "displayName": "A.J. Croce", 
+                    "uri": "http://www.songkick.com/artists/506165-aj-croce?utm_source=32233&utm_medium=partner", 
+                    "id": 506165
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28553514
+    }, 
+    "musicbrainz_response": {
+        "gender": "Male", 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "A.J. Croce", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1971-09-28", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/19872864", 
+                    "id": "4b41d772-071c-456d-b03f-d1cf7e930447"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000589770", 
+                    "id": "bf72a5ce-a41f-4ee5-8d86-bb3842648a02"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/311412", 
+                    "id": "d4100831-9794-42f5-8026-052c2e34b806"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/A.J.%20Croce", 
+                    "id": "c0b5fdc3-d686-4e00-84e0-b53c417964f2"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/aj-croce-lyrics", 
+                    "id": "0ce9bf84-e768-40de-8061-a13c784dd642"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.ajcroce.com/", 
+                    "id": "c24f54a4-275a-4a1d-aa89-2a154d5a6ca5"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/a_j__croce", 
+                    "id": "2c12bb75-61db-43fd-ac32-d61584c7877a"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q4647901", 
+                    "id": "1cb32b46-6f6c-4e14-a51a-b0810813c2e4"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/A._J._Croce", 
+                    "id": "c4b247db-3675-464e-a508-4a5dc53f412b"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Bryn Mawr", 
+            "disambiguation": "", 
+            "name": "Bryn Mawr", 
+            "id": "29f17b5b-2431-43ff-b2ed-9c5158cb0744"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "isnis": [
+            "0000000114686734"
+        ], 
+        "sort-name": "Croce, A.J.", 
+        "type": "Person", 
+        "id": "c21ff19f-cb3c-4a16-8884-30afda198cc9", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "A.J. Croce @ Franklin Theater in Franklin, TN", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Franklin", 
+            "name": "Franklin Theater", 
+            "country": "United States", 
+            "region": "TN", 
+            "longitude": -86.870586, 
+            "place": "Franklin Theater", 
+            "latitude": 35.924411
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13249658?app_id=ticketgame&artist=A.J.+Croce&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13249658/buy_tickets?app_id=ticketgame&artist=A.J.+Croce&came_from=67", 
+        "on_sale_datetime": "2016-11-04T11:00:00", 
+        "formatted_datetime": "Saturday, January 14, 2017 at 8:00PM", 
+        "datetime": "2017-01-14T20:00:00", 
+        "formatted_location": "Franklin, TN", 
+        "ticket_redirect_url": "http://secure.franklintheatre.com/websales/pages/info.aspx?evtinfo=111806~cfe40b7d-1c56-4c4b-b937-600bdd7c5904&", 
+        "artists": [
+            {
+                "website": "http://www.ajcroce.com/", 
+                "facebook_page_url": "https://www.facebook.com/ajcrocemusic", 
+                "name": "A.J. Croce", 
+                "url": "A.j.Croce", 
+                "tracker_count": 4685, 
+                "mbid": "c21ff19f-cb3c-4a16-8884-30afda198cc9", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6609827.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/A.j.Croce/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6609827.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13249658
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://secure.franklintheatre.com/websales/pages/info.aspx?evtinfo=111806~cfe40b7d-1c56-4c4b-b937-600bdd7c5904&"
+    }, 
+    "modified_time": 1479442263.0, 
+    "created_minutes": 5916, 
+    "created_time": 1479305690.0, 
+    "modified_minutes": 3639, 
+    "id": 28553514
+}

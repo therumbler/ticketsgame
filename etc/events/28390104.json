@@ -1,0 +1,239 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Hunter Siegel at Foundation Nightclub (November 10, 2016)", 
+        "popularity": 0.001169, 
+        "venue": {
+            "displayName": "Foundation Nightclub", 
+            "uri": "http://www.songkick.com/venues/1934839-foundation-nightclub?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6123456, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3465061, 
+            "id": 1934839
+        }, 
+        "uri": "http://www.songkick.com/concerts/28390104-hunter-siegel-at-foundation-nightclub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-10T22:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6123456, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3465061
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "332a6bac-5680-4af8-9109-80bf0c6b295b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:332a6bac-5680-4af8-9109-80bf0c6b295b.json"
+                        }
+                    ], 
+                    "displayName": "Hunter Siegel", 
+                    "uri": "http://www.songkick.com/artists/7205454-hunter-siegel?utm_source=32233&utm_medium=partner", 
+                    "id": 7205454
+                }, 
+                "displayName": "Hunter Siegel", 
+                "id": 55195064, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28390104
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Hunter Siegel", 
+        "tags": [], 
+        "country": "CA", 
+        "twitter": "ImHunterSiegel", 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "name": "Canada", 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003429948", 
+                    "id": "57a2f0d7-53a5-4624-8cea-29ced0756089"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3555107", 
+                    "id": "b5d7c650-c962-4f25-b6f7-8cc2bab866c1"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.beatport.com/artist/hunter-siegel/370851", 
+                    "id": "eee18b2f-c707-4d13-a474-16ee1a4ded6d"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/ImHunterSiegel", 
+                    "id": "07971eb1-2d6c-49aa-867e-40c71fcca847"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/HunterSiegelMusic", 
+                    "id": "2121b8fa-0ff9-482f-ad68-fbae2b226999"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/HunterSiegelMusic", 
+                    "id": "e0e77a6f-ec8f-41df-8e19-b1dd97d5ab78"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.wikidata.org/entity/Q22908763", 
+                    "id": "b634c0c6-fac1-4757-88dd-9c260558f701"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Hunter_Siegel", 
+                    "id": "010ef620-e39d-4712-bc25-83bc7b1becb5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Toronto", 
+            "disambiguation": "", 
+            "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77", 
+            "name": "Toronto"
+        }, 
+        "id": "332a6bac-5680-4af8-9109-80bf0c6b295b", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Siegel, Hunter", 
+        "ipis": [], 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 28390104, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

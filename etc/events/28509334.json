@@ -1,0 +1,326 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.018361, 
+        "displayName": "Galactic with The Bright Light Social Hour at The Showbox (February 10, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Showbox", 
+            "uri": "http://www.songkick.com/venues/5621-showbox?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6087897, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3399932, 
+            "id": 5621
+        }, 
+        "uri": "http://www.songkick.com/concerts/28509334-galactic-at-showbox?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-10", 
+            "datetime": "2017-02-10T21:00:00-0800", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 47.6087897, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3399932
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cabbdf87-5cb2-4f3c-be65-254655c87508", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cabbdf87-5cb2-4f3c-be65-254655c87508.json"
+                        }
+                    ], 
+                    "displayName": "Galactic", 
+                    "uri": "http://www.songkick.com/artists/164225-galactic?utm_source=32233&utm_medium=partner", 
+                    "id": 164225
+                }, 
+                "displayName": "Galactic", 
+                "id": 55398599, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e589f7d2-9bee-4d56-93e0-0cf9bcdf1092", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e589f7d2-9bee-4d56-93e0-0cf9bcdf1092.json"
+                        }
+                    ], 
+                    "displayName": "The Bright Light Social Hour", 
+                    "uri": "http://www.songkick.com/artists/1097652-bright-light-social-hour?utm_source=32233&utm_medium=partner", 
+                    "id": 1097652
+                }, 
+                "displayName": "The Bright Light Social Hour", 
+                "id": 55398604, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28509334
+    }, 
+    "musicbrainz_response": {
+        "name": "Galactic", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "hip hop rnb and dance hall"
+            }
+        ], 
+        "gender": null, 
+        "twitter": "GalacticFunk", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000191983", 
+                    "id": "89cc1d1b-0ff2-4aec-816a-84c0d038a2ca"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/41468", 
+                    "id": "e418d23c-1bd8-489d-a3c5-a32ee123ec42"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://galacticfunk.com/", 
+                    "id": "2b598392-e492-4f77-88c7-565e2ef5f25f"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/galactic", 
+                    "id": "88957572-55d4-44bb-8c4c-b9d11c60a790"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/GalacticFunk", 
+                    "id": "bcf08011-1811-4098-a5d4-587fb318b06a"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Galacticfunk", 
+                    "id": "b05a8f84-4ad6-49eb-bd73-37117b2145a7"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q851926", 
+                    "id": "addbdb7f-2052-4dac-9e34-ae1989882359"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Galactic", 
+                    "id": "dfec5b83-08bf-4374-aa30-bfd6f060bad9"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/GalacticYakamay", 
+                    "id": "a31957c6-a695-4558-9629-c7a08886c71e"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "New Orleans", 
+            "disambiguation": "", 
+            "id": "3c5a0506-d852-4e96-8d1e-d8126328f3be", 
+            "name": "New Orleans"
+        }, 
+        "id": "cabbdf87-5cb2-4f3c-be65-254655c87508", 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "Galactic", 
+        "country": "US", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1994", 
+            "end": null
+        }, 
+        "disambiguation": "New Orleans funk & jazz jam band"
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Galactic @ Galactic at The Showbox Presented by SiriusXM Jam On in Seattle, WA", 
+        "ticket_type": "Presale", 
+        "venue": {
+            "city": "Seattle", 
+            "name": "Galactic at The Showbox Presented by SiriusXM Jam On", 
+            "country": "United States", 
+            "region": "WA", 
+            "longitude": -122.339727, 
+            "place": "The Showbox", 
+            "latitude": 47.608495
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13258930?app_id=ticketgame&artist=Galactic&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13258930/buy_tickets?app_id=ticketgame&artist=Galactic&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Friday, February 10, 2017 at 8:00PM", 
+        "datetime": "2017-02-10T20:00:00", 
+        "formatted_location": "Seattle, WA", 
+        "ticket_redirect_url": "https://events.applauze.com/events/3206337", 
+        "artists": [
+            {
+                "website": "http://www.galacticfunk.com", 
+                "facebook_page_url": "https://www.facebook.com/Galacticfunk", 
+                "name": "Galactic", 
+                "url": "Galactic", 
+                "tracker_count": 80765, 
+                "mbid": "cabbdf87-5cb2-4f3c-be65-254655c87508", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6670150.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Galactic/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6670150.jpeg"
+            }, 
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/thebrightlightsocialhour", 
+                "name": "The Bright Light Social Hour", 
+                "url": "TheBrightLightSocialHour", 
+                "tracker_count": 21507, 
+                "mbid": "e589f7d2-9bee-4d56-93e0-0cf9bcdf1092", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheBrightLightSocialHour/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13258930
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://events.applauze.com/events/3206337"
+    }, 
+    "modified_time": 1479442347.0, 
+    "created_minutes": 14278, 
+    "created_time": 1478803723.0, 
+    "modified_minutes": 3635, 
+    "id": 28509334
+}

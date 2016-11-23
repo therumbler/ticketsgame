@@ -1,0 +1,317 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.018367, 
+        "displayName": "Todd Snider and Robert Earl Keen at Revolution Hall (January 18, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Revolution Hall", 
+            "uri": "http://www.songkick.com/venues/2845468-revolution-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5189728, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6520952, 
+            "id": 2845468
+        }, 
+        "uri": "http://www.songkick.com/concerts/28582714-todd-snider-at-revolution-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-18", 
+            "datetime": "2017-01-18T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 45.5189728, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6520952
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "25c13ec7-fad4-4da4-8d98-9607ff615d68", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:25c13ec7-fad4-4da4-8d98-9607ff615d68.json"
+                        }
+                    ], 
+                    "displayName": "Todd Snider", 
+                    "uri": "http://www.songkick.com/artists/163963-todd-snider?utm_source=32233&utm_medium=partner", 
+                    "id": 163963
+                }, 
+                "displayName": "Todd Snider", 
+                "id": 55525529, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c81d48a8-5c86-4160-b3d4-1275e7ba3212", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c81d48a8-5c86-4160-b3d4-1275e7ba3212.json"
+                        }
+                    ], 
+                    "displayName": "Robert Earl Keen", 
+                    "uri": "http://www.songkick.com/artists/104125-robert-earl-keen?utm_source=32233&utm_medium=partner", 
+                    "id": 104125
+                }, 
+                "displayName": "Robert Earl Keen", 
+                "id": 55525534, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28582714
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Todd Snider", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1966-10-11", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/41218852", 
+                    "id": "be061b51-19e1-41e4-a281-721b33569915"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000616664", 
+                    "id": "58f25782-f93d-476b-a0e9-d7a094958a7d"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/417831", 
+                    "id": "2d270fe2-e251-4f52-aec5-f6d3ed52a4f9"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/todd-snider-lyrics", 
+                    "id": "f960a2d5-c54d-4d03-94ef-997985ac098d"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.toddsnider.net/", 
+                    "id": "c67f331a-b495-40e4-a97a-fdfbd50ddde3"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/todd_snider", 
+                    "id": "b64c1a63-bb09-4559-b347-a37082484fb1"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/toddsnider", 
+                    "id": "e9212f1d-cf72-4165-8a98-191cade63353"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/toddsnider", 
+                    "id": "aab5a55f-d845-4992-ba26-e03c3bd2ee4c"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q7812645", 
+                    "id": "cc56dc39-59a2-4af8-997c-e9e415991b64"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Todd_Snider", 
+                    "id": "ba92cc31-7915-401a-b889-e09ec6ceb314"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/OfficialToddSnider", 
+                    "id": "9328f3d7-c94d-4dd7-b484-62fd5a844ba3"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Snider, Todd", 
+        "begin_area": {
+            "sort-name": "Portland", 
+            "disambiguation": "", 
+            "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557", 
+            "name": "Portland"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "isnis": [
+            "0000000055521197"
+        ], 
+        "id": "25c13ec7-fad4-4da4-8d98-9607ff615d68", 
+        "country": "US", 
+        "type": "Person", 
+        "twitter": "toddsnider", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 1486, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442156.0, 
+    "created_time": 1479409412.0, 
+    "modified_minutes": 940, 
+    "id": 28582714
+}

@@ -1,0 +1,128 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 8.3e-05, 
+        "displayName": "Tank and the Bangas at Apollo Theater (November 11, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Apollo Theater", 
+            "uri": "http://www.songkick.com/venues/2847-apollo-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 40.809765, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.94994, 
+            "id": 2847
+        }, 
+        "uri": "http://www.songkick.com/concerts/27151469-tank-and-the-bangas-at-apollo-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-11T22:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.809765, 
+            "city": "New York, NY, US", 
+            "lng": -73.94994
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8fc9137a-742f-42bd-988f-1794673c28ea", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8fc9137a-742f-42bd-988f-1794673c28ea.json"
+                        }
+                    ], 
+                    "displayName": "Tank and the Bangas", 
+                    "uri": "http://www.songkick.com/artists/7405979-tank-and-the-bangas?utm_source=32233&utm_medium=partner", 
+                    "id": 7405979
+                }, 
+                "displayName": "Tank and the Bangas", 
+                "id": 52961774, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27151469
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Tank and The Bangas", 
+        "area": {
+            "sort-name": "New Orleans", 
+            "disambiguation": "", 
+            "id": "3c5a0506-d852-4e96-8d1e-d8126328f3be", 
+            "name": "New Orleans"
+        }, 
+        "gender": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://tankandthebangas.wix.com/tankandthebangas", 
+                    "id": "12b13485-d0ec-4497-8ae4-a7580e7e4a65"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/tankandthebangas", 
+                    "id": "91ec3906-2f4c-4907-8b48-972115cf6a74"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Tank and The Bangas", 
+        "country": null, 
+        "id": "8fc9137a-742f-42bd-988f-1794673c28ea", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 27151469, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

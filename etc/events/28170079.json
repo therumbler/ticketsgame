@@ -1,0 +1,197 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Tennyson with Photay and Moon Bounce at Underground Arts (November 9, 2016)", 
+        "popularity": 0.001976, 
+        "venue": {
+            "displayName": "Underground Arts", 
+            "uri": "http://www.songkick.com/venues/1478523-underground-arts?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9591168, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1583146, 
+            "id": 1478523
+        }, 
+        "uri": "http://www.songkick.com/concerts/28170079-tennyson-at-underground-arts?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-09T21:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9591168, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1583146
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "16d72e23-8332-4374-a107-2f97bbb6b436", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:16d72e23-8332-4374-a107-2f97bbb6b436.json"
+                        }
+                    ], 
+                    "displayName": "Tennyson", 
+                    "uri": "http://www.songkick.com/artists/8375803-tennyson?utm_source=32233&utm_medium=partner", 
+                    "id": 8375803
+                }, 
+                "displayName": "Tennyson", 
+                "id": 54811769, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f5d2692f-6938-433f-92f7-021dc04ffd38", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f5d2692f-6938-433f-92f7-021dc04ffd38.json"
+                        }
+                    ], 
+                    "displayName": "Photay", 
+                    "uri": "http://www.songkick.com/artists/6216999-photay?utm_source=32233&utm_medium=partner", 
+                    "id": 6216999
+                }, 
+                "displayName": "Photay", 
+                "id": 54811774, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3aa45fa7-cb3e-4cb3-aa92-cb929629f704", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3aa45fa7-cb3e-4cb3-aa92-cb929629f704.json"
+                        }
+                    ], 
+                    "displayName": "Moon Bounce", 
+                    "uri": "http://www.songkick.com/artists/4580253-moon-bounce?utm_source=32233&utm_medium=partner", 
+                    "id": 4580253
+                }, 
+                "displayName": "Moon Bounce", 
+                "id": 55194984, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28170079
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Tennyson", 
+        "area": {
+            "sort-name": "Edmonton", 
+            "disambiguation": "", 
+            "id": "0197a505-d351-475f-9e6d-eda15a83a235", 
+            "name": "Edmonton"
+        }, 
+        "gender-id": null, 
+        "country": null, 
+        "twitter": "tennysonmusic", 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://httpstennyson.bandcamp.com/", 
+                    "id": "5268b9e1-9a5c-4ae1-91d7-ba4a7f2da6b6"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/tennysonmusic", 
+                    "id": "beb832d7-df4d-46e5-8ef4-e8786b0c1d7a"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/tennysonmusic", 
+                    "id": "d9b8faf9-017b-46be-aa7a-572520496c06"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/tennysonmusic", 
+                    "id": "821f3d2d-49d1-4e2e-b95a-4fd6e014064a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "Tennyson", 
+        "gender": null, 
+        "id": "16d72e23-8332-4374-a107-2f97bbb6b436", 
+        "type": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28170079, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

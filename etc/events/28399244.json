@@ -1,0 +1,142 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 5.2e-05, 
+        "displayName": "Jilk with Mesadorm at Jamboree (November 27, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Jamboree", 
+            "uri": "http://www.songkick.com/venues/82990-jamboree?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5116432, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0425633, 
+            "id": 82990
+        }, 
+        "uri": "http://www.songkick.com/concerts/28399244-jilk-at-jamboree?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-27", 
+            "datetime": "2016-11-27T18:30:00+0000", 
+            "time": "18:30:00"
+        }, 
+        "location": {
+            "lat": 51.5116432, 
+            "city": "London, UK", 
+            "lng": -0.0425633
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Jilk", 
+                "id": 55210174, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "17baad95-f6e1-44f5-9618-b162b14f250f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:17baad95-f6e1-44f5-9618-b162b14f250f.json"
+                        }
+                    ], 
+                    "displayName": "Jilk", 
+                    "uri": "http://www.songkick.com/artists/3200371-jilk?utm_source=32233&utm_medium=partner", 
+                    "id": 3200371
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Mesadorm", 
+                "id": 55210179, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Mesadorm", 
+                    "uri": "http://www.songkick.com/artists/8920244-mesadorm?utm_source=32233&utm_medium=partner", 
+                    "id": 8920244
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28399244
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "gender": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Jilk", 
+        "area": {
+            "sort-name": "Bristol", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "GB-BST"
+            ], 
+            "id": "40d758a4-b7c2-40f3-b439-5efbd2a3b038", 
+            "name": "Bristol"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "ambient"
+            }, 
+            {
+                "count": 1, 
+                "name": "electronica"
+            }, 
+            {
+                "count": 1, 
+                "name": "folktronica"
+            }, 
+            {
+                "count": 1, 
+                "name": "glitch"
+            }
+        ], 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/797826", 
+                    "id": "bf747c31-49d2-4a3b-8621-69828a426cd3"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "Jilk", 
+        "type": "Group", 
+        "id": "17baad95-f6e1-44f5-9618-b162b14f250f"
+    }, 
+    "id": 28399244, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

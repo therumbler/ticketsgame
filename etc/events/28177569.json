@@ -1,0 +1,197 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Cactus Blossoms at White Oak Music Hall (November 10, 2016)", 
+        "popularity": 0.000431, 
+        "venue": {
+            "displayName": "White Oak Music Hall", 
+            "uri": "http://www.songkick.com/venues/3205243-white-oak-music-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 29.785813, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.366975, 
+            "id": 3205243
+        }, 
+        "uri": "http://www.songkick.com/concerts/28177569-cactus-blossoms-at-white-oak-music-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 29.785813, 
+            "city": "Houston, TX, US", 
+            "lng": -95.366975
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "91e8f48b-7b4c-46af-b052-6573a35e7b1d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:91e8f48b-7b4c-46af-b052-6573a35e7b1d.json"
+                        }
+                    ], 
+                    "displayName": "The Cactus Blossoms", 
+                    "uri": "http://www.songkick.com/artists/3174951-cactus-blossoms?utm_source=32233&utm_medium=partner", 
+                    "id": 3174951
+                }, 
+                "displayName": "The Cactus Blossoms", 
+                "id": 54825914, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28177569
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Cactus Blossoms", 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "country": null, 
+        "twitter": "TheCBsMusic", 
+        "area": {
+            "sort-name": "Minneapolis", 
+            "disambiguation": "", 
+            "id": "3e80aaa7-9b71-450f-8147-0ecf101d8f1a", 
+            "name": "Minneapolis"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002999674", 
+                    "id": "244e4dd3-b081-4989-9575-eba3f5dc90c7"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3616678", 
+                    "id": "11d41462-243e-4a81-bea3-8bbd64b2a2b9"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.thecactusblossoms.com/", 
+                    "id": "d0ee1564-c020-41d0-ba53-2837d7469b96"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/TheCBsMusic", 
+                    "id": "55051847-941f-4424-9a81-8035c5ed8e02"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/cactusblossoms", 
+                    "id": "e87ed44f-c049-4a30-8a53-7e6a2c927983"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Cactus Blossoms, The", 
+        "gender": null, 
+        "id": "91e8f48b-7b4c-46af-b052-6573a35e7b1d", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "country"
+            }, 
+            {
+                "count": 1, 
+                "name": "cowboy"
+            }, 
+            {
+                "count": 1, 
+                "name": "minneapolis"
+            }, 
+            {
+                "count": 1, 
+                "name": "western"
+            }
+        ], 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28177569, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

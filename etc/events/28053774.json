@@ -1,0 +1,313 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Nels Cline at Johnny Brenda's (December 11, 2016)", 
+        "popularity": 0.001443, 
+        "venue": {
+            "displayName": "Johnny Brenda's", 
+            "uri": "http://www.songkick.com/venues/254-johnny-brendas?utm_source=32233&utm_medium=partner", 
+            "lat": 39.969054, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.134318, 
+            "id": 254
+        }, 
+        "uri": "http://www.songkick.com/concerts/28053774-nels-cline-at-johnny-brendas?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-11", 
+            "datetime": "2016-12-11T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 39.969054, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.134318
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "afa7b889-c499-4194-9367-7b80c9f88325", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:afa7b889-c499-4194-9367-7b80c9f88325.json"
+                        }
+                    ], 
+                    "displayName": "Nels Cline", 
+                    "uri": "http://www.songkick.com/artists/242853-nels-cline?utm_source=32233&utm_medium=partner", 
+                    "id": 242853
+                }, 
+                "displayName": "Nels Cline", 
+                "id": 54610339, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28053774
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Nels Cline", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1956-01-04", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0166865/", 
+                    "id": "b6d060ac-c1b4-4e26-a499-e4f1eea6d922"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/46951911", 
+                    "id": "89b845da-7887-4250-9beb-423f39700682"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000861400", 
+                    "id": "1a75a4e8-8dcd-4b2b-993b-b7e9c2f726e4"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/247084", 
+                    "id": "453cf545-eec8-4661-ab4c-5597828920a9"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/nelscline", 
+                    "id": "ab54bbc6-04ac-4d7d-a1d7-fa82ad551190"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.nelscline.com/", 
+                    "id": "6e7eaa16-59f6-4e40-b0bb-57b82780a85c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/nels_cline", 
+                    "id": "d132f2f8-1e10-419b-b1c4-24eedf139cdd"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q617368", 
+                    "id": "8d2796c4-806e-42dd-82e8-0ae5a2fc83cb"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Nels_Cline", 
+                    "id": "40b1b4a9-590b-4aa0-bb32-69072453fb2e"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62", 
+            "name": "Los Angeles"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Cline, Nels", 
+        "type": "Person", 
+        "id": "afa7b889-c499-4194-9367-7b80c9f88325", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Nels Cline @ Johnny Brenda's in Philadelphia, PA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Philadelphia", 
+            "name": "Johnny Brenda's", 
+            "country": "United States", 
+            "region": "PA", 
+            "longitude": -75.134271, 
+            "place": "Johnny Brenda's", 
+            "latitude": 39.968993
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13157476?app_id=ticketgame&artist=Nels+Cline&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13157476/buy_tickets?app_id=ticketgame&artist=Nels+Cline&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Sunday, December 11, 2016 at 8:00PM", 
+        "datetime": "2016-12-11T20:00:00", 
+        "formatted_location": "Philadelphia, PA", 
+        "ticket_redirect_url": "http://www.arsnovaworkshop.com/", 
+        "artists": [
+            {
+                "website": "http://www.nelscline.com", 
+                "facebook_page_url": "http://www.facebook.com/nelscline", 
+                "name": "Nels Cline", 
+                "url": "NelsCline", 
+                "tracker_count": 12757, 
+                "mbid": "afa7b889-c499-4194-9367-7b80c9f88325", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6040379.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/NelsCline/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6040379.jpeg"
+            }, 
+            {
+                "website": null, 
+                "facebook_page_url": "http://www.facebook.com/pages/Gerald%20Cleaver/600006470020306", 
+                "name": "Gerald Cleaver", 
+                "url": "GeraldCleaver", 
+                "tracker_count": 314, 
+                "mbid": "fd1a8050-2116-440f-ac57-7028b8b425ce", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/GeraldCleaver/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }, 
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "Larry Ochs", 
+                "url": "LarryOchs", 
+                "tracker_count": 20, 
+                "mbid": "8b029a88-9856-419a-968e-b57b97e02a17", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/LarryOchs/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13157476
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.arsnovaworkshop.com/"
+    }, 
+    "modified_time": 1479442337.0, 
+    "created_minutes": 18166, 
+    "created_time": 1478566061.0, 
+    "modified_minutes": 3562, 
+    "id": 28053774
+}

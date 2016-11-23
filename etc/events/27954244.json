@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "King Washington and // PRIVATE EVENT at The Satellite (November 7, 2016)", 
+        "popularity": 0.000178, 
+        "venue": {
+            "displayName": "The Satellite", 
+            "uri": "http://www.songkick.com/venues/299-satellite?utm_source=32233&utm_medium=partner", 
+            "lat": 34.089882, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2682356, 
+            "id": 299
+        }, 
+        "uri": "http://www.songkick.com/concerts/27954244-king-washington-at-satellite?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-07", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-07T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 34.089882, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2682356
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1ed1abe8-f492-4978-8f96-b1ff90078439", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1ed1abe8-f492-4978-8f96-b1ff90078439.json"
+                        }
+                    ], 
+                    "displayName": "King Washington", 
+                    "uri": "http://www.songkick.com/artists/892226-king-washington?utm_source=32233&utm_medium=partner", 
+                    "id": 892226
+                }, 
+                "displayName": "King Washington", 
+                "id": 54433069, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "// PRIVATE EVENT", 
+                    "uri": "http://www.songkick.com/artists/8281758-private-event?utm_source=32233&utm_medium=partner", 
+                    "id": 8281758
+                }, 
+                "displayName": "// PRIVATE EVENT", 
+                "id": 55166974, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27954244
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "King Washington", 
+        "area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "name": "Los Angeles", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/kingwashingtonmusic", 
+                    "id": "28916d86-4211-4105-8e6d-92781f7512c9"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "King Washington", 
+        "gender": null, 
+        "id": "1ed1abe8-f492-4978-8f96-b1ff90078439", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 27954244, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

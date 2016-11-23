@@ -1,0 +1,147 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.00052, 
+        "displayName": "Jack Broadbent at Eddie's Attic (March 31, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Eddie's Attic", 
+            "uri": "http://www.songkick.com/venues/46595-eddies-attic?utm_source=32233&utm_medium=partner", 
+            "lat": 33.773966, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.296449, 
+            "id": 46595
+        }, 
+        "uri": "http://www.songkick.com/concerts/28270534-jack-broadbent-at-eddies-attic?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-03-31", 
+            "datetime": "2017-03-31T19:00:00-0400", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 33.773966, 
+            "city": "Decatur, GA, US", 
+            "lng": -84.296449
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Jack Broadbent", 
+                "id": 54983799, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1284d7c1-14f6-4aaf-9e62-446b4d9b7182", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1284d7c1-14f6-4aaf-9e62-446b4d9b7182.json"
+                        }
+                    ], 
+                    "displayName": "Jack Broadbent", 
+                    "uri": "http://www.songkick.com/artists/7834819-jack-broadbent?utm_source=32233&utm_medium=partner", 
+                    "id": 7834819
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28270534
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Jack Broadbent", 
+        "area": null, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/JackBMusician", 
+                    "id": "5d658e72-0b0d-401d-8e0b-dd41643f3733"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/JackBroadbentMusic", 
+                    "id": "13334137-8fbe-41a7-9535-beae03bd856f"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU", 
+                    "id": "22117785-ea02-4b8b-836c-9a38c659b479"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "1284d7c1-14f6-4aaf-9e62-446b4d9b7182", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "sort-name": "Broadbent, Jack", 
+        "type": "Person", 
+        "twitter": "JackBMusician", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15496, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 22.0, 
+        "price_min": 17.0
+    }, 
+    "modified_time": 1479442890.0, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 880, 
+    "id": 28270534
+}

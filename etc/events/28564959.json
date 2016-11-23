@@ -1,0 +1,636 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Switchfoot and Relient K at Showbox SoDo (February 4, 2017)", 
+        "popularity": 0.126141, 
+        "venue": {
+            "displayName": "Showbox SoDo", 
+            "uri": "http://www.songkick.com/venues/3154-showbox-sodo?utm_source=32233&utm_medium=partner", 
+            "lat": 47.5879142, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3340054, 
+            "id": 3154
+        }, 
+        "uri": "http://www.songkick.com/concerts/28564959-switchfoot-at-showbox-sodo?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-04", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 47.5879142, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3340054
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Switchfoot", 
+                "id": 55494949, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ff865aa0-4603-4f79-ae8b-8735332e2cfa", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ff865aa0-4603-4f79-ae8b-8735332e2cfa.json"
+                        }
+                    ], 
+                    "displayName": "Switchfoot", 
+                    "uri": "http://www.songkick.com/artists/442995-switchfoot?utm_source=32233&utm_medium=partner", 
+                    "id": 442995
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Relient K", 
+                "id": 55494954, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a49b5d41-7399-49ef-bcb8-a5779a30d2e9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a49b5d41-7399-49ef-bcb8-a5779a30d2e9.json"
+                        }
+                    ], 
+                    "displayName": "Relient K", 
+                    "uri": "http://www.songkick.com/artists/462585-relient-k?utm_source=32233&utm_medium=partner", 
+                    "id": 462585
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28564959
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Switchfoot", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1997", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": null, 
+        "twitter": "switchfoot", 
+        "tags": [
+            {
+                "count": 2, 
+                "name": "alternative rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "american"
+            }, 
+            {
+                "count": 2, 
+                "name": "christian"
+            }, 
+            {
+                "count": 1, 
+                "name": "post-grunge"
+            }, 
+            {
+                "count": 4, 
+                "name": "rock"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/ff865aa0-4603-4f79-ae8b-8735332e2cfa", 
+                    "id": "90b44feb-6685-4de5-8aca-676ab3cadc6b"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm1475521/", 
+                    "id": "054fd350-f990-417a-bd63-0af57c2bfb9f"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000049026", 
+                    "id": "384adbfe-125a-4bb4-a0fe-3c324ee0828c"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/257407", 
+                    "id": "ffeff4c8-cca6-466e-9a99-9a0407c8133a"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Switchfoot", 
+                    "id": "575daab2-b567-45e4-857f-189cd0bccd6e"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/switchfoot-lyrics", 
+                    "id": "308ecc61-7e5f-4b3c-ba15-ae5934b034b7"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://genius.com/artists/Switchfoot", 
+                    "id": "d9e4915b-9b09-4f44-a821-31da9e7bba02"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/wiki/Switchfoot", 
+                    "id": "b627e2d1-9546-4dcf-8b48-96ba3c26c389"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-6758/switchfoot/lyrics.html", 
+                    "id": "1cfe28d5-6982-4b47-8767-8d1014c3e5e6"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/switchfoot", 
+                    "id": "911cedde-8ee5-47b2-b0f5-1c09c76ef960"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.switchfoot.com/", 
+                    "id": "ce451b4e-8851-49a3-9aa7-e0050209a602"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://musicmoz.org/Bands_and_Artists/S/Switchfoot/", 
+                    "id": "0ee14465-fb55-4e0b-85e1-242a5fd0985d"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.whosampled.com/Switchfoot/", 
+                    "id": "c220f44a-7937-4c82-a58b-ba547d9300d8"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/switchfoot", 
+                    "id": "41a6162f-ef25-4633-a26b-998b626afde9"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id655658", 
+                    "id": "fba6e3d6-1ecf-42e4-af86-be4a0314ddaa"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=Awc5tgmgy55rbrbtsoj43ro44em", 
+                    "id": "4b327cde-4cd4-4924-8f8f-dca2751d827d"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.purevolume.com/new/switchfoot", 
+                    "id": "ffd72683-2af1-426b-b7bf-5823de863806"
+                }, 
+                "direction": "forward", 
+                "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purevolume", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://secondhandsongs.com/artist/53535", 
+                    "id": "e5389014-ba5c-402e-b5dd-8a0b2c4c9508"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/switchfoot", 
+                    "id": "0f153c3a-a0cf-4749-9a1d-fe448412ec7a"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/switchfoot", 
+                    "id": "c8331128-fe60-4cd3-9a22-ad837f796f26"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/switchfoot/", 
+                    "id": "2f6010c5-4489-403d-a2db-d805de3eafd3"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/switchfoot-4", 
+                    "id": "b2352d58-cbf6-4ad4-ae47-c88e0652c394"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu", 
+                    "id": "1c88cab7-69d2-4716-b16f-5092814d48ba"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q722232", 
+                    "id": "0e5181a3-0fec-4732-9333-e3bd3994aa39"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Switchfoot", 
+                    "id": "e9f9f19d-eeb8-454d-a9ed-1d19d583b184"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/Switchfoot", 
+                    "id": "52b25317-4c3f-4950-a30a-b3efc88c863f"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Switchfoot", 
+        "begin_area": {
+            "sort-name": "San Diego", 
+            "disambiguation": "", 
+            "id": "82f3a697-ba65-404d-a1ed-360147af7d10", 
+            "name": "San Diego"
+        }, 
+        "gender-id": null, 
+        "isnis": [
+            "0000000109421811"
+        ], 
+        "country": "US", 
+        "type": "Group", 
+        "id": "ff865aa0-4603-4f79-ae8b-8735332e2cfa", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Switchfoot @ Showbox SoDo in Seattle, WA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Seattle", 
+            "name": "Showbox SoDo", 
+            "country": "United States", 
+            "region": "WA", 
+            "longitude": -122.339405, 
+            "place": "Showbox SoDo", 
+            "latitude": 47.608474
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13295313?app_id=ticketgame&artist=Switchfoot&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13295313/buy_tickets?app_id=ticketgame&artist=Switchfoot&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Saturday, February 4, 2017 at 7:00PM", 
+        "datetime": "2017-02-04T19:00:00", 
+        "formatted_location": "Seattle, WA", 
+        "ticket_redirect_url": "http://www.axs.com/events/328504/switchfoot-tickets?skin=showboxpresents", 
+        "artists": [
+            {
+                "website": "http://www.Switchfoot.com", 
+                "facebook_page_url": "https://www.facebook.com/switchfoot", 
+                "name": "Switchfoot", 
+                "url": "Switchfoot", 
+                "tracker_count": 646139, 
+                "mbid": "ff865aa0-4603-4f79-ae8b-8735332e2cfa", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6422241.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Switchfoot/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6422241.jpeg"
+            }, 
+            {
+                "website": "http://relientk.com", 
+                "facebook_page_url": "https://www.facebook.com/relientk", 
+                "name": "Relient K", 
+                "url": "RelientK", 
+                "tracker_count": 463185, 
+                "mbid": "a49b5d41-7399-49ef-bcb8-a5779a30d2e9", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/RelientK/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13295313
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "ticket_redirect_url": "http://www.axs.com/events/328504/switchfoot-tickets?skin=showboxpresents", 
+        "price_min": false
+    }, 
+    "modified_time": 1479442216.0, 
+    "created_minutes": 5916, 
+    "created_time": 1479305737.0, 
+    "modified_minutes": 3641, 
+    "id": 28564959
+}

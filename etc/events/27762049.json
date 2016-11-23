@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "18+", 
+        "displayName": "Mr. Bill with Circuit Bent at Tempt (November 18, 2016)", 
+        "popularity": 0.000814, 
+        "venue": {
+            "displayName": "Tempt", 
+            "uri": "http://www.songkick.com/venues/2506334-tempt?utm_source=32233&utm_medium=partner", 
+            "lat": 35.8460362, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.3932005, 
+            "id": 2506334
+        }, 
+        "uri": "http://www.songkick.com/concerts/27762049-mr-bill-at-tempt?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-18T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 35.8460362, 
+            "city": "Murfreesboro, TN, US", 
+            "lng": -86.3932005
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8c534d6c-3092-4b02-b0d0-aee91872fdc9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8c534d6c-3092-4b02-b0d0-aee91872fdc9.json"
+                        }
+                    ], 
+                    "displayName": "Mr. Bill", 
+                    "uri": "http://www.songkick.com/artists/914776-mr-bill?utm_source=32233&utm_medium=partner", 
+                    "id": 914776
+                }, 
+                "displayName": "Mr. Bill", 
+                "id": 54077999, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d002928d-d257-4b09-a906-986bfdc1e4eb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d002928d-d257-4b09-a906-986bfdc1e4eb.json"
+                        }
+                    ], 
+                    "displayName": "Circuit Bent", 
+                    "uri": "http://www.songkick.com/artists/4527823-circuit-bent?utm_source=32233&utm_medium=partner", 
+                    "id": 4527823
+                }, 
+                "displayName": "Circuit Bent", 
+                "id": 54078004, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27762049
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Mr. Bill", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/11847", 
+                    "id": "80943da2-2377-49aa-9ebe-f7cc4635b45d"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "8c534d6c-3092-4b02-b0d0-aee91872fdc9", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Bill, Mr.", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 27762049, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

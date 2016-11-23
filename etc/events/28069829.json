@@ -1,0 +1,129 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "American Young at Eddie's Attic (January 7, 2017)", 
+        "popularity": 0.001013, 
+        "venue": {
+            "displayName": "Eddie's Attic", 
+            "uri": "http://www.songkick.com/venues/46595-eddies-attic?utm_source=32233&utm_medium=partner", 
+            "lat": 33.773966, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.296449, 
+            "id": 46595
+        }, 
+        "uri": "http://www.songkick.com/concerts/28069829-american-young-at-eddies-attic?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-07", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 33.773966, 
+            "city": "Decatur, GA, US", 
+            "lng": -84.296449
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "140e9563-f6ca-4545-8b6e-384eb6d3cef2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:140e9563-f6ca-4545-8b6e-384eb6d3cef2.json"
+                        }
+                    ], 
+                    "displayName": "American Young", 
+                    "uri": "http://www.songkick.com/artists/6445894-american-young?utm_source=32233&utm_medium=partner", 
+                    "id": 6445894
+                }, 
+                "displayName": "American Young", 
+                "id": 54636804, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28069829
+    }, 
+    "musicbrainz_response": {
+        "name": "American Young", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2014", 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.americanyoung.com/index.php/about", 
+                    "id": "dba8331d-5d12-4317-b442-c3a0d6f15a41"
+                }, 
+                "direction": "forward", 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.americanyoung.com/", 
+                    "id": "3916e5fa-adc5-4508-bf42-d530516ccf2c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "American Young", 
+        "gender": null, 
+        "disambiguation": "", 
+        "type": "Group", 
+        "id": "140e9563-f6ca-4545-8b6e-384eb6d3cef2", 
+        "gender-id": null
+    }, 
+    "age_minutes": 15474, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442343.0, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 868, 
+    "id": 28069829
+}

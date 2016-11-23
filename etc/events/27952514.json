@@ -1,0 +1,420 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Napalm Death and The Black Dahlia Murder at The Masquerade (November 17, 2016)", 
+        "popularity": 0.020695, 
+        "venue": {
+            "displayName": "The Masquerade", 
+            "uri": "http://www.songkick.com/venues/196-masquerade?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7710375, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3648011, 
+            "id": 196
+        }, 
+        "uri": "http://www.songkick.com/concerts/27952514-napalm-death-at-masquerade?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "18:00:00", 
+            "datetime": "2016-11-17T18:00:00-0500"
+        }, 
+        "location": {
+            "lat": 33.7710375, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.3648011
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ce7bba8b-026b-4aa6-bddb-f98ed6d595e4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ce7bba8b-026b-4aa6-bddb-f98ed6d595e4.json"
+                        }
+                    ], 
+                    "displayName": "Napalm Death", 
+                    "uri": "http://www.songkick.com/artists/191492-napalm-death?utm_source=32233&utm_medium=partner", 
+                    "id": 191492
+                }, 
+                "displayName": "Napalm Death", 
+                "id": 54429524, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "21f3573f-10cf-44b3-aeaa-26cccd8448b5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:21f3573f-10cf-44b3-aeaa-26cccd8448b5.json"
+                        }
+                    ], 
+                    "displayName": "The Black Dahlia Murder", 
+                    "uri": "http://www.songkick.com/artists/117567-black-dahlia-murder?utm_source=32233&utm_medium=partner", 
+                    "id": 117567
+                }, 
+                "displayName": "The Black Dahlia Murder", 
+                "id": 54429529, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27952514
+    }, 
+    "musicbrainz_response": {
+        "name": "Napalm Death", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1982", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "birmingham"
+            }, 
+            {
+                "count": 2, 
+                "name": "british"
+            }, 
+            {
+                "count": 1, 
+                "name": "england"
+            }, 
+            {
+                "count": 1, 
+                "name": "english"
+            }, 
+            {
+                "count": 3, 
+                "name": "grindcore"
+            }, 
+            {
+                "count": 2, 
+                "name": "uk"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/ce7bba8b-026b-4aa6-bddb-f98ed6d595e4", 
+                    "id": "d3d38620-d7b4-4639-89e7-c61c272feb23"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000371258", 
+                    "id": "49fcceb9-e352-4e5b-a6cd-fcfd0fdf9f57"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://napalm-death.bandcamp.com/", 
+                    "id": "9d5440dd-1643-47f3-b041-0eb0ff27e722"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.metal-archives.com/bands/Napalm_Death/219", 
+                    "id": "0a6c043e-fb9e-40e8-a53a-cdbbdeb6c17b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.musik-sammler.de/artist/napalm-death/", 
+                    "id": "e00131da-35b1-4533-8be8-f41d6264638d"
+                }, 
+                "direction": "forward", 
+                "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/11614", 
+                    "id": "0eba13f8-f69b-413d-b980-1ddaa591a0ec"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-11103/napalm-death/lyrics.html", 
+                    "id": "e6eaa37a-d914-4aa9-8a69-9119dc259c27"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/napalmdeath", 
+                    "id": "b0f18db8-5ee9-4f49-9f35-8fb173ef25c7"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.napalmdeath.org/", 
+                    "id": "10fcb92d-c472-473d-a61d-37fe90148099"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/napalm_death", 
+                    "id": "4742423a-0a58-4f72-afef-0a7bf9874112"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/officialnapalmdeath", 
+                    "id": "4de60fab-1976-461a-afc7-332285c6474e"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q321762", 
+                    "id": "a26053d5-b26e-4468-971b-7942f89e4344"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Napalm_Death", 
+                    "id": "1e8970a5-76a0-4a8d-8671-6114a4f3bc98"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/maxnapalmdeath", 
+                    "id": "7ec28dec-7ca9-448f-807b-f43b76a717b7"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Meriden", 
+            "disambiguation": "", 
+            "id": "29b2ae19-62c3-4010-9f4f-086a911641e6", 
+            "name": "Meriden"
+        }, 
+        "gender-id": null, 
+        "country": "GB", 
+        "sort-name": "Napalm Death", 
+        "type": "Group", 
+        "id": "ce7bba8b-026b-4aa6-bddb-f98ed6d595e4", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15471, 
+    "bandsintown_response": {
+        "description": "Napalm Death with The Black Dahlia Murder Masquerade Atlanta Tickets - Buy and sell Napalm Death with The Black Dahlia Murder Atlanta Tickets for November 17 at Masquerade Atlanta in Atlanta, GA on StubHub!", 
+        "title": "Napalm Death @ Masquerade in Atlanta, GA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Atlanta", 
+            "name": "Masquerade", 
+            "country": "United States", 
+            "region": "GA", 
+            "longitude": -84.364578, 
+            "place": "Masquerade", 
+            "latitude": 33.771118
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12813228?app_id=ticketgame&artist=Napalm+Death&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12813228/buy_tickets?app_id=ticketgame&artist=Napalm+Death&came_from=67", 
+        "on_sale_datetime": "2016-09-02T14:00:00", 
+        "formatted_datetime": "Thursday, November 17, 2016 at 6:00PM", 
+        "datetime": "2016-11-17T18:00:00", 
+        "formatted_location": "Atlanta, GA", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F0E00511DA92E423B&subId1=67%7E16079229%7E23415447%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.napalmdeath.org", 
+                "facebook_page_url": null, 
+                "name": "Napalm Death", 
+                "url": "NapalmDeath", 
+                "tracker_count": 139040, 
+                "mbid": "ce7bba8b-026b-4aa6-bddb-f98ed6d595e4", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6099473.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/NapalmDeath/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6099473.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12813228
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 0, 
+        "price_min": 9999999
+    }, 
+    "modified_time": 1479442260.0, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 866, 
+    "id": 27952514
+}

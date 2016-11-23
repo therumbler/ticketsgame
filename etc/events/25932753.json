@@ -1,0 +1,177 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Peter Hook & The Light at Granada Theater (November 11, 2016)", 
+        "popularity": 0.002712, 
+        "venue": {
+            "displayName": "Granada Theater", 
+            "uri": "http://www.songkick.com/venues/11334-granada-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 32.8308876, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.7700051, 
+            "id": 11334
+        }, 
+        "uri": "http://www.songkick.com/concerts/25932753-peter-hook-and-the-light-at-granada-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-11T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.8308876, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.7700051
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9c03bf5d-9b0d-474f-942a-5a28bde04ef0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9c03bf5d-9b0d-474f-942a-5a28bde04ef0.json"
+                        }
+                    ], 
+                    "displayName": "Peter Hook & The Light", 
+                    "uri": "http://www.songkick.com/artists/4154881-peter-hook-and-the-light?utm_source=32233&utm_medium=partner", 
+                    "id": 4154881
+                }, 
+                "displayName": "Peter Hook & The Light", 
+                "id": 50741263, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 25932753
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Peter Hook & The Light", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2010-05", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "country": "GB", 
+        "disambiguation": "", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative dance"
+            }, 
+            {
+                "count": 1, 
+                "name": "alternative rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "new wave"
+            }, 
+            {
+                "count": 1, 
+                "name": "post-punk"
+            }, 
+            {
+                "count": 1, 
+                "name": "synthpop"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4693825", 
+                    "id": "7c74897c-f309-4b25-8f86-f3b822c6ad32"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/peter_hooks_the_light", 
+                    "id": "c05e6a0e-0063-4089-b2e9-9028cb715b25"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q15044916", 
+                    "id": "34db7d95-02c3-466c-8148-39744d905218"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Manchester", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "GB-MAN"
+            ], 
+            "id": "852531bf-3410-401f-b432-9c3157a386b9", 
+            "name": "Manchester"
+        }, 
+        "sort-name": "Hook, Peter & The Light", 
+        "gender": null, 
+        "type": "Group", 
+        "id": "9c03bf5d-9b0d-474f-942a-5a28bde04ef0", 
+        "gender-id": null
+    }, 
+    "id": 25932753, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

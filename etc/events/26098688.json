@@ -1,0 +1,209 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "John Waters at Kessler Theater (December 14, 2016)", 
+        "popularity": 0.000275, 
+        "venue": {
+            "displayName": "Kessler Theater", 
+            "uri": "http://www.songkick.com/venues/1076266-kessler-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 32.7494971, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.8425597, 
+            "id": 1076266
+        }, 
+        "uri": "http://www.songkick.com/concerts/26098688-john-waters-at-kessler-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-14", 
+            "datetime": "2016-12-14T19:00:00-0600", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 32.7494971, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.8425597
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b66e3fb2-0b2c-443e-b4b6-2c35d09dc20e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b66e3fb2-0b2c-443e-b4b6-2c35d09dc20e.json"
+                        }, 
+                        {
+                            "mbid": "14e93232-c4c4-4f00-adf3-f7bd990568bc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:14e93232-c4c4-4f00-adf3-f7bd990568bc.json"
+                        }, 
+                        {
+                            "mbid": "a8a7482e-1444-43a7-818c-73e9b8cf9a09", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a8a7482e-1444-43a7-818c-73e9b8cf9a09.json"
+                        }
+                    ], 
+                    "displayName": "John Waters", 
+                    "uri": "http://www.songkick.com/artists/225706-john-waters?utm_source=32233&utm_medium=partner", 
+                    "id": 225706
+                }, 
+                "displayName": "John Waters", 
+                "id": 51026903, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26098688
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "John Waters", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1946-04-22", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0000691/", 
+                    "id": "8adef061-66d0-4b44-88f8-6418992c314b"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/483088", 
+                    "id": "8028155f-6e56-4acf-ad60-c1607d844772"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q314926", 
+                    "id": "a053db51-2c30-4676-ab77-aef50d233a1d"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/John_Waters", 
+                    "id": "f464f559-3012-4cf0-b5ad-9395f6fb166a"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Waters, John", 
+        "type": "Person", 
+        "id": "b66e3fb2-0b2c-443e-b4b6-2c35d09dc20e", 
+        "disambiguation": "filmmaker"
+    }, 
+    "bandsintown_response": {
+        "description": "Ticket Purchase Checkout", 
+        "title": "John Waters @ The Kessler in Dallas, TX", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Dallas", 
+            "name": "The Kessler", 
+            "country": "United States", 
+            "region": "TX", 
+            "longitude": -96.842002, 
+            "place": "The Kessler", 
+            "latitude": 32.749379
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/11369101?app_id=ticketgame&artist=John+Waters&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/11369101/buy_tickets?app_id=ticketgame&artist=John+Waters&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Wednesday, December 14, 2016 at 7:00PM", 
+        "datetime": "2016-12-14T19:00:00", 
+        "formatted_location": "Dallas, TX", 
+        "ticket_redirect_url": "http://www.prekindle.com/checkout/id/24314848457933425", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "John Waters", 
+                "url": "JohnWaters", 
+                "tracker_count": 346, 
+                "mbid": "b66e3fb2-0b2c-443e-b4b6-2c35d09dc20e", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5136217.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/JohnWaters/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5136217.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 11369101
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.prekindle.com/checkout/id/24314848457933425"
+    }, 
+    "modified_time": 1479655097.0, 
+    "id": 26098688, 
+    "created_time": 1478565997.0, 
+    "modified_minutes": 1350, 
+    "created_minutes": 19501
+}

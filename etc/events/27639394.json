@@ -1,0 +1,316 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Cherub, Frenship, and Boo Seeka at Fox Theater (November 11, 2016)", 
+        "popularity": 0.034701, 
+        "venue": {
+            "displayName": "Fox Theater", 
+            "uri": "http://www.songkick.com/venues/953251-fox-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 37.8078474, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.2699981, 
+            "id": 953251
+        }, 
+        "uri": "http://www.songkick.com/concerts/27639394-cherub-at-fox-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-11T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 37.8078474, 
+            "city": "Oakland, CA, US", 
+            "lng": -122.2699981
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "abf42fca-8c2e-4d55-9fc8-6b1fc65a80f1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:abf42fca-8c2e-4d55-9fc8-6b1fc65a80f1.json"
+                        }, 
+                        {
+                            "mbid": "4bfa7565-cc25-4901-b0dc-64cc68cd8d6b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4bfa7565-cc25-4901-b0dc-64cc68cd8d6b.json"
+                        }
+                    ], 
+                    "displayName": "Cherub", 
+                    "uri": "http://www.songkick.com/artists/36105-cherub?utm_source=32233&utm_medium=partner", 
+                    "id": 36105
+                }, 
+                "displayName": "Cherub", 
+                "id": 53854494, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b9f0dfa1-7cf1-4e3c-8770-c8bc660c000a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b9f0dfa1-7cf1-4e3c-8770-c8bc660c000a.json"
+                        }
+                    ], 
+                    "displayName": "Frenship", 
+                    "uri": "http://www.songkick.com/artists/8061398-frenship?utm_source=32233&utm_medium=partner", 
+                    "id": 8061398
+                }, 
+                "displayName": "Frenship", 
+                "id": 53854499, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "09c2f5e4-eb57-4244-895f-126fc153ef17", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:09c2f5e4-eb57-4244-895f-126fc153ef17.json"
+                        }
+                    ], 
+                    "displayName": "Boo Seeka", 
+                    "uri": "http://www.songkick.com/artists/8408113-boo-seeka?utm_source=32233&utm_medium=partner", 
+                    "id": 8408113
+                }, 
+                "displayName": "Boo Seeka", 
+                "id": 53854504, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27639394
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Cherub", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "twitter": "CHERUBlamusica", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "electro-indie"
+            }
+        ], 
+        "disambiguation": "US electro-indie duo", 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "name": "Nashville", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74"
+        }, 
+        "id": "abf42fca-8c2e-4d55-9fc8-6b1fc65a80f1", 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002939023", 
+                    "id": "05fd9c8d-59c9-428a-b296-5b63f80492e6"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/cherub-lyrics", 
+                    "id": "029a9a9d-d0ba-40dc-af65-f066a08a8040"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://cherublamusica.com/", 
+                    "id": "919275ad-ecca-4c70-bd4e-3d52d4fa50c5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/cherublamusica", 
+                    "id": "9d5b41d7-cbcc-4a99-adc8-97cf6c09bfcb"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/CHERUBlamusica", 
+                    "id": "03b42d33-8224-447a-9a1b-6663153beea2"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Cherublamusica", 
+                    "id": "e698e2ea-5301-484a-a2d1-b4c888bcde2c"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/cherublamusica", 
+                    "id": "eb4d3390-d345-4b36-8c4b-882a23e2672a"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q16826464", 
+                    "id": "9fc41155-3830-4a45-8393-7496b735a417"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Cherub_(musical_duo)", 
+                    "id": "747d03f5-a6aa-44de-a4f4-4e628a6082ce"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/CHERUBlamusica", 
+                    "id": "34517f4b-a63e-4b19-8cf4-1889c43ef407"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Cherub", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2011", 
+            "end": null
+        }
+    }, 
+    "id": 27639394, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Michael Wollny Trio and Andrew McCormack at Kings Place (November 12, 2016)", 
+        "popularity": 0.0001, 
+        "venue": {
+            "displayName": "Kings Place", 
+            "uri": "http://www.songkick.com/venues/47963-kings-place?utm_source=32233&utm_medium=partner", 
+            "lat": 51.534649, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.122138, 
+            "id": 47963
+        }, 
+        "uri": "http://www.songkick.com/concerts/28099939-michael-wollny-trio-at-kings-place?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-12T19:30:00+0000"
+        }, 
+        "location": {
+            "lat": 51.534649, 
+            "city": "London, UK", 
+            "lng": -0.122138
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "857e3686-d0b0-4f42-88e6-1da53282994f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:857e3686-d0b0-4f42-88e6-1da53282994f.json"
+                        }
+                    ], 
+                    "displayName": "Michael Wollny Trio", 
+                    "uri": "http://www.songkick.com/artists/3891996-michael-wollny-trio?utm_source=32233&utm_medium=partner", 
+                    "id": 3891996
+                }, 
+                "displayName": "Michael Wollny Trio", 
+                "id": 54688364, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "603373bf-efe6-4887-a7a1-28db0359c48f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:603373bf-efe6-4887-a7a1-28db0359c48f.json"
+                        }
+                    ], 
+                    "displayName": "Andrew McCormack", 
+                    "uri": "http://www.songkick.com/artists/400841-andrew-mccormack?utm_source=32233&utm_medium=partner", 
+                    "id": 400841
+                }, 
+                "displayName": "Andrew McCormack", 
+                "id": 55154759, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28099939
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Michael Wollny Trio", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Germany", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "DE"
+            ], 
+            "name": "Germany", 
+            "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad"
+        }, 
+        "gender": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3677324", 
+                    "id": "1799d1a4-15fb-40fc-87a6-1ac9845c2fe9"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Wollny, Michael, Trio", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "DE", 
+        "type": "Group", 
+        "id": "857e3686-d0b0-4f42-88e6-1da53282994f"
+    }, 
+    "id": 28099939, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

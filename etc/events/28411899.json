@@ -1,0 +1,133 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Hideout at Sofar Sounds (November 8, 2016)", 
+        "popularity": 0.000166, 
+        "venue": {
+            "displayName": "Sofar Sounds", 
+            "uri": "http://www.songkick.com/venues/2042809-sofar-sounds?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7127837, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -74.0059413, 
+            "id": 2042809
+        }, 
+        "uri": "http://www.songkick.com/concerts/28411899-hideout-at-sofar-sounds?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-08", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 40.7127837, 
+            "city": "New York, NY, US", 
+            "lng": -74.0059413
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "415c2a12-01d2-4593-bf79-2a4f9dfaa28d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:415c2a12-01d2-4593-bf79-2a4f9dfaa28d.json"
+                        }
+                    ], 
+                    "displayName": "Hideout", 
+                    "uri": "http://www.songkick.com/artists/248312-hideout?utm_source=32233&utm_medium=partner", 
+                    "id": 248312
+                }, 
+                "displayName": "Hideout", 
+                "id": 55231519, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28411899
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Hideout", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2011-09-01", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Manhattan", 
+            "disambiguation": "", 
+            "name": "Manhattan", 
+            "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://hideout.bandcamp.com/", 
+                    "id": "65c3fe74-476d-4e03-876b-e2148b1041fe"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://midheaven.com/item/rookie-by-hideout-lp", 
+                    "id": "6a157555-f25a-4065-af48-6283f3d461df"
+                }, 
+                "direction": "forward", 
+                "type-id": "611b1862-67af-4253-a64f-34adba305d1d", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for mail-order", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "San Diego", 
+            "disambiguation": "", 
+            "name": "San Diego", 
+            "id": "82f3a697-ba65-404d-a1ed-360147af7d10"
+        }, 
+        "id": "415c2a12-01d2-4593-bf79-2a4f9dfaa28d", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Hideout", 
+        "type": "Group", 
+        "disambiguation": ""
+    }, 
+    "id": 28411899, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

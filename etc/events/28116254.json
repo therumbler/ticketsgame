@@ -1,0 +1,161 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 3.5e-05, 
+        "displayName": "John Brodeur with The Morning Sea and Fiona Silver at Shrine (November 10, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Shrine", 
+            "uri": "http://www.songkick.com/venues/597321-shrine?utm_source=32233&utm_medium=partner", 
+            "lat": 40.8143669, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9442714, 
+            "id": 597321
+        }, 
+        "uri": "http://www.songkick.com/concerts/28116254-john-brodeur-at-shrine?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "datetime": "2016-11-10T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 40.8143669, 
+            "city": "New York, NY, US", 
+            "lng": -73.9442714
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "John Brodeur", 
+                "id": 54717714, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "70e268fd-4971-4e2c-ba46-83af10cf58b8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:70e268fd-4971-4e2c-ba46-83af10cf58b8.json"
+                        }
+                    ], 
+                    "displayName": "John Brodeur", 
+                    "uri": "http://www.songkick.com/artists/199721-john-brodeur?utm_source=32233&utm_medium=partner", 
+                    "id": 199721
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "The Morning Sea", 
+                "id": 54717719, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Morning Sea", 
+                    "uri": "http://www.songkick.com/artists/8016763-morning-sea?utm_source=32233&utm_medium=partner", 
+                    "id": 8016763
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Fiona Silver", 
+                "id": 54717724, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Fiona Silver", 
+                    "uri": "http://www.songkick.com/artists/2527111-fiona-silver?utm_source=32233&utm_medium=partner", 
+                    "id": 2527111
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28116254
+    }, 
+    "bandsintown_response": {
+        "description": "BIRD STREETS", 
+        "title": "John Brodeur @ Shrine in New York, NY", 
+        "ticket_type": null, 
+        "venue": {
+            "city": "New York", 
+            "name": "Shrine", 
+            "country": "United States", 
+            "region": "NY", 
+            "longitude": -73.944102, 
+            "place": "Shrine", 
+            "latitude": 40.814301
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12915070?app_id=ticketgame&artist=John+Brodeur&came_from=67", 
+        "ticket_url": null, 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Thursday, November 10, 2016 at 8:00PM", 
+        "datetime": "2016-11-10T20:00:00", 
+        "formatted_location": "New York, NY", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/johnbrodeurmusic", 
+                "name": "John Brodeur", 
+                "url": "JohnBrodeur", 
+                "tracker_count": 403, 
+                "mbid": "70e268fd-4971-4e2c-ba46-83af10cf58b8", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6038250.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/JohnBrodeur/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6038250.jpeg"
+            }
+        ], 
+        "ticket_status": "unavailable", 
+        "id": 12915070
+    }, 
+    "musicbrainz_response": {
+        "name": "John Brodeur", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/thesuggestions", 
+                    "id": "95cd2cc5-dd7e-4411-b5ff-463f37f3b2ea"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Brodeur, John", 
+        "country": null, 
+        "id": "70e268fd-4971-4e2c-ba46-83af10cf58b8", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28116254, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

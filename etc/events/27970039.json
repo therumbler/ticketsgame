@@ -1,0 +1,137 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "All Ages", 
+        "displayName": "Joe Stilgoe at LSO St Luke's (November 17, 2016)", 
+        "popularity": 0.000109, 
+        "venue": {
+            "displayName": "LSO St Luke's", 
+            "uri": "http://www.songkick.com/venues/54185-lso-st-lukes?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5247879, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0939684, 
+            "id": 54185
+        }, 
+        "uri": "http://www.songkick.com/concerts/27970039-joe-stilgoe-at-lso-st-lukes?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-17T19:30:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5247879, 
+            "city": "London, UK", 
+            "lng": -0.0939684
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "67ea3072-c205-4fe1-8f03-ae3bdd7babed", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:67ea3072-c205-4fe1-8f03-ae3bdd7babed.json"
+                        }
+                    ], 
+                    "displayName": "Joe Stilgoe", 
+                    "uri": "http://www.songkick.com/artists/1060714-joe-stilgoe?utm_source=32233&utm_medium=partner", 
+                    "id": 1060714
+                }, 
+                "displayName": "Joe Stilgoe", 
+                "id": 54460384, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27970039
+    }, 
+    "musicbrainz_response": {
+        "name": "Joe Stilgoe", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1979-05-29", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.joestilgoe.com/", 
+                    "id": "4cfdaf47-5c40-4fd3-a02c-4bcc346084f2"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Joe_Stilgoe", 
+                    "id": "2b872f68-359c-47aa-bdec-4dd2f7ad7e26"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Sevenoaks", 
+            "disambiguation": "", 
+            "name": "Sevenoaks", 
+            "id": "24acbb0f-08c8-4bed-bcdd-310994da3200"
+        }, 
+        "sort-name": "Stilgoe, Joe", 
+        "country": "GB", 
+        "id": "67ea3072-c205-4fe1-8f03-ae3bdd7babed", 
+        "type": "Person", 
+        "disambiguation": "singer, pianist, composer and entertainer", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.songkick.com/store/events/27970039"
+    }, 
+    "modified_time": 1479442289.0, 
+    "created_minutes": 18165, 
+    "created_time": 1478566022.0, 
+    "modified_minutes": 3560, 
+    "id": 27970039
+}

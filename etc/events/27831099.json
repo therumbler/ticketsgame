@@ -1,0 +1,197 @@
+{
+    "songkick_response": {
+        "status": "cancelled", 
+        "ageRestriction": "18+", 
+        "displayName": "Sam Gellaitry at The Steelyard (November 12, 2016) (CANCELLED) ", 
+        "popularity": 0.002811, 
+        "venue": {
+            "displayName": "The Steelyard", 
+            "uri": "http://www.songkick.com/venues/2876163-steelyard?utm_source=32233&utm_medium=partner", 
+            "lat": 51.510073, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0903667, 
+            "id": 2876163
+        }, 
+        "uri": "http://www.songkick.com/concerts/27831099-sam-gellaitry-at-steelyard?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-12T22:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.510073, 
+            "city": "London, UK", 
+            "lng": -0.0903667
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d5f6180d-4ea6-46b1-bf21-f8d8c92c73c5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d5f6180d-4ea6-46b1-bf21-f8d8c92c73c5.json"
+                        }
+                    ], 
+                    "displayName": "Sam Gellaitry", 
+                    "uri": "http://www.songkick.com/artists/8333523-sam-gellaitry?utm_source=32233&utm_medium=partner", 
+                    "id": 8333523
+                }, 
+                "displayName": "Sam Gellaitry", 
+                "id": 54206364, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27831099
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Sam Gellaitry", 
+        "tags": [], 
+        "gender": "Male", 
+        "twitter": "samgellaitry", 
+        "area": {
+            "sort-name": "Scotland", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "GB-SCT"
+            ], 
+            "id": "6fa1c7da-6689-4cec-85f9-680f853e8a08", 
+            "name": "Scotland"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://samgellaitry.bandcamp.com/", 
+                    "id": "5ecaa574-07cb-4270-a9e0-a00bfc679ff8"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Sam+Gellaitry", 
+                    "id": "84b7ca45-39ef-420a-bf26-d1031d9e62ac"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id958258124", 
+                    "id": "f26dde91-76c0-4a2f-88fb-dfafb6082007"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/samgellaitry", 
+                    "id": "a375cb2f-a59d-460e-a601-4338e72f8a4f"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/samgellaitry", 
+                    "id": "75cb91b6-e8f8-4a2e-9e29-1766d82dba32"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/samgellaitry", 
+                    "id": "430e2668-a089-4b5d-bc25-a5df32bcba8b"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Gellaitry, Sam", 
+        "country": null, 
+        "id": "d5f6180d-4ea6-46b1-bf21-f8d8c92c73c5", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 27831099, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

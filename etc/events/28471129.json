@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "alright and Schroeder at The Lab, Convergence (November 12, 2016)", 
+        "popularity": 0.000134, 
+        "venue": {
+            "displayName": "The Lab, Convergence", 
+            "uri": "http://www.songkick.com/venues/92437-lab-convergence?utm_source=32233&utm_medium=partner", 
+            "lat": 38.8330281, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0850675, 
+            "id": 92437
+        }, 
+        "uri": "http://www.songkick.com/concerts/28471129-alright-at-lab-convergence?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "datetime": "2016-11-12T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 38.8330281, 
+            "city": "Alexandria, VA, US", 
+            "lng": -77.0850675
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4a1765ca-f38a-4986-b8e5-73e63627eaf1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4a1765ca-f38a-4986-b8e5-73e63627eaf1.json"
+                        }
+                    ], 
+                    "displayName": "alright", 
+                    "uri": "http://www.songkick.com/artists/768935-alright?utm_source=32233&utm_medium=partner", 
+                    "id": 768935
+                }, 
+                "displayName": "alright", 
+                "id": 55331339, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5155166d-d118-4ec6-b2b7-0938e3bb7217", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5155166d-d118-4ec6-b2b7-0938e3bb7217.json"
+                        }
+                    ], 
+                    "displayName": "Schroeder", 
+                    "uri": "http://www.songkick.com/artists/533219-schroeder?utm_source=32233&utm_medium=partner", 
+                    "id": 533219
+                }, 
+                "displayName": "Schroeder", 
+                "id": 55331344, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28471129
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Alright", 
+        "tags": [], 
+        "country": null, 
+        "disambiguation": "", 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1273777", 
+                    "id": "5947e5d7-b651-4414-a1ba-e036faacedf0"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "Alright", 
+        "gender": null, 
+        "id": "4a1765ca-f38a-4986-b8e5-73e63627eaf1", 
+        "type": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28471129, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

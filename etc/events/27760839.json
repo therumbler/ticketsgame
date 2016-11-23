@@ -1,0 +1,131 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "18+", 
+        "displayName": "Mr. Bill with Circuit Bent at Echoplex (December 5, 2016)", 
+        "popularity": 0.000814, 
+        "venue": {
+            "displayName": "Echoplex", 
+            "uri": "http://www.songkick.com/venues/4665-echoplex?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0775855, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2606087, 
+            "id": 4665
+        }, 
+        "uri": "http://www.songkick.com/concerts/27760839-mr-bill-at-echoplex?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-05", 
+            "time": "20:30:00", 
+            "datetime": "2016-12-05T20:30:00-0800"
+        }, 
+        "location": {
+            "lat": 34.0775855, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2606087
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8c534d6c-3092-4b02-b0d0-aee91872fdc9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8c534d6c-3092-4b02-b0d0-aee91872fdc9.json"
+                        }
+                    ], 
+                    "displayName": "Mr. Bill", 
+                    "uri": "http://www.songkick.com/artists/914776-mr-bill?utm_source=32233&utm_medium=partner", 
+                    "id": 914776
+                }, 
+                "displayName": "Mr. Bill", 
+                "id": 54078244, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d002928d-d257-4b09-a906-986bfdc1e4eb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d002928d-d257-4b09-a906-986bfdc1e4eb.json"
+                        }
+                    ], 
+                    "displayName": "Circuit Bent", 
+                    "uri": "http://www.songkick.com/artists/4527823-circuit-bent?utm_source=32233&utm_medium=partner", 
+                    "id": 4527823
+                }, 
+                "displayName": "Circuit Bent", 
+                "id": 54076289, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27760839
+    }, 
+    "musicbrainz_response": {
+        "name": "Mr. Bill", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/11847", 
+                    "id": "80943da2-2377-49aa-9ebe-f7cc4635b45d"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "Bill, Mr.", 
+        "country": null, 
+        "type": "Person", 
+        "id": "8c534d6c-3092-4b02-b0d0-aee91872fdc9", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 157, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 13.0, 
+        "price_min": 10.5
+    }, 
+    "modified_time": 1479488329.0, 
+    "created_time": 1479484376.0, 
+    "modified_minutes": 91, 
+    "id": 27760839
+}

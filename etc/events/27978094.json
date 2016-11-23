@@ -1,0 +1,149 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000565, 
+        "displayName": "Seratones with Free Money and Son Joan at Oslo Hackney (November 10, 2016)", 
+        "ageRestriction": "18+", 
+        "venue": {
+            "displayName": "Oslo Hackney", 
+            "uri": "http://www.songkick.com/venues/2448609-oslo-hackney?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5479818, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0575201, 
+            "id": 2448609
+        }, 
+        "uri": "http://www.songkick.com/concerts/27978094-seratones-at-oslo-hackney?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "datetime": "2016-11-10T19:30:00+0000", 
+            "time": "19:30:00"
+        }, 
+        "location": {
+            "lat": 51.5479818, 
+            "city": "London, UK", 
+            "lng": -0.0575201
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "19168b28-e876-4f17-83ef-e01475e2f1ae", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:19168b28-e876-4f17-83ef-e01475e2f1ae.json"
+                        }
+                    ], 
+                    "displayName": "Seratones", 
+                    "uri": "http://www.songkick.com/artists/8075948-seratones?utm_source=32233&utm_medium=partner", 
+                    "id": 8075948
+                }, 
+                "displayName": "Seratones", 
+                "id": 54474859, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Free Money", 
+                    "uri": "http://www.songkick.com/artists/932617-free-money?utm_source=32233&utm_medium=partner", 
+                    "id": 932617
+                }, 
+                "displayName": "Free Money", 
+                "id": 55385904, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Son Joan", 
+                    "uri": "http://www.songkick.com/artists/8087828-son-joan?utm_source=32233&utm_medium=partner", 
+                    "id": 8087828
+                }, 
+                "displayName": "Son Joan", 
+                "id": 55385909, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27978094
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Seratones", 
+        "area": {
+            "sort-name": "Shreveport", 
+            "disambiguation": "", 
+            "id": "792c0b7d-c00d-430c-a431-e0624841d523", 
+            "name": "Shreveport"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://schedule.sxsw.com/2016/events/event_MS34848", 
+                    "id": "71caed20-4948-4335-a19c-680ebcc87149"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/seratonesofficial", 
+                    "id": "b8d6a196-a787-4788-bfed-3ce4a7b19cde"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "id": "19168b28-e876-4f17-83ef-e01475e2f1ae", 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Seratones", 
+        "type": "Group", 
+        "disambiguation": ""
+    }, 
+    "id": 27978094, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

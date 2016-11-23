@@ -1,0 +1,129 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Kyle Gass Band at The Shakedown (December 3, 2016)", 
+        "popularity": 0.000364, 
+        "venue": {
+            "displayName": "The Shakedown", 
+            "uri": "http://www.songkick.com/venues/1262686-shakedown?utm_source=32233&utm_medium=partner", 
+            "lat": 48.747541, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.477788, 
+            "id": 1262686
+        }, 
+        "uri": "http://www.songkick.com/concerts/28209689-kyle-gass-band-at-shakedown?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-03", 
+            "time": "22:00:00", 
+            "datetime": "2016-12-03T22:00:00-0800"
+        }, 
+        "location": {
+            "lat": 48.747541, 
+            "city": "Bellingham, WA, US", 
+            "lng": -122.477788
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "de06bf59-4081-4f61-b589-93a92c3af448", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:de06bf59-4081-4f61-b589-93a92c3af448.json"
+                        }
+                    ], 
+                    "displayName": "Kyle Gass Band", 
+                    "uri": "http://www.songkick.com/artists/4047061-kyle-gass-band?utm_source=32233&utm_medium=partner", 
+                    "id": 4047061
+                }, 
+                "displayName": "Kyle Gass Band", 
+                "id": 54881859, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28209689
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Kyle Gass Band", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3767131", 
+                    "id": "809b36b7-08b3-4487-a0d2-6236bb8209e0"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/kylegassband", 
+                    "id": "c88d40c6-3363-413f-a086-c3c49ab40790"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Kyle Gass Band", 
+        "type": "Group", 
+        "id": "de06bf59-4081-4f61-b589-93a92c3af448", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15488, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442722.0, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 878, 
+    "id": 28209689
+}

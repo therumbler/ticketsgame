@@ -1,0 +1,128 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Byron Wallen at Club In\u00e9gales (November 12, 2016)", 
+        "popularity": 3.9e-05, 
+        "venue": {
+            "displayName": "Club In\u00e9gales", 
+            "uri": "http://www.songkick.com/venues/2903918-club-inegales?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5266671, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.137131, 
+            "id": 2903918
+        }, 
+        "uri": "http://www.songkick.com/concerts/28299159-byron-wallen-at-club-inegales?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.5266671, 
+            "city": "London, UK", 
+            "lng": -0.137131
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a2aabb0c-9dd3-451e-b30f-adff0e8c7e8f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a2aabb0c-9dd3-451e-b30f-adff0e8c7e8f.json"
+                        }
+                    ], 
+                    "displayName": "Byron Wallen", 
+                    "uri": "http://www.songkick.com/artists/284169-byron-wallen?utm_source=32233&utm_medium=partner", 
+                    "id": 284169
+                }, 
+                "displayName": "Byron Wallen", 
+                "id": 55034129, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28299159
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Byron Wallen", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "country": "GB", 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/13591", 
+                    "id": "e9dc4b70-7ca3-4d88-85e6-0f1652a445c5"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.byronwallen.co.uk/", 
+                    "id": "9022ddec-69b7-4029-93f3-abbc942d53db"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Wallen, Byron", 
+        "gender": "Male", 
+        "id": "a2aabb0c-9dd3-451e-b30f-adff0e8c7e8f", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28299159, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

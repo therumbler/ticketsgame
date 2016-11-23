@@ -1,0 +1,229 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Windhand with Ilsa at Black Cat (December 1, 2016)", 
+        "popularity": 0.002517, 
+        "venue": {
+            "displayName": "Black Cat", 
+            "uri": "http://www.songkick.com/venues/1038-black-cat?utm_source=32233&utm_medium=partner", 
+            "lat": 38.914528, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.031772, 
+            "id": 1038
+        }, 
+        "uri": "http://www.songkick.com/concerts/27897769-windhand-at-black-cat?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-01", 
+            "time": "19:30:00", 
+            "datetime": "2016-12-01T19:30:00-0500"
+        }, 
+        "location": {
+            "lat": 38.914528, 
+            "city": "Washington, DC, US", 
+            "lng": -77.031772
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "17bdc2bd-dcec-4267-aa4c-87238f763066", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:17bdc2bd-dcec-4267-aa4c-87238f763066.json"
+                        }
+                    ], 
+                    "displayName": "Windhand", 
+                    "uri": "http://www.songkick.com/artists/3619161-windhand?utm_source=32233&utm_medium=partner", 
+                    "id": 3619161
+                }, 
+                "displayName": "Windhand", 
+                "id": 54330469, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "27affc59-fdb6-48bb-b84d-7c6a776326ab", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:27affc59-fdb6-48bb-b84d-7c6a776326ab.json"
+                        }
+                    ], 
+                    "displayName": "Ilsa", 
+                    "uri": "http://www.songkick.com/artists/130704-ilsa?utm_source=32233&utm_medium=partner", 
+                    "id": 130704
+                }, 
+                "displayName": "Ilsa", 
+                "id": 55162244, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27897769
+    }, 
+    "musicbrainz_response": {
+        "name": "Windhand", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "doom metal"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2008", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Richmond", 
+            "disambiguation": "", 
+            "name": "Richmond", 
+            "id": "afaa40c1-2e11-4a9b-9a33-ff0603e3e312"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://windhandva.bandcamp.com/", 
+                    "id": "d37bdf3a-3316-455c-8b26-8370e3b87035"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2645968", 
+                    "id": "22cf3465-e2e9-46e0-8ac4-d9a0c8fb2e49"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Windhand", 
+                    "id": "1cc39fea-345c-49ce-800b-89fead67de98"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/windhand", 
+                    "id": "6a14be39-4a8d-4665-b2b7-c39bfbef859d"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.metal-archives.com/bands/Windhand/3540313433", 
+                    "id": "6e342a10-db48-43e3-9dec-b7aafb6c252e"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/WindhandVA", 
+                    "id": "11bee154-a4e3-4d87-8210-3031f591516c"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Richmond", 
+            "disambiguation": "", 
+            "name": "Richmond", 
+            "id": "afaa40c1-2e11-4a9b-9a33-ff0603e3e312"
+        }, 
+        "sort-name": "Windhand", 
+        "country": null, 
+        "disambiguation": "", 
+        "type": "Group", 
+        "id": "17bdc2bd-dcec-4267-aa4c-87238f763066", 
+        "gender-id": null
+    }, 
+    "age_minutes": 15467, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442231.0, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 864, 
+    "id": 27897769
+}

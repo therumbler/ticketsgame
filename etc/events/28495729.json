@@ -1,0 +1,193 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "My Empty Phantom with Muuny at Mohawk (December 16, 2016)", 
+        "popularity": 5.5e-05, 
+        "venue": {
+            "displayName": "Mohawk", 
+            "uri": "http://www.songkick.com/venues/14633-mohawk?utm_source=32233&utm_medium=partner", 
+            "lat": 30.2701302, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7359046, 
+            "id": 14633
+        }, 
+        "uri": "http://www.songkick.com/concerts/28495729-my-empty-phantom-at-mohawk?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-16", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 30.2701302, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7359046
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "84bc25b7-be7f-4ceb-81b3-df1f1f1146c1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:84bc25b7-be7f-4ceb-81b3-df1f1f1146c1.json"
+                        }
+                    ], 
+                    "displayName": "My Empty Phantom", 
+                    "uri": "http://www.songkick.com/artists/959589-my-empty-phantom?utm_source=32233&utm_medium=partner", 
+                    "id": 959589
+                }, 
+                "displayName": "My Empty Phantom", 
+                "id": 55374479, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Muuny", 
+                    "uri": "http://www.songkick.com/artists/8420188-muuny?utm_source=32233&utm_medium=partner", 
+                    "id": 8420188
+                }, 
+                "displayName": "Muuny", 
+                "id": 55374484, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28495729
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "My Empty Phantom", 
+        "sort-name": "My Empty Phantom", 
+        "gender": null, 
+        "twitter": "MyEmptyPhantom", 
+        "area": {
+            "sort-name": "Austin", 
+            "disambiguation": "", 
+            "name": "Austin", 
+            "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://myemptyphantomaustintx.bandcamp.com/", 
+                    "id": "f8a586df-1848-44b8-9ffe-4b7d6d8cfbbd"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.reverbnation.com/myemptyphantom", 
+                    "id": "6c3937de-c4ce-4298-b211-408b3d1b5f13"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/MyEmptyPhantom", 
+                    "id": "dc16100e-e04b-4fb9-921c-def0fe8034e4"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/myemptyphantom/info", 
+                    "id": "162aee8a-df6c-4246-ad4b-209d5ea33f51"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/my-empty-phantom", 
+                    "id": "bb105728-4840-4332-9729-3788c8458405"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "id": "84bc25b7-be7f-4ceb-81b3-df1f1f1146c1", 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "tags": [], 
+        "ipis": [], 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": "Jesse Beaman one man band"
+    }, 
+    "id": 28495729, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

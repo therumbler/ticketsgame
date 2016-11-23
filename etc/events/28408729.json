@@ -1,0 +1,303 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "White Miles at Comedy Pub (November 13, 2016)", 
+        "popularity": 0.000127, 
+        "venue": {
+            "displayName": "Comedy Pub", 
+            "uri": "http://www.songkick.com/venues/49985-comedy-pub?utm_source=32233&utm_medium=partner", 
+            "lat": 51.509731, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1318287, 
+            "id": 49985
+        }, 
+        "uri": "http://www.songkick.com/concerts/28408729-white-miles-at-comedy-pub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.509731, 
+            "city": "London, UK", 
+            "lng": -0.1318287
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "579bca66-b976-49ba-ae0c-654959f131da", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:579bca66-b976-49ba-ae0c-654959f131da.json"
+                        }
+                    ], 
+                    "displayName": "White Miles", 
+                    "uri": "http://www.songkick.com/artists/6271164-white-miles?utm_source=32233&utm_medium=partner", 
+                    "id": 6271164
+                }, 
+                "displayName": "White Miles", 
+                "id": 55226209, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28408729
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "White Miles", 
+        "area": {
+            "sort-name": "Tirol", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "AT-7"
+            ], 
+            "name": "Tirol", 
+            "id": "94c82f6a-70ed-485e-aaa2-5dcf11f80e98"
+        }, 
+        "country": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm5783218/", 
+                    "id": "47a21299-acc4-432d-a91b-3387bb714887"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003490377", 
+                    "id": "cfa53759-5af5-4178-994e-67146e59e8fa"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://whitemilesband.bandcamp.com/", 
+                    "id": "6d038e10-4ac9-4b2a-8ec3-e1fc7d76d95d"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4472385", 
+                    "id": "542c2131-c3cc-4a64-856d-9dc97aad8bb3"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.white-miles.com/", 
+                    "id": "243991d2-84bb-4424-a2f4-c88b5b62df28"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/white_miles", 
+                    "id": "a90833ea-79a9-4739-bbfd-fb18287d67b0"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.musik-sammler.de/artist/white-miles/", 
+                    "id": "61a56d8d-f8dd-466e-8895-0d53cf6d59b6"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.setlist.fm/setlists/white-miles-63c6ce3b.html", 
+                    "id": "b2549a7a-f678-4292-9c2b-78b272bfa909"
+                }, 
+                "direction": "forward", 
+                "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "setlistfm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/whitemilesmusic", 
+                    "id": "d6f0f6aa-ccb9-4664-9ff3-60268ae1c66f"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/6271164-white-miles", 
+                    "id": "45175568-c93c-4b0f-8855-b0ef950d21b3"
+                }, 
+                "direction": "forward", 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q21484743", 
+                    "id": "6d5c8095-5f79-4c20-ae14-1418b1085361"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/channel/UC1lc984Vt-4PPbbkpoZHGxQ", 
+                    "id": "d919dcbc-c7c1-422e-9584-f7aefc867132"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "White Miles", 
+        "begin_area": {
+            "sort-name": "Antananarivo", 
+            "disambiguation": "", 
+            "name": "Antananarivo", 
+            "id": "824b2528-6ef1-43b2-8bef-cbb4b5493a71"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "579bca66-b976-49ba-ae0c-654959f131da", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2011-12-20", 
+            "end": null
+        }
+    }, 
+    "id": 28408729, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,355 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Nicolas Jaar at Danforth Music Hall (November 10, 2016)", 
+        "popularity": 0.042652, 
+        "venue": {
+            "displayName": "Danforth Music Hall", 
+            "uri": "http://www.songkick.com/venues/30065-danforth-music-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6764418, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.3571276, 
+            "id": 30065
+        }, 
+        "uri": "http://www.songkick.com/concerts/28049934-nicolas-jaar-at-danforth-music-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 43.6764418, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.3571276
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "06e99a1b-4020-4380-ab27-1a3e0c5e557c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:06e99a1b-4020-4380-ab27-1a3e0c5e557c.json"
+                        }
+                    ], 
+                    "displayName": "Nicolas Jaar", 
+                    "uri": "http://www.songkick.com/artists/3432201-nicolas-jaar?utm_source=32233&utm_medium=partner", 
+                    "id": 3432201
+                }, 
+                "displayName": "Nicolas Jaar", 
+                "id": 54602364, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28049934
+    }, 
+    "bandsintown_response": [
+        {
+            "description": null, 
+            "title": "Nicolas Jaar @ Danforth in Toronto, Canada", 
+            "ticket_type": "Tickets", 
+            "venue": {
+                "city": "Toronto", 
+                "name": "Danforth", 
+                "country": "Canada", 
+                "region": "ON", 
+                "longitude": -79.3488696, 
+                "place": "Danforth", 
+                "latitude": 43.6782159
+            }, 
+            "facebook_rsvp_url": "http://www.bandsintown.com/event/12914324?app_id=ticketsgame&artist=Nicolas+Jaar&came_from=67", 
+            "ticket_url": "http://www.bandsintown.com/event/12914324/buy_tickets?app_id=ticketsgame&artist=Nicolas+Jaar&came_from=67", 
+            "on_sale_datetime": null, 
+            "formatted_datetime": "Thursday, November 10, 2016 at 12:00AM", 
+            "datetime": "2016-11-10T00:00:00", 
+            "formatted_location": "Toronto, Canada", 
+            "artists": [
+                {
+                    "website": "www.nicolasjaar.net/", 
+                    "facebook_page_url": null, 
+                    "name": "Nicolas Jaar", 
+                    "url": "NicolasJaar", 
+                    "tracker_count": 163682, 
+                    "mbid": null, 
+                    "image_url": "https://s3.amazonaws.com/bit-photos/large/5120749.jpeg", 
+                    "facebook_tour_dates_url": "http://www.bandsintown.com/NicolasJaar/facebookapp?came_from=67", 
+                    "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5120749.jpeg"
+                }
+            ], 
+            "ticket_details": {
+                "price_max": 40.5, 
+                "price_min": 35.25
+            }, 
+            "ticket_status": "available", 
+            "id": 12914324
+        }
+    ], 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Nicolas Jaar", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1990-01-10", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "electronic"
+            }, 
+            {
+                "count": 1, 
+                "name": "house"
+            }, 
+            {
+                "count": 1, 
+                "name": "minimal"
+            }
+        ], 
+        "country": "US", 
+        "twitter": "nicolas___jaar", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002355957", 
+                    "id": "1af96225-5427-4cb7-a251-ad58b8041905"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1096231", 
+                    "id": "169e4dc5-8a8f-4eda-b122-3c499019cd47"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Nicolas%20Jaar", 
+                    "id": "4c4dc1ed-849c-4040-a7f0-34d7d9413a7b"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/nicolasjaar", 
+                    "id": "d1e3ab1f-b8e3-4acb-bfa5-cb971bcd2b06"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.nicolasjaar.net/", 
+                    "id": "a7d6adf9-7fd3-4ee4-aefa-34aa18628712"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/nicolas_jaar", 
+                    "id": "14bc63b4-d3dc-4b6d-b370-34b65f8fe7ac"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.residentadvisor.net/dj/nicolasjaar", 
+                    "id": "a3488619-9666-476a-9bce-9d9589e7b8fe"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/nicolas___jaar", 
+                    "id": "52cf7803-4510-4a90-ae7d-4f307ab497da"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pages/Nicolas-Jaar/15727540611", 
+                    "id": "aa91216e-a1a2-4a27-9cb0-a0d9c1632328"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/nicolas-jaar", 
+                    "id": "b23db1bf-81e4-47f2-a83b-3d4aa4aa430b"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q261566", 
+                    "id": "f72de1d4-9b3f-4375-b8ff-6c8ade752e80"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Nicolas_Jaar", 
+                    "id": "2ff0dee1-f110-483e-afcd-9be80f42c267"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "name": "New York", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Jaar, Nicolas", 
+        "type": "Person", 
+        "id": "06e99a1b-4020-4380-ab27-1a3e0c5e557c", 
+        "disambiguation": ""
+    }, 
+    "id": 28049934, 
+    "ticket_details": false
+}

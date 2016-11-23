@@ -1,0 +1,154 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Kryder and Tom Staar at Kingdom Nightclub (November 19, 2016)", 
+        "popularity": 0.003963, 
+        "venue": {
+            "displayName": "Kingdom Nightclub", 
+            "uri": "http://www.songkick.com/venues/2887928-kingdom-nightclub?utm_source=32233&utm_medium=partner", 
+            "lat": 30.2670914, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7430974, 
+            "id": 2887928
+        }, 
+        "uri": "http://www.songkick.com/concerts/27806619-kryder-at-kingdom-nightclub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "datetime": "2016-11-19T21:00:00-0600", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 30.2670914, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7430974
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bffc830b-f157-40c0-a383-22fef5be5960", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bffc830b-f157-40c0-a383-22fef5be5960.json"
+                        }
+                    ], 
+                    "displayName": "Kryder", 
+                    "uri": "http://www.songkick.com/artists/5027938-kryder?utm_source=32233&utm_medium=partner", 
+                    "id": 5027938
+                }, 
+                "displayName": "Kryder", 
+                "id": 54161519, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "de0292f8-e8f3-4fb9-9de2-e97dace9b033", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:de0292f8-e8f3-4fb9-9de2-e97dace9b033.json"
+                        }
+                    ], 
+                    "displayName": "Tom Staar", 
+                    "uri": "http://www.songkick.com/artists/3592641-tom-staar?utm_source=32233&utm_medium=partner", 
+                    "id": 3592641
+                }, 
+                "displayName": "Tom Staar", 
+                "id": 54161524, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27806619
+    }, 
+    "musicbrainz_response": {
+        "name": "Kryder", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2267869", 
+                    "id": "2dc974fa-0fca-4a41-927b-cc3dd6cf84a4"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/KryderMusic", 
+                    "id": "6140e3ee-7bb5-49db-956f-8b6fa28cbbdc"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "GB", 
+        "sort-name": "Kryder", 
+        "type": "Person", 
+        "id": "bffc830b-f157-40c0-a383-22fef5be5960", 
+        "disambiguation": "house"
+    }, 
+    "age_minutes": 15465, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 23.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442123.0, 
+    "created_time": 1478565978.0, 
+    "modified_minutes": 863, 
+    "id": 27806619
+}

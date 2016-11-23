@@ -1,0 +1,114 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Body/Head at PhilaMOCA (November 11, 2016)", 
+        "popularity": 0.000767, 
+        "venue": {
+            "displayName": "PhilaMOCA", 
+            "uri": "http://www.songkick.com/venues/1284981-philamoca?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9622464, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.157503, 
+            "id": 1284981
+        }, 
+        "uri": "http://www.songkick.com/concerts/28313739-bodyhead-at-philamoca?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "datetime": "2016-11-11T20:30:00-0500", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 39.9622464, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.157503
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ad1358df-3f53-4683-b671-49c1e39b78a7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ad1358df-3f53-4683-b671-49c1e39b78a7.json"
+                        }
+                    ], 
+                    "displayName": "Body/Head", 
+                    "uri": "http://www.songkick.com/artists/5110498-bodyhead?utm_source=32233&utm_medium=partner", 
+                    "id": 5110498
+                }, 
+                "displayName": "Body/Head", 
+                "id": 55060709, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28313739
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Body/Head", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2165621", 
+                    "id": "892405ee-d8c1-4ea0-aa03-925f502ab831"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Body/Head", 
+        "gender": null, 
+        "id": "ad1358df-3f53-4683-b671-49c1e39b78a7", 
+        "type": "Group", 
+        "disambiguation": "Kim Gordon & Bill Nace", 
+        "gender-id": null
+    }, 
+    "id": 28313739, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

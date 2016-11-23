@@ -1,0 +1,113 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.025156, 
+        "displayName": "Lunar Fire and Beats Antique at Roosevelt Park (November 12, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Roosevelt Park", 
+            "uri": "http://www.songkick.com/venues/1823753-roosevelt-park?utm_source=32233&utm_medium=partner", 
+            "lat": 40.1709978, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -105.1041379, 
+            "id": 1823753
+        }, 
+        "uri": "http://www.songkick.com/concerts/26453999-lunar-fire-at-roosevelt-park?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "datetime": "2016-11-12T17:00:00-0700", 
+            "time": "17:00:00"
+        }, 
+        "location": {
+            "lat": 40.1709978, 
+            "city": "Longmont, CO, US", 
+            "lng": -105.1041379
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Lunar Fire", 
+                "id": 51661269, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Lunar Fire", 
+                    "uri": "http://www.songkick.com/artists/2390866-lunar-fire?utm_source=32233&utm_medium=partner", 
+                    "id": 2390866
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Beats Antique", 
+                "id": 53577099, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5eb38f71-96c3-48a3-9b69-2995cfb74982", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5eb38f71-96c3-48a3-9b69-2995cfb74982.json"
+                        }
+                    ], 
+                    "displayName": "Beats Antique", 
+                    "uri": "http://www.songkick.com/artists/429056-beats-antique?utm_source=32233&utm_medium=partner", 
+                    "id": 429056
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26453999
+    }, 
+    "bandsintown_response": [
+        {
+            "description": "Left Hand Brewing's Nitro Fest", 
+            "title": "Lunar Fire @ Roosevelt Park in Longmont, CO", 
+            "ticket_type": "Tickets", 
+            "venue": {
+                "city": "Longmont", 
+                "name": "Roosevelt Park", 
+                "country": "United States", 
+                "region": "CO", 
+                "longitude": -105.104138, 
+                "place": "Roosevelt Park", 
+                "latitude": 40.170998
+            }, 
+            "facebook_rsvp_url": "http://www.bandsintown.com/event/11632302?app_id=ticketsgame&artist=Lunar+Fire&came_from=67", 
+            "ticket_url": "http://www.bandsintown.com/event/11632302/buy_tickets?app_id=ticketsgame&artist=Lunar+Fire&came_from=67", 
+            "on_sale_datetime": "2016-03-09T11:43:32", 
+            "formatted_datetime": "Saturday, November 12, 2016 at 5:00PM", 
+            "datetime": "2016-11-12T17:00:00", 
+            "formatted_location": "Longmont, CO", 
+            "artists": [
+                {
+                    "website": "", 
+                    "facebook_page_url": null, 
+                    "name": "Lunar Fire", 
+                    "url": "LunarFire", 
+                    "tracker_count": 580, 
+                    "mbid": null, 
+                    "image_url": "https://s3.amazonaws.com/bit-photos/large/5231806.jpeg", 
+                    "facebook_tour_dates_url": "http://www.bandsintown.com/LunarFire/facebookapp?came_from=67", 
+                    "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5231806.jpeg"
+                }
+            ], 
+            "ticket_status": "available", 
+            "id": 11632302
+        }
+    ], 
+    "id": 26453999, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 85.0, 
+        "price_min": 1.0
+    }
+}

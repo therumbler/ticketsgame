@@ -1,0 +1,552 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Gogol Bordello at The Catalyst (November 20, 2016)", 
+        "popularity": 0.054527, 
+        "venue": {
+            "displayName": "The Catalyst", 
+            "uri": "http://www.songkick.com/venues/1092-catalyst?utm_source=32233&utm_medium=partner", 
+            "lat": 36.9713724, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.0255391, 
+            "id": 1092
+        }, 
+        "uri": "http://www.songkick.com/concerts/28072634-gogol-bordello-at-catalyst?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-20", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 36.9713724, 
+            "city": "Santa Cruz, CA, US", 
+            "lng": -122.0255391
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f47fc54d-b334-4321-8218-00c5b11d4dd1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f47fc54d-b334-4321-8218-00c5b11d4dd1.json"
+                        }
+                    ], 
+                    "displayName": "Gogol Bordello", 
+                    "uri": "http://www.songkick.com/artists/474383-gogol-bordello?utm_source=32233&utm_medium=partner", 
+                    "id": 474383
+                }, 
+                "displayName": "Gogol Bordello", 
+                "id": 54641314, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28072634
+    }, 
+    "musicbrainz_response": {
+        "name": "Gogol Bordello", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "gypsy punk"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "usa"
+            }, 
+            {
+                "count": 1, 
+                "name": "world"
+            }
+        ], 
+        "gender": null, 
+        "twitter": "gogolbordello", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/f47fc54d-b334-4321-8218-00c5b11d4dd1", 
+                    "id": "3bedd50c-1aa0-400f-a3d8-4289a0d033f9"
+                }, 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm2056576/", 
+                    "id": "19fbe4ac-ae4c-40a8-ac2d-d54d33ffdb70"
+                }, 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/270122191", 
+                    "id": "04e10a42-5243-45ac-a078-3d71a453baed"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000670273", 
+                    "id": "a6d1686d-b21a-4453-bb18-7668b01a40b3"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/192610", 
+                    "id": "5af1189e-3d74-4d2e-a7ba-3e232a681553"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Gogol_Bordello_at_the_Aggie_Theatre_-_Fort_Collins,_Colorado_1.jpg", 
+                    "id": "1f92ace3-6284-400d-ad97-38e17da34050"
+                }, 
+                "direction": "forward", 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Gogol+Bordello", 
+                    "id": "71a8893c-5307-4002-8647-42ae8e361eb0"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/gogol-bordello-lyrics", 
+                    "id": "2f805402-4e07-4bcf-99f8-3aaaa032dac9"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/Gogol_Bordello", 
+                    "id": "2d94d6e8-a2f6-4eb1-907d-5843322f945c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-9644/gogol-bordello/lyrics.html", 
+                    "id": "4fc8ecc1-a74a-4a79-a2c4-ee5627a9a745"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/gogolbordello", 
+                    "id": "670d0ad4-09b4-4907-b719-749e88f08aad"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.gogolbordello.com/", 
+                    "id": "09f46ed5-ff2f-4cc4-a271-aa054ac75741"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/gogol_bordello", 
+                    "id": "8a1eb2af-b6f5-4eca-8097-aed789320287"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.musik-sammler.de/artist/22568", 
+                    "id": "53421c9e-e4dd-4317-91fe-7ce851f62903"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.purevolume.com/gogolbordello", 
+                    "id": "f3fcebc6-5ffd-4839-b5f1-ae82073b87dd"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purevolume", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/43951", 
+                    "id": "fe2f1b2b-b800-4a82-b676-2388196c0ce0"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/gogolbordello", 
+                    "id": "2199a389-e512-4a33-987d-5f4a878ad05c"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/gogolbordello", 
+                    "id": "6507b884-224e-4277-99c4-bcc6ab2695ca"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/gogolbordello", 
+                    "id": "5fbe7794-7dff-4af4-b2c6-39eb06cccf5e"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/artist/2SVw939fwuqSobLjF8u78b", 
+                    "id": "2b91cbe4-124f-401e-a6eb-cd34a6da9af6"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q46644", 
+                    "id": "3002e6e7-b497-4844-b7cb-94b1a8f5d75b"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Gogol_Bordello", 
+                    "id": "3b3018f5-aa98-4f25-81a6-9645aa4bf38e"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/GogolBordello", 
+                    "id": "bbc23b82-c950-498a-a717-392114eb7c2b"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-NY"
+            ], 
+            "name": "New York", 
+            "id": "75e398a3-5f3f-4224-9cd8-0fe44715bc95"
+        }, 
+        "id": "f47fc54d-b334-4321-8218-00c5b11d4dd1", 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "Gogol Bordello", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1998", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15472, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Gogol Bordello @ The Catalyst in Santa Cruz, CA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Santa Cruz", 
+            "name": "The Catalyst", 
+            "country": "United States", 
+            "region": "CA", 
+            "longitude": -122.025368, 
+            "place": "The Catalyst", 
+            "latitude": 36.97139
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12922745?app_id=ticketgame&artist=Gogol+Bordello&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12922745/buy_tickets?app_id=ticketgame&artist=Gogol+Bordello&came_from=67", 
+        "on_sale_datetime": "2016-09-13T10:20:53", 
+        "formatted_datetime": "Sunday, November 20, 2016 at 7:00PM", 
+        "datetime": "2016-11-20T19:00:00", 
+        "formatted_location": "Santa Cruz, CA", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1317555&afftrack=67%7E16220796%7E%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.msplinks.com/MDFodHRwOi8vd3d3LmdvZ29sYm9yZGVsbG8uY29t", 
+                "facebook_page_url": "https://www.facebook.com/gogolbordello", 
+                "name": "Gogol Bordello", 
+                "url": "GogolBordello", 
+                "tracker_count": 210351, 
+                "mbid": "f47fc54d-b334-4321-8218-00c5b11d4dd1", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6348352.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/GogolBordello/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6348352.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12922745
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 30.0, 
+        "price_min": 30.0
+    }, 
+    "modified_time": 1479442345.0, 
+    "created_time": 1478566078.0, 
+    "modified_minutes": 868, 
+    "id": 28072634
+}

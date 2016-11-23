@@ -1,0 +1,221 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Patrons, Merrick's Tusk, Steve Strong, and Midfield Workhorse at The Cricketers (November 11, 2016)", 
+        "popularity": 3.3e-05, 
+        "venue": {
+            "displayName": "The Cricketers", 
+            "uri": "http://www.songkick.com/venues/1231866-cricketers?utm_source=32233&utm_medium=partner", 
+            "lat": 51.4075914, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.2976397, 
+            "id": 1231866
+        }, 
+        "uri": "http://www.songkick.com/concerts/28315769-patrons-at-cricketers?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "datetime": "2016-11-11T19:30:00+0000", 
+            "time": "19:30:00"
+        }, 
+        "location": {
+            "lat": 51.4075914, 
+            "city": "Kingston Upon Thames, UK", 
+            "lng": -0.2976397
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "976cea7e-2392-4c2a-8c50-7913569b0cc2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:976cea7e-2392-4c2a-8c50-7913569b0cc2.json"
+                        }
+                    ], 
+                    "displayName": "Patrons", 
+                    "uri": "http://www.songkick.com/artists/598569-patrons?utm_source=32233&utm_medium=partner", 
+                    "id": 598569
+                }, 
+                "displayName": "Patrons", 
+                "id": 55064344, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Merrick's Tusk", 
+                    "uri": "http://www.songkick.com/artists/8220178-merricks-tusk?utm_source=32233&utm_medium=partner", 
+                    "id": 8220178
+                }, 
+                "displayName": "Merrick's Tusk", 
+                "id": 55064349, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "349e2df6-fa34-4b57-9156-9c84f466ef53", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:349e2df6-fa34-4b57-9156-9c84f466ef53.json"
+                        }
+                    ], 
+                    "displayName": "Steve Strong", 
+                    "uri": "http://www.songkick.com/artists/7335099-steve-strong?utm_source=32233&utm_medium=partner", 
+                    "id": 7335099
+                }, 
+                "displayName": "Steve Strong", 
+                "id": 55064354, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Midfield Workhorse", 
+                    "uri": "http://www.songkick.com/artists/7680554-midfield-workhorse?utm_source=32233&utm_medium=partner", 
+                    "id": 7680554
+                }, 
+                "displayName": "Midfield Workhorse", 
+                "id": 55064359, 
+                "billing": "headline", 
+                "billingIndex": 4
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28315769
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "PATRONS", 
+        "tags": [], 
+        "country": null, 
+        "twitter": "wearepatrons", 
+        "area": {
+            "sort-name": "England", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "GB-ENG"
+            ], 
+            "id": "9d5dd675-3cf4-4296-9e39-67865ebee758", 
+            "name": "England"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://wearepatrons.bandcamp.com/", 
+                    "id": "9549a18e-d332-43ae-bd31-f6ec6b6c0c44"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://wearepatrons.bigcartel.com/", 
+                    "id": "24f80298-1f6d-4883-adce-f5545d433c16"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/wearepatrons", 
+                    "id": "d617e63d-4a61-4331-8beb-d586412275b1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/wearepatrons", 
+                    "id": "b8aa3283-196c-4ce0-a8be-603be741b71e"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/channel/UCYZzZkINLJaBTWnuhYtX9_w", 
+                    "id": "6d9b7908-3415-4b4f-a3b9-5d532c6a2767"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "PATRONS", 
+        "gender": null, 
+        "id": "976cea7e-2392-4c2a-8c50-7913569b0cc2", 
+        "ipis": [], 
+        "type": "Group", 
+        "disambiguation": "alternative rock", 
+        "gender-id": null
+    }, 
+    "id": 28315769, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

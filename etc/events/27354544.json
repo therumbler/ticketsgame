@@ -1,0 +1,125 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Lord Dying at The Underworld (November 17, 2016)", 
+        "popularity": 0.000546, 
+        "venue": {
+            "displayName": "The Underworld", 
+            "uri": "http://www.songkick.com/venues/3565-underworld?utm_source=32233&utm_medium=partner", 
+            "lat": 51.538488, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.142103, 
+            "id": 3565
+        }, 
+        "uri": "http://www.songkick.com/concerts/27354544-lord-dying-at-underworld?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.538488, 
+            "city": "Camden, UK", 
+            "lng": -0.142103
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e343c376-f5ec-4402-8f4f-fe6027f903a9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e343c376-f5ec-4402-8f4f-fe6027f903a9.json"
+                        }
+                    ], 
+                    "displayName": "Lord Dying", 
+                    "uri": "http://www.songkick.com/artists/4070971-lord-dying?utm_source=32233&utm_medium=partner", 
+                    "id": 4070971
+                }, 
+                "displayName": "Lord Dying", 
+                "id": 53335899, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27354544
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Lord Dying", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Portland", 
+            "disambiguation": "", 
+            "name": "Portland", 
+            "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lorddying.bandcamp.com/", 
+                    "id": "f9071a77-1875-4e1f-990b-aec1f87f799b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/LordDying", 
+                    "id": "42788787-b303-4e39-a391-84168957bc5b"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Lord Dying", 
+        "country": null, 
+        "id": "e343c376-f5ec-4402-8f4f-fe6027f903a9", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 27354544, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

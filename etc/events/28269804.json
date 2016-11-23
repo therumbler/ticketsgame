@@ -1,0 +1,182 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Barb Wire Dolls with Stolen Rose at The Raven - Portland (November 13, 2016)", 
+        "popularity": 0.000514, 
+        "venue": {
+            "displayName": "The Raven - Portland", 
+            "uri": "http://www.songkick.com/venues/3392939-raven-portland?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5306766, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6325355, 
+            "id": 3392939
+        }, 
+        "uri": "http://www.songkick.com/concerts/28269804-barb-wire-dolls-at-raven-portland?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-13T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5306766, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6325355
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f791d232-3e7a-4a42-ab7d-758c1911c3f8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f791d232-3e7a-4a42-ab7d-758c1911c3f8.json"
+                        }
+                    ], 
+                    "displayName": "Barb Wire Dolls", 
+                    "uri": "http://www.songkick.com/artists/3982776-barb-wire-dolls?utm_source=32233&utm_medium=partner", 
+                    "id": 3982776
+                }, 
+                "displayName": "Barb Wire Dolls", 
+                "id": 54982379, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Stolen Rose", 
+                    "uri": "http://www.songkick.com/artists/1388179-stolen-rose?utm_source=32233&utm_medium=partner", 
+                    "id": 1388179
+                }, 
+                "displayName": "Stolen Rose", 
+                "id": 55284834, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28269804
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Barb Wire Dolls", 
+        "area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "name": "Los Angeles", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2875365", 
+                    "id": "f2c56ad5-7ce7-4d18-9b1a-534e074cb276"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Barb+Wire+Dolls", 
+                    "id": "392c9f33-ea41-4bcc-bd53-d944f293cb91"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/barbwiredolls", 
+                    "id": "2fccbd17-c927-4c8d-b3e9-3d9f23c12e8a"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/barb_wire_dolls", 
+                    "id": "ce82ec00-0c54-44ff-9692-e97108e4095e"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Greece", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GR"
+            ], 
+            "id": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168", 
+            "name": "Greece"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Barb Wire Dolls", 
+        "type": "Group", 
+        "id": "f791d232-3e7a-4a42-ab7d-758c1911c3f8", 
+        "disambiguation": "punk"
+    }, 
+    "id": 28269804, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "TRAAMS at Queen of Hoxton (November 9, 2016)", 
+        "popularity": 0.001783, 
+        "venue": {
+            "displayName": "Queen of Hoxton", 
+            "uri": "http://www.songkick.com/venues/67803-queen-of-hoxton?utm_source=32233&utm_medium=partner", 
+            "lat": 51.522316, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0810428, 
+            "id": 67803
+        }, 
+        "uri": "http://www.songkick.com/concerts/28277209-traams-at-queen-of-hoxton?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-09T20:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.522316, 
+            "city": "London, UK", 
+            "lng": -0.0810428
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "550ea2ff-7a81-4a25-89d8-9da15a89427d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:550ea2ff-7a81-4a25-89d8-9da15a89427d.json"
+                        }
+                    ], 
+                    "displayName": "TRAAMS", 
+                    "uri": "http://www.songkick.com/artists/5178158-traams?utm_source=32233&utm_medium=partner", 
+                    "id": 5178158
+                }, 
+                "displayName": "TRAAMS", 
+                "id": 54995049, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28277209
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "TRAAMS", 
+        "tags": [], 
+        "country": null, 
+        "twitter": "TRA_AMS", 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/TRA_AMS", 
+                    "id": "ff41eaff-5bc1-401f-91dc-1c95b452354c"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "550ea2ff-7a81-4a25-89d8-9da15a89427d", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "TRAAMS", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": "Chichester based post punk band"
+    }, 
+    "id": 28277209, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

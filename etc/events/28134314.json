@@ -1,0 +1,623 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.045412, 
+        "displayName": "In Flames and Hellyeah at PlayStation Theater (November 16, 2016)", 
+        "ageRestriction": "16+", 
+        "venue": {
+            "displayName": "PlayStation Theater", 
+            "uri": "http://www.songkick.com/venues/1126176-playstation-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7576068, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9861364, 
+            "id": 1126176
+        }, 
+        "uri": "http://www.songkick.com/concerts/28134314-in-flames-at-playstation-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "datetime": "2016-11-16T18:00:00-0500", 
+            "time": "18:00:00"
+        }, 
+        "location": {
+            "lat": 40.7576068, 
+            "city": "New York, NY, US", 
+            "lng": -73.9861364
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "In Flames", 
+                "id": 54749779, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "31745282-b1ea-4d62-939f-226b14d68e7c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:31745282-b1ea-4d62-939f-226b14d68e7c.json"
+                        }
+                    ], 
+                    "displayName": "In Flames", 
+                    "uri": "http://www.songkick.com/artists/494866-in-flames?utm_source=32233&utm_medium=partner", 
+                    "id": 494866
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Hellyeah", 
+                "id": 54749784, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "680d9f43-3287-4f16-a9ab-b5904746f745", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:680d9f43-3287-4f16-a9ab-b5904746f745.json"
+                        }
+                    ], 
+                    "displayName": "Hellyeah", 
+                    "uri": "http://www.songkick.com/artists/297652-hellyeah?utm_source=32233&utm_medium=partner", 
+                    "id": 297652
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28134314
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "In Flames", 
+        "area": {
+            "sort-name": "Sweden", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "SE"
+            ], 
+            "name": "Sweden", 
+            "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1990", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "gothenburg"
+            }, 
+            {
+                "count": 2, 
+                "name": "gothenburg metal"
+            }, 
+            {
+                "count": 7, 
+                "name": "melodic death metal"
+            }, 
+            {
+                "count": 4, 
+                "name": "metal"
+            }, 
+            {
+                "count": 0, 
+                "name": "rock and indie"
+            }, 
+            {
+                "count": 4, 
+                "name": "swedish"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000096977", 
+                    "id": "74a4d370-12f7-44a0-a3c7-3054f63b0905"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://inflamesoffical.bandcamp.com/", 
+                    "id": "15fe9ca6-986f-4853-9515-332028a4b7f2"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://inflamesbloggen.blogspot.com/", 
+                    "id": "c3a9681b-2501-4f04-b2fa-0adcc2ff7af5"
+                }, 
+                "direction": "forward", 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.inflamesdiscography.com/", 
+                    "id": "d0a37f6e-8d59-45f2-bb01-ad83a33b2071"
+                }, 
+                "begin": null, 
+                "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/244819", 
+                    "id": "1a44d216-6e69-4eb5-9930-d588263c6798"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.inflamez.com/", 
+                    "id": "bc6854f2-e9fe-4eed-b76d-ede2f8049402"
+                }, 
+                "direction": "forward", 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://web.archive.org/web/20020917082428/metal-archives.com/images/11_photo.jpg", 
+                    "id": "a6a9a545-d8bb-4d6e-b3be-5e13f5d2091b"
+                }, 
+                "direction": "forward", 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/In+Flames", 
+                    "id": "86c38c52-9577-407d-9b52-ff01d3d78af4"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/In_Flames", 
+                    "id": "b154148d-80fb-4428-ae18-c86cedaa5fc6"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-4151/in-flames/lyrics.html", 
+                    "id": "c063ed63-68b6-4dd1-91bb-88e7f43df2a7"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/inflames", 
+                    "id": "b0a64939-9688-426d-93b0-241e7d7258cc"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://inflames.com/", 
+                    "id": "200c8250-ef5e-486a-8a83-9088f21b52cf"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.metal-archives.com/bands/In_Flames/11", 
+                    "id": "be6d2854-decf-46f4-8d12-39bcf83cf523"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/in_flames", 
+                    "id": "982ac45b-29b3-4dca-b3f0-1f768bc72374"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.musik-sammler.de/artist/in-flames/", 
+                    "id": "09de8e07-8399-4c1a-afe0-1bc7225f1a02"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/en/artist/id15866128", 
+                    "id": "0f152682-1616-4782-a7d6-2ddd2347ba09"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=Acagpl7lsdmwprhmgeimh25ej54", 
+                    "id": "d7c117e1-f69b-4b6a-b1ac-9a1cfaa92edb"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.purevolume.com/inflames", 
+                    "id": "95b5bdb9-6dac-4598-b228-453d1c63de52"
+                }, 
+                "begin": null, 
+                "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purevolume", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://plus.google.com/116219777441054597823", 
+                    "id": "60fc451e-2678-4fd4-b50d-f08c4f0a8ff0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/InFlames_SWE", 
+                    "id": "7cfdbd11-0e82-4f4c-bbfe-0675c872239e"
+                }, 
+                "direction": "forward", 
+                "begin": "2009-09-02", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/inflames/photos", 
+                    "id": "80d9aa21-e040-4182-a5b6-76f444b5a573"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://tidal.com/artist/24053", 
+                    "id": "e2f20029-ff4b-494c-ab91-4c11bd29246e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs?play=true&utm_source=open.spotify.com&utm_medium=open", 
+                    "id": "cbbb5386-748f-402e-b972-9fddb108c484"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q258546", 
+                    "id": "a0b8c9c4-3cb4-4332-9bc3-ee831fbe6cdb"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/In_Flames", 
+                    "id": "600ef637-11db-46b2-8b56-12e74bf3963a"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/officialinflames", 
+                    "id": "1ff34476-6a62-438c-8348-b043557a46d7"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Gothenburg", 
+            "disambiguation": "", 
+            "name": "Gothenburg", 
+            "id": "8f6c316e-9924-48ea-967b-16757dd82399"
+        }, 
+        "id": "31745282-b1ea-4d62-939f-226b14d68e7c", 
+        "gender-id": null, 
+        "country": "SE", 
+        "sort-name": "In Flames", 
+        "type": "Group", 
+        "twitter": "InFlames_SWE", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "In Flames @ Playstation Theater in New York, NY", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "New York", 
+            "name": "Playstation Theater", 
+            "country": "United States", 
+            "region": "NY", 
+            "longitude": -73.98603, 
+            "place": "Playstation Theater", 
+            "latitude": 40.757419
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12963661?app_id=ticketgame&artist=In+Flames&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12963661/buy_tickets?app_id=ticketgame&artist=In+Flames&came_from=67", 
+        "on_sale_datetime": "2016-09-23T10:00:00", 
+        "formatted_datetime": "Wednesday, November 16, 2016 at 7:00PM", 
+        "datetime": "2016-11-16T19:00:00", 
+        "formatted_location": "New York, NY", 
+        "ticket_redirect_url": "http://www.axs.com/events/325081/in-flames-hellyeah-tickets?aff=usaffbandsintown", 
+        "artists": [
+            {
+                "website": "http://www.inflames.com  www.jesterhead.com", 
+                "facebook_page_url": "https://www.facebook.com/inflames", 
+                "name": "In Flames", 
+                "url": "InFlames", 
+                "tracker_count": 370907, 
+                "mbid": "31745282-b1ea-4d62-939f-226b14d68e7c", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6880447.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/InFlames/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6880447.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12963661
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.axs.com/events/325081/in-flames-hellyeah-tickets?aff=usaffbandsintown"
+    }, 
+    "modified_time": 1479442513.0, 
+    "created_minutes": 18170, 
+    "created_time": 1478566051.0, 
+    "modified_minutes": 3563, 
+    "id": 28134314
+}

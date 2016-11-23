@@ -1,0 +1,135 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Tom Cunningham at Wisky a Go-go (November 9, 2016)", 
+        "popularity": 8e-06, 
+        "venue": {
+            "displayName": "Wisky a Go-go", 
+            "uri": "http://www.songkick.com/venues/3402279-wisky-a-gogo?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0908403, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.3857012, 
+            "id": 3402279
+        }, 
+        "uri": "http://www.songkick.com/concerts/28098759-tom-cunningham-at-wisky-a-gogo?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-09T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 34.0908403, 
+            "city": "West Hollywood, CA, US", 
+            "lng": -118.3857012
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "974d0253-45a0-41ae-b31f-7acaec20b93e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:974d0253-45a0-41ae-b31f-7acaec20b93e.json"
+                        }, 
+                        {
+                            "mbid": "a6f4c236-fa89-40af-aa17-9716dc177cd5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a6f4c236-fa89-40af-aa17-9716dc177cd5.json"
+                        }
+                    ], 
+                    "displayName": "Tom Cunningham", 
+                    "uri": "http://www.songkick.com/artists/233926-tom-cunningham?utm_source=32233&utm_medium=partner", 
+                    "id": 233926
+                }, 
+                "displayName": "Tom Cunningham", 
+                "id": 54686609, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28098759
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Tom Cunningham", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1964-06-22", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q3992892", 
+                    "id": "b83dbba7-3d34-4e8f-a89c-282e2e22f599"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Tommy_Cunningham", 
+                    "id": "7c0df9a4-1472-4b2a-b657-092102319a8f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "974d0253-45a0-41ae-b31f-7acaec20b93e", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "GB", 
+        "sort-name": "Cunningham, Tom", 
+        "type": "Person", 
+        "disambiguation": "Scottish musician, drummer for Wet Wet Wet"
+    }, 
+    "id": 28098759, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

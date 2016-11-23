@@ -1,0 +1,160 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "21+", 
+        "displayName": "Aqueous and Threesound at Ivy City SmokeHouse Tavern & Market (November 10, 2016)", 
+        "popularity": 0.000255, 
+        "venue": {
+            "displayName": "Ivy City SmokeHouse Tavern & Market", 
+            "uri": "http://www.songkick.com/venues/3390469-ivy-city-smokehouse-tavern-and-market?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9146349, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -76.985552, 
+            "id": 3390469
+        }, 
+        "uri": "http://www.songkick.com/concerts/28334704-aqueous-at-ivy-city-smokehouse-tavern-and-market?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-10T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.9146349, 
+            "city": "Washington, DC, US", 
+            "lng": -76.985552
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "aa53c1a0-6d20-4e21-b6ce-e1d8516533e4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:aa53c1a0-6d20-4e21-b6ce-e1d8516533e4.json"
+                        }
+                    ], 
+                    "displayName": "Aqueous", 
+                    "uri": "http://www.songkick.com/artists/515719-aqueous?utm_source=32233&utm_medium=partner", 
+                    "id": 515719
+                }, 
+                "displayName": "Aqueous", 
+                "id": 55096904, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Threesound", 
+                    "uri": "http://www.songkick.com/artists/4846398-threesound?utm_source=32233&utm_medium=partner", 
+                    "id": 4846398
+                }, 
+                "displayName": "Threesound", 
+                "id": 55096909, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28334704
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Aqueous", 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0001780156", 
+                    "id": "1c5c9391-7edc-4606-89f5-f481af94f2eb"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/181512", 
+                    "id": "f525bb32-8ad8-40c1-8f59-66b6f3ada9c1"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/aqueous__felix_jax_and_andrew_heath_", 
+                    "id": "ffcc7fa2-0053-47e9-b438-1840a4dcad93"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Aqueous", 
+        "country": "GB", 
+        "id": "aa53c1a0-6d20-4e21-b6ce-e1d8516533e4", 
+        "type": "Group", 
+        "disambiguation": "UK ambient duo", 
+        "tags": []
+    }, 
+    "id": 28334704, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

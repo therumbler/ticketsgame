@@ -1,0 +1,126 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000176, 
+        "displayName": "Kenny Glasgow and Philip Goyette at Flash (November 18, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Flash", 
+            "uri": "http://www.songkick.com/venues/2382729-flash?utm_source=32233&utm_medium=partner", 
+            "lat": 38.916281, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.021369, 
+            "id": 2382729
+        }, 
+        "uri": "http://www.songkick.com/concerts/28323689-kenny-glasgow-at-flash?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-18T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.916281, 
+            "city": "Washington, DC, US", 
+            "lng": -77.021369
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Kenny Glasgow", 
+                "id": 55077839, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9ca884e3-e05d-42fd-a2ab-2db2286ca900", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9ca884e3-e05d-42fd-a2ab-2db2286ca900.json"
+                        }
+                    ], 
+                    "displayName": "Kenny Glasgow", 
+                    "uri": "http://www.songkick.com/artists/273821-kenny-glasgow?utm_source=32233&utm_medium=partner", 
+                    "id": 273821
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Philip Goyette", 
+                "id": 55342019, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Philip Goyette", 
+                    "uri": "http://www.songkick.com/artists/4132376-philip-goyette?utm_source=32233&utm_medium=partner", 
+                    "id": 4132376
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28323689
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Kenny Glasgow", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/11352", 
+                    "id": "e611e539-8e01-4257-ad34-7c5ffd27f964"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00594999558"
+        ], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Glasgow, Kenny", 
+        "type": "Person", 
+        "id": "9ca884e3-e05d-42fd-a2ab-2db2286ca900", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15499, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 12.0, 
+        "price_min": 8.0
+    }, 
+    "modified_time": 1479442902.0, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 885, 
+    "id": 28323689
+}

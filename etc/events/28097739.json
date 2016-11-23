@@ -1,0 +1,281 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Fred Eaglesmith at Live Oak Music Hall & Lounge (January 26, 2017)", 
+        "popularity": 0.001927, 
+        "venue": {
+            "displayName": "Live Oak Music Hall & Lounge", 
+            "uri": "http://www.songkick.com/venues/1824038-live-oak-music-hall-and-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 32.730151, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -97.333025, 
+            "id": 1824038
+        }, 
+        "uri": "http://www.songkick.com/concerts/28097739-fred-eaglesmith-at-live-oak-music-hall-and-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-26", 
+            "time": "20:00:00", 
+            "datetime": "2017-01-26T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.730151, 
+            "city": "Fort Worth, TX, US", 
+            "lng": -97.333025
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2a04a833-2376-474d-846e-142e49167786", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2a04a833-2376-474d-846e-142e49167786.json"
+                        }
+                    ], 
+                    "displayName": "Fred Eaglesmith", 
+                    "uri": "http://www.songkick.com/artists/378381-fred-eaglesmith?utm_source=32233&utm_medium=partner", 
+                    "id": 378381
+                }, 
+                "displayName": "Fred Eaglesmith", 
+                "id": 54685374, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28097739
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Fred Eaglesmith", 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "name": "Canada", 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1957-07-09", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/137960541", 
+                    "id": "388a3c65-6606-4ad3-a42a-47dbbe603b89"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000179105", 
+                    "id": "45388ada-88f6-474a-aa67-5262d7e61019"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/969726", 
+                    "id": "97a8dffa-bc7f-4ad1-9c76-21f5b6ac8630"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/dredeaglesmith", 
+                    "id": "01dfee19-a758-49ea-9308-1c7ba31644c2"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://fredeaglesmith.com/", 
+                    "id": "e117fc90-c267-4fcd-ad79-32981abc57c2"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/fred_eaglesmith", 
+                    "id": "530b424c-cbd5-4877-9c94-64ba56fff532"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q2758088", 
+                    "id": "c5fe02ec-0281-4b9f-aad9-2f1b961f8f4c"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Fred_Eaglesmith", 
+                    "id": "d9dc4ac8-c26d-4404-9b2d-d47f2707ee35"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Caistor Centre", 
+            "disambiguation": "", 
+            "name": "Caistor Centre", 
+            "id": "bb73699b-c21d-4d65-afc1-c6f3f001e0c2"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "CA", 
+        "sort-name": "Eaglesmith, Fred", 
+        "type": "Person", 
+        "id": "2a04a833-2376-474d-846e-142e49167786", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15478, 
+    "bandsintown_response": {
+        "description": "The Fred Eaglesmith Travelling Steam Show", 
+        "title": "Fred Eaglesmith @ Live Oak Music Hall in Fort Worth, TX", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Fort Worth", 
+            "name": "Live Oak Music Hall", 
+            "country": "United States", 
+            "region": "TX", 
+            "longitude": -97.3330231, 
+            "place": "Live Oak Music Hall", 
+            "latitude": 32.7301521
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12940734?app_id=ticketgame&artist=Fred+Eaglesmith&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12940734/buy_tickets?app_id=ticketgame&artist=Fred+Eaglesmith&came_from=67", 
+        "on_sale_datetime": "2016-10-14T10:00:40", 
+        "formatted_datetime": "Thursday, January 26, 2017 at 8:00PM", 
+        "datetime": "2017-01-26T20:00:00", 
+        "formatted_location": "Fort Worth, TX", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1320903/tfly%3Futm_medium%3Dapi&afftrack=67%7E16244648%7E23706600%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.fredeaglesmith.com", 
+                "facebook_page_url": null, 
+                "name": "Fred Eaglesmith", 
+                "url": "FredEaglesmith", 
+                "tracker_count": 6693, 
+                "mbid": "2a04a833-2376-474d-846e-142e49167786", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5428891.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/FredEaglesmith/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5428891.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12940734
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 35.0, 
+        "price_min": 30.0
+    }, 
+    "modified_time": 1479442454.0, 
+    "created_time": 1478565997.0, 
+    "modified_minutes": 870, 
+    "id": 28097739
+}

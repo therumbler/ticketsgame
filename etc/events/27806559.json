@@ -1,0 +1,127 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Vektor with Black Fast at The Catalyst (November 15, 2016)", 
+        "popularity": 0.001614, 
+        "venue": {
+            "displayName": "The Catalyst", 
+            "uri": "http://www.songkick.com/venues/1092-catalyst?utm_source=32233&utm_medium=partner", 
+            "lat": 36.9713724, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.0255391, 
+            "id": 1092
+        }, 
+        "uri": "http://www.songkick.com/concerts/27806559-vektor-at-catalyst?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-15T20:30:00-0800"
+        }, 
+        "location": {
+            "lat": 36.9713724, 
+            "city": "Santa Cruz, CA, US", 
+            "lng": -122.0255391
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "098ca2ab-c92b-4b77-b60a-12fe0df84374", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:098ca2ab-c92b-4b77-b60a-12fe0df84374.json"
+                        }, 
+                        {
+                            "mbid": "c5119d8a-ffee-48bc-99c3-f323bdf16d82", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c5119d8a-ffee-48bc-99c3-f323bdf16d82.json"
+                        }
+                    ], 
+                    "displayName": "Vektor", 
+                    "uri": "http://www.songkick.com/artists/760461-vektor?utm_source=32233&utm_medium=partner", 
+                    "id": 760461
+                }, 
+                "displayName": "Vektor", 
+                "id": 54161434, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f0098db1-e340-4195-a0e4-cebd411892fb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f0098db1-e340-4195-a0e4-cebd411892fb.json"
+                        }
+                    ], 
+                    "displayName": "Black Fast", 
+                    "uri": "http://www.songkick.com/artists/6105799-black-fast?utm_source=32233&utm_medium=partner", 
+                    "id": 6105799
+                }, 
+                "displayName": "Black Fast", 
+                "id": 54161439, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27806559
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "<vektor>", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/206769", 
+                    "id": "fa8300bb-b4c7-4f62-b744-e1b46e78b210"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "<vektor>", 
+        "country": null, 
+        "id": "098ca2ab-c92b-4b77-b60a-12fe0df84374", 
+        "type": null, 
+        "disambiguation": "minimal rhythmic noise", 
+        "gender-id": null
+    }, 
+    "id": 27806559, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

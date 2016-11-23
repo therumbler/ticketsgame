@@ -1,0 +1,174 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001234, 
+        "displayName": "Chris Carmack at The Hamilton Live (January 15, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Hamilton Live", 
+            "uri": "http://www.songkick.com/venues/1611908-hamilton-live?utm_source=32233&utm_medium=partner", 
+            "lat": 38.89749, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0321542, 
+            "id": 1611908
+        }, 
+        "uri": "http://www.songkick.com/concerts/28582659-chris-carmack-at-hamilton-live?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-15", 
+            "datetime": "2017-01-15T19:30:00-0500", 
+            "time": "19:30:00"
+        }, 
+        "location": {
+            "lat": 38.89749, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0321542
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "db7c586c-84be-495c-9a03-873dfd238c15", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:db7c586c-84be-495c-9a03-873dfd238c15.json"
+                        }
+                    ], 
+                    "displayName": "Chris Carmack", 
+                    "uri": "http://www.songkick.com/artists/7990118-chris-carmack?utm_source=32233&utm_medium=partner", 
+                    "id": 7990118
+                }, 
+                "displayName": "Chris Carmack", 
+                "id": 55525444, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28582659
+    }, 
+    "musicbrainz_response": {
+        "gender": "Male", 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Chris Carmack", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1980-12-22", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm1377001/", 
+                    "id": "a057b0e6-c344-429d-b073-687d12f4889b"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/RealCarmack", 
+                    "id": "ab8c71b2-65f4-4ecf-8810-8d709bada2bb"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q539654", 
+                    "id": "ab1ee560-43b8-42e2-80d9-8863bbb4eebc"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Chris_Carmack", 
+                    "id": "d181bbc4-269b-4e60-b6e5-a33e429d4da7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Carmack, Chris", 
+        "isnis": [], 
+        "id": "db7c586c-84be-495c-9a03-873dfd238c15", 
+        "type": "Person", 
+        "twitter": "RealCarmack", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 1486, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 25.0, 
+        "price_min": 20.0
+    }, 
+    "modified_time": 1479442156.0, 
+    "created_time": 1479409439.0, 
+    "modified_minutes": 940, 
+    "id": 28582659
+}

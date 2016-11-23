@@ -1,0 +1,113 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 5.3e-05, 
+        "displayName": "Dear Tracks at Cole's Bar (December 9, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Cole's Bar", 
+            "uri": "http://www.songkick.com/venues/509606-coles-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9236647, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6987768, 
+            "id": 509606
+        }, 
+        "uri": "http://www.songkick.com/concerts/28383589-dear-tracks-at-coles-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-09", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 41.9236647, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6987768
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Dear Tracks", 
+                "id": 55183904, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9cc0b244-4c8c-4018-b0d6-be93cc9d3d02", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9cc0b244-4c8c-4018-b0d6-be93cc9d3d02.json"
+                        }
+                    ], 
+                    "displayName": "Dear Tracks", 
+                    "uri": "http://www.songkick.com/artists/8341683-dear-tracks?utm_source=32233&utm_medium=partner", 
+                    "id": 8341683
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28383589
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "Dear Tracks", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Grand Rapids", 
+            "disambiguation": "", 
+            "id": "cb8a856b-fd06-4dcf-a94e-d9841b0f85b6", 
+            "name": "Grand Rapids"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://deartracks.bandcamp.com/", 
+                    "id": "4bf04325-cf6a-4f5e-97e3-fe8622d16e63"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "Dear Tracks", 
+        "isnis": [], 
+        "id": "9cc0b244-4c8c-4018-b0d6-be93cc9d3d02", 
+        "country": null, 
+        "type": null, 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28383589, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

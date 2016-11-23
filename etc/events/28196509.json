@@ -1,0 +1,127 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Kyle Gass Band at The Tractor Tavern (December 4, 2016)", 
+        "popularity": 0.000364, 
+        "venue": {
+            "displayName": "The Tractor Tavern", 
+            "uri": "http://www.songkick.com/venues/247-tractor-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6657641, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.382626, 
+            "id": 247
+        }, 
+        "uri": "http://www.songkick.com/concerts/28196509-kyle-gass-band-at-tractor-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-04", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-04T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6657641, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.382626
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "de06bf59-4081-4f61-b589-93a92c3af448", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:de06bf59-4081-4f61-b589-93a92c3af448.json"
+                        }
+                    ], 
+                    "displayName": "Kyle Gass Band", 
+                    "uri": "http://www.songkick.com/artists/4047061-kyle-gass-band?utm_source=32233&utm_medium=partner", 
+                    "id": 4047061
+                }, 
+                "displayName": "Kyle Gass Band", 
+                "id": 54858894, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28196509
+    }, 
+    "musicbrainz_response": {
+        "name": "Kyle Gass Band", 
+        "area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3767131", 
+                    "id": "809b36b7-08b3-4487-a0d2-6236bb8209e0"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/kylegassband", 
+                    "id": "c88d40c6-3363-413f-a086-c3c49ab40790"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Kyle Gass Band", 
+        "country": null, 
+        "type": "Group", 
+        "id": "de06bf59-4081-4f61-b589-93a92c3af448", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6933425&REFERRAL_ID=tmfeed"
+    }, 
+    "modified_time": 1479442709.0, 
+    "created_minutes": 18173, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 3562, 
+    "id": 28196509
+}

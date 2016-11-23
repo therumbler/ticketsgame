@@ -1,0 +1,256 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.02938, 
+        "displayName": "Nosaj Thing at El Rey Theatre (November 25, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "El Rey Theatre", 
+            "uri": "http://www.songkick.com/venues/1039-el-rey-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 34.062397, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.3487992, 
+            "id": 1039
+        }, 
+        "uri": "http://www.songkick.com/concerts/28583944-nosaj-thing-at-el-rey-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "datetime": "2016-11-25T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 34.062397, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.3487992
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b476bc5e-19ca-4e5a-82c8-1a068d601a7d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b476bc5e-19ca-4e5a-82c8-1a068d601a7d.json"
+                        }
+                    ], 
+                    "displayName": "Nosaj Thing", 
+                    "uri": "http://www.songkick.com/artists/375762-nosaj-thing?utm_source=32233&utm_medium=partner", 
+                    "id": 375762
+                }, 
+                "displayName": "Nosaj Thing", 
+                "id": 55527764, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28583944
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Nosaj Thing", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1985-01-27", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0001573712", 
+                    "id": "05cf8e52-68f0-4341-ae97-cf55b44fdd55"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1161841", 
+                    "id": "0414e2d9-e4bc-4f2e-92dd-9090426d7c1c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/nosajthing", 
+                    "id": "92c05a40-eda1-490d-b5df-da14956be733"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.nosajthing.com/", 
+                    "id": "31076bc1-bd2c-420f-b002-b9d1ac9e9cb4"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/nosajthing", 
+                    "id": "ce3082d1-a302-4517-9e51-f62dbc7d557b"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q3344335", 
+                    "id": "ff13af0d-3f9c-4206-9dcf-8eadc9dd8f09"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Nosaj_Thing", 
+                    "id": "88d885cf-f149-48d9-bd2e-6d41a40a0be9"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "isnis": [], 
+        "sort-name": "Nosaj Thing", 
+        "country": "US", 
+        "type": "Person", 
+        "id": "b476bc5e-19ca-4e5a-82c8-1a068d601a7d", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": "MLIVE Los Angeles \u00b7 Majestic Casual", 
+        "title": "Nosaj Thing @ El Rey Theatre in Los Angeles, CA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Los Angeles", 
+            "name": "El Rey Theatre", 
+            "country": "United States", 
+            "region": "CA", 
+            "longitude": -118.348892, 
+            "place": "El Rey Theatre", 
+            "latitude": 34.062302
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13245808?app_id=ticketgame&artist=Nosaj+Thing&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13245808/buy_tickets?app_id=ticketgame&artist=Nosaj+Thing&came_from=67", 
+        "on_sale_datetime": "2016-11-03T10:00:00", 
+        "formatted_datetime": "Friday, November 25, 2016 at 9:00PM", 
+        "datetime": "2016-11-25T21:00:00", 
+        "formatted_location": "Los Angeles, CA", 
+        "ticket_redirect_url": "http://www.axs.com/events/327900/-tickets?aff=usaffbandsintown", 
+        "artists": [
+            {
+                "website": "http://nosajthing.com", 
+                "facebook_page_url": "https://www.facebook.com/nosajthing", 
+                "name": "Nosaj Thing", 
+                "url": "NosajThing", 
+                "tracker_count": 73708, 
+                "mbid": "b476bc5e-19ca-4e5a-82c8-1a068d601a7d", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6909144.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/NosajThing/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6909144.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13245808
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "ticket_redirect_url": "http://www.axs.com/events/327900/-tickets?aff=usaffbandsintown", 
+        "price_min": false
+    }, 
+    "modified_time": 1479442156.0, 
+    "created_minutes": 4192, 
+    "created_time": 1479409369.0, 
+    "modified_minutes": 3645, 
+    "id": 28583944
+}

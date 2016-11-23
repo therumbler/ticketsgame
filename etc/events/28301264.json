@@ -1,0 +1,170 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.007312, 
+        "displayName": "Turnpike Troubadours at House of Blues (December 18, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "House of Blues", 
+            "uri": "http://www.songkick.com/venues/30866-house-of-blues?utm_source=32233&utm_medium=partner", 
+            "lat": 29.7536888, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.3636718, 
+            "id": 30866
+        }, 
+        "uri": "http://www.songkick.com/concerts/28301264-turnpike-troubadours-at-house-of-blues?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-18", 
+            "datetime": "2016-12-18T19:00:00-0600", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 29.7536888, 
+            "city": "Houston, TX, US", 
+            "lng": -95.3636718
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Turnpike Troubadours", 
+                "id": 55037274, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "607edb17-d439-48db-8482-da92167e4a59", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:607edb17-d439-48db-8482-da92167e4a59.json"
+                        }
+                    ], 
+                    "displayName": "Turnpike Troubadours", 
+                    "uri": "http://www.songkick.com/artists/1036102-turnpike-troubadours?utm_source=32233&utm_medium=partner", 
+                    "id": 1036102
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28301264
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Turnpike Troubadours", 
+        "twitter": "TpTroubadours", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.turnpiketroubadours.com/", 
+                    "id": "93c4c58f-b7ff-41c2-950d-38d5857d0b7e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/TpTroubadours", 
+                    "id": "43285dba-a9a6-4c82-b2f2-afdfac974ef1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/turnpiketroubadours", 
+                    "id": "9be6d63d-7b7e-47f9-8d5b-3b894f1f3234"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/TVTurnpike", 
+                    "id": "7f564e89-b9db-4625-b061-658ee223120a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "Turnpike Troubadours", 
+        "type": "Group", 
+        "id": "607edb17-d439-48db-8482-da92167e4a59", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://concerts.livenation.com/event/3A005146E0554DA4"
+    }, 
+    "modified_time": 1479442899.0, 
+    "created_minutes": 18203, 
+    "created_time": 1478566013.0, 
+    "modified_minutes": 3588, 
+    "id": 28301264
+}

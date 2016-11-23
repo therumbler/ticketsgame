@@ -1,0 +1,223 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.007754, 
+        "displayName": "The Donkeys with Dollie Barnes at Sunset Tavern (January 20, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Sunset Tavern", 
+            "uri": "http://www.songkick.com/venues/5812-sunset-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6681889, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3858426, 
+            "id": 5812
+        }, 
+        "uri": "http://www.songkick.com/concerts/28373464-donkeys-at-sunset-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-20", 
+            "time": "21:00:00", 
+            "datetime": "2017-01-20T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6681889, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3858426
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "The Donkeys", 
+                "id": 55165609, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "13877426-5769-4559-94b6-204e81f04224", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:13877426-5769-4559-94b6-204e81f04224.json"
+                        }, 
+                        {
+                            "mbid": "a0fda183-05e9-4663-85fa-3a182b013ea6", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a0fda183-05e9-4663-85fa-3a182b013ea6.json"
+                        }, 
+                        {
+                            "mbid": "45c92f92-c405-4756-9544-bffae3fa9a90", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:45c92f92-c405-4756-9544-bffae3fa9a90.json"
+                        }
+                    ], 
+                    "displayName": "The Donkeys", 
+                    "uri": "http://www.songkick.com/artists/15726-donkeys?utm_source=32233&utm_medium=partner", 
+                    "id": 15726
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Dollie Barnes", 
+                "id": 55168724, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Dollie Barnes", 
+                    "uri": "http://www.songkick.com/artists/8200828-dollie-barnes?utm_source=32233&utm_medium=partner", 
+                    "id": 8200828
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28373464
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Donkeys", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000519427", 
+                    "id": "6d2ff0a2-cc5b-480b-b5e0-1ae8a7b1acf1"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/684875", 
+                    "id": "a6ec9acf-5637-448f-829e-f657b7669d3e"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/thedonkeys", 
+                    "id": "7f0bc318-3a06-4c61-a39f-8c90337dd93e"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.donkeysongs.com/", 
+                    "id": "bb52abf4-ea32-40ab-8704-d63b59eb9126"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Donkeys, The", 
+        "type": "Group", 
+        "id": "13877426-5769-4559-94b6-204e81f04224", 
+        "disambiguation": "US indie rock band"
+    }, 
+    "age_minutes": 15504, 
+    "bandsintown_response": {
+        "description": "Crocodile Presents: the Donkeys W/ Dollie Barnes and the Regrets", 
+        "title": "The Donkeys @ The Sunset in Seattle, WA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Seattle", 
+            "name": "The Sunset", 
+            "country": "United States", 
+            "region": "WA", 
+            "longitude": -122.385926, 
+            "place": "The Sunset", 
+            "latitude": 47.668184
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13164400?app_id=ticketgame&artist=The+Donkeys&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13164400/buy_tickets?app_id=ticketgame&artist=The+Donkeys&came_from=67", 
+        "on_sale_datetime": "2016-10-19T10:00:00", 
+        "formatted_datetime": "Friday, January 20, 2017 at 9:00PM", 
+        "datetime": "2017-01-20T21:00:00", 
+        "formatted_location": "Seattle, WA", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1365693/tfly%3Futm_medium%3Dapi&afftrack=67%7E16543910%7E24257781%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "http://www.facebook.com/pages/The%20Donkeys/120456755548", 
+                "name": "The Donkeys", 
+                "url": "TheDonkeys", 
+                "tracker_count": 15223, 
+                "mbid": "13877426-5769-4559-94b6-204e81f04224", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6328244.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheDonkeys/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6328244.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13164400
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442660.0, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 895, 
+    "id": 28373464
+}

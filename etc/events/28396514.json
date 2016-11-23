@@ -1,0 +1,170 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "A Giant Dog at Barracuda (January 3, 2017)", 
+        "popularity": 0.000541, 
+        "venue": {
+            "displayName": "Barracuda", 
+            "uri": "http://www.songkick.com/venues/3167754-barracuda?utm_source=32233&utm_medium=partner", 
+            "lat": 30.26698, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.736287, 
+            "id": 3167754
+        }, 
+        "uri": "http://www.songkick.com/concerts/28396514-a-giant-dog-at-barracuda?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-03", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 30.26698, 
+            "city": "Austin, TX, US", 
+            "lng": -97.736287
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bb0d5332-15c0-4206-9fd8-0ec5eb3b7076", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bb0d5332-15c0-4206-9fd8-0ec5eb3b7076.json"
+                        }
+                    ], 
+                    "displayName": "A Giant Dog", 
+                    "uri": "http://www.songkick.com/artists/2396413-a-giant-dog?utm_source=32233&utm_medium=partner", 
+                    "id": 2396413
+                }, 
+                "displayName": "A Giant Dog", 
+                "id": 55205489, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28396514
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "A Giant Dog", 
+        "tags": [], 
+        "country": "US", 
+        "disambiguation": "", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002705581", 
+                    "id": "df7611b3-7189-4c89-8f26-ecd0f0c9f634"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://agiantdog.bandcamp.com/", 
+                    "id": "107ea313-e1d0-4fd8-ada0-f42addf0e61b"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2134701", 
+                    "id": "5cb3f244-2cec-4a6e-8f5d-204923a5df28"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/agiantdog", 
+                    "id": "4a26a370-a986-4eea-99b8-21b5beaac248"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Austin", 
+            "disambiguation": "", 
+            "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5", 
+            "name": "Austin"
+        }, 
+        "sort-name": "Giant Dog, A", 
+        "gender": null, 
+        "id": "bb0d5332-15c0-4206-9fd8-0ec5eb3b7076", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2008-08", 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28396514, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

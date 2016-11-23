@@ -1,0 +1,157 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Day Wave with Suburban Living at Schubas (November 10, 2016)", 
+        "popularity": 0.004295, 
+        "venue": {
+            "displayName": "Schubas", 
+            "uri": "http://www.songkick.com/venues/2095084-schubas?utm_source=32233&utm_medium=partner", 
+            "lat": 41.939657, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.663651, 
+            "id": 2095084
+        }, 
+        "uri": "http://www.songkick.com/concerts/28060799-day-wave-at-schubas?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 41.939657, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.663651
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e46758a5-28e4-41c0-9893-2f5720d712f3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e46758a5-28e4-41c0-9893-2f5720d712f3.json"
+                        }
+                    ], 
+                    "displayName": "Day Wave", 
+                    "uri": "http://www.songkick.com/artists/8545954-day-wave?utm_source=32233&utm_medium=partner", 
+                    "id": 8545954
+                }, 
+                "displayName": "Day Wave", 
+                "id": 54622289, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3f8ad41d-accb-46a9-a91b-593560c09af8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3f8ad41d-accb-46a9-a91b-593560c09af8.json"
+                        }
+                    ], 
+                    "displayName": "Suburban Living", 
+                    "uri": "http://www.songkick.com/artists/5150698-suburban-living?utm_source=32233&utm_medium=partner", 
+                    "id": 5150698
+                }, 
+                "displayName": "Suburban Living", 
+                "id": 54726314, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28060799
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Day Wave", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://daywavemusic.tumblr.com/", 
+                    "id": "6cc9a9c5-5f10-429d-86ca-62ca7dd10bca"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/daywavemusic", 
+                    "id": "8a81d348-d978-40ca-81ab-f91e0bffd71c"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/day-wave/", 
+                    "id": "298399ca-96f0-456b-aa6c-abececeaae74"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Day Wave", 
+        "country": null, 
+        "disambiguation": "", 
+        "type": "Person", 
+        "id": "e46758a5-28e4-41c0-9893-2f5720d712f3", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28060799, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Ali Holder at Stay Gold (November 17, 2016)", 
+        "popularity": 3.9e-05, 
+        "venue": {
+            "displayName": "Stay Gold", 
+            "uri": "http://www.songkick.com/venues/2884093-stay-gold?utm_source=32233&utm_medium=partner", 
+            "lat": 30.257077, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.723708, 
+            "id": 2884093
+        }, 
+        "uri": "http://www.songkick.com/concerts/27930289-ali-holder-at-stay-gold?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-17T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 30.257077, 
+            "city": "Austin, TX, US", 
+            "lng": -97.723708
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d2354adc-db12-40da-a7ff-f13e89873cfd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d2354adc-db12-40da-a7ff-f13e89873cfd.json"
+                        }
+                    ], 
+                    "displayName": "Ali Holder", 
+                    "uri": "http://www.songkick.com/artists/788513-ali-holder?utm_source=32233&utm_medium=partner", 
+                    "id": 788513
+                }, 
+                "displayName": "Ali Holder", 
+                "id": 54391014, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27930289
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Ali Holder", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://aliholder.com/site/", 
+                    "id": "da0d5460-6992-4061-895e-2431e1c4fd71"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Holder, Ali", 
+        "gender": "Female", 
+        "disambiguation": "", 
+        "type": "Person", 
+        "id": "d2354adc-db12-40da-a7ff-f13e89873cfd", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2"
+    }, 
+    "id": 27930289, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

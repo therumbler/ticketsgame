@@ -1,0 +1,150 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Luke Redfield at The Parish (November 18, 2016)", 
+        "popularity": 6.2e-05, 
+        "venue": {
+            "displayName": "The Parish", 
+            "uri": "http://www.songkick.com/venues/502716-parish?utm_source=32233&utm_medium=partner", 
+            "lat": 30.2675115, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7408865, 
+            "id": 502716
+        }, 
+        "uri": "http://www.songkick.com/concerts/28464199-luke-redfield-at-parish?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "datetime": "2016-11-18T19:00:00-0600", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 30.2675115, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7408865
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "26101d7f-fe96-490a-a187-c9e876783d72", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:26101d7f-fe96-490a-a187-c9e876783d72.json"
+                        }
+                    ], 
+                    "displayName": "Luke Redfield", 
+                    "uri": "http://www.songkick.com/artists/962361-luke-redfield?utm_source=32233&utm_medium=partner", 
+                    "id": 962361
+                }, 
+                "displayName": "Luke Redfield", 
+                "id": 55319804, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28464199
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Luke Redfield", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1983", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Minneapolis", 
+            "disambiguation": "", 
+            "name": "Minneapolis", 
+            "id": "3e80aaa7-9b71-450f-8147-0ecf101d8f1a"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lukeredfield.bandcamp.com/", 
+                    "id": "19e2b643-e60e-4692-abcf-02c296106086"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.lukeredfieldmusic.com/", 
+                    "id": "3a3bb23e-a89c-4274-b302-3704eaf82e12"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Luke_Redfield", 
+                    "id": "127f7013-4813-4120-9ef0-0c5e9854a0a5"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Duluth", 
+            "disambiguation": "", 
+            "name": "Duluth", 
+            "id": "04e60741-b1ae-4078-80bb-ffe8ae643ea7"
+        }, 
+        "id": "26101d7f-fe96-490a-a187-c9e876783d72", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "sort-name": "Redfield, Luke", 
+        "type": "Person", 
+        "disambiguation": "Minnesota Singer/Songwriter"
+    }, 
+    "id": 28464199, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

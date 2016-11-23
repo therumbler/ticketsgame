@@ -1,0 +1,165 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "MNDSGN and Free the Robots at The Wayfarer (November 11, 2016)", 
+        "popularity": 0.005485, 
+        "venue": {
+            "displayName": "The Wayfarer", 
+            "uri": "http://www.songkick.com/venues/2645573-wayfarer?utm_source=32233&utm_medium=partner", 
+            "lat": 33.6433518, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -117.9339197, 
+            "id": 2645573
+        }, 
+        "uri": "http://www.songkick.com/concerts/28197619-mndsgn-at-wayfarer?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-11T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 33.6433518, 
+            "city": "Costa Mesa, CA, US", 
+            "lng": -117.9339197
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "275f0cb3-6390-429d-92aa-3e3d0a12d8d8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:275f0cb3-6390-429d-92aa-3e3d0a12d8d8.json"
+                        }
+                    ], 
+                    "displayName": "MNDSGN", 
+                    "uri": "http://www.songkick.com/artists/3746546-mndsgn?utm_source=32233&utm_medium=partner", 
+                    "id": 3746546
+                }, 
+                "displayName": "MNDSGN", 
+                "id": 54861199, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9b733899-8bf7-419c-a26e-2b61ca8499bf", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9b733899-8bf7-419c-a26e-2b61ca8499bf.json"
+                        }
+                    ], 
+                    "displayName": "Free the Robots", 
+                    "uri": "http://www.songkick.com/artists/1169384-free-the-robots?utm_source=32233&utm_medium=partner", 
+                    "id": 1169384
+                }, 
+                "displayName": "Free the Robots", 
+                "id": 54861204, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28197619
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Mndsgn", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1395779", 
+                    "id": "9b133aed-2d82-446b-b36c-79da9d8126c5"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pages/Mndsgn/219574571395371", 
+                    "id": "748a4178-8793-4bc0-9888-c8429eda0b88"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/mndsgn", 
+                    "id": "4163eb21-c14c-4d51-99ab-8404f175a941"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Mndsgn", 
+        "type": "Person", 
+        "id": "275f0cb3-6390-429d-92aa-3e3d0a12d8d8", 
+        "disambiguation": "US producer Ringgo Ancheta"
+    }, 
+    "id": 28197619, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

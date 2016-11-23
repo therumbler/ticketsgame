@@ -1,0 +1,128 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Baeza at The Moxi Theater (November 17, 2016)", 
+        "popularity": 0.003744, 
+        "venue": {
+            "displayName": "The Moxi Theater", 
+            "uri": "http://www.songkick.com/venues/2321299-moxi-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 40.4237977, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.6912322, 
+            "id": 2321299
+        }, 
+        "uri": "http://www.songkick.com/concerts/28330994-baeza-at-moxi-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-17T19:30:00-0700"
+        }, 
+        "location": {
+            "lat": 40.4237977, 
+            "city": "Greeley, CO, US", 
+            "lng": -104.6912322
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b874484b-8973-4d0a-8357-c71002768e76", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b874484b-8973-4d0a-8357-c71002768e76.json"
+                        }
+                    ], 
+                    "displayName": "Baeza", 
+                    "uri": "http://www.songkick.com/artists/6032589-baeza?utm_source=32233&utm_medium=partner", 
+                    "id": 6032589
+                }, 
+                "displayName": "Baeza", 
+                "id": 55089579, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28330994
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Baeza", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1993-05-03", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.officialbaeza.com/", 
+                    "id": "8cb67579-10ef-4406-afd8-b6ab0a80d852"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/officialbaeza", 
+                    "id": "d7a99fd7-21c3-4f13-8d9b-86c15a535b9b"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Baeza, Anthony R.", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "id": "b874484b-8973-4d0a-8357-c71002768e76", 
+        "type": "Person", 
+        "twitter": "officialbaeza", 
+        "disambiguation": "Rapper"
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6966455&REFERRAL_ID=tmfeed"
+    }, 
+    "modified_time": 1479442722.0, 
+    "created_minutes": 18205, 
+    "created_time": 1478566005.0, 
+    "modified_minutes": 3593, 
+    "id": 28330994
+}

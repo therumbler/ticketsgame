@@ -1,0 +1,157 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Hoots & Hellmouth with Will Overman Band and The Vegabonds at Gypsy Sally's (November 11, 2016)", 
+        "popularity": 0.001057, 
+        "venue": {
+            "displayName": "Gypsy Sally's", 
+            "uri": "http://www.songkick.com/venues/2402744-gypsy-sallys?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9025936, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0627545, 
+            "id": 2402744
+        }, 
+        "uri": "http://www.songkick.com/concerts/28033609-hoots-and-hellmouth-at-gypsy-sallys?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-11T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 38.9025936, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0627545
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9feed469-d02c-4b9f-bc71-09024fc4665a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9feed469-d02c-4b9f-bc71-09024fc4665a.json"
+                        }
+                    ], 
+                    "displayName": "Hoots & Hellmouth", 
+                    "uri": "http://www.songkick.com/artists/535961-hoots-and-hellmouth?utm_source=32233&utm_medium=partner", 
+                    "id": 535961
+                }, 
+                "displayName": "Hoots & Hellmouth", 
+                "id": 54572974, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Will Overman Band", 
+                    "uri": "http://www.songkick.com/artists/8398003-will-overman-band?utm_source=32233&utm_medium=partner", 
+                    "id": 8398003
+                }, 
+                "displayName": "Will Overman Band", 
+                "id": 54609279, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "312649df-7eff-449a-a679-b021260a4c00", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:312649df-7eff-449a-a679-b021260a4c00.json"
+                        }
+                    ], 
+                    "displayName": "The Vegabonds", 
+                    "uri": "http://www.songkick.com/artists/3091506-vegabonds?utm_source=32233&utm_medium=partner", 
+                    "id": 3091506
+                }, 
+                "displayName": "The Vegabonds", 
+                "id": 54609284, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28033609
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Hoots and Hellmouth", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/hootshellmouth", 
+                    "id": "154b0407-25a9-484c-b221-517b8508d062"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.hootsandhellmouth.com/", 
+                    "id": "3b41aa7e-1ff3-463e-9e42-005e9a25fdb2"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Hoots and Hellmouth", 
+        "country": null, 
+        "disambiguation": "", 
+        "type": "Group", 
+        "id": "9feed469-d02c-4b9f-bc71-09024fc4665a", 
+        "gender-id": null
+    }, 
+    "id": 28033609, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

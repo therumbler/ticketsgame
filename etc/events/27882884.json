@@ -1,0 +1,118 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Marc Platt at Genghis Cohen (November 19, 2016)", 
+        "popularity": 1.1e-05, 
+        "venue": {
+            "displayName": "Genghis Cohen", 
+            "uri": "http://www.songkick.com/venues/13535-genghis-cohen?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0847186, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.3612821, 
+            "id": 13535
+        }, 
+        "uri": "http://www.songkick.com/concerts/27882884-marc-platt-at-genghis-cohen?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "datetime": "2016-11-19T20:30:00-0800", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 34.0847186, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.3612821
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "02800394-389b-4f4f-8165-8c2c22977be0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:02800394-389b-4f4f-8165-8c2c22977be0.json"
+                        }
+                    ], 
+                    "displayName": "Marc Platt", 
+                    "uri": "http://www.songkick.com/artists/378400-marc-platt?utm_source=32233&utm_medium=partner", 
+                    "id": 378400
+                }, 
+                "displayName": "Marc Platt", 
+                "id": 54302769, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27882884
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Marc Platt", 
+        "tags": [], 
+        "country": "GB", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1953", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q6755795", 
+                    "id": "1242c9ee-6244-4b93-98aa-cece68a5e2ff"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Platt, Marc", 
+        "gender": null, 
+        "type": "Person", 
+        "id": "02800394-389b-4f4f-8165-8c2c22977be0", 
+        "disambiguation": "writer"
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6875295&REFERRAL_ID=tmfeed"
+    }, 
+    "modified_time": 1479442229.0, 
+    "created_minutes": 18162, 
+    "created_time": 1478566031.0, 
+    "modified_minutes": 3559, 
+    "id": 27882884
+}

@@ -1,0 +1,111 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Savoy Motel at Everybody Hits (November 12, 2016)", 
+        "popularity": 3e-05, 
+        "venue": {
+            "displayName": "Everybody Hits", 
+            "uri": "http://www.songkick.com/venues/2715528-everybody-hits?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9705922, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1462118, 
+            "id": 2715528
+        }, 
+        "uri": "http://www.songkick.com/concerts/28235309-savoy-motel-at-everybody-hits?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 39.9705922, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1462118
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "56af6c0d-8f3f-4194-9c0e-9ba3d8e0117a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:56af6c0d-8f3f-4194-9c0e-9ba3d8e0117a.json"
+                        }
+                    ], 
+                    "displayName": "Savoy Motel", 
+                    "uri": "http://www.songkick.com/artists/8595204-savoy-motel?utm_source=32233&utm_medium=partner", 
+                    "id": 8595204
+                }, 
+                "displayName": "Savoy Motel", 
+                "id": 54922824, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28235309
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Savoy Motel", 
+        "area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "name": "Nashville", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://savoymotel.com/", 
+                    "id": "f677a11b-d431-467b-bcec-6a507a9ea7cb"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Savoy Motel", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "56af6c0d-8f3f-4194-9c0e-9ba3d8e0117a", 
+        "type": null, 
+        "disambiguation": ""
+    }, 
+    "id": 28235309, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

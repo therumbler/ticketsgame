@@ -1,0 +1,199 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000517, 
+        "displayName": "GOLDEN DAWN ARKESTRA, Capyac, and Summer Salt at Mohawk (November 19, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Mohawk", 
+            "uri": "http://www.songkick.com/venues/14633-mohawk?utm_source=32233&utm_medium=partner", 
+            "lat": 30.2701302, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7359046, 
+            "id": 14633
+        }, 
+        "uri": "http://www.songkick.com/concerts/28522329-golden-dawn-arkestra-at-mohawk?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "datetime": "2016-11-19T19:00:00-0600", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 30.2701302, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7359046
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4f966c87-2751-4f5b-a2a9-fdb26185126e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4f966c87-2751-4f5b-a2a9-fdb26185126e.json"
+                        }
+                    ], 
+                    "displayName": "GOLDEN DAWN ARKESTRA", 
+                    "uri": "http://www.songkick.com/artists/7329909-golden-dawn-arkestra?utm_source=32233&utm_medium=partner", 
+                    "id": 7329909
+                }, 
+                "displayName": "GOLDEN DAWN ARKESTRA", 
+                "id": 55419589, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Capyac", 
+                    "uri": "http://www.songkick.com/artists/8425748-capyac?utm_source=32233&utm_medium=partner", 
+                    "id": 8425748
+                }, 
+                "displayName": "Capyac", 
+                "id": 55419594, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a9218292-50cd-4ee9-9787-e0fbf466f92d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a9218292-50cd-4ee9-9787-e0fbf466f92d.json"
+                        }
+                    ], 
+                    "displayName": "Summer Salt", 
+                    "uri": "http://www.songkick.com/artists/5019063-summer-salt?utm_source=32233&utm_medium=partner", 
+                    "id": 5019063
+                }, 
+                "displayName": "Summer Salt", 
+                "id": 55419599, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28522329
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "Golden Dawn Arkestra", 
+        "area": {
+            "sort-name": "Austin", 
+            "disambiguation": "", 
+            "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5", 
+            "name": "Austin"
+        }, 
+        "country": null, 
+        "twitter": "goldendawnARK", 
+        "tags": [], 
+        "isnis": [], 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Austin", 
+            "disambiguation": "", 
+            "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5", 
+            "name": "Austin"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4146338", 
+                    "id": "e2ae7771-def4-44df-a564-73dd24305901"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/goldendawnARK", 
+                    "id": "20931a2a-16d7-4fb2-9ffe-ea61e0418635"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/TheGoldenDawnArkestra", 
+                    "id": "4aafdd01-d996-41de-be61-7a926fa01c25"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/golden-dawn-arkestra", 
+                    "id": "12246be6-ad6c-4172-a754-2e6148ce906c"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Golden Dawn Arkestra", 
+        "gender": null, 
+        "id": "4f966c87-2751-4f5b-a2a9-fdb26185126e", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2013-04-13", 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28522329, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

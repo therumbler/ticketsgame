@@ -1,0 +1,166 @@
+{
+    "songkick_response": {
+        "status": "cancelled", 
+        "ageRestriction": null, 
+        "displayName": "Jonathan Tyler with Jeff Crosby at Mississippi Studios (December 7, 2016) (CANCELLED) ", 
+        "popularity": 0.000661, 
+        "venue": {
+            "displayName": "Mississippi Studios", 
+            "uri": "http://www.songkick.com/venues/5776-mississippi-studios?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5508766, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6753828, 
+            "id": 5776
+        }, 
+        "uri": "http://www.songkick.com/concerts/28086234-jonathan-tyler-at-mississippi-studios?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-07", 
+            "time": "21:00:00", 
+            "datetime": "2016-12-07T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5508766, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6753828
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "580a44a4-1480-43bc-a17c-206768c309df", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:580a44a4-1480-43bc-a17c-206768c309df.json"
+                        }
+                    ], 
+                    "displayName": "Jonathan Tyler", 
+                    "uri": "http://www.songkick.com/artists/953145-jonathan-tyler?utm_source=32233&utm_medium=partner", 
+                    "id": 953145
+                }, 
+                "displayName": "Jonathan Tyler", 
+                "id": 54664134, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e8cf7719-e3e7-4838-8131-0558f487ce3e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e8cf7719-e3e7-4838-8131-0558f487ce3e.json"
+                        }
+                    ], 
+                    "displayName": "Jeff Crosby", 
+                    "uri": "http://www.songkick.com/artists/3610001-jeff-crosby?utm_source=32233&utm_medium=partner", 
+                    "id": 3610001
+                }, 
+                "displayName": "Jeff Crosby", 
+                "id": 54664139, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28086234
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Jonathan Tyler", 
+        "area": {
+            "sort-name": "Dallas", 
+            "disambiguation": "", 
+            "name": "Dallas", 
+            "id": "e96f1c0d-721b-470d-a9c4-0aa2d89cf9e7"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://schedule.sxsw.com/2015/2015/events/event_MS29399", 
+                    "id": "e42bb3b7-99d7-4380-9602-245f03301451"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://jonathantylermusic.com/", 
+                    "id": "9d4e98c5-80a9-488d-85d7-f7b87cf8d47a"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/jonathantylermusic", 
+                    "id": "7458ce03-ffd7-4b01-a6d2-75da2fe6190f"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Tyler, Jonathan", 
+        "gender": "Male", 
+        "id": "580a44a4-1480-43bc-a17c-206768c309df", 
+        "type": "Person", 
+        "disambiguation": "the person", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?u=291182&b=234786&m=27601&urllink=www.ticketfly.com/purchase/event/1315871/tfly?utm_medium=api&afftrack=e28086234"
+    }, 
+    "modified_time": 1479442430.0, 
+    "created_minutes": 18168, 
+    "created_time": 1478566069.0, 
+    "modified_minutes": 3562, 
+    "id": 28086234
+}

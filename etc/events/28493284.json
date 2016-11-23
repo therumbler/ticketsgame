@@ -1,0 +1,115 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Vic Spencer at Township (November 10, 2016)", 
+        "popularity": 0.00038, 
+        "venue": {
+            "displayName": "Township", 
+            "uri": "http://www.songkick.com/venues/1169371-township?utm_source=32233&utm_medium=partner", 
+            "lat": 41.921858, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.697661, 
+            "id": 1169371
+        }, 
+        "uri": "http://www.songkick.com/concerts/28493284-vic-spencer-at-township?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "datetime": "2016-11-10T20:00:00-0600", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 41.921858, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.697661
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bddcb607-2f06-4f1c-b634-34f9a40341b7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bddcb607-2f06-4f1c-b634-34f9a40341b7.json"
+                        }
+                    ], 
+                    "displayName": "Vic Spencer", 
+                    "uri": "http://www.songkick.com/artists/4280511-vic-spencer?utm_source=32233&utm_medium=partner", 
+                    "id": 4280511
+                }, 
+                "displayName": "Vic Spencer", 
+                "id": 55370104, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28493284
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "Vic Spencer", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1553377", 
+                    "id": "090dcd0d-1daf-4002-b67b-a7c5fa387fb1"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Spencer, Vic", 
+        "gender": "Male", 
+        "id": "bddcb607-2f06-4f1c-b634-34f9a40341b7", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28493284, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

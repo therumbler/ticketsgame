@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Manatee Commune at KEXP 90.3 FM (December 9, 2016)", 
+        "popularity": 0.000892, 
+        "venue": {
+            "displayName": "KEXP 90.3 FM", 
+            "uri": "http://www.songkick.com/venues/95945-kexp-903-fm?utm_source=32233&utm_medium=partner", 
+            "lat": 47.619051, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.342816, 
+            "id": 95945
+        }, 
+        "uri": "http://www.songkick.com/concerts/28482294-manatee-commune-at-kexp-903-fm?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-09", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 47.619051, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.342816
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5dfdbd4d-339e-46e2-b7a5-b487af114025", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5dfdbd4d-339e-46e2-b7a5-b487af114025.json"
+                        }
+                    ], 
+                    "displayName": "Manatee Commune", 
+                    "uri": "http://www.songkick.com/artists/6768134-manatee-commune?utm_source=32233&utm_medium=partner", 
+                    "id": 6768134
+                }, 
+                "displayName": "Manatee Commune", 
+                "id": 55350444, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28482294
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Manatee Commune", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://manateecommune.bandcamp.com/", 
+                    "id": "3c71f36f-7b39-4686-8c8b-d09e08aa0166"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Manatee Commune", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "id": "5dfdbd4d-339e-46e2-b7a5-b487af114025", 
+        "type": null, 
+        "disambiguation": ""
+    }, 
+    "id": 28482294, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

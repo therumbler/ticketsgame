@@ -1,0 +1,129 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Felly with Gyyps at El Corazon (February 4, 2017)", 
+        "popularity": 0.000742, 
+        "venue": {
+            "displayName": "El Corazon", 
+            "uri": "http://www.songkick.com/venues/35259-el-corazon?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6187498, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3293058, 
+            "id": 35259
+        }, 
+        "uri": "http://www.songkick.com/concerts/28035179-felly-at-el-corazon?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-04", 
+            "time": "20:00:00", 
+            "datetime": "2017-02-04T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6187498, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3293058
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1834e551-b7a3-41a8-8ecb-81ebd14b764f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1834e551-b7a3-41a8-8ecb-81ebd14b764f.json"
+                        }
+                    ], 
+                    "displayName": "Felly", 
+                    "uri": "http://www.songkick.com/artists/8766524-felly?utm_source=32233&utm_medium=partner", 
+                    "id": 8766524
+                }, 
+                "displayName": "Felly", 
+                "id": 54575539, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7251ea29-91c0-4e9a-9fad-84328a30ce6f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7251ea29-91c0-4e9a-9fad-84328a30ce6f.json"
+                        }
+                    ], 
+                    "displayName": "Gyyps", 
+                    "uri": "http://www.songkick.com/artists/8881744-gyyps?utm_source=32233&utm_medium=partner", 
+                    "id": 8881744
+                }, 
+                "displayName": "Gyyps", 
+                "id": 54575544, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28035179
+    }, 
+    "musicbrainz_response": {
+        "name": "Felly", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/29236", 
+                    "id": "1dd5d724-c9eb-4ff1-96a2-f2b256b37a59"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Felly", 
+        "type": "Person", 
+        "id": "1834e551-b7a3-41a8-8ecb-81ebd14b764f", 
+        "disambiguation": "Felly Kilingi, \"frontwoman\" for Technotronic in the early '90s"
+    }, 
+    "age_minutes": 15471, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 50.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442326.0, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 867, 
+    "id": 28035179
+}

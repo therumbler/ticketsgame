@@ -1,0 +1,128 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Foghorns and These Young Fools at Sunset Tavern (December 14, 2016)", 
+        "popularity": 7.9e-05, 
+        "venue": {
+            "displayName": "Sunset Tavern", 
+            "uri": "http://www.songkick.com/venues/5812-sunset-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6681889, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3858426, 
+            "id": 5812
+        }, 
+        "uri": "http://www.songkick.com/concerts/28405434-foghorns-at-sunset-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-14", 
+            "datetime": "2016-12-14T21:00:00-0800", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 47.6681889, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3858426
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f0f38f51-7776-4eb9-a064-c9659d7b9b87", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f0f38f51-7776-4eb9-a064-c9659d7b9b87.json"
+                        }
+                    ], 
+                    "displayName": "The Foghorns", 
+                    "uri": "http://www.songkick.com/artists/1143980-foghorns?utm_source=32233&utm_medium=partner", 
+                    "id": 1143980
+                }, 
+                "displayName": "The Foghorns", 
+                "id": 55220764, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "These Young Fools", 
+                    "uri": "http://www.songkick.com/artists/7120979-these-young-fools?utm_source=32233&utm_medium=partner", 
+                    "id": 7120979
+                }, 
+                "displayName": "These Young Fools", 
+                "id": 55377014, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28405434
+    }, 
+    "musicbrainz_response": {
+        "name": "The Foghorns", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/thefoghorns", 
+                    "id": "af73a4ee-f2f0-4e90-96ac-0baf47b1c869"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Foghorns, The", 
+        "gender": null, 
+        "id": "f0f38f51-7776-4eb9-a064-c9659d7b9b87", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "bandsintown_response": {
+        "facebook_page_url": null, 
+        "upcoming_event_count": 0, 
+        "name": "The Foghorns", 
+        "tracker_count": 277, 
+        "mbid": "f0f38f51-7776-4eb9-a064-c9659d7b9b87", 
+        "image_url": "https://s3.amazonaws.com/bit-photos/large/5387012.jpeg", 
+        "facebook_tour_dates_url": null, 
+        "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5387012.jpeg"
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6983995&REFERRAL_ID=tmfeed"
+    }, 
+    "modified_time": 1479442607.0, 
+    "created_minutes": 18228, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 3620, 
+    "id": 28405434
+}

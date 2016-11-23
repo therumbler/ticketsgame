@@ -1,0 +1,140 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Citizen Zero with Roommates and Dear Me, at Larimer Lounge (November 9, 2016)", 
+        "popularity": 0.000132, 
+        "venue": {
+            "displayName": "Larimer Lounge", 
+            "uri": "http://www.songkick.com/venues/11428-larimer-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7599345, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9838005, 
+            "id": 11428
+        }, 
+        "uri": "http://www.songkick.com/concerts/28355469-citizen-zero-at-larimer-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-09T20:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.7599345, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9838005
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d2915f1b-39ad-4848-bf2b-5745f420d62d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d2915f1b-39ad-4848-bf2b-5745f420d62d.json"
+                        }
+                    ], 
+                    "displayName": "Citizen Zero", 
+                    "uri": "http://www.songkick.com/artists/3967191-citizen-zero?utm_source=32233&utm_medium=partner", 
+                    "id": 3967191
+                }, 
+                "displayName": "Citizen Zero", 
+                "id": 55134044, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "78ff7282-2770-462e-b68c-08f84766c15b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:78ff7282-2770-462e-b68c-08f84766c15b.json"
+                        }
+                    ], 
+                    "displayName": "Roommates", 
+                    "uri": "http://www.songkick.com/artists/1942833-roommates?utm_source=32233&utm_medium=partner", 
+                    "id": 1942833
+                }, 
+                "displayName": "Roommates", 
+                "id": 55239629, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Dear Me,", 
+                    "uri": "http://www.songkick.com/artists/1954586-dear-me?utm_source=32233&utm_medium=partner", 
+                    "id": 1954586
+                }, 
+                "displayName": "Dear Me,", 
+                "id": 55239634, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28355469
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Citizen Zero", 
+        "area": {
+            "sort-name": "Detroit", 
+            "disambiguation": "", 
+            "id": "b03ff310-d8e2-45cf-9455-769f76641eb2", 
+            "name": "Detroit"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/citizenzero", 
+                    "id": "2c67e7d8-f01d-45ce-ab1b-c5107f7a2965"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Citizen Zero", 
+        "gender": null, 
+        "id": "d2915f1b-39ad-4848-bf2b-5745f420d62d", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28355469, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

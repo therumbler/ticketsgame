@@ -1,0 +1,382 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Henry Rollins at Revolution Hall (January 1, 2017)", 
+        "popularity": 0.006367, 
+        "venue": {
+            "displayName": "Revolution Hall", 
+            "uri": "http://www.songkick.com/venues/2845468-revolution-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5189728, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6520952, 
+            "id": 2845468
+        }, 
+        "uri": "http://www.songkick.com/concerts/27325029-henry-rollins-at-revolution-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-01", 
+            "time": "20:00:00", 
+            "datetime": "2017-01-01T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5189728, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6520952
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "656b39fb-979c-4c57-bb87-61d1a8eb38d1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:656b39fb-979c-4c57-bb87-61d1a8eb38d1.json"
+                        }
+                    ], 
+                    "displayName": "Henry Rollins", 
+                    "uri": "http://www.songkick.com/artists/290910-henry-rollins?utm_source=32233&utm_medium=partner", 
+                    "id": 290910
+                }, 
+                "displayName": "Henry Rollins", 
+                "id": 53283774, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27325029
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Henry Rollins", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1961-02-13", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative metal"
+            }, 
+            {
+                "count": 1, 
+                "name": "comedy"
+            }, 
+            {
+                "count": 1, 
+                "name": "hardcore punk"
+            }, 
+            {
+                "count": 1, 
+                "name": "spoken word"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/656b39fb-979c-4c57-bb87-61d1a8eb38d1", 
+                    "id": "38c641c2-4f5d-4180-a72c-33c72dfaae61"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0738433/", 
+                    "id": "b4986704-547d-438c-a06d-11d8bb906305"
+                }, 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/29734033", 
+                    "id": "919e0747-7f0f-47e9-b7b7-5c179abb1638"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000955379", 
+                    "id": "580860f3-23fb-410b-9ffd-edbe01d27074"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/18844", 
+                    "id": "79a9098a-b0ad-40b9-b4ec-d0d263b46484"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.comeinandburn.com/", 
+                    "id": "6375a023-c9e5-4e37-a600-fa791f85b7c1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:HenryRollins_Singing.jpg", 
+                    "id": "9cdac54a-7ffe-42dc-b2d3-be122c752652"
+                }, 
+                "direction": "forward", 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://henryrollins.com/", 
+                    "id": "da5ace94-5d42-4930-bdbe-05ee6f4085dc"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://d-nb.info/gnd/121223310", 
+                    "id": "0cf10008-360f-415e-9151-7ff807ec7e7d"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/henry_rollins", 
+                    "id": "467d2339-5a46-4c56-8827-65d6a3ade3cf"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.worldcat.org/identities/lccn-n92-110877", 
+                    "id": "c9c3b961-9145-4059-8dde-07e558a3adde"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q318509", 
+                    "id": "390283ce-8185-4e1d-8ebf-50b5dc83ed0d"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Henry_Rollins", 
+                    "id": "85a84c07-7d14-4f47-9898-e9ebf2b14746"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Washington, D.C.", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-DC"
+            ], 
+            "name": "Washington, D.C.", 
+            "id": "af59135f-38b5-4ea4-b4e2-dd28c5f0bad7"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Rollins, Henry", 
+        "type": "Person", 
+        "id": "656b39fb-979c-4c57-bb87-61d1a8eb38d1", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": "SOLD OUT: Henry Rollins", 
+        "title": "Henry Rollins @ Revolution Hall in Portland, OR", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Portland", 
+            "name": "Revolution Hall", 
+            "country": "United States", 
+            "region": "OR", 
+            "longitude": -122.652089, 
+            "place": "Revolution Hall", 
+            "latitude": 45.519013
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12293587?app_id=ticketgame&artist=Henry+Rollins&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12293587/buy_tickets?app_id=ticketgame&artist=Henry+Rollins&came_from=67", 
+        "on_sale_datetime": "2016-06-16T10:00:00", 
+        "formatted_datetime": "Sunday, January 1, 2017 at 8:00PM", 
+        "datetime": "2017-01-01T20:00:00", 
+        "formatted_location": "Portland, OR", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?u=357587&b=234786&m=27601&afftrack=&urllink=www.ticketfly.com/purchase/event/1213601/", 
+        "artists": [
+            {
+                "website": "http://www.henryrollins.com", 
+                "facebook_page_url": null, 
+                "name": "Henry Rollins", 
+                "url": "HenryRollins", 
+                "tracker_count": 60784, 
+                "mbid": "656b39fb-979c-4c57-bb87-61d1a8eb38d1", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6107477.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/HenryRollins/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6107477.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12293587
+    }, 
+    "ticket_details": {
+        "status": "Sold Out", 
+        "price_max": false, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?u=357587&b=234786&m=27601&afftrack=&urllink=www.ticketfly.com/purchase/event/1213601/", 
+        "price_min": false
+    }, 
+    "modified_time": 1479441945.0, 
+    "created_minutes": 18152, 
+    "created_time": 1478566069.0, 
+    "modified_minutes": 3554, 
+    "id": 27325029
+}

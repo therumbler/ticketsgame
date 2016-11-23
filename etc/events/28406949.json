@@ -1,0 +1,114 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Jessica Sweetman at Rockwood Music Hall Stage 3 (November 14, 2016)", 
+        "popularity": 0.000173, 
+        "venue": {
+            "displayName": "Rockwood Music Hall Stage 3", 
+            "uri": "http://www.songkick.com/venues/2399549-rockwood-music-hall-stage-3?utm_source=32233&utm_medium=partner", 
+            "lat": 40.722071, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.98847, 
+            "id": 2399549
+        }, 
+        "uri": "http://www.songkick.com/concerts/28406949-jessica-sweetman-at-rockwood-music-hall-stage-3?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-14", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-14T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 40.722071, 
+            "city": "New York, NY, US", 
+            "lng": -73.98847
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d7491f35-8945-48ba-8fca-e52e15eb67f3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d7491f35-8945-48ba-8fca-e52e15eb67f3.json"
+                        }
+                    ], 
+                    "displayName": "Jessica Sweetman", 
+                    "uri": "http://www.songkick.com/artists/4468333-jessica-sweetman?utm_source=32233&utm_medium=partner", 
+                    "id": 4468333
+                }, 
+                "displayName": "Jessica Sweetman", 
+                "id": 55223199, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28406949
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Jessica Sweetman", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "country": "GB", 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/Jessicasweetman", 
+                    "id": "a6e39d79-0811-4241-ad50-64da7bd47cf3"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "id": "d7491f35-8945-48ba-8fca-e52e15eb67f3", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Sweetman, Jessica", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1988-10-12", 
+            "end": null
+        }
+    }, 
+    "id": 28406949, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

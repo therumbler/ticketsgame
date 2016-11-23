@@ -1,0 +1,189 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Ghost Culture, Raime, and Marie Davidson at Moth Club (November 11, 2016)", 
+        "popularity": 0.001751, 
+        "venue": {
+            "displayName": "Moth Club", 
+            "uri": "http://www.songkick.com/venues/3062884-moth-club?utm_source=32233&utm_medium=partner", 
+            "lat": 51.545251, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0546504, 
+            "id": 3062884
+        }, 
+        "uri": "http://www.songkick.com/concerts/28063864-ghost-culture-at-moth-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-11T22:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.545251, 
+            "city": "London, UK", 
+            "lng": -0.0546504
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "fc923e56-521e-40fe-bc89-730e6f3c78e0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fc923e56-521e-40fe-bc89-730e6f3c78e0.json"
+                        }
+                    ], 
+                    "displayName": "Ghost Culture", 
+                    "uri": "http://www.songkick.com/artists/7118449-ghost-culture?utm_source=32233&utm_medium=partner", 
+                    "id": 7118449
+                }, 
+                "displayName": "Ghost Culture", 
+                "id": 54631479, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d0f998d0-eb8e-45be-9c95-69177c368914", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d0f998d0-eb8e-45be-9c95-69177c368914.json"
+                        }
+                    ], 
+                    "displayName": "Raime", 
+                    "uri": "http://www.songkick.com/artists/3872421-raime?utm_source=32233&utm_medium=partner", 
+                    "id": 3872421
+                }, 
+                "displayName": "Raime", 
+                "id": 54631484, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5e864744-89b6-4da8-b463-3ed601c22d8c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5e864744-89b6-4da8-b463-3ed601c22d8c.json"
+                        }
+                    ], 
+                    "displayName": "Marie Davidson", 
+                    "uri": "http://www.songkick.com/artists/6587279-marie-davidson?utm_source=32233&utm_medium=partner", 
+                    "id": 6587279
+                }, 
+                "displayName": "Marie Davidson", 
+                "id": 54627274, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28063864
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Ghost Culture", 
+        "tags": [], 
+        "gender": null, 
+        "twitter": "ghostculture", 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3548354", 
+                    "id": "b520436a-b5bc-4fcb-bbfe-d160de74553b"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Ghost+Culture", 
+                    "id": "20aec2cc-d12e-484b-b4f5-b5722ad0f329"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/ghostculture", 
+                    "id": "8e6e3355-ae89-4022-bd5e-52c317d439b1"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/ghostculture", 
+                    "id": "efd2be82-a5a6-425b-a9d5-456d61204df2"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "disambiguation": "", 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Ghost Culture", 
+        "country": null, 
+        "id": "fc923e56-521e-40fe-bc89-730e6f3c78e0", 
+        "ipis": [], 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28063864, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

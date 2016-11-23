@@ -1,0 +1,95 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Echo Trails at The Magic Garden (November 17, 2016)", 
+        "popularity": 1.9e-05, 
+        "venue": {
+            "displayName": "The Magic Garden", 
+            "uri": "http://www.songkick.com/venues/1869843-magic-garden?utm_source=32233&utm_medium=partner", 
+            "lat": 51.4753843, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1508424, 
+            "id": 1869843
+        }, 
+        "uri": "http://www.songkick.com/concerts/28275104-echo-trails-at-magic-garden?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-17T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.4753843, 
+            "city": "London, UK", 
+            "lng": -0.1508424
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a1e34d1e-017e-430a-96cc-76cac139cd91", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a1e34d1e-017e-430a-96cc-76cac139cd91.json"
+                        }
+                    ], 
+                    "displayName": "Echo Trails", 
+                    "uri": "http://www.songkick.com/artists/5985999-echo-trails?utm_source=32233&utm_medium=partner", 
+                    "id": 5985999
+                }, 
+                "displayName": "Echo Trails", 
+                "id": 54991424, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28275104
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Echo Trails", 
+        "area": {
+            "sort-name": "London", 
+            "disambiguation": "", 
+            "name": "London", 
+            "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f"
+        }, 
+        "country": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Trails, Echo", 
+        "begin_area": {
+            "sort-name": "Cambridge", 
+            "disambiguation": "", 
+            "id": "11ba7f4f-3fb9-4b4b-a72f-ab1cd9c37d99", 
+            "name": "Cambridge"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "a1e34d1e-017e-430a-96cc-76cac139cd91", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2009-12", 
+            "end": null
+        }
+    }, 
+    "id": 28275104, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

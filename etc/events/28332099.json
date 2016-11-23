@@ -1,0 +1,110 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Felicity at Rockwood Music Hall Stage 2 (November 9, 2016)", 
+        "popularity": 0.000193, 
+        "venue": {
+            "displayName": "Rockwood Music Hall Stage 2", 
+            "uri": "http://www.songkick.com/venues/1028946-rockwood-music-hall-stage-2?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7224278, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9886921, 
+            "id": 1028946
+        }, 
+        "uri": "http://www.songkick.com/concerts/28332099-felicity-at-rockwood-music-hall-stage-2?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "20:15:00", 
+            "datetime": "2016-11-09T20:15:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7224278, 
+            "city": "New York, NY, US", 
+            "lng": -73.9886921
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "660f3fcc-86f4-4666-8d41-e38c120c7264", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:660f3fcc-86f4-4666-8d41-e38c120c7264.json"
+                        }, 
+                        {
+                            "mbid": "8d78c4cd-149e-49e6-a343-148a934350a1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8d78c4cd-149e-49e6-a343-148a934350a1.json"
+                        }
+                    ], 
+                    "displayName": "Felicity", 
+                    "uri": "http://www.songkick.com/artists/154402-felicity?utm_source=32233&utm_medium=partner", 
+                    "id": 154402
+                }, 
+                "displayName": "Felicity", 
+                "id": 55091469, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28332099
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Felicity", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/660f3fcc-86f4-4666-8d41-e38c120c7264", 
+                    "id": "4cbf3eb2-e81e-457b-aa60-b9a8a8f53d16"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Felicity", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "type": null, 
+        "id": "660f3fcc-86f4-4666-8d41-e38c120c7264", 
+        "disambiguation": ""
+    }, 
+    "id": 28332099, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

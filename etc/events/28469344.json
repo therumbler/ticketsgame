@@ -1,0 +1,300 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.01744, 
+        "displayName": "Lucero at The Showbox (February 23, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Showbox", 
+            "uri": "http://www.songkick.com/venues/5621-showbox?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6087897, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3399932, 
+            "id": 5621
+        }, 
+        "uri": "http://www.songkick.com/concerts/28469344-lucero-at-showbox?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-23", 
+            "time": "19:30:00", 
+            "datetime": "2017-02-23T19:30:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6087897, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3399932
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Lucero", 
+                "id": 55328244, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4befe93e-7cb6-4adb-b822-8b19ceb59768", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4befe93e-7cb6-4adb-b822-8b19ceb59768.json"
+                        }, 
+                        {
+                            "mbid": "1a681dad-cb15-43be-9d0f-4a807badff9f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1a681dad-cb15-43be-9d0f-4a807badff9f.json"
+                        }
+                    ], 
+                    "displayName": "Lucero", 
+                    "uri": "http://www.songkick.com/artists/562918-lucero?utm_source=32233&utm_medium=partner", 
+                    "id": 562918
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28469344
+    }, 
+    "musicbrainz_response": {
+        "name": "Lucero", 
+        "twitter": "LuceroMexico", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "latin"
+            }, 
+            {
+                "count": 1, 
+                "name": "national folk"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "ranchera"
+            }
+        ], 
+        "country": "MX", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1969-08-29", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Mexico", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "MX"
+            ], 
+            "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e", 
+            "name": "Mexico"
+        }, 
+        "isnis": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0524456/", 
+                    "id": "c5c5eb09-8dbb-4980-81fd-05ecab4975d9"
+                }, 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/19291276", 
+                    "id": "a6017d95-6a26-4b76-ae71-ba5d3706047d"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000306033", 
+                    "id": "cfed4847-2bc0-433c-a1e9-611e88ac418c"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1591836", 
+                    "id": "394bcabe-5601-4e90-8876-de9f8d8370b3"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.lucero.com.mx/", 
+                    "id": "1f232b98-b574-4706-9bc0-b1688944b3e5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/LuceroMexico", 
+                    "id": "10bf1c3c-0a07-4d57-91c0-fe9c5d476c07"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q171463", 
+                    "id": "f1df7824-d2f1-4b5b-8ced-d1b8298b093c"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Lucero_(entertainer)", 
+                    "id": "be7573c8-d45f-4966-be2b-04264a1208cb"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Ciudad de M\u00e9xico", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "MX-DIF"
+            ], 
+            "name": "Ciudad de M\u00e9xico", 
+            "id": "3c810219-baf2-4fff-b98c-46b425eea1f5"
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Lucero", 
+        "type": "Person", 
+        "id": "4befe93e-7cb6-4adb-b822-8b19ceb59768", 
+        "disambiguation": "Mexican singer and actress"
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Lucero @ Showbox in Seattle, WA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Seattle", 
+            "name": "Showbox", 
+            "country": "United States", 
+            "region": "WA", 
+            "longitude": -122.339685, 
+            "place": "Showbox", 
+            "latitude": 47.608464
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13232165?app_id=ticketgame&artist=Lucero&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13232165/buy_tickets?app_id=ticketgame&artist=Lucero&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Thursday, February 23, 2017 at 7:00PM", 
+        "datetime": "2017-02-23T19:00:00", 
+        "formatted_location": "Seattle, WA", 
+        "ticket_redirect_url": "https://events.applauze.com/events/3221060", 
+        "artists": [
+            {
+                "website": "http://www.luceromusic.com", 
+                "facebook_page_url": "https://www.facebook.com/Lucero", 
+                "name": "Lucero", 
+                "url": "Lucero", 
+                "tracker_count": 92729, 
+                "mbid": "4befe93e-7cb6-4adb-b822-8b19ceb59768", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/7084986.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Lucero/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/7084986.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13232165
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://events.applauze.com/events/3221060"
+    }, 
+    "modified_time": 1479442426.0, 
+    "created_minutes": 5907, 
+    "created_time": 1479305737.0, 
+    "modified_minutes": 3629, 
+    "id": 28469344
+}

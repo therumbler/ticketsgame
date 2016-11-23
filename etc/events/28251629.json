@@ -1,0 +1,216 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Joan Shelley with Patty Griffin at City Winery Atlanta (November 17, 2016)", 
+        "popularity": 0.023977, 
+        "venue": {
+            "displayName": "City Winery Atlanta", 
+            "uri": "http://www.songkick.com/venues/3194364-city-winery-atlanta?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7722636, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3661896, 
+            "id": 3194364
+        }, 
+        "uri": "http://www.songkick.com/concerts/28251629-joan-shelley-at-city-winery-atlanta?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 33.7722636, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.3661896
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0a200500-a8dc-4efe-ac86-69c3d04df515", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0a200500-a8dc-4efe-ac86-69c3d04df515.json"
+                        }
+                    ], 
+                    "displayName": "Joan Shelley", 
+                    "uri": "http://www.songkick.com/artists/3255301-joan-shelley?utm_source=32233&utm_medium=partner", 
+                    "id": 3255301
+                }, 
+                "displayName": "Joan Shelley", 
+                "id": 54950964, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6fddcfc3-20b6-48d0-87ba-8211eca3420c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6fddcfc3-20b6-48d0-87ba-8211eca3420c.json"
+                        }
+                    ], 
+                    "displayName": "Patty Griffin", 
+                    "uri": "http://www.songkick.com/artists/183590-patty-griffin?utm_source=32233&utm_medium=partner", 
+                    "id": 183590
+                }, 
+                "displayName": "Patty Griffin", 
+                "id": 54986194, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28251629
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Joan Shelley", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Kentucky", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-KY"
+            ], 
+            "name": "Kentucky", 
+            "id": "85255cb8-edb9-4a66-b23a-a5261d42c116"
+        }, 
+        "country": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002888019", 
+                    "id": "73184d9b-aec9-444f-9476-0ecc2cdf4f95"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://joanshelley.bandcamp.com/", 
+                    "id": "1f17df41-d31f-4f9f-91bc-9501b822ac60"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3075523", 
+                    "id": "ba18c836-7533-4943-a80a-0ce670cbb477"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://joanshelley.net/", 
+                    "id": "f430f05a-04a3-432a-9c4f-a80edc002e72"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/joanshelleymusic", 
+                    "id": "81bac6cf-9a57-4e14-b837-251b1cfdd4cd"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/joanshelley", 
+                    "id": "84d551e9-7c42-4d0e-8f99-b40c0e06655a"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Shelley, Joan", 
+        "gender": "Female", 
+        "type": "Person", 
+        "id": "0a200500-a8dc-4efe-ac86-69c3d04df515", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2"
+    }, 
+    "id": 28251629, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

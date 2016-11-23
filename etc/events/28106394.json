@@ -1,0 +1,329 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.019484, 
+        "displayName": "Tracy Lawrence at Grizzly Rose (December 2, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Grizzly Rose", 
+            "uri": "http://www.songkick.com/venues/1151-grizzly-rose?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7953, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.986759, 
+            "id": 1151
+        }, 
+        "uri": "http://www.songkick.com/concerts/28106394-tracy-lawrence-at-grizzly-rose?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "datetime": "2016-12-02T20:00:00-0700", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 39.7953, 
+            "city": "Denver, CO, US", 
+            "lng": -104.986759
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Tracy Lawrence", 
+                "id": 54700234, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "56ff58b3-7a73-4c02-a0ae-70bebf3354f2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:56ff58b3-7a73-4c02-a0ae-70bebf3354f2.json"
+                        }
+                    ], 
+                    "displayName": "Tracy Lawrence", 
+                    "uri": "http://www.songkick.com/artists/68521-tracy-lawrence?utm_source=32233&utm_medium=partner", 
+                    "id": 68521
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28106394
+    }, 
+    "musicbrainz_response": {
+        "name": "Tracy Lawrence", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "country"
+            }
+        ], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1968-01-27", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/21331923", 
+                    "id": "a398d77f-22fe-4d73-ac0a-6a6052ed0bd3"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000746387", 
+                    "id": "7b3e9eb3-defe-4b23-aa8e-77f3a9982c2e"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1024650", 
+                    "id": "73a0b6bd-e3a8-46b2-abc4-32b95fe17c29"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Tracy%20Lawrence", 
+                    "id": "92346723-4e21-4972-8bcd-4df399925113"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/tracy-lawrence-lyrics", 
+                    "id": "da6b834c-0b1e-467f-a7a3-d987aaa455a6"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-9962/tracy-lawrence/lyrics.html", 
+                    "id": "451f9a8f-f226-46b9-a194-b48d6114e9a7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/tracylawrence", 
+                    "id": "1b67fc40-e38a-4aa9-a7d3-ffb27b5670b2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://tracylawrence.com/", 
+                    "id": "5a5fa23f-8661-4958-9c0a-7770e6df1c3d"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/tracy_lawrence", 
+                    "id": "ff908047-06dd-4308-9fa9-8c3d37949777"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q2447661", 
+                    "id": "697e79fc-be08-48f4-95f5-ba458cee61f5"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Tracy_Lawrence", 
+                    "id": "946f8675-6e0e-4ff0-94c8-a67975e40d38"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Atlanta", 
+            "disambiguation": "", 
+            "id": "b61c7475-9689-43bf-83b8-b933d250db57", 
+            "name": "Atlanta"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Lawrence, Tracy", 
+        "type": "Person", 
+        "id": "56ff58b3-7a73-4c02-a0ae-70bebf3354f2", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Tracy Lawrence @ Grizzly Rose in Denver, CO", 
+        "ticket_type": null, 
+        "venue": {
+            "city": "Denver", 
+            "name": "Grizzly Rose", 
+            "country": "United States", 
+            "region": "CO", 
+            "longitude": -104.9240087, 
+            "place": "Grizzly Rose", 
+            "latitude": 39.684443
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12940047?app_id=ticketgame&artist=Tracy+Lawrence&came_from=67", 
+        "ticket_url": null, 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Friday, December 2, 2016 at 7:00PM", 
+        "datetime": "2016-12-02T19:00:00", 
+        "formatted_location": "Denver, CO", 
+        "artists": [
+            {
+                "website": "http://www.TracyLawrence.com", 
+                "facebook_page_url": "https://www.facebook.com/therealtracylawrence", 
+                "name": "Tracy Lawrence", 
+                "url": "TracyLawrence", 
+                "tracker_count": 162617, 
+                "mbid": "56ff58b3-7a73-4c02-a0ae-70bebf3354f2", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6895469.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TracyLawrence/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6895469.jpeg"
+            }
+        ], 
+        "ticket_status": "unavailable", 
+        "id": 12940047
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6872285&REFERRAL_ID=tmfeed"
+    }, 
+    "modified_time": 1479442463.0, 
+    "created_minutes": 18169, 
+    "created_time": 1478566005.0, 
+    "modified_minutes": 3562, 
+    "id": 28106394
+}

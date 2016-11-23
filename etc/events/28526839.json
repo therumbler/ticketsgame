@@ -1,0 +1,207 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Dodge & Fuski with algo, Oolacile, and Detrace at Summit Music Hall (December 3, 2016)", 
+        "popularity": 0.013236, 
+        "venue": {
+            "displayName": "Summit Music Hall", 
+            "uri": "http://www.songkick.com/venues/836146-summit-music-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7535064, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9953172, 
+            "id": 836146
+        }, 
+        "uri": "http://www.songkick.com/concerts/28526839-dodge-and-fuski-at-summit-music-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-03", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-03T20:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.7535064, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9953172
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Dodge & Fuski", 
+                "id": 55426974, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b73f644b-9e6c-4d0c-839d-45df4998a9ff", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b73f644b-9e6c-4d0c-839d-45df4998a9ff.json"
+                        }
+                    ], 
+                    "displayName": "Dodge & Fuski", 
+                    "uri": "http://www.songkick.com/artists/4100911-dodge-and-fuski?utm_source=32233&utm_medium=partner", 
+                    "id": 4100911
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "algo", 
+                "id": 55426979, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "95033c8d-83ff-43af-999c-d7aff520e9a7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:95033c8d-83ff-43af-999c-d7aff520e9a7.json"
+                        }
+                    ], 
+                    "displayName": "algo", 
+                    "uri": "http://www.songkick.com/artists/869523-algo?utm_source=32233&utm_medium=partner", 
+                    "id": 869523
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Oolacile", 
+                "id": 55426984, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Oolacile", 
+                    "uri": "http://www.songkick.com/artists/8608169-oolacile?utm_source=32233&utm_medium=partner", 
+                    "id": 8608169
+                }
+            }, 
+            {
+                "billingIndex": 4, 
+                "displayName": "Detrace", 
+                "id": 55426989, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Detrace", 
+                    "uri": "http://www.songkick.com/artists/8773329-detrace?utm_source=32233&utm_medium=partner", 
+                    "id": 8773329
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28526839
+    }, 
+    "musicbrainz_response": {
+        "name": "Dodge & Fuski", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1787629", 
+                    "id": "feb2edb7-99d8-4c23-9d31-ccd1be1d2f9d"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/dodgeandfuski", 
+                    "id": "69f4639f-c14f-464f-b2c5-fa7c6e5fb367"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/dodgeandfuski", 
+                    "id": "fadd4f81-aa81-4f51-bee0-d70c597259c2"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/dodgeandfuski", 
+                    "id": "f8005827-b828-4546-bea0-75004be214ea"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "id": "b73f644b-9e6c-4d0c-839d-45df4998a9ff", 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "Dodge & Fuski", 
+        "ipis": [], 
+        "country": null, 
+        "type": "Group", 
+        "twitter": "dodgeandfuski", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 11559, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 30.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442327.0, 
+    "created_time": 1478803636.0, 
+    "modified_minutes": 914, 
+    "id": 28526839
+}

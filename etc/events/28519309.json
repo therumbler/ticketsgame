@@ -1,0 +1,187 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 8.4e-05, 
+        "displayName": "Rubedo at Lost Lake Lounge (December 23, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Lost Lake Lounge", 
+            "uri": "http://www.songkick.com/venues/1016861-lost-lake-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7399905, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9447552, 
+            "id": 1016861
+        }, 
+        "uri": "http://www.songkick.com/concerts/28519309-rubedo-at-lost-lake-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-23", 
+            "datetime": "2016-12-23T21:00:00-0700", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 39.7399905, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9447552
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "781cb8d3-f2b0-4396-906a-db9d93fead08", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:781cb8d3-f2b0-4396-906a-db9d93fead08.json"
+                        }
+                    ], 
+                    "displayName": "Rubedo", 
+                    "uri": "http://www.songkick.com/artists/2303405-rubedo?utm_source=32233&utm_medium=partner", 
+                    "id": 2303405
+                }, 
+                "displayName": "Rubedo", 
+                "id": 55414934, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28519309
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Rubedo", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Denver", 
+            "disambiguation": "", 
+            "id": "fc1aee9a-f1a8-45dc-8820-af6b5d7f7450", 
+            "name": "Denver"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rubedo.bandcamp.com/", 
+                    "id": "8efeb464-7f17-4abc-b3e3-a407cd73dc1d"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3258782", 
+                    "id": "c8d1b4ea-de4a-4636-a0a2-5d54c94406c4"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.rubedomusic.com/", 
+                    "id": "58d14caa-80b6-4b9b-b182-a3603b45d355"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/rubedomusic", 
+                    "id": "f1b351e6-9804-4f91-b232-70675534c968"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/rubedomusic", 
+                    "id": "5c40d172-1c95-4658-abe4-10019b6069a7"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "Rubedo", 
+        "country": null, 
+        "type": "Group", 
+        "id": "781cb8d3-f2b0-4396-906a-db9d93fead08", 
+        "disambiguation": "Colorado"
+    }, 
+    "age_minutes": 11559, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 12.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442336.0, 
+    "created_time": 1478803636.0, 
+    "modified_minutes": 914, 
+    "id": 28519309
+}

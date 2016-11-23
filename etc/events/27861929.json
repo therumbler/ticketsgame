@@ -1,0 +1,313 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "loscil and Benoit Pioulard at Constellation (November 17, 2016)", 
+        "popularity": 0.004173, 
+        "venue": {
+            "displayName": "Constellation", 
+            "uri": "http://www.songkick.com/venues/2223454-constellation?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9380311, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6878368, 
+            "id": 2223454
+        }, 
+        "uri": "http://www.songkick.com/concerts/27861929-loscil-at-constellation?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-17T20:30:00-0600"
+        }, 
+        "location": {
+            "lat": 41.9380311, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6878368
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4f2c565b-ac40-4678-ba61-4fcf3b97edbc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4f2c565b-ac40-4678-ba61-4fcf3b97edbc.json"
+                        }
+                    ], 
+                    "displayName": "loscil", 
+                    "uri": "http://www.songkick.com/artists/447778-loscil?utm_source=32233&utm_medium=partner", 
+                    "id": 447778
+                }, 
+                "displayName": "loscil", 
+                "id": 54262604, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "80ae2479-8c40-4a56-8bf3-b7a99cead1e4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:80ae2479-8c40-4a56-8bf3-b7a99cead1e4.json"
+                        }
+                    ], 
+                    "displayName": "Benoit Pioulard", 
+                    "uri": "http://www.songkick.com/artists/595762-benoit-pioulard?utm_source=32233&utm_medium=partner", 
+                    "id": 595762
+                }, 
+                "displayName": "Benoit Pioulard", 
+                "id": 54262609, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27861929
+    }, 
+    "musicbrainz_response": {
+        "name": "Loscil", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "ambient"
+            }, 
+            {
+                "count": 1, 
+                "name": "dance and electronica"
+            }
+        ], 
+        "country": "CA", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+            "name": "Canada"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/106590337", 
+                    "id": "61c833dc-38f2-4142-9642-35cdc416b671"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000215557", 
+                    "id": "9d97e60a-9c88-40a6-b158-6e2d5d23dbfd"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/59946", 
+                    "id": "aabec7c1-b5e3-46ac-a9f5-712b5dd3aa37"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Loscil", 
+                    "id": "81435f6c-a20f-4610-b127-75d49b933c12"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.loscil.ca/", 
+                    "id": "481b7fd9-63a2-4792-a85b-6ce22f2e542c"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/loscil", 
+                    "id": "8054de80-95ec-4adf-ad1a-dd5e064fff64"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q4043193", 
+                    "id": "24e845a1-b433-45a6-a82c-bc7636720487"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Loscil", 
+                    "id": "1f1ea277-f21c-453a-9d57-fd321d2913f7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Vancouver", 
+            "disambiguation": "", 
+            "id": "6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef", 
+            "name": "Vancouver"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Loscil", 
+        "type": "Person", 
+        "id": "4f2c565b-ac40-4678-ba61-4fcf3b97edbc", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15467, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Loscil @ Constellation in Chicago, IL", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Chicago", 
+            "name": "Constellation", 
+            "country": "United States", 
+            "region": "IL", 
+            "longitude": -87.687639, 
+            "place": "Constellation", 
+            "latitude": 41.938101
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12743298?app_id=ticketgame&artist=Loscil&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12743298/buy_tickets?app_id=ticketgame&artist=Loscil&came_from=67", 
+        "on_sale_datetime": "2016-08-17T19:27:00", 
+        "formatted_datetime": "Thursday, November 17, 2016 at 8:30PM", 
+        "datetime": "2016-11-17T20:30:00", 
+        "formatted_location": "Chicago, IL", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=http://www.ticketfly.com/purchase/event/1293859/tfly?utm_medium=1127896&afftrack=67%7E16180299%7E%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.loscil.com/", 
+                "facebook_page_url": "https://www.facebook.com/pages/Loscil/284758388715", 
+                "name": "Loscil", 
+                "url": "Loscil", 
+                "tracker_count": 8083, 
+                "mbid": "4f2c565b-ac40-4678-ba61-4fcf3b97edbc", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6928207.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Loscil/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6928207.jpeg"
+            }, 
+            {
+                "website": "http://pioulard.com", 
+                "facebook_page_url": null, 
+                "name": "Beno\u00eet Pioulard", 
+                "url": "Beno\u00eetPioulard", 
+                "tracker_count": 5402, 
+                "mbid": "80ae2479-8c40-4a56-8bf3-b7a99cead1e4", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Beno%C3%AEtPioulard/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12743298
+    }, 
+    "ticket_details": {
+        "status": "Unknown", 
+        "price_max": 15.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442210.0, 
+    "created_time": 1478565987.0, 
+    "modified_minutes": 863, 
+    "id": 27861929
+}

@@ -1,0 +1,249 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Tyler Lyle with Joshua Fletcher at Eddie's Attic (November 22, 2016)", 
+        "popularity": 0.001603, 
+        "venue": {
+            "displayName": "Eddie's Attic", 
+            "uri": "http://www.songkick.com/venues/46595-eddies-attic?utm_source=32233&utm_medium=partner", 
+            "lat": 33.773966, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.296449, 
+            "id": 46595
+        }, 
+        "uri": "http://www.songkick.com/concerts/28085779-tyler-lyle-at-eddies-attic?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-22", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-22T19:30:00-0500"
+        }, 
+        "location": {
+            "lat": 33.773966, 
+            "city": "Decatur, GA, US", 
+            "lng": -84.296449
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0abf4edc-0394-4ec2-b98b-27596f3e0646", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0abf4edc-0394-4ec2-b98b-27596f3e0646.json"
+                        }
+                    ], 
+                    "displayName": "Tyler Lyle", 
+                    "uri": "http://www.songkick.com/artists/896875-tyler-lyle?utm_source=32233&utm_medium=partner", 
+                    "id": 896875
+                }, 
+                "displayName": "Tyler Lyle", 
+                "id": 54663389, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Joshua Fletcher", 
+                    "uri": "http://www.songkick.com/artists/3560036-joshua-fletcher?utm_source=32233&utm_medium=partner", 
+                    "id": 3560036
+                }, 
+                "displayName": "Joshua Fletcher", 
+                "id": 54684789, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28085779
+    }, 
+    "musicbrainz_response": {
+        "name": "Tyler Lyle", 
+        "area": {
+            "sort-name": "Brooklyn", 
+            "disambiguation": "", 
+            "name": "Brooklyn", 
+            "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://tylerlyle.bandcamp.com/", 
+                    "id": "e503a2e7-55fd-440c-98a0-7efbd8b15c27"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.tylerlyle.com/", 
+                    "id": "6e500671-ed60-4433-91f1-fffec6078180"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://plus.google.com/117106429749216978835", 
+                    "id": "5235c561-4284-49dd-9319-decf53037a5a"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/tylerlyle", 
+                    "id": "2bcf6302-87ae-42ea-b20e-c8fc48ec4585"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/TylerLyleMusic", 
+                    "id": "864732f5-2fc2-4036-a89e-a9e7acb7922c"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/tylerlyle/", 
+                    "id": "e0488000-ef4b-43a9-b85e-aa7f100852a5"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/tylerlyle", 
+                    "id": "f3b14189-0650-4ed6-865c-f366444113b9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/TylerLyleMusic", 
+                    "id": "df0fb60c-e7e8-4d4d-bef6-6d98f2828451"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "id": "0abf4edc-0394-4ec2-b98b-27596f3e0646", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Lyle, Tyler", 
+        "type": "Person", 
+        "twitter": "tylerlyle", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15477, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 16.0, 
+        "price_min": 12.0
+    }, 
+    "modified_time": 1479442422.0, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 870, 
+    "id": 28085779
+}

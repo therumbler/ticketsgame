@@ -1,0 +1,114 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "21+", 
+        "displayName": "Mallett Brothers Band at 5 Spot (December 6, 2016)", 
+        "popularity": 0.000215, 
+        "venue": {
+            "displayName": "5 Spot", 
+            "uri": "http://www.songkick.com/venues/80242-5-spot?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1783909, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.7503849, 
+            "id": 80242
+        }, 
+        "uri": "http://www.songkick.com/concerts/28334569-mallett-brothers-band-at-5-spot?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-06", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-06T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.1783909, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.7503849
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8765fb93-546b-460e-abc3-161bab86c341", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8765fb93-546b-460e-abc3-161bab86c341.json"
+                        }
+                    ], 
+                    "displayName": "Mallett Brothers Band", 
+                    "uri": "http://www.songkick.com/artists/3728191-mallett-brothers-band?utm_source=32233&utm_medium=partner", 
+                    "id": 3728191
+                }, 
+                "displayName": "Mallett Brothers Band", 
+                "id": 55096619, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28334569
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Mallett Brothers Band", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.mallettbrothersband.com/", 
+                    "id": "ee035a32-c9af-4948-abd3-3ae7a2220c9b"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Mallett Brothers Band, The", 
+        "gender": null, 
+        "disambiguation": "", 
+        "type": "Group", 
+        "id": "8765fb93-546b-460e-abc3-161bab86c341", 
+        "gender-id": null
+    }, 
+    "id": 28334569, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

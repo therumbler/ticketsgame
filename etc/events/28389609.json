@@ -1,0 +1,80 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Chris Stapleton and Maren Morris at KeyArena at Seattle Center (March 28, 2017)", 
+        "popularity": 0.015827, 
+        "venue": {
+            "displayName": "KeyArena at Seattle Center", 
+            "uri": "http://www.songkick.com/venues/33714-keyarena-at-seattle-center?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6216358, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.350699, 
+            "id": 33714
+        }, 
+        "uri": "http://www.songkick.com/concerts/28389609-chris-stapleton-at-keyarena-at-seattle-center?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-03-28", 
+            "time": "19:00:00", 
+            "datetime": "2017-03-28T19:00:00-0700"
+        }, 
+        "location": {
+            "lat": 47.6216358, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.350699
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "71d58182-aa37-4c04-b21a-efe46ea0f221", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:71d58182-aa37-4c04-b21a-efe46ea0f221.json"
+                        }, 
+                        {
+                            "mbid": "d5ff759e-89ad-4f1c-85b1-bfce485a0fe4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d5ff759e-89ad-4f1c-85b1-bfce485a0fe4.json"
+                        }
+                    ], 
+                    "displayName": "Chris Stapleton", 
+                    "uri": "http://www.songkick.com/artists/793839-chris-stapleton?utm_source=32233&utm_medium=partner", 
+                    "id": 793839
+                }, 
+                "displayName": "Chris Stapleton", 
+                "id": 55194339, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "109357f0-eb37-4672-9697-dca8c83a61b5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:109357f0-eb37-4672-9697-dca8c83a61b5.json"
+                        }
+                    ], 
+                    "displayName": "Maren Morris", 
+                    "uri": "http://www.songkick.com/artists/2055882-maren-morris?utm_source=32233&utm_medium=partner", 
+                    "id": 2055882
+                }, 
+                "displayName": "Maren Morris", 
+                "id": 55194344, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28389609
+    }, 
+    "id": 28389609
+}

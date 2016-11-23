@@ -1,0 +1,227 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 6.3e-05, 
+        "displayName": "Ronnie Heart, Divino Nino, and Sudie at Double Wide (November 11, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Double Wide", 
+            "uri": "http://www.songkick.com/venues/78786-double-wide?utm_source=32233&utm_medium=partner", 
+            "lat": 32.7851202, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.773785, 
+            "id": 78786
+        }, 
+        "uri": "http://www.songkick.com/concerts/28111729-ronnie-heart-at-double-wide?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 32.7851202, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.773785
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Ronnie Heart", 
+                "id": 55293559, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Ronnie Heart", 
+                    "uri": "http://www.songkick.com/artists/4610383-ronnie-heart?utm_source=32233&utm_medium=partner", 
+                    "id": 4610383
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Divino Nino", 
+                "id": 55293564, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Divino Nino", 
+                    "uri": "http://www.songkick.com/artists/5791384-divino-nino?utm_source=32233&utm_medium=partner", 
+                    "id": 5791384
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Sudie", 
+                "id": 54710409, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "19ef6990-99be-428c-b3fb-57e35dcf339f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:19ef6990-99be-428c-b3fb-57e35dcf339f.json"
+                        }
+                    ], 
+                    "displayName": "Sudie", 
+                    "uri": "http://www.songkick.com/artists/8316588-sudie?utm_source=32233&utm_medium=partner", 
+                    "id": 8316588
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28111729
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "ronnie heart", 
+        "area": {
+            "sort-name": "Texas", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-TX"
+            ], 
+            "id": "f934c8da-e40e-4056-8f8c-212e68fdcaec", 
+            "name": "Texas"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://ronnieheart.bandcamp.com/", 
+                    "id": "b64be84a-0aa0-4854-8c8f-0665b315fd55"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://schedule.sxsw.com/2015/2015/events/event_MS30098", 
+                    "id": "0e5e43a1-e8f4-42c2-9d17-7c2fdf8243e3"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.ronnieheart.com/", 
+                    "id": "4bc60e47-098b-4d98-9077-0bbac8916265"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/ronnieheartmusic", 
+                    "id": "f4ce0830-4994-4971-b945-01e6768fde44"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "sort-name": "heart, ronnie", 
+        "type": "Person", 
+        "id": "19091e5c-c04f-43cb-afe5-2d15ef530456", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15479, 
+    "bandsintown_response": {
+        "description": "Ronnie Heart w/ Divino Ni\u00f1o and Sudie", 
+        "title": "Ronnie Heart @ Double Wide in Dallas, TX", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Dallas", 
+            "name": "Double Wide", 
+            "country": "United States", 
+            "region": "TX", 
+            "longitude": -96.77638, 
+            "place": "Double Wide", 
+            "latitude": 32.783645
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13083228?app_id=ticketsgame&artist=Ronnie+Heart&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13083228/buy_tickets?app_id=ticketsgame&artist=Ronnie+Heart&came_from=67", 
+        "on_sale_datetime": "2016-10-06T14:30:17", 
+        "formatted_datetime": "Friday, November 11, 2016 at 8:00PM", 
+        "datetime": "2016-11-11T20:00:00", 
+        "formatted_location": "Dallas, TX", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1347621/tfly%3Futm_medium%3Dapi&afftrack=67%7E16435679%7E24031842%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "http://www.facebook.com/pages/Ronnie%20Heart/221403377925655", 
+                "name": "Ronnie Heart", 
+                "url": "RonnieHeart", 
+                "tracker_count": 606, 
+                "mbid": null, 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6971818.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/RonnieHeart/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6971818.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13083228
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442479.0, 
+    "created_time": 1478565996.0, 
+    "modified_minutes": 871, 
+    "id": 28111729
+}

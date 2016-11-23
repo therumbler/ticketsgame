@@ -1,0 +1,113 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Crackula and Earworms at The Fire (November 9, 2016)", 
+        "popularity": 9.9e-05, 
+        "venue": {
+            "displayName": "The Fire", 
+            "uri": "http://www.songkick.com/venues/5783-fire?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9698667, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1435846, 
+            "id": 5783
+        }, 
+        "uri": "http://www.songkick.com/concerts/28053189-crackula-at-fire?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-09T21:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9698667, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1435846
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Crackula", 
+                    "uri": "http://www.songkick.com/artists/2340317-crackula?utm_source=32233&utm_medium=partner", 
+                    "id": 2340317
+                }, 
+                "displayName": "Crackula", 
+                "id": 54609179, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "80a8851f-444c-4539-892b-ad2a49292aa9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:80a8851f-444c-4539-892b-ad2a49292aa9.json"
+                        }
+                    ], 
+                    "displayName": "Earworms", 
+                    "uri": "http://www.songkick.com/artists/514890-earworms?utm_source=32233&utm_medium=partner", 
+                    "id": 514890
+                }, 
+                "displayName": "Earworms", 
+                "id": 54642634, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28053189
+    }, 
+    "bandsintown_response": [
+        {
+            "description": "Earworms", 
+            "title": "Crackula @ The Fire in Philadelphia, PA", 
+            "ticket_type": "Tickets", 
+            "venue": {
+                "city": "Philadelphia", 
+                "name": "The Fire", 
+                "country": "United States", 
+                "region": "PA", 
+                "longitude": -75.143515, 
+                "place": "The Fire", 
+                "latitude": 39.969988
+            }, 
+            "facebook_rsvp_url": "http://www.bandsintown.com/event/12877650?app_id=ticketsgame&artist=Crackula&came_from=67", 
+            "ticket_url": "http://www.bandsintown.com/event/12877650/buy_tickets?app_id=ticketsgame&artist=Crackula&came_from=67", 
+            "on_sale_datetime": "2016-09-09T12:59:16", 
+            "formatted_datetime": "Wednesday, November 9, 2016 at 8:00PM", 
+            "datetime": "2016-11-09T20:00:00", 
+            "formatted_location": "Philadelphia, PA", 
+            "artists": [
+                {
+                    "website": null, 
+                    "facebook_page_url": null, 
+                    "name": "Crackula", 
+                    "url": "Crackula", 
+                    "tracker_count": 109, 
+                    "mbid": null, 
+                    "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                    "facebook_tour_dates_url": "http://www.bandsintown.com/Crackula/facebookapp?came_from=67", 
+                    "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+                }
+            ], 
+            "ticket_details": {
+                "price_max": 10.0, 
+                "price_min": 10.0
+            }, 
+            "ticket_status": "available", 
+            "id": 12877650
+        }
+    ], 
+    "id": 28053189, 
+    "ticket_details": false
+}

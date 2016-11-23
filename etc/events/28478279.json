@@ -1,0 +1,140 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Ricky Dillon with Andrew Lowe at Granada Theater (December 21, 2016)", 
+        "popularity": 0.003908, 
+        "venue": {
+            "displayName": "Granada Theater", 
+            "uri": "http://www.songkick.com/venues/11334-granada-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 32.8308876, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.7700051, 
+            "id": 11334
+        }, 
+        "uri": "http://www.songkick.com/concerts/28478279-ricky-dillon-at-granada-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-21", 
+            "datetime": "2016-12-21T19:00:00-0600", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 32.8308876, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.7700051
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1bab1711-7ecb-4cf9-8ed6-45457caf6657", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1bab1711-7ecb-4cf9-8ed6-45457caf6657.json"
+                        }
+                    ], 
+                    "displayName": "Ricky Dillon", 
+                    "uri": "http://www.songkick.com/artists/7211014-ricky-dillon?utm_source=32233&utm_medium=partner", 
+                    "id": 7211014
+                }, 
+                "displayName": "Ricky Dillon", 
+                "id": 55343499, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "97c75ef1-730a-44ac-9f7a-d286592a299e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:97c75ef1-730a-44ac-9f7a-d286592a299e.json"
+                        }
+                    ], 
+                    "displayName": "Andrew Lowe", 
+                    "uri": "http://www.songkick.com/artists/2423206-andrew-lowe?utm_source=32233&utm_medium=partner", 
+                    "id": 2423206
+                }, 
+                "displayName": "Andrew Lowe", 
+                "id": 55343504, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28478279
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Ricky Dillon", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Ricky_Dillon", 
+                    "id": "7a5cff14-05cf-428c-afa4-a554faf88ad5"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/PICKLEandBANANA", 
+                    "id": "6c0297b0-9441-4be7-af4e-96f95935ee10"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Dillon, Ricky", 
+        "type": null, 
+        "id": "1bab1711-7ecb-4cf9-8ed6-45457caf6657", 
+        "disambiguation": ""
+    }, 
+    "id": 28478279, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

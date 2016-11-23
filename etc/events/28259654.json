@@ -1,0 +1,119 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Daniella Mason at Mercury Lounge (November 16, 2016)", 
+        "popularity": 0.000379, 
+        "venue": {
+            "displayName": "Mercury Lounge", 
+            "uri": "http://www.songkick.com/venues/364-mercury-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7221646, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9867142, 
+            "id": 364
+        }, 
+        "uri": "http://www.songkick.com/concerts/28259654-daniella-mason-at-mercury-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": "18:30:00", 
+            "datetime": "2016-11-16T18:30:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7221646, 
+            "city": "New York, NY, US", 
+            "lng": -73.9867142
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4b198333-a8f4-4553-8d61-65f99f603603", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4b198333-a8f4-4553-8d61-65f99f603603.json"
+                        }
+                    ], 
+                    "displayName": "Daniella Mason", 
+                    "uri": "http://www.songkick.com/artists/4543623-daniella-mason?utm_source=32233&utm_medium=partner", 
+                    "id": 4543623
+                }, 
+                "displayName": "Daniella Mason", 
+                "id": 54964424, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28259654
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Daniella Mason", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.daniellamason.com/", 
+                    "id": "e9b18e17-a7df-425b-ad96-cb3f2d8e8fa6"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74", 
+            "name": "Nashville"
+        }, 
+        "sort-name": "Mason, Daniella", 
+        "gender": "Female", 
+        "id": "4b198333-a8f4-4553-8d61-65f99f603603", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2"
+    }, 
+    "id": 28259654, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

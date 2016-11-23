@@ -1,0 +1,145 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Trout Steak Revival with Cascade Crescendo at The Goodfoot Pub & Lounge (November 19, 2016)", 
+        "popularity": 0.000198, 
+        "venue": {
+            "displayName": "The Goodfoot Pub & Lounge", 
+            "uri": "http://www.songkick.com/venues/1736693-goodfoot-pub-and-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5193317, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.636328, 
+            "id": 1736693
+        }, 
+        "uri": "http://www.songkick.com/concerts/27899179-trout-steak-revival-at-goodfoot-pub-and-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-19T22:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5193317, 
+            "city": "Portland, OR, US", 
+            "lng": -122.636328
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c84f65ff-dad3-41f3-bbc5-e411d537c909", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c84f65ff-dad3-41f3-bbc5-e411d537c909.json"
+                        }
+                    ], 
+                    "displayName": "Trout Steak Revival", 
+                    "uri": "http://www.songkick.com/artists/2923381-trout-steak-revival?utm_source=32233&utm_medium=partner", 
+                    "id": 2923381
+                }, 
+                "displayName": "Trout Steak Revival", 
+                "id": 54332399, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Cascade Crescendo", 
+                    "uri": "http://www.songkick.com/artists/8075548-cascade-crescendo?utm_source=32233&utm_medium=partner", 
+                    "id": 8075548
+                }, 
+                "displayName": "Cascade Crescendo", 
+                "id": 54332404, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27899179
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Trout Steak Revival", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2008", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Denver", 
+            "disambiguation": "", 
+            "name": "Denver", 
+            "id": "fc1aee9a-f1a8-45dc-8820-af6b5d7f7450"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.troutsteak.com/", 
+                    "id": "efd79579-a472-41f9-aa43-e051b43c5e6b"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/TroutSteakRevival", 
+                    "id": "75f8ab3e-22d5-4fc8-9307-985e406c30f8"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Denver", 
+            "disambiguation": "", 
+            "name": "Denver", 
+            "id": "fc1aee9a-f1a8-45dc-8820-af6b5d7f7450"
+        }, 
+        "sort-name": "Trout Steak Revival", 
+        "gender": null, 
+        "id": "c84f65ff-dad3-41f3-bbc5-e411d537c909", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 27899179, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Dusky at Lot 613 (November 12, 2016)", 
+        "popularity": 0.016631, 
+        "venue": {
+            "displayName": "Lot 613", 
+            "uri": "http://www.songkick.com/venues/36084-lot-613?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0375659, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2316125, 
+            "id": 36084
+        }, 
+        "uri": "http://www.songkick.com/concerts/27721129-dusky-at-lot-613?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 34.0375659, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2316125
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9feea1d6-3e4e-4d3c-b84a-87a12f7cbf94", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9feea1d6-3e4e-4d3c-b84a-87a12f7cbf94.json"
+                        }
+                    ], 
+                    "displayName": "Dusky", 
+                    "uri": "http://www.songkick.com/artists/5102653-dusky?utm_source=32233&utm_medium=partner", 
+                    "id": 5102653
+                }, 
+                "displayName": "Dusky", 
+                "id": 54006094, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27721129
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Dusky", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "country": "GB", 
+        "twitter": "Duskymusic", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2384129", 
+                    "id": "9c6c8983-fd8c-4d3b-9134-b8746636ce2f"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/Duskymusic", 
+                    "id": "bbed5d07-fa74-4609-aeaf-9856af39db60"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "id": "9feea1d6-3e4e-4d3c-b84a-87a12f7cbf94", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Dusky", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 27721129, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

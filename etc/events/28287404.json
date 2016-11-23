@@ -1,0 +1,363 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Klingande at A.i. (November 11, 2016)", 
+        "popularity": 0.045596, 
+        "venue": {
+            "displayName": "A.i.", 
+            "uri": "http://www.songkick.com/venues/3194984-ai?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9052763, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -76.9815877, 
+            "id": 3194984
+        }, 
+        "uri": "http://www.songkick.com/concerts/28287404-klingande-at-ai?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-11T22:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.9052763, 
+            "city": "Washington, DC, US", 
+            "lng": -76.9815877
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1faebb11-9c72-4a6f-8886-351efcab991e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1faebb11-9c72-4a6f-8886-351efcab991e.json"
+                        }
+                    ], 
+                    "displayName": "Klingande", 
+                    "uri": "http://www.songkick.com/artists/6982489-klingande?utm_source=32233&utm_medium=partner", 
+                    "id": 6982489
+                }, 
+                "displayName": "Klingande", 
+                "id": 55012634, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28287404
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Klingande", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "deep house"
+            }
+        ], 
+        "country": "FR", 
+        "twitter": "KlingandeMusic", 
+        "area": {
+            "sort-name": "France", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "FR"
+            ], 
+            "name": "France", 
+            "id": "08310658-51eb-3801-80de-5a0739207115"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003162785", 
+                    "id": "a329babd-3cd1-4523-be34-74f8db005a4a"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3538809", 
+                    "id": "8aa1b049-35c5-49cf-883d-efbc6f8132b9"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-14018/klingande/lyrics.html", 
+                    "id": "cb2cdbe6-b1cb-4d56-81c5-dd88de88ba6f"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://klingandemusic.com/", 
+                    "id": "2d463e59-f33a-49d2-95f0-2d7bb9dfb768"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.residentadvisor.net/dj/klingande", 
+                    "id": "71db0f95-f2e9-4810-93f8-9bf403c1a28a"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/klingande", 
+                    "id": "f479d26d-f332-4b9a-aac1-52e0b59f07e3"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://pro.beatport.com/artist/klingande/356624", 
+                    "id": "368573b4-5544-4708-b8fc-3d273f285bcd"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/klingandemusic/", 
+                    "id": "6f7ca109-613b-4b95-8c52-72e1727b720a"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/KlingandeMusic", 
+                    "id": "68aea02d-2f2e-4c7d-a9df-81ec2ff3f6aa"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Klingande", 
+                    "id": "48737121-6313-4c82-8a2c-d34f1683c44b"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/klingande", 
+                    "id": "79f2056a-b24a-44bc-941f-038ca9ddb7d2"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q15041224", 
+                    "id": "ab82f18c-f3ff-4e65-852a-02903d526a80"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Klingande", 
+                    "id": "67783647-9071-4620-b1a5-24c037bc893f"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/Klingande1", 
+                    "id": "9c9004cb-f910-4e8b-861f-6136f9bfdf40"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/klingandeVEVO", 
+                    "id": "5fe82777-4ead-47ac-a685-89e952619fc3"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": "2012-12", 
+            "end": null
+        }, 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Croix", 
+            "disambiguation": "", 
+            "id": "cfc6ae08-0a1d-470f-aa2c-3680bdfde015", 
+            "name": "Croix"
+        }, 
+        "id": "1faebb11-9c72-4a6f-8886-351efcab991e", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Klingande", 
+        "ipis": [], 
+        "type": "Group", 
+        "disambiguation": ""
+    }, 
+    "id": 28287404, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

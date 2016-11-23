@@ -1,0 +1,209 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "CAFUN\u00c9 with White Lights and JIL at Knitting Factory (November 14, 2016)", 
+        "popularity": 0.000204, 
+        "venue": {
+            "displayName": "Knitting Factory", 
+            "uri": "http://www.songkick.com/venues/664591-knitting-factory?utm_source=32233&utm_medium=partner", 
+            "lat": 40.714173, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9556651, 
+            "id": 664591
+        }, 
+        "uri": "http://www.songkick.com/concerts/28446254-cafune-at-knitting-factory?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-14", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 40.714173, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9556651
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ad10c69c-0cae-4c27-934d-a02e4ecc9985", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ad10c69c-0cae-4c27-934d-a02e4ecc9985.json"
+                        }
+                    ], 
+                    "displayName": "CAFUN\u00c9", 
+                    "uri": "http://www.songkick.com/artists/8129318-cafune?utm_source=32233&utm_medium=partner", 
+                    "id": 8129318
+                }, 
+                "displayName": "CAFUN\u00c9", 
+                "id": 55289574, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "White Lights", 
+                    "uri": "http://www.songkick.com/artists/918247-white-lights?utm_source=32233&utm_medium=partner", 
+                    "id": 918247
+                }, 
+                "displayName": "White Lights", 
+                "id": 55289579, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "JIL", 
+                    "uri": "http://www.songkick.com/artists/8661954-jil?utm_source=32233&utm_medium=partner", 
+                    "id": 8661954
+                }, 
+                "displayName": "JIL", 
+                "id": 55289584, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28446254
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "CAFUN\u00c9", 
+        "tags": [], 
+        "country": null, 
+        "twitter": "wearecafune", 
+        "area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f", 
+            "name": "New York"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://wearecafune.bandcamp.com/", 
+                    "id": "cff4fc5d-3f3c-44a0-8718-ce586be7835f"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://wearecafune.com/", 
+                    "id": "e3fa5782-97af-4490-aba0-f991b8cc64ae"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/wearecafune", 
+                    "id": "8a55ceae-0610-432f-a92b-eb68040a5b80"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/wearecafune", 
+                    "id": "093153bb-fb10-46d4-b419-4fd2fddc21a7"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/wearecafune", 
+                    "id": "695783f3-2ab0-4255-9a51-12a1a0e5b797"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "name": "New York", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f"
+        }, 
+        "id": "ad10c69c-0cae-4c27-934d-a02e4ecc9985", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "CAFUN\u00c9", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2014", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28446254, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

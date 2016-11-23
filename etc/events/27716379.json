@@ -1,0 +1,166 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000326, 
+        "displayName": "John D. Hale Band and Cole Porter Band at Globe Hall (November 10, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Globe Hall", 
+            "uri": "http://www.songkick.com/venues/3126954-globe-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 39.778064, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9825518, 
+            "id": 3126954
+        }, 
+        "uri": "http://www.songkick.com/concerts/27716379-john-d-hale-band-at-globe-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "datetime": "2016-11-10T20:00:00-0700", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 39.778064, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9825518
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "John D. Hale Band", 
+                "id": 53996914, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1e44d47e-17e1-46f2-8e00-e9919fbf5b69", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1e44d47e-17e1-46f2-8e00-e9919fbf5b69.json"
+                        }
+                    ], 
+                    "displayName": "John D. Hale Band", 
+                    "uri": "http://www.songkick.com/artists/931495-john-d-hale-band?utm_source=32233&utm_medium=partner", 
+                    "id": 931495
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Cole Porter Band", 
+                "id": 55239719, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Cole Porter Band", 
+                    "uri": "http://www.songkick.com/artists/4999238-cole-porter-band?utm_source=32233&utm_medium=partner", 
+                    "id": 4999238
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27716379
+    }, 
+    "bandsintown_response": {
+        "description": "John D. Hale Band, Cole Porter Band", 
+        "title": "John D. Hale Band @ Globe Hall in Denver, CO", 
+        "ticket_type": null, 
+        "venue": {
+            "city": "Denver", 
+            "name": "Globe Hall", 
+            "country": "United States", 
+            "region": "CO", 
+            "longitude": -104.982552, 
+            "place": "Globe Hall", 
+            "latitude": 39.778064
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12618857?app_id=ticketgame&artist=John+D.+Hale+Band&came_from=67", 
+        "ticket_url": null, 
+        "on_sale_datetime": "2016-10-25T11:00:19", 
+        "formatted_datetime": "Thursday, November 10, 2016 at 8:00PM", 
+        "datetime": "2016-11-10T20:00:00", 
+        "formatted_location": "Denver, CO", 
+        "artists": [
+            {
+                "website": "", 
+                "facebook_page_url": "https://www.facebook.com/pages/John-D-Hale-Band/21446522753", 
+                "name": "John D. Hale Band", 
+                "url": "JohnD.HaleBand", 
+                "tracker_count": 3862, 
+                "mbid": "1e44d47e-17e1-46f2-8e00-e9919fbf5b69", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6390511.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/JohnD.HaleBand/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6390511.jpeg"
+            }
+        ], 
+        "ticket_status": "unavailable", 
+        "id": 12618857
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "John D. Hale Band", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/johndhaleband", 
+                    "id": "4787b429-8796-47ae-80c1-f902e3b1cacd"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://johndhaleband.com/", 
+                    "id": "464c5479-f890-4157-b729-c8b147d1cfcf"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Hale, John D. Band", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "1e44d47e-17e1-46f2-8e00-e9919fbf5b69", 
+        "type": "Group", 
+        "disambiguation": ""
+    }, 
+    "id": 27716379, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

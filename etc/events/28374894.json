@@ -1,0 +1,139 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Bridge to Grace with Artifas at The Warehouse (December 16, 2016)", 
+        "popularity": 0.000259, 
+        "venue": {
+            "displayName": "The Warehouse", 
+            "uri": "http://www.songkick.com/venues/65248-warehouse?utm_source=32233&utm_medium=partner", 
+            "lat": 36.533396, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -87.364147, 
+            "id": 65248
+        }, 
+        "uri": "http://www.songkick.com/concerts/28374894-bridge-to-grace-at-warehouse?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-16", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-16T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.533396, 
+            "city": "Clarksville, TN, US", 
+            "lng": -87.364147
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f1936a28-33a7-4d4b-85e4-df383eba6ba3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f1936a28-33a7-4d4b-85e4-df383eba6ba3.json"
+                        }
+                    ], 
+                    "displayName": "Bridge to Grace", 
+                    "uri": "http://www.songkick.com/artists/5550803-bridge-to-grace?utm_source=32233&utm_medium=partner", 
+                    "id": 5550803
+                }, 
+                "displayName": "Bridge to Grace", 
+                "id": 55168399, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f3b9f023-ed0a-4b27-9500-c41a32bfadf9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f3b9f023-ed0a-4b27-9500-c41a32bfadf9.json"
+                        }
+                    ], 
+                    "displayName": "Artifas", 
+                    "uri": "http://www.songkick.com/artists/5196553-artifas?utm_source=32233&utm_medium=partner", 
+                    "id": 5196553
+                }, 
+                "displayName": "Artifas", 
+                "id": 55168404, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28374894
+    }, 
+    "musicbrainz_response": {
+        "name": "Bridge to Grace", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2011-03-26", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Atlanta", 
+            "disambiguation": "", 
+            "id": "26e0e534-19ea-4645-bfb3-1aa4e83a4046", 
+            "name": "Atlanta"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/home.php#!/BridgeToGrace/info", 
+                    "id": "9c74df27-cf3c-4b4f-92b0-c559bb0a0903"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Atlanta", 
+            "disambiguation": "", 
+            "id": "26e0e534-19ea-4645-bfb3-1aa4e83a4046", 
+            "name": "Atlanta"
+        }, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Bridge to Grace", 
+        "type": "Group", 
+        "id": "f1936a28-33a7-4d4b-85e4-df383eba6ba3", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15505, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 12.0
+    }, 
+    "modified_time": 1479442656.0, 
+    "created_time": 1478566042.0, 
+    "modified_minutes": 895, 
+    "id": 28374894
+}

@@ -1,0 +1,307 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Jennette McCurdy and Tyler James Williams at WaMu Theater (December 11, 2016)", 
+        "popularity": 0.005315, 
+        "venue": {
+            "displayName": "WaMu Theater", 
+            "uri": "http://www.songkick.com/venues/578496-wamu-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 47.594181, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3332315, 
+            "id": 578496
+        }, 
+        "uri": "http://www.songkick.com/concerts/28282289-jennette-mccurdy-at-wamu-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-11", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 47.594181, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3332315
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7f56716c-803a-4901-bf09-42f1d72f454f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7f56716c-803a-4901-bf09-42f1d72f454f.json"
+                        }
+                    ], 
+                    "displayName": "Jennette McCurdy", 
+                    "uri": "http://www.songkick.com/artists/2828891-jennette-mccurdy?utm_source=32233&utm_medium=partner", 
+                    "id": 2828891
+                }, 
+                "displayName": "Jennette McCurdy", 
+                "id": 55004139, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c23d40bf-0f03-4a52-a16c-9c50994322ab", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c23d40bf-0f03-4a52-a16c-9c50994322ab.json"
+                        }
+                    ], 
+                    "displayName": "Tyler James Williams", 
+                    "uri": "http://www.songkick.com/artists/8852109-tyler-james-williams?utm_source=32233&utm_medium=partner", 
+                    "id": 8852109
+                }, 
+                "displayName": "Tyler James Williams", 
+                "id": 55004144, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28282289
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Jennette McCurdy", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "twitter": "jennettemccurdy", 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0001717011", 
+                    "id": "450e4de6-bf02-4227-be02-cff35144c28f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2201103", 
+                    "id": "1c827330-884f-42bc-9273-3b2b21fd49c3"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Jennette+McCurdy", 
+                    "id": "70a1863b-e5e8-4736-bdd3-e6c716def0c9"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/jennette-mccurdy-lyrics", 
+                    "id": "ce93b98d-3adb-470d-85f2-3368de246430"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://jennettemccurdy.com/", 
+                    "id": "5b1a4c56-1c91-47ce-980b-eb68be95a931"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id307073726", 
+                    "id": "192396e2-ba05-479c-b0f7-c9089975c305"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/jennettemccurdy", 
+                    "id": "fe8f290b-c153-4c00-ae85-1138ee011100"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/jennettemccurdy", 
+                    "id": "00ec0645-9600-4f14-8748-8f6b172dd77f"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/jennettemccurdy", 
+                    "id": "ca5da753-6a04-49a6-b848-908972d68f69"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q4473", 
+                    "id": "47659b6a-a97d-40df-990e-82f9ff3a9d8e"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Jennette_McCurdy", 
+                    "id": "d07c8420-7159-400b-8c35-c3430d763dad"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Long Beach", 
+            "disambiguation": "", 
+            "name": "Long Beach", 
+            "id": "e183ffae-1d35-4c78-b552-957535e40af1"
+        }, 
+        "sort-name": "McCurdy, Jennette", 
+        "gender": "Female", 
+        "id": "7f56716c-803a-4901-bf09-42f1d72f454f", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1992-06-26", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28282289, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

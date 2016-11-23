@@ -1,0 +1,188 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "18+", 
+        "displayName": "JPNSGRLS with Fizzy Blood at Hoxton Square Bar & Kitchen (November 18, 2016)", 
+        "popularity": 0.000345, 
+        "venue": {
+            "displayName": "Hoxton Square Bar & Kitchen", 
+            "uri": "http://www.songkick.com/venues/8280-hoxton-square-bar-and-kitchen?utm_source=32233&utm_medium=partner", 
+            "lat": 51.527476, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.081657, 
+            "id": 8280
+        }, 
+        "uri": "http://www.songkick.com/concerts/27913984-jpnsgrls-at-hoxton-square-bar-and-kitchen?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-18T19:30:00+0000"
+        }, 
+        "location": {
+            "lat": 51.527476, 
+            "city": "London, UK", 
+            "lng": -0.081657
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e97e4c85-0e9a-4ce1-bf2b-bfa62176d938", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e97e4c85-0e9a-4ce1-bf2b-bfa62176d938.json"
+                        }
+                    ], 
+                    "displayName": "JPNSGRLS", 
+                    "uri": "http://www.songkick.com/artists/7820639-jpnsgrls?utm_source=32233&utm_medium=partner", 
+                    "id": 7820639
+                }, 
+                "displayName": "JPNSGRLS", 
+                "id": 54360394, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ef117cc1-e412-4043-8554-1396b3c3c6bb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ef117cc1-e412-4043-8554-1396b3c3c6bb.json"
+                        }
+                    ], 
+                    "displayName": "Fizzy Blood", 
+                    "uri": "http://www.songkick.com/artists/7857169-fizzy-blood?utm_source=32233&utm_medium=partner", 
+                    "id": 7857169
+                }, 
+                "displayName": "Fizzy Blood", 
+                "id": 54360399, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27913984
+    }, 
+    "musicbrainz_response": {
+        "name": "JPNSGRLS", 
+        "tags": [], 
+        "country": "CA", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2010", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "name": "Canada", 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://jpnsgrls.bandcamp.com/", 
+                    "id": "84518b25-be77-4271-894e-7ba569e64621"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://jpnsgrls.com/", 
+                    "id": "79d0e571-d6e9-4356-aa19-cd2568499e69"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/jpnsgrls", 
+                    "id": "0d1e9bfc-0866-4d16-8d5f-d3a4a8b1140e"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/JPNSGRLS", 
+                    "id": "bed85e5b-47da-4c7a-b531-60064d03a3d1"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Vancouver", 
+            "disambiguation": "", 
+            "id": "6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef", 
+            "name": "Vancouver"
+        }, 
+        "sort-name": "JPNSGRLS", 
+        "gender": null, 
+        "disambiguation": "", 
+        "type": "Group", 
+        "id": "e97e4c85-0e9a-4ce1-bf2b-bfa62176d938", 
+        "gender-id": null
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://tickets.songkick.com/events/27913984"
+    }, 
+    "modified_time": 1479442241.0, 
+    "created_minutes": 18163, 
+    "created_time": 1478566022.0, 
+    "modified_minutes": 3559, 
+    "id": 27913984
+}

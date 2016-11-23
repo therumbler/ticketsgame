@@ -1,0 +1,391 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Dilly Dally with Beliefs and Bad Channels at Lee's Palace (December 2, 2016)", 
+        "popularity": 0.001811, 
+        "venue": {
+            "displayName": "Lee's Palace", 
+            "uri": "http://www.songkick.com/venues/30293-lees-palace?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6654327, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.4095002, 
+            "id": 30293
+        }, 
+        "uri": "http://www.songkick.com/concerts/28287674-dilly-dally-at-lees-palace?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "time": "20:30:00", 
+            "datetime": "2016-12-02T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 43.6654327, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.4095002
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e6eda7e1-2758-47c5-80e3-77493a7e469f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e6eda7e1-2758-47c5-80e3-77493a7e469f.json"
+                        }
+                    ], 
+                    "displayName": "Dilly Dally", 
+                    "uri": "http://www.songkick.com/artists/4625663-dilly-dally?utm_source=32233&utm_medium=partner", 
+                    "id": 4625663
+                }, 
+                "displayName": "Dilly Dally", 
+                "id": 55013179, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5808f0d9-6160-4843-8a61-a2a854b70074", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5808f0d9-6160-4843-8a61-a2a854b70074.json"
+                        }
+                    ], 
+                    "displayName": "Beliefs", 
+                    "uri": "http://www.songkick.com/artists/4871058-beliefs?utm_source=32233&utm_medium=partner", 
+                    "id": 4871058
+                }, 
+                "displayName": "Beliefs", 
+                "id": 55308879, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Bad Channels", 
+                    "uri": "http://www.songkick.com/artists/1613581-bad-channels?utm_source=32233&utm_medium=partner", 
+                    "id": 1613581
+                }, 
+                "displayName": "Bad Channels", 
+                "id": 55308884, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28287674
+    }, 
+    "musicbrainz_response": {
+        "name": "Dilly Dally", 
+        "twitter": "dillydallyto", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative"
+            }, 
+            {
+                "count": 1, 
+                "name": "dally"
+            }, 
+            {
+                "count": 1, 
+                "name": "dilly"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "toronto"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Toronto", 
+            "disambiguation": "", 
+            "name": "Toronto", 
+            "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://dillydally.bandcamp.com/", 
+                    "id": "61c15e66-7845-40dc-863b-bf244277ada1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4620678", 
+                    "id": "a47be50d-b021-4bde-a644-c82b01dec092"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Dilly+Dally", 
+                    "id": "15d96633-e265-4355-8e17-c1d91a30d0a0"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.dillydallyband.com/", 
+                    "id": "ab9f5670-2389-42df-9c5b-f009517d441e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/dilly_dally", 
+                    "id": "db3b095e-9147-4ea1-b908-c5d324fac96e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/dillydallyto", 
+                    "id": "ee5cd4e0-5c35-4566-bfb5-df0c3fae8309"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/DillyDallyTO", 
+                    "id": "185ee16d-08dc-4f98-93dd-4f79270a37e0"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/dillydallyto/", 
+                    "id": "7f25478e-f4ed-4b5b-86d7-ed2c22b672e4"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/4625663-dilly-dally", 
+                    "id": "72b14043-2eb5-40cf-ad93-129be815bddd"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/dilly-dally", 
+                    "id": "8a86d1ed-7b8d-4887-ab62-1c4eb51d3ace"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q21287616", 
+                    "id": "4fed8e6d-aff4-49de-aa28-985b9ed3fdab"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/DillyDallyVEVO", 
+                    "id": "2652ab4e-c071-4ef1-9fe8-6c0e7ae23117"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Dilly Dally", 
+        "type": "Group", 
+        "id": "e6eda7e1-2758-47c5-80e3-77493a7e469f", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15880, 
+    "bandsintown_response": {
+        "description": "Dilly Dally", 
+        "title": "Dilly Dally @ Lee's Palace in Toronto, Canada", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Toronto", 
+            "name": "Lee's Palace", 
+            "country": "Canada", 
+            "region": "ON", 
+            "longitude": -79.409519, 
+            "place": "Lee's Palace", 
+            "latitude": 43.665355
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13087199?app_id=ticketsgame&artist=Dilly+Dally&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13087199/buy_tickets?app_id=ticketsgame&artist=Dilly+Dally&came_from=67", 
+        "on_sale_datetime": "2016-10-07T12:00:00", 
+        "formatted_datetime": "Friday, December 2, 2016 at 8:30PM", 
+        "datetime": "2016-12-02T20:30:00", 
+        "formatted_location": "Toronto, Canada", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1347775/tfly%3Futm_medium%3Dapi&afftrack=67%7E16440995%7E24040643%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/DillyDallyTO/", 
+                "name": "Dilly Dally", 
+                "url": "DillyDally", 
+                "tracker_count": 7437, 
+                "mbid": null, 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6873290.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/DillyDally/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6873290.jpeg"
+            }
+        ], 
+        "ticket_details": {
+            "price_max": 15.0, 
+            "price_min": 15.0
+        }, 
+        "ticket_status": "available", 
+        "id": 13087199
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442891.0, 
+    "created_time": 1478543016.0, 
+    "modified_minutes": 882, 
+    "id": 28287674
+}

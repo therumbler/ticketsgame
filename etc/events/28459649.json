@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "WAFF at Space (November 12, 2016)", 
+        "popularity": 0.000913, 
+        "venue": {
+            "displayName": "Space", 
+            "uri": "http://www.songkick.com/venues/11045-space?utm_source=32233&utm_medium=partner", 
+            "lat": 25.7844757, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "FL"
+                }, 
+                "displayName": "Miami", 
+                "uri": "http://www.songkick.com/metro_areas/9776-us-miami?utm_source=32233&utm_medium=partner", 
+                "id": 9776
+            }, 
+            "lng": -80.1931356, 
+            "id": 11045
+        }, 
+        "uri": "http://www.songkick.com/concerts/28459649-waff-at-space?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 25.7844757, 
+            "city": "Miami, FL, US", 
+            "lng": -80.1931356
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "53d45985-0d18-4a63-adbd-c802a0c9292d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:53d45985-0d18-4a63-adbd-c802a0c9292d.json"
+                        }
+                    ], 
+                    "displayName": "WAFF", 
+                    "uri": "http://www.songkick.com/artists/1648880-waff?utm_source=32233&utm_medium=partner", 
+                    "id": 1648880
+                }, 
+                "displayName": "WAFF", 
+                "id": 55312259, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28459649
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "wAFF", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2569730", 
+                    "id": "7f2f9048-13c8-42e7-acfc-5d5cdd2564a5"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "wAFF", 
+        "type": null, 
+        "id": "53d45985-0d18-4a63-adbd-c802a0c9292d", 
+        "disambiguation": ""
+    }, 
+    "id": 28459649, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

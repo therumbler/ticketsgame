@@ -1,0 +1,93 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Triaxis at Nambucca (November 13, 2016)", 
+        "popularity": 9.1e-05, 
+        "venue": {
+            "displayName": "Nambucca", 
+            "uri": "http://www.songkick.com/venues/4114-nambucca?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5609729, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1236348, 
+            "id": 4114
+        }, 
+        "uri": "http://www.songkick.com/concerts/28211164-triaxis-at-nambucca?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.5609729, 
+            "city": "London, UK", 
+            "lng": -0.1236348
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5ea5680f-a380-423b-bbda-1becef1685ba", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5ea5680f-a380-423b-bbda-1becef1685ba.json"
+                        }
+                    ], 
+                    "displayName": "Triaxis", 
+                    "uri": "http://www.songkick.com/artists/988973-triaxis?utm_source=32233&utm_medium=partner", 
+                    "id": 988973
+                }, 
+                "displayName": "Triaxis", 
+                "id": 54884254, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28211164
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Triaxis", 
+        "tags": [], 
+        "country": "GB", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2005", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Triaxis", 
+        "gender": null, 
+        "id": "5ea5680f-a380-423b-bbda-1becef1685ba", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28211164, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

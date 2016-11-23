@@ -1,0 +1,231 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mother's Finest at The Foundry (November 18, 2016)", 
+        "popularity": 0.003311, 
+        "venue": {
+            "displayName": "The Foundry", 
+            "uri": "http://www.songkick.com/venues/2815963-foundry?utm_source=32233&utm_medium=partner", 
+            "lat": 33.9636287, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -83.3747351, 
+            "id": 2815963
+        }, 
+        "uri": "http://www.songkick.com/concerts/28168204-mothers-finest-at-foundry?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "datetime": "2016-11-18T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 33.9636287, 
+            "city": "Athens, GA, US", 
+            "lng": -83.3747351
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7b38a145-7137-4c61-8d04-89ade521a6fc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7b38a145-7137-4c61-8d04-89ade521a6fc.json"
+                        }
+                    ], 
+                    "displayName": "Mother's Finest", 
+                    "uri": "http://www.songkick.com/artists/507745-mothers-finest?utm_source=32233&utm_medium=partner", 
+                    "id": 507745
+                }, 
+                "displayName": "Mother's Finest", 
+                "id": 54808399, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28168204
+    }, 
+    "musicbrainz_response": {
+        "name": "Mother\u2019s Finest", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "funk rock"
+            }
+        ], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000599389", 
+                    "id": "546d0963-d71a-46bd-bd9a-f757ba7f2485"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/273750", 
+                    "id": "f28d5c5b-c157-467a-b5b2-1c147dd1d0a7"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/mothers-finest-lyrics", 
+                    "id": "5d52f0db-8956-48b4-ae1e-39b1e74367b1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-5766/mothers-finest/lyrics.html", 
+                    "id": "af3dbc2e-d44a-44ca-921a-9c1280af3454"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.mothersfinest.com/", 
+                    "id": "25176d43-e733-41b6-a575-445750f446d7"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1752769", 
+                    "id": "9f5e4d5c-1b9c-4353-ab72-6eb21a97a3dd"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Mother's_Finest", 
+                    "id": "ec959303-55a1-484c-9156-bc66c32638bd"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Mother\u2019s Finest", 
+        "type": "Group", 
+        "id": "7b38a145-7137-4c61-8d04-89ade521a6fc", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "facebook_page_url": "https://www.facebook.com/mothersfinestofficial", 
+        "upcoming_event_count": 3, 
+        "name": "Mother's Finest", 
+        "tracker_count": 8272, 
+        "mbid": "7b38a145-7137-4c61-8d04-89ade521a6fc", 
+        "image_url": "https://s3.amazonaws.com/bit-photos/large/6280638.jpeg", 
+        "facebook_tour_dates_url": "http://www.bandsintown.com/Mother%27sFinest/facebookapp?came_from=67", 
+        "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6280638.jpeg"
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://public.ticketbiscuit.com/MeltingPointAthens/Events/273673"
+    }, 
+    "modified_time": 1479442551.0, 
+    "created_minutes": 18174, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 3564, 
+    "id": 28168204
+}

@@ -1,0 +1,646 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.068652, 
+        "displayName": "Tokyo Police Club at Mod Club Theatre (December 10, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Mod Club Theatre", 
+            "uri": "http://www.songkick.com/venues/2838283-mod-club-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6553503, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.4194419, 
+            "id": 2838283
+        }, 
+        "uri": "http://www.songkick.com/concerts/28067214-tokyo-police-club-at-mod-club-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-10", 
+            "datetime": "2016-12-10T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 43.6553503, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.4194419
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Tokyo Police Club", 
+                "id": 54631969, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "35a6a353-b186-4c13-a264-d18d5e2ce853", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:35a6a353-b186-4c13-a264-d18d5e2ce853.json"
+                        }
+                    ], 
+                    "displayName": "Tokyo Police Club", 
+                    "uri": "http://www.songkick.com/artists/42670-tokyo-police-club?utm_source=32233&utm_medium=partner", 
+                    "id": 42670
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28067214
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Tokyo Police Club", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "indie"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock and indie"
+            }
+        ], 
+        "country": "CA", 
+        "twitter": "tokyopoliceclub", 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+            "name": "Canada"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/35a6a353-b186-4c13-a264-d18d5e2ce853", 
+                    "id": "0e12e259-5e10-4e6f-9171-43b1f814dc5e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm2628038/", 
+                    "id": "32f3ac72-d45e-4dbf-a42f-41b72fedec7e"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/136438527", 
+                    "id": "a648dac7-6955-4b78-aafd-b6c681e29fe6"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000915808", 
+                    "id": "cdc5ae36-0641-44bb-a097-33026c97a99d"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://tokyopoliceclub.tumblr.com/", 
+                    "id": "f815fc50-096d-4824-9786-29df55d36a04"
+                }, 
+                "direction": "forward", 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/678402", 
+                    "id": "16f62dc5-56da-451f-8355-498a331d4ac4"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Tokyo_Police_Club_2008.jpg", 
+                    "id": "6d2b4ccd-737f-4e04-82ad-0b862ba9c937"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Tokyo+Police+Club", 
+                    "id": "1e5b3e5c-6dcf-4e54-91f2-40140250e39d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/tokyo-police-club-lyrics", 
+                    "id": "da3aadec-a210-4263-b1c9-a148cb756123"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://genius.com/artists/Tokyo-police-club", 
+                    "id": "f1268f1a-267d-418c-b6ae-32e250aeb015"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/Tokyo_Police_Club", 
+                    "id": "09990d3e-9722-4c64-b3f4-be5ee0b9c96e"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-6198/tokyo-police-club/lyrics.html", 
+                    "id": "f4c1b570-a224-46db-a492-77cdeee66f2b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/tokyopoliceclub", 
+                    "id": "42c10ee9-ff51-412c-ac92-3b345a730d7c"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://tokyopoliceclub.com/", 
+                    "id": "f8e55fa9-46c1-456f-b504-2bda6afae563"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/tokyo_police_club", 
+                    "id": "6069872d-f59d-49a6-95c1-f0834579bbce"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.musik-sammler.de/artist/46369", 
+                    "id": "05057973-5d0e-48c9-998b-766427e9c46e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.worldcat.org/identities/lccn-no2007083302/", 
+                    "id": "8c34f629-c8d2-4e71-8ddb-d4564b2fd80e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id154606506", 
+                    "id": "37064c50-58ec-4ec3-ab48-d5a78389c6f8"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.purevolume.com/tokyopoliceclub", 
+                    "id": "b8df59f8-afb3-4a3b-8103-2910549a34a8"
+                }, 
+                "begin": null, 
+                "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purevolume", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/46041", 
+                    "id": "db636dbc-cdbc-4f6d-b818-ce85197fa60e"
+                }, 
+                "begin": null, 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/wearetokyopoliceclub/", 
+                    "id": "dc7ffe7e-72d4-4a3b-be37-e6b5d4c43b04"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/tokyopoliceclub", 
+                    "id": "e631ca69-9c34-4519-a3ca-47f0c45d2174"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/tokyopoliceclub", 
+                    "id": "e93e6d9d-9662-492c-9b75-696624c5b3af"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/tokyopoliceclub/", 
+                    "id": "de3adeac-4fc3-43da-952b-3c77dc93b3d0"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/3wyfo3svXNWnszGAEVey11", 
+                    "id": "5aab0931-cee5-4076-8f49-17c1ca8e0072"
+                }, 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q304130", 
+                    "id": "dea12cc0-0931-4e10-8ac9-f3320171254e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Tokyo_Police_Club", 
+                    "id": "39421079-78d4-4cbb-a7e7-02cedbe3083c"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/wearetokyopoliceclub", 
+                    "id": "2be882d1-8e13-4c0c-8943-18c9a2939e74"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Newmarket", 
+            "disambiguation": "", 
+            "id": "07bf160c-fd02-4a6e-a097-214327d009fa", 
+            "name": "Newmarket"
+        }, 
+        "id": "35a6a353-b186-4c13-a264-d18d5e2ce853", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Tokyo Police Club", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2005", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Tokyo Police Club @ The Mod Club in Toronto, Canada", 
+        "ticket_type": "Sold Out", 
+        "venue": {
+            "city": "Toronto", 
+            "name": "The Mod Club", 
+            "country": "Canada", 
+            "region": "ON", 
+            "longitude": -79.419188, 
+            "place": "The Mod Club", 
+            "latitude": 43.655212
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12915129?app_id=ticketsgame&artist=Tokyo+Police+Club&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12915129/buy_tickets?app_id=ticketsgame&artist=Tokyo+Police+Club&came_from=67", 
+        "on_sale_datetime": "2016-09-16T12:00:00", 
+        "formatted_datetime": "Saturday, December 10, 2016 at 7:00PM", 
+        "datetime": "2016-12-10T19:00:00", 
+        "formatted_location": "Toronto, Canada", 
+        "ticket_redirect_url": "http://ticketf.ly/2cfgvIB", 
+        "artists": [
+            {
+                "website": "http://www.tokyopoliceclub.com", 
+                "facebook_page_url": "https://www.facebook.com/tokyopoliceclub", 
+                "name": "Tokyo Police Club", 
+                "url": "TokyoPoliceClub", 
+                "tracker_count": 153478, 
+                "mbid": "35a6a353-b186-4c13-a264-d18d5e2ce853", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6171913.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TokyoPoliceClub/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6171913.jpeg"
+            }, 
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "Your Boy Tony Braxton", 
+                "url": "YourBoyTonyBraxton", 
+                "tracker_count": 158, 
+                "mbid": null, 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/YourBoyTonyBraxton/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }, 
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "LookaLike", 
+                "url": "LookaLike", 
+                "tracker_count": 163, 
+                "mbid": null, 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/LookaLike/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12915129
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://ticketf.ly/2cfgvIB"
+    }, 
+    "modified_time": 1479442342.0, 
+    "created_minutes": 18551, 
+    "created_time": 1478543016.0, 
+    "modified_minutes": 3562, 
+    "id": 28067214
+}

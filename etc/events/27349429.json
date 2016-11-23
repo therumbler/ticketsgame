@@ -1,0 +1,110 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Al Stewart at The Colonial Theatre (November 18, 2016)", 
+        "popularity": 0.016448, 
+        "venue": {
+            "displayName": "The Colonial Theatre", 
+            "uri": "http://www.songkick.com/venues/2808-colonial-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 40.133846, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.517447, 
+            "id": 2808
+        }, 
+        "uri": "http://www.songkick.com/concerts/27349429-al-stewart-at-colonial-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 40.133846, 
+            "city": "Phoenixville, PA, US", 
+            "lng": -75.517447
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "dc8eb6cf-1d79-40fd-945f-83833614a0b8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:dc8eb6cf-1d79-40fd-945f-83833614a0b8.json"
+                        }, 
+                        {
+                            "mbid": "ab7d49fa-c383-4c41-b890-3fe68e559dc4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ab7d49fa-c383-4c41-b890-3fe68e559dc4.json"
+                        }
+                    ], 
+                    "displayName": "Al Stewart", 
+                    "uri": "http://www.songkick.com/artists/400687-al-stewart?utm_source=32233&utm_medium=partner", 
+                    "id": 400687
+                }, 
+                "displayName": "Al Stewart", 
+                "id": 53325949, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27349429
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Al Stewart", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "gender": null, 
+        "disambiguation": "Trumpet", 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0001820461", 
+                    "id": "7d138c74-4f1c-4513-8b3f-336f231d487f"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Stewart, Al", 
+        "type": "Person", 
+        "id": "dc8eb6cf-1d79-40fd-945f-83833614a0b8"
+    }, 
+    "id": 27349429, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

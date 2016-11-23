@@ -1,0 +1,140 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Killer Moon and Red Stone Souls at Township (November 8, 2016)", 
+        "popularity": 0.000155, 
+        "venue": {
+            "displayName": "Township", 
+            "uri": "http://www.songkick.com/venues/1169371-township?utm_source=32233&utm_medium=partner", 
+            "lat": 41.921858, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.697661, 
+            "id": 1169371
+        }, 
+        "uri": "http://www.songkick.com/concerts/28351374-killer-moon-at-township?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-08", 
+            "time": "08:00:00", 
+            "datetime": "2016-11-08T08:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.921858, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.697661
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "efe5c89a-dcf5-45cd-bd50-3f1e20623b4f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:efe5c89a-dcf5-45cd-bd50-3f1e20623b4f.json"
+                        }
+                    ], 
+                    "displayName": "Killer Moon", 
+                    "uri": "http://www.songkick.com/artists/2659696-killer-moon?utm_source=32233&utm_medium=partner", 
+                    "id": 2659696
+                }, 
+                "displayName": "Killer Moon", 
+                "id": 55127519, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Red Stone Souls", 
+                    "uri": "http://www.songkick.com/artists/5860579-red-stone-souls?utm_source=32233&utm_medium=partner", 
+                    "id": 5860579
+                }, 
+                "displayName": "Red Stone Souls", 
+                "id": 55127524, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28351374
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Killer Moon", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Chicago", 
+            "disambiguation": "", 
+            "id": "29a709d8-0320-493e-8d0c-f2c386662b7f", 
+            "name": "Chicago"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://killermoonmusic.bandcamp.com/", 
+                    "id": "38dfcd9d-fb26-4a0a-a739-35f6fac5bd0e"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.reverbnation.com/killermoon", 
+                    "id": "6e3e1208-99a5-4e5b-9ef8-80505368723e"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "efe5c89a-dcf5-45cd-bd50-3f1e20623b4f", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Killer Moon", 
+        "type": "Group", 
+        "disambiguation": ""
+    }, 
+    "id": 28351374, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

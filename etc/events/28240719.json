@@ -1,0 +1,149 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "David Gray at Scottish Rite Auditorium (November 23, 2016)", 
+        "popularity": 0.125167, 
+        "venue": {
+            "displayName": "Scottish Rite Auditorium", 
+            "uri": "http://www.songkick.com/venues/15034-scottish-rite-auditorium?utm_source=32233&utm_medium=partner", 
+            "lat": 39.914458, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.084986, 
+            "id": 15034
+        }, 
+        "uri": "http://www.songkick.com/concerts/28240719-david-gray-at-scottish-rite-auditorium?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-23", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-23T19:30:00-0500"
+        }, 
+        "location": {
+            "lat": 39.914458, 
+            "city": "Collingswood, NJ, US", 
+            "lng": -75.084986
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "405ae299-35c3-430f-be95-30e75feb44e0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:405ae299-35c3-430f-be95-30e75feb44e0.json"
+                        }, 
+                        {
+                            "mbid": "3e8bd859-7d82-49e0-b267-84fc46e2bf68", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3e8bd859-7d82-49e0-b267-84fc46e2bf68.json"
+                        }, 
+                        {
+                            "mbid": "f7ced51c-2105-498b-a399-764ad3941759", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f7ced51c-2105-498b-a399-764ad3941759.json"
+                        }, 
+                        {
+                            "mbid": "0c16d828-fbd2-41e1-8de6-9f996a937295", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0c16d828-fbd2-41e1-8de6-9f996a937295.json"
+                        }
+                    ], 
+                    "displayName": "David Gray", 
+                    "uri": "http://www.songkick.com/artists/539549-david-gray?utm_source=32233&utm_medium=partner", 
+                    "id": 539549
+                }, 
+                "displayName": "David Gray", 
+                "id": 54932569, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28240719
+    }, 
+    "musicbrainz_response": {
+        "name": "David Gray", 
+        "tags": [], 
+        "country": "GB", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1972-07-24", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/562523", 
+                    "id": "85e7aaa9-e5b4-43cc-835d-7551db6d724b"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.metal-archives.com/artists/David_Gray/9781", 
+                    "id": "6aa5d0a5-8c9d-4c16-a96f-76a1f519062d"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Gray, David", 
+        "type": "Person", 
+        "id": "405ae299-35c3-430f-be95-30e75feb44e0", 
+        "disambiguation": "Metal drummer"
+    }, 
+    "age_minutes": 15491, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 68.95, 
+        "price_min": 58.7
+    }, 
+    "modified_time": 1479442782.0, 
+    "created_time": 1478566060.0, 
+    "modified_minutes": 879, 
+    "id": 28240719
+}

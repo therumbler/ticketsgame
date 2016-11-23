@@ -1,0 +1,225 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001639, 
+        "displayName": "Bruce Robison at Live Oak Music Hall & Lounge (January 20, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Live Oak Music Hall & Lounge", 
+            "uri": "http://www.songkick.com/venues/1824038-live-oak-music-hall-and-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 32.730151, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -97.333025, 
+            "id": 1824038
+        }, 
+        "uri": "http://www.songkick.com/concerts/28478514-bruce-robison-at-live-oak-music-hall-and-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-20", 
+            "time": "21:00:00", 
+            "datetime": "2017-01-20T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.730151, 
+            "city": "Fort Worth, TX, US", 
+            "lng": -97.333025
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Bruce Robison", 
+                "id": 55344019, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "adb88c8d-7f5c-4776-92b9-fc42e08e2949", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:adb88c8d-7f5c-4776-92b9-fc42e08e2949.json"
+                        }
+                    ], 
+                    "displayName": "Bruce Robison", 
+                    "uri": "http://www.songkick.com/artists/102821-bruce-robison?utm_source=32233&utm_medium=partner", 
+                    "id": 102821
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28478514
+    }, 
+    "musicbrainz_response": {
+        "name": "Bruce Robison", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1966-06-11", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/170011913", 
+                    "id": "0865f81f-5b9e-4d72-b769-010ad8041177"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://brucerobison.com/", 
+                    "id": "1078593b-7e10-4a03-a08f-43c0dd51c578"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pages/Bruce-Robison/24305451327", 
+                    "id": "461cba61-07fc-4f47-8123-533ee1639ace"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q4978219", 
+                    "id": "6d96bb3b-5133-4335-a57f-d68d0711cd10"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Bruce_Robison", 
+                    "id": "666762c5-ad59-4786-9a20-c72416cbfde3"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Robison, Bruce", 
+        "type": "Person", 
+        "id": "adb88c8d-7f5c-4776-92b9-fc42e08e2949", 
+        "disambiguation": "US Country Music Singer/Songwriter"
+    }, 
+    "age_minutes": 15517, 
+    "bandsintown_response": {
+        "description": "Bruce Robison", 
+        "title": "Bruce Robison @ Live Oak Music Hall in Fort Worth, TX", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Fort Worth", 
+            "name": "Live Oak Music Hall", 
+            "country": "United States", 
+            "region": "TX", 
+            "longitude": -97.3330231, 
+            "place": "Live Oak Music Hall", 
+            "latitude": 32.7301521
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13241657?app_id=ticketgame&artist=Bruce+Robison&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13241657/buy_tickets?app_id=ticketgame&artist=Bruce+Robison&came_from=67", 
+        "on_sale_datetime": "2016-11-04T10:00:00", 
+        "formatted_datetime": "Friday, January 20, 2017 at 9:00PM", 
+        "datetime": "2017-01-20T21:00:00", 
+        "formatted_location": "Fort Worth, TX", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1379193/tfly%3Futm_medium%3Dapi&afftrack=67%7E16652860%7E24445928%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.brucerobison.com", 
+                "facebook_page_url": "https://www.facebook.com/pages/Bruce-Robison/24305451327", 
+                "name": "Bruce Robison", 
+                "url": "BruceRobison", 
+                "tracker_count": 10486, 
+                "mbid": "adb88c8d-7f5c-4776-92b9-fc42e08e2949", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/7085122.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/BruceRobison/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/7085122.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13241657
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 200.0, 
+        "price_min": 25.0
+    }, 
+    "modified_time": 1479442402.0, 
+    "created_time": 1478565997.0, 
+    "modified_minutes": 910, 
+    "id": 28478514
+}

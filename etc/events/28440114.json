@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Magic Lantern and Apple Of My Eye at Farmopolis (November 17, 2016)", 
+        "popularity": 0.000525, 
+        "venue": {
+            "displayName": "Farmopolis", 
+            "uri": "http://www.songkick.com/venues/3413954-farmopolis?utm_source=32233&utm_medium=partner", 
+            "lat": 51.4988381, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": 0.0096763, 
+            "id": 3413954
+        }, 
+        "uri": "http://www.songkick.com/concerts/28440114-magic-lantern-at-farmopolis?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "18:00:00", 
+            "datetime": "2016-11-17T18:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.4988381, 
+            "city": "London, UK", 
+            "lng": 0.0096763
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a0e2fd4b-2012-4791-8b25-650e1c94cbe3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a0e2fd4b-2012-4791-8b25-650e1c94cbe3.json"
+                        }
+                    ], 
+                    "displayName": "The Magic Lantern", 
+                    "uri": "http://www.songkick.com/artists/908032-magic-lantern?utm_source=32233&utm_medium=partner", 
+                    "id": 908032
+                }, 
+                "displayName": "The Magic Lantern", 
+                "id": 55278814, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Apple Of My Eye", 
+                    "uri": "http://www.songkick.com/artists/618677-apple-of-my-eye?utm_source=32233&utm_medium=partner", 
+                    "id": 618677
+                }, 
+                "displayName": "Apple Of My Eye", 
+                "id": 55278819, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28440114
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Magic Lantern", 
+        "tags": [], 
+        "country": "GB", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2006-10", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://themagiclanternuk.tumblr.com/", 
+                    "id": "4d2ebf66-9c18-47f2-ae45-6257142bd0eb"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "id": "a0e2fd4b-2012-4791-8b25-650e1c94cbe3", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Magic Lantern, The", 
+        "type": "Group", 
+        "disambiguation": ""
+    }, 
+    "id": 28440114, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

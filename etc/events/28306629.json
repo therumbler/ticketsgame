@@ -1,0 +1,110 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000174, 
+        "displayName": "Kenny Glasgow at Unknown venue (November 19, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Unknown venue", 
+            "uri": null, 
+            "lat": 40.7127837, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -74.0059413, 
+            "id": null
+        }, 
+        "uri": "http://www.songkick.com/concerts/28306629-kenny-glasgow-at-unknown-venue?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "datetime": "2016-11-19T22:00:00-0500", 
+            "time": "22:00:00"
+        }, 
+        "location": {
+            "lat": 40.7127837, 
+            "city": "New York, NY, US", 
+            "lng": -74.0059413
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Kenny Glasgow", 
+                "id": 55047444, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9ca884e3-e05d-42fd-a2ab-2db2286ca900", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9ca884e3-e05d-42fd-a2ab-2db2286ca900.json"
+                        }
+                    ], 
+                    "displayName": "Kenny Glasgow", 
+                    "uri": "http://www.songkick.com/artists/273821-kenny-glasgow?utm_source=32233&utm_medium=partner", 
+                    "id": 273821
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28306629
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "Kenny Glasgow", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "isnis": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/11352", 
+                    "id": "e611e539-8e01-4257-ad34-7c5ffd27f964"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00594999558"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "id": "9ca884e3-e05d-42fd-a2ab-2db2286ca900", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Glasgow, Kenny", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 28306629, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "21+", 
+        "displayName": "E-Dee with Macca at Tiffany's on Vine (November 24, 2016)", 
+        "popularity": 0.000209, 
+        "venue": {
+            "displayName": "Tiffany's on Vine", 
+            "uri": "http://www.songkick.com/venues/3109639-tiffanys-on-vine?utm_source=32233&utm_medium=partner", 
+            "lat": 34.099448, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.3266662, 
+            "id": 3109639
+        }, 
+        "uri": "http://www.songkick.com/concerts/28578434-edee-at-tiffanys-on-vine?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-24", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-24T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 34.099448, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.3266662
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "E-Dee", 
+                "id": 55519364, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "E-Dee", 
+                    "uri": "http://www.songkick.com/artists/673815-edee?utm_source=32233&utm_medium=partner", 
+                    "id": 673815
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Macca", 
+                "id": 55519369, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "05194cba-c404-4b25-8c12-2ab842f6bf92", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:05194cba-c404-4b25-8c12-2ab842f6bf92.json"
+                        }, 
+                        {
+                            "mbid": "5c12d20e-142b-4aa0-810d-319e0bb956a3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5c12d20e-142b-4aa0-810d-319e0bb956a3.json"
+                        }
+                    ], 
+                    "displayName": "Macca", 
+                    "uri": "http://www.songkick.com/artists/906493-macca?utm_source=32233&utm_medium=partner", 
+                    "id": 906493
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28578434
+    }, 
+    "musicbrainz_response": {
+        "gender": "Male", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "twitter": "_edee", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1981-09-08", 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/_edee", 
+                    "id": "6385a93d-3673-4e72-9017-884b63f6a615"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q5321395", 
+                    "id": "231d0f69-646b-4604-be76-fdad2273d8da"
+                }, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/E-Dee", 
+                    "id": "f433c242-5243-444f-a1b5-c37f2e8b3766"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "E-Dee", 
+        "isnis": [], 
+        "type": "Person", 
+        "id": "ed2bbc1e-6ec7-4f8d-bf5b-87e72295e150", 
+        "disambiguation": "", 
+        "name": "E-Dee"
+    }, 
+    "id": 28578434, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

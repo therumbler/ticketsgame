@@ -1,0 +1,362 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Deafheaven with Inter Arma and Other Body at Churchill's Pub (November 12, 2016)", 
+        "popularity": 0.012705, 
+        "venue": {
+            "displayName": "Churchill's Pub", 
+            "uri": "http://www.songkick.com/venues/13682-churchills-pub?utm_source=32233&utm_medium=partner", 
+            "lat": 25.826174, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "FL"
+                }, 
+                "displayName": "Miami", 
+                "uri": "http://www.songkick.com/metro_areas/9776-us-miami?utm_source=32233&utm_medium=partner", 
+                "id": 9776
+            }, 
+            "lng": -80.191811, 
+            "id": 13682
+        }, 
+        "uri": "http://www.songkick.com/concerts/28029099-deafheaven-at-churchills-pub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "datetime": "2016-11-12T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 25.826174, 
+            "city": "Miami, FL, US", 
+            "lng": -80.191811
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302.json"
+                        }
+                    ], 
+                    "displayName": "Deafheaven", 
+                    "uri": "http://www.songkick.com/artists/3357961-deafheaven?utm_source=32233&utm_medium=partner", 
+                    "id": 3357961
+                }, 
+                "displayName": "Deafheaven", 
+                "id": 54635784, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "25b42db3-2be3-47c3-93f5-eeac9695e010", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:25b42db3-2be3-47c3-93f5-eeac9695e010.json"
+                        }
+                    ], 
+                    "displayName": "Inter Arma", 
+                    "uri": "http://www.songkick.com/artists/3346611-inter-arma?utm_source=32233&utm_medium=partner", 
+                    "id": 3346611
+                }, 
+                "displayName": "Inter Arma", 
+                "id": 54563634, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Other Body", 
+                    "uri": "http://www.songkick.com/artists/8434213-other-body?utm_source=32233&utm_medium=partner", 
+                    "id": 8434213
+                }, 
+                "displayName": "Other Body", 
+                "id": 54635789, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28029099
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Deafheaven", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "blackgaze"
+            }, 
+            {
+                "count": 2, 
+                "name": "hipster"
+            }
+        ], 
+        "country": "US", 
+        "twitter": "deafheavenband", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002658855", 
+                    "id": "3552ccc5-0c9a-4a58-b0ce-7b4e9311ffe7"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://deafheavens.bandcamp.com/", 
+                    "id": "458efa84-dd50-41d2-9846-75cf429e43cd"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://deafheaven.tumblr.com/", 
+                    "id": "e17da088-63f0-497f-9402-5392ec63bc5d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2025280", 
+                    "id": "63769f9e-5ab7-4d78-92cd-0e7afa7c7bc2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Deafheaven", 
+                    "id": "8bb14933-c531-4fc0-90ae-3076a1f3c768"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/deafheaven", 
+                    "id": "ac927aec-5554-45a0-99f2-bc3829a94dfd"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://deafheaven.com/", 
+                    "id": "5e41d83a-9c69-4153-90bc-abed47c54ecf"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.metal-archives.com/bands/Deafheaven/3540315870", 
+                    "id": "78a63973-311a-4eb7-ae75-253705fe9b18"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/deafheaven", 
+                    "id": "d4fd6a7b-a546-4bfe-b39d-e7a8409089d0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/deafheavenband", 
+                    "id": "6d1f129e-3162-4d11-9969-5b31d62f63d7"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/deafheaven", 
+                    "id": "bebcf51d-ae4f-4a65-87b4-661550e4a564"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q5245804", 
+                    "id": "3b3b2eed-fa7b-4f76-95ac-a5911ff8b426"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Deafheaven", 
+                    "id": "e462f83c-85bc-4b9b-b1cd-54b773587e67"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "San Francisco", 
+            "disambiguation": "", 
+            "name": "San Francisco", 
+            "id": "83f22bb6-4631-443c-bace-9fae8540362a"
+        }, 
+        "sort-name": "Deafheaven", 
+        "gender": null, 
+        "id": "f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302", 
+        "disambiguation": "", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2010", 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28029099, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

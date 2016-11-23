@@ -1,0 +1,145 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Sawyer, Brave Town, and Kingsbury at High Watt (November 30, 2016)", 
+        "popularity": 0.000111, 
+        "venue": {
+            "displayName": "High Watt", 
+            "uri": "http://www.songkick.com/venues/1639583-high-watt?utm_source=32233&utm_medium=partner", 
+            "lat": 36.153531, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.7804584, 
+            "id": 1639583
+        }, 
+        "uri": "http://www.songkick.com/concerts/28331129-sawyer-at-high-watt?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-30", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-30T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.153531, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.7804584
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "83aaaa49-376b-477e-9b61-accfbbc87fa5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:83aaaa49-376b-477e-9b61-accfbbc87fa5.json"
+                        }, 
+                        {
+                            "mbid": "7836bebc-0477-47c8-a544-9bb2148077d0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7836bebc-0477-47c8-a544-9bb2148077d0.json"
+                        }
+                    ], 
+                    "displayName": "Sawyer", 
+                    "uri": "http://www.songkick.com/artists/537921-sawyer?utm_source=32233&utm_medium=partner", 
+                    "id": 537921
+                }, 
+                "displayName": "Sawyer", 
+                "id": 55089734, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Brave Town", 
+                    "uri": "http://www.songkick.com/artists/8080263-brave-town?utm_source=32233&utm_medium=partner", 
+                    "id": 8080263
+                }, 
+                "displayName": "Brave Town", 
+                "id": 55103934, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9eec9332-d0fa-486a-a6ca-e4b3eacf4a77", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9eec9332-d0fa-486a-a6ca-e4b3eacf4a77.json"
+                        }
+                    ], 
+                    "displayName": "Kingsbury", 
+                    "uri": "http://www.songkick.com/artists/950339-kingsbury?utm_source=32233&utm_medium=partner", 
+                    "id": 950339
+                }, 
+                "displayName": "Kingsbury", 
+                "id": 55106299, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28331129
+    }, 
+    "musicbrainz_response": {
+        "name": "Mary Sawyer", 
+        "area": null, 
+        "gender": "Female", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/582159", 
+                    "id": "9f5749d4-5267-4c8d-9dc4-a08524f3e2e9"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00061836476"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Sawyer, Mary", 
+        "country": null, 
+        "id": "83aaaa49-376b-477e-9b61-accfbbc87fa5", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2"
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6960275&REFERRAL_ID=tmfeed"
+    }, 
+    "modified_time": 1479442722.0, 
+    "created_minutes": 18204, 
+    "created_time": 1478566041.0, 
+    "modified_minutes": 3593, 
+    "id": 28331129
+}

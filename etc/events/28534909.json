@@ -1,0 +1,316 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.003572, 
+        "displayName": "The Sadies at Horseshoe Tavern (December 31, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Horseshoe Tavern", 
+            "uri": "http://www.songkick.com/venues/32006-horseshoe-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6490276, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.3958802, 
+            "id": 32006
+        }, 
+        "uri": "http://www.songkick.com/concerts/28534909-sadies-at-horseshoe-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-31", 
+            "datetime": "2016-12-31T21:00:00-0500", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 43.6490276, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.3958802
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "72f7495f-d40f-4c96-93bb-7fe1c9b23cbb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:72f7495f-d40f-4c96-93bb-7fe1c9b23cbb.json"
+                        }
+                    ], 
+                    "displayName": "The Sadies", 
+                    "uri": "http://www.songkick.com/artists/251953-sadies?utm_source=32233&utm_medium=partner", 
+                    "id": 251953
+                }, 
+                "displayName": "The Sadies", 
+                "id": 55441324, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28534909
+    }, 
+    "musicbrainz_response": {
+        "gender": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Sadies", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative country"
+            }
+        ], 
+        "country": "CA", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1998", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "name": "Canada", 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm2100214/", 
+                    "id": "9b5822d1-fb95-4757-a81e-514c4f175c98"
+                }, 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000495407", 
+                    "id": "4352b62a-0f80-4fb3-a0bf-65fcf1785f33"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/322984", 
+                    "id": "4c0561b9-ca27-4669-9631-dfc335a62f0d"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/thesadies", 
+                    "id": "0ea8bd8d-e540-40b7-9f69-5b8141230cd2"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thesadies.net/", 
+                    "id": "a79fa6c7-59f7-4dd4-b891-57e3021d1558"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/the_sadies", 
+                    "id": "12891fa7-71e7-426b-9960-79495ab05768"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=Aeyfghwwsflfpncrzxds6bq5dty", 
+                    "id": "cbec3233-61b6-42c8-b643-497a7577ef3c"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/TheSadies", 
+                    "id": "8c653eed-a495-439f-9759-3bfb12480070"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1533474", 
+                    "id": "9b83d63c-2997-4055-9cb1-3def1889ea48"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Sadies", 
+                    "id": "46f4a83c-7ebe-43a7-9c93-a182a661a5f7"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Toronto", 
+            "disambiguation": "", 
+            "name": "Toronto", 
+            "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77"
+        }, 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "Sadies, The", 
+        "type": "Group", 
+        "id": "72f7495f-d40f-4c96-93bb-7fe1c9b23cbb", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 9761, 
+    "bandsintown_response": {
+        "description": "The Sadies", 
+        "title": "The Sadies @ The Horseshoe Tavern in Toronto, Canada", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Toronto", 
+            "name": "The Horseshoe Tavern", 
+            "country": "Canada", 
+            "region": "ON", 
+            "longitude": -79.395913, 
+            "place": "The Horseshoe Tavern", 
+            "latitude": 43.6490438
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13278970?app_id=ticketgame&artist=The+Sadies&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13278970/buy_tickets?app_id=ticketgame&artist=The+Sadies&came_from=67", 
+        "on_sale_datetime": "2016-11-11T12:00:00", 
+        "formatted_datetime": "Saturday, December 31, 2016 at 9:00PM", 
+        "datetime": "2016-12-31T21:00:00", 
+        "formatted_location": "Toronto, Canada", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1383951/tfly%3Futm_medium%3Dapi&afftrack=67%7E16701867%7E24544795%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.thesadies.net", 
+                "facebook_page_url": null, 
+                "name": "The Sadies", 
+                "url": "TheSadies", 
+                "tracker_count": 11800, 
+                "mbid": "72f7495f-d40f-4c96-93bb-7fe1c9b23cbb", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6107461.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheSadies/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6107461.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13278970
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 30.0, 
+        "price_min": 30.0
+    }, 
+    "modified_time": 1479442297.0, 
+    "created_time": 1478911607.0, 
+    "modified_minutes": 916, 
+    "id": 28534909
+}

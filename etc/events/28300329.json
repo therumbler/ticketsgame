@@ -1,0 +1,167 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.00327, 
+        "displayName": "Point Point at The Yost Theater (November 19, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Yost Theater", 
+            "uri": "http://www.songkick.com/venues/48419-yost-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7474599, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -117.865278, 
+            "id": 48419
+        }, 
+        "uri": "http://www.songkick.com/concerts/28300329-point-point-at-yost-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "datetime": "2016-11-19T13:00:00-0800", 
+            "time": "13:00:00"
+        }, 
+        "location": {
+            "lat": 33.7474599, 
+            "city": "Santa Ana, CA, US", 
+            "lng": -117.865278
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Point Point", 
+                "id": 55035859, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "aacea334-1ea4-42d6-a700-514a4d02658e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:aacea334-1ea4-42d6-a700-514a4d02658e.json"
+                        }
+                    ], 
+                    "displayName": "Point Point", 
+                    "uri": "http://www.songkick.com/artists/8239128-point-point?utm_source=32233&utm_medium=partner", 
+                    "id": 8239128
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28300329
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Point Point", 
+        "twitter": "pointpointparis", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "owsla"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/pointpointparis", 
+                    "id": "bd99964b-2f99-49f8-8d22-4d2a7f80b5f9"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pointpointparis", 
+                    "id": "397721ea-e377-4657-9c1b-bbb041ff2078"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/pointpointparis", 
+                    "id": "41f4134a-a85c-47bf-a0bd-81e6a218be68"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/pointpoint", 
+                    "id": "85bc6484-3453-4019-b887-54b11562a2fe"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Point Point", 
+        "type": null, 
+        "id": "aacea334-1ea4-42d6-a700-514a4d02658e", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.eventbrite.com/e/havoc-ft-josh-pan-point-point-18-tickets-28512284009?aff=aff0songkick"
+    }, 
+    "modified_time": 1479442899.0, 
+    "created_minutes": 18202, 
+    "created_time": 1478566031.0, 
+    "modified_minutes": 3588, 
+    "id": 28300329
+}

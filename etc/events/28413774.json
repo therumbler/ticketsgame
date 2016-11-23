@@ -1,0 +1,178 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "21+", 
+        "displayName": "Fire Garden with Sonus Umbra and Erzulie at Martyrs' (November 30, 2016)", 
+        "popularity": 2e-05, 
+        "venue": {
+            "displayName": "Martyrs'", 
+            "uri": "http://www.songkick.com/venues/2687-martyrs?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9519886, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6771137, 
+            "id": 2687
+        }, 
+        "uri": "http://www.songkick.com/concerts/28413774-fire-garden-at-martyrs?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-30", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-30T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.9519886, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6771137
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e1c71f44-242e-4a94-adb0-3f031e8d8011", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e1c71f44-242e-4a94-adb0-3f031e8d8011.json"
+                        }
+                    ], 
+                    "displayName": "Fire Garden", 
+                    "uri": "http://www.songkick.com/artists/8348113-fire-garden?utm_source=32233&utm_medium=partner", 
+                    "id": 8348113
+                }, 
+                "displayName": "Fire Garden", 
+                "id": 55235279, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f2e89a6d-e3ed-4fc1-85a7-adffbbb89b0e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f2e89a6d-e3ed-4fc1-85a7-adffbbb89b0e.json"
+                        }
+                    ], 
+                    "displayName": "Sonus Umbra", 
+                    "uri": "http://www.songkick.com/artists/165450-sonus-umbra?utm_source=32233&utm_medium=partner", 
+                    "id": 165450
+                }, 
+                "displayName": "Sonus Umbra", 
+                "id": 55235284, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Erzulie", 
+                    "uri": "http://www.songkick.com/artists/8714609-erzulie?utm_source=32233&utm_medium=partner", 
+                    "id": 8714609
+                }, 
+                "displayName": "Erzulie", 
+                "id": 55235289, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28413774
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Fire Garden", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "progressive metal"
+            }, 
+            {
+                "count": 1, 
+                "name": "progressive rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "psychedelic rock"
+            }
+        ], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2007-05-01", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Chicago", 
+            "disambiguation": "", 
+            "id": "29a709d8-0320-493e-8d0c-f2c386662b7f", 
+            "name": "Chicago"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/firegardenmusic", 
+                    "id": "192acc53-b1eb-4271-84cb-483c30c84101"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/0az0NteYiW07RRhnv7FoGG", 
+                    "id": "11548dcf-149a-4ba5-bddd-2a65f0fac9b6"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Almaty", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "KZ-ALA"
+            ], 
+            "id": "8ca93644-c3a4-41f4-aba4-39bd13736393", 
+            "name": "Almaty"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Fire Garden", 
+        "type": "Group", 
+        "id": "e1c71f44-242e-4a94-adb0-3f031e8d8011", 
+        "disambiguation": ""
+    }, 
+    "id": 28413774, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

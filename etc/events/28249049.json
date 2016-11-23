@@ -1,0 +1,150 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "David Gray at Lincoln Theatre (November 18, 2016)", 
+        "popularity": 0.125112, 
+        "venue": {
+            "displayName": "Lincoln Theatre", 
+            "uri": "http://www.songkick.com/venues/2826-lincoln-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9174, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.028992, 
+            "id": 2826
+        }, 
+        "uri": "http://www.songkick.com/concerts/28249049-david-gray-at-lincoln-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "18:30:00", 
+            "datetime": "2016-11-18T18:30:00-0500"
+        }, 
+        "location": {
+            "lat": 38.9174, 
+            "city": "Washington, DC, US", 
+            "lng": -77.028992
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "405ae299-35c3-430f-be95-30e75feb44e0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:405ae299-35c3-430f-be95-30e75feb44e0.json"
+                        }, 
+                        {
+                            "mbid": "3e8bd859-7d82-49e0-b267-84fc46e2bf68", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3e8bd859-7d82-49e0-b267-84fc46e2bf68.json"
+                        }, 
+                        {
+                            "mbid": "f7ced51c-2105-498b-a399-764ad3941759", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f7ced51c-2105-498b-a399-764ad3941759.json"
+                        }, 
+                        {
+                            "mbid": "0c16d828-fbd2-41e1-8de6-9f996a937295", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0c16d828-fbd2-41e1-8de6-9f996a937295.json"
+                        }
+                    ], 
+                    "displayName": "David Gray", 
+                    "uri": "http://www.songkick.com/artists/539549-david-gray?utm_source=32233&utm_medium=partner", 
+                    "id": 539549
+                }, 
+                "displayName": "David Gray", 
+                "id": 54947129, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28249049
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "David Gray", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "country": "GB", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1972-07-24", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/562523", 
+                    "id": "85e7aaa9-e5b4-43cc-835d-7551db6d724b"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.metal-archives.com/artists/David_Gray/9781", 
+                    "id": "6aa5d0a5-8c9d-4c16-a96f-76a1f519062d"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Gray, David", 
+        "type": "Person", 
+        "id": "405ae299-35c3-430f-be95-30e75feb44e0", 
+        "disambiguation": "Metal drummer"
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 75.0, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?u=291182&b=234786&m=27601&urllink=www.ticketfly.com/purchase/event/1338321/tfly?utm_medium=api&afftrack=e28249049", 
+        "price_min": 55.0
+    }, 
+    "modified_time": 1479442811.0, 
+    "created_minutes": 18198, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 3586, 
+    "id": 28249049
+}

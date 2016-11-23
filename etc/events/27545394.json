@@ -1,0 +1,281 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "John Mayall at Canyon Club (November 17, 2016)", 
+        "popularity": 0.009236, 
+        "venue": {
+            "displayName": "Canyon Club", 
+            "uri": "http://www.songkick.com/venues/30102-canyon-club?utm_source=32233&utm_medium=partner", 
+            "lat": 34.144028, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.754866, 
+            "id": 30102
+        }, 
+        "uri": "http://www.songkick.com/concerts/27545394-john-mayall-at-canyon-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-17T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 34.144028, 
+            "city": "Agoura Hills, CA, US", 
+            "lng": -118.754866
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "18c1e06b-fe76-4802-b070-53a2f6b707bd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:18c1e06b-fe76-4802-b070-53a2f6b707bd.json"
+                        }
+                    ], 
+                    "displayName": "John Mayall", 
+                    "uri": "http://www.songkick.com/artists/365989-john-mayall?utm_source=32233&utm_medium=partner", 
+                    "id": 365989
+                }, 
+                "displayName": "John Mayall", 
+                "id": 53689829, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27545394
+    }, 
+    "musicbrainz_response": {
+        "name": "John Mayall", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "blues rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "british"
+            }, 
+            {
+                "count": 1, 
+                "name": "british blues"
+            }, 
+            {
+                "count": 1, 
+                "name": "classic pop and rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "electric blues"
+            }, 
+            {
+                "count": 1, 
+                "name": "harmonica blues"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock"
+            }
+        ], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "GB", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1933-11-29", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/18c1e06b-fe76-4802-b070-53a2f6b707bd", 
+                    "id": "5b97faf4-d40a-4b14-9abc-bf07902f3e95"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/19866198", 
+                    "id": "a2f17293-a013-4f87-8417-29bc45a75f7b"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/291340", 
+                    "id": "be56bdda-9f16-4605-9324-f81663736cf0"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.johnmayall.com/", 
+                    "id": "63aec380-c5a8-4362-b91f-902211ff5273"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/823", 
+                    "id": "80f0440f-83b2-4df4-9082-bb38245cebf9"
+                }, 
+                "begin": null, 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q316282", 
+                    "id": "849bb01f-e516-409b-82f7-b8f603577cda"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/John_Mayall", 
+                    "id": "cc9b4023-6b11-40ab-b068-8d786e8ca4d5"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Mayall, John", 
+        "gender": "Male", 
+        "type": "Person", 
+        "id": "18c1e06b-fe76-4802-b070-53a2f6b707bd", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15455, 
+    "bandsintown_response": {
+        "description": "If you purchase a ticket at a table, you are required to order dinner. Minimum spend is $25.00 per person. You must arrive by 7pm.", 
+        "title": "John Mayall @ The Canyon in Agoura Hills, CA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Agoura Hills", 
+            "name": "The Canyon", 
+            "country": "United States", 
+            "region": "CA", 
+            "longitude": -118.754551, 
+            "place": "The Canyon", 
+            "latitude": 34.144278
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12490290?app_id=ticketgame&artist=John+Mayall&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12490290/buy_tickets?app_id=ticketgame&artist=John+Mayall&came_from=67", 
+        "on_sale_datetime": "2016-07-11T17:00:00", 
+        "formatted_datetime": "Thursday, November 17, 2016 at 9:00PM", 
+        "datetime": "2016-11-17T21:00:00", 
+        "formatted_location": "Agoura Hills, CA", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F090050A9C60E3CE0&subId1=67%7E15632083%7E22888827%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.johnmayall.com", 
+                "facebook_page_url": null, 
+                "name": "John Mayall", 
+                "url": "JohnMayall", 
+                "tracker_count": 26035, 
+                "mbid": "18c1e06b-fe76-4802-b070-53a2f6b707bd", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5421328.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/JohnMayall/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5421328.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12490290
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 54.05, 
+        "price_min": 43.8
+    }, 
+    "modified_time": 1478566031.0, 
+    "id": 27545394
+}

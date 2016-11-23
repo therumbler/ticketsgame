@@ -1,0 +1,455 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Warpaint at The Observatory (November 21, 2016)", 
+        "popularity": 0.073989, 
+        "venue": {
+            "displayName": "The Observatory", 
+            "uri": "http://www.songkick.com/venues/1487-observatory?utm_source=32233&utm_medium=partner", 
+            "lat": 33.6998449, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -117.9194457, 
+            "id": 1487
+        }, 
+        "uri": "http://www.songkick.com/concerts/28531089-warpaint-at-observatory?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-21", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-21T19:00:00-0800"
+        }, 
+        "location": {
+            "lat": 33.6998449, 
+            "city": "Santa Ana, CA, US", 
+            "lng": -117.9194457
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Warpaint", 
+                "id": 55434494, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cf82a38f-9413-4333-bacb-ca5b6db95794", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cf82a38f-9413-4333-bacb-ca5b6db95794.json"
+                        }
+                    ], 
+                    "displayName": "Warpaint", 
+                    "uri": "http://www.songkick.com/artists/715080-warpaint?utm_source=32233&utm_medium=partner", 
+                    "id": 715080
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28531089
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Warpaint", 
+        "twitter": "_warpaint", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2004-02-14", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "dream pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "neo-psychedelia"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://warpaint.bandcamp.com/", 
+                    "id": "c99c50d0-5144-4c14-ae22-31948e5a3804"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1460776", 
+                    "id": "c7278e8b-5af4-4a3d-b869-62957dffe81b"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Warpaint", 
+                    "id": "259e5508-b34d-4c72-9546-2e67da9fe61e"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://genius.com/artists/Warpaint", 
+                    "id": "7163dee0-93b4-44fb-b3c5-b8e0ed56286f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/Warpaint", 
+                    "id": "25a1ede8-cd9f-4d6e-ba31-dfb328737b57"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/worldwartour", 
+                    "id": "932af03e-98ff-46a6-89ea-6b5134842bc1"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://warpaintwarpaint.com/", 
+                    "id": "6afd97ab-af77-440c-81bb-18c676bfb966"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/artist/id305664605", 
+                    "id": "a817bad6-282d-4b2a-ada4-7a368ccb4c89"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://pro.beatport.com/artist/warpaint/117412", 
+                    "id": "ef05a621-a029-4c7b-9a8d-8168ae6ac4c7"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://plus.google.com/+WarpaintOfficial/posts", 
+                    "id": "c2553026-b78f-430c-bd77-24252ffe4dd3"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/_warpaint", 
+                    "id": "94bdb046-25eb-4e90-aa8e-36233d2b717b"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/warpaintwarpaint", 
+                    "id": "323b7585-a168-4f08-9b3c-d2a5f7fe3a22"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/warpaintwarpaintofficial/", 
+                    "id": "d72fec71-a959-4a0c-9d7d-0e982ebf1494"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/warpaintwarpaint", 
+                    "id": "3a1978c0-642c-4996-a4a2-95719802f195"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO", 
+                    "id": "05b581ac-ca69-4f91-a583-fa229cde9a16"
+                }, 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1576623", 
+                    "id": "de5a61ba-eb07-4287-a635-0814a9867c35"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Warpaint_(band)", 
+                    "id": "eb78ade5-57f0-443e-9b26-cd44e1d9c88e"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/WarpaintOfficial", 
+                    "id": "8dae893a-6e16-4043-98f4-fb10b3e54aef"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Warpaint", 
+        "begin_area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "name": "Los Angeles", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62"
+        }, 
+        "gender-id": null, 
+        "isnis": [], 
+        "country": "US", 
+        "type": "Group", 
+        "id": "cf82a38f-9413-4333-bacb-ca5b6db95794", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Warpaint @ The Observatory in Santa Ana, CA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Santa Ana", 
+            "name": "The Observatory", 
+            "country": "United States", 
+            "region": "CA", 
+            "longitude": -117.917557, 
+            "place": "The Observatory", 
+            "latitude": 33.699788
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13062871?app_id=ticketgame&artist=Warpaint&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13062871/buy_tickets?app_id=ticketgame&artist=Warpaint&came_from=67", 
+        "on_sale_datetime": "2016-10-07T10:00:01", 
+        "formatted_datetime": "Monday, November 21, 2016 at 7:00PM", 
+        "datetime": "2016-11-21T19:00:00", 
+        "formatted_location": "Santa Ana, CA", 
+        "ticket_redirect_url": "http://tktwb.tw/2dmLyTH", 
+        "artists": [
+            {
+                "website": "http://www.warpaintwarpaint.com/", 
+                "facebook_page_url": "https://www.facebook.com/warpaintwarpaint", 
+                "name": "Warpaint", 
+                "url": "Warpaint", 
+                "tracker_count": 200467, 
+                "mbid": "cf82a38f-9413-4333-bacb-ca5b6db95794", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6785870.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Warpaint/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6785870.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13062871
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://tktwb.tw/2dmLyTH"
+    }, 
+    "modified_time": 1479442318.0, 
+    "created_minutes": 12481, 
+    "created_time": 1478911673.0, 
+    "modified_minutes": 3637, 
+    "id": 28531089
+}

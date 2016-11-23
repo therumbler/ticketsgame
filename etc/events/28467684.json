@@ -1,0 +1,164 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Sawyer Fredericks with gabriel wolfchild and Mia Z at Sellersville Theater 1894 (December 12, 2016)", 
+        "popularity": 0.001307, 
+        "venue": {
+            "displayName": "Sellersville Theater 1894", 
+            "uri": "http://www.songkick.com/venues/58245-sellersville-theater-1894?utm_source=32233&utm_medium=partner", 
+            "lat": 40.359344, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.311631, 
+            "id": 58245
+        }, 
+        "uri": "http://www.songkick.com/concerts/28467684-sawyer-fredericks-at-sellersville-theater-1894?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-12", 
+            "datetime": "2016-12-12T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 40.359344, 
+            "city": "Sellersville, PA, US", 
+            "lng": -75.311631
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d443bf6c-501a-44f2-acdf-689f2ef28a67", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d443bf6c-501a-44f2-acdf-689f2ef28a67.json"
+                        }
+                    ], 
+                    "displayName": "Sawyer Fredericks", 
+                    "uri": "http://www.songkick.com/artists/8776729-sawyer-fredericks?utm_source=32233&utm_medium=partner", 
+                    "id": 8776729
+                }, 
+                "displayName": "Sawyer Fredericks", 
+                "id": 55325584, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "gabriel wolfchild", 
+                    "uri": "http://www.songkick.com/artists/6193789-gabriel-wolfchild?utm_source=32233&utm_medium=partner", 
+                    "id": 6193789
+                }, 
+                "displayName": "gabriel wolfchild", 
+                "id": 55359254, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "fc966e01-3623-40a7-9d93-a9729d018bff", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fc966e01-3623-40a7-9d93-a9729d018bff.json"
+                        }
+                    ], 
+                    "displayName": "Mia Z", 
+                    "uri": "http://www.songkick.com/artists/6288204-mia-z?utm_source=32233&utm_medium=partner", 
+                    "id": 6288204
+                }, 
+                "displayName": "Mia Z", 
+                "id": 55359259, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28467684
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Sawyer Fredericks", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/sawyerfrdrx", 
+                    "id": "de9eb71b-58cb-44c2-b8ee-04f945f67107"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Sawyer_Fredericks", 
+                    "id": "cb6cc3ef-4ea2-448c-a802-d7ffd1fdec2e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "name": "New York", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f"
+        }, 
+        "sort-name": "Fredericks, Sawyer", 
+        "gender": "Male", 
+        "id": "d443bf6c-501a-44f2-acdf-689f2ef28a67", 
+        "type": "Person", 
+        "twitter": "sawyerfrdrx", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15515, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442434.0, 
+    "created_time": 1478566061.0, 
+    "modified_minutes": 908, 
+    "id": 28467684
+}

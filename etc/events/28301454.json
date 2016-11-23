@@ -1,0 +1,332 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.009126, 
+        "displayName": "Chris Thile at Ryman Auditorium (February 4, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Ryman Auditorium", 
+            "uri": "http://www.songkick.com/venues/795-ryman-auditorium?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1611688, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.7786881, 
+            "id": 795
+        }, 
+        "uri": "http://www.songkick.com/concerts/28301454-chris-thile-at-ryman-auditorium?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-04", 
+            "datetime": "2017-02-04T16:45:00-0600", 
+            "time": "16:45:00"
+        }, 
+        "location": {
+            "lat": 36.1611688, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.7786881
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Chris Thile", 
+                "id": 55037594, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ca452a01-b9db-461d-8e62-23d68747f6ab", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ca452a01-b9db-461d-8e62-23d68747f6ab.json"
+                        }
+                    ], 
+                    "displayName": "Chris Thile", 
+                    "uri": "http://www.songkick.com/artists/477251-chris-thile?utm_source=32233&utm_medium=partner", 
+                    "id": 477251
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28301454
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Chris Thile", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1981-02-20", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "twitter": "christhile", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "country"
+            }, 
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/ca452a01-b9db-461d-8e62-23d68747f6ab", 
+                    "id": "fc321c56-c982-4301-9247-fcc852f5780c"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/85835055", 
+                    "id": "202f35c0-851d-4902-a9fd-ce2dc6f2149e"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/502434", 
+                    "id": "6e3fe774-4be9-4562-84a1-8142cd1436cb"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/christhile", 
+                    "id": "55fd36c1-6e0b-45a9-a027-33768d75ba78"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.sugarhillrecords.com/catalog/artist.cgi?Chris+Thile", 
+                    "id": "57b48ded-1da2-41db-a5f4-517bb2437c02"
+                }, 
+                "direction": "forward", 
+                "type-id": "611b1862-67af-4253-a64f-34adba305d1d", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for mail-order", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/christhile", 
+                    "id": "eed91cac-5107-4b4d-9b6b-22f62294223b"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/ChrisThile", 
+                    "id": "23fba9ae-fcab-4532-a935-bd154d01dbd1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF", 
+                    "id": "d5729db6-d1f5-49fa-b94a-74918860b673"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q596779", 
+                    "id": "7bfe7a03-a2b8-4a48-b0b1-f0bcdaf263cb"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Chris_Thile", 
+                    "id": "50482121-c16e-4870-832a-5c77cea76840"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/channel/UCRCkL89mcxMETTcqou5o5ow", 
+                    "id": "33a19199-33b6-4de6-8794-db72471c28a1"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Thile, Chris", 
+        "type": "Person", 
+        "id": "ca452a01-b9db-461d-8e62-23d68747f6ab", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15497, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Chris Thile @ A Prairie Home Companion at Ryman Auditorium in Nashville, TN", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Nashville", 
+            "name": "A Prairie Home Companion at Ryman Auditorium", 
+            "country": "United States", 
+            "region": "TN", 
+            "longitude": -86.779399, 
+            "place": "Ryman Auditorium", 
+            "latitude": 36.162219
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13104264?app_id=ticketgame&artist=Chris+Thile&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13104264/buy_tickets?app_id=ticketgame&artist=Chris+Thile&came_from=67", 
+        "on_sale_datetime": "2016-10-14T15:00:00", 
+        "formatted_datetime": "Saturday, February 4, 2017 at 4:45PM", 
+        "datetime": "2017-02-04T16:45:00", 
+        "formatted_location": "Nashville, TN", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F1B005149191F354D6%3Fbrand%3Dryman&subId1=67%7E16468441%7E%7E%7E", 
+        "artists": [
+            {
+                "website": "http://thankyouiamsnowyfox.com", 
+                "facebook_page_url": "https://www.facebook.com/ChrisThile", 
+                "name": "Chris Thile", 
+                "url": "ChrisThile", 
+                "tracker_count": 52476, 
+                "mbid": "ca452a01-b9db-461d-8e62-23d68747f6ab", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6291515.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/ChrisThile/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6291515.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13104264
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 82.38, 
+        "price_min": 47.11
+    }, 
+    "modified_time": 1479442899.0, 
+    "created_time": 1478566042.0, 
+    "modified_minutes": 882, 
+    "id": 28301454
+}

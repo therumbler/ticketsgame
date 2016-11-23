@@ -1,0 +1,230 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Dave Koz at Chicago Theatre (December 11, 2016)", 
+        "popularity": 0.008643, 
+        "venue": {
+            "displayName": "Chicago Theatre", 
+            "uri": "http://www.songkick.com/venues/1021-chicago-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 41.88537, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.627457, 
+            "id": 1021
+        }, 
+        "uri": "http://www.songkick.com/concerts/28082134-dave-koz-at-chicago-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-11", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-11T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.88537, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.627457
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "461b7812-cc9c-4e30-ab22-1b42bdba15fd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:461b7812-cc9c-4e30-ab22-1b42bdba15fd.json"
+                        }
+                    ], 
+                    "displayName": "Dave Koz", 
+                    "uri": "http://www.songkick.com/artists/428987-dave-koz?utm_source=32233&utm_medium=partner", 
+                    "id": 428987
+                }, 
+                "displayName": "Dave Koz", 
+                "id": 54656644, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28082134
+    }, 
+    "musicbrainz_response": {
+        "name": "Dave Koz", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "jazz"
+            }, 
+            {
+                "count": 1, 
+                "name": "saxophonist"
+            }
+        ], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1963-03-27", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/5126139", 
+                    "id": "c71ed1d4-3b77-4394-aad7-0bdab616d5e2"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/289337", 
+                    "id": "cfc507db-79c6-4ce6-b9bb-a355c3e5f35a"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://davekoz.com/", 
+                    "id": "e1c94a7d-5e66-4cc9-8be3-4380c29fcde5"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1173262", 
+                    "id": "8bd9fd7d-b084-4964-8736-fd84a0e3333c"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Dave_Koz", 
+                    "id": "fd0c5141-ce0f-459d-815e-eb6748bc7bec"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Koz, Dave", 
+        "isnis": [], 
+        "disambiguation": "", 
+        "country": "US", 
+        "type": "Person", 
+        "id": "461b7812-cc9c-4e30-ab22-1b42bdba15fd", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "age_minutes": 9715, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Dave Koz @ The Chicago Theatre in Chicago, IL", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Chicago", 
+            "name": "The Chicago Theatre", 
+            "country": "United States", 
+            "region": "IL", 
+            "longitude": -87.62793, 
+            "place": "The Chicago Theatre", 
+            "latitude": 41.88525
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12926561?app_id=ticketgame&artist=Dave+Koz&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12926561/buy_tickets?app_id=ticketgame&artist=Dave+Koz&came_from=67", 
+        "on_sale_datetime": "2016-09-17T15:00:00", 
+        "formatted_datetime": "Sunday, December 11, 2016 at 8:00PM", 
+        "datetime": "2016-12-11T20:00:00", 
+        "formatted_location": "Chicago, IL", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F0700512CBCC727B9&subId1=67%7E16225289%7E23675464%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.davekoz.com, www.radiokoz.com, www.davekozcruise.com", 
+                "facebook_page_url": null, 
+                "name": "Dave Koz", 
+                "url": "DaveKoz", 
+                "tracker_count": 24800, 
+                "mbid": "461b7812-cc9c-4e30-ab22-1b42bdba15fd", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6115553.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/DaveKoz/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6115553.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12926561
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 131.96, 
+        "price_min": 40.57
+    }, 
+    "modified_time": 1479442391.0, 
+    "created_time": 1478911631.0, 
+    "modified_minutes": 869, 
+    "id": 28082134
+}

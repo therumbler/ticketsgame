@@ -1,0 +1,226 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Skydiggers at Horseshoe Tavern (December 23, 2016)", 
+        "popularity": 0.000797, 
+        "venue": {
+            "displayName": "Horseshoe Tavern", 
+            "uri": "http://www.songkick.com/venues/32006-horseshoe-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6490276, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.3958802, 
+            "id": 32006
+        }, 
+        "uri": "http://www.songkick.com/concerts/28314534-skydiggers-at-horseshoe-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-23", 
+            "time": "20:30:00", 
+            "datetime": "2016-12-23T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 43.6490276, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.3958802
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "832c110a-723e-43f6-b881-0dde7a242dd0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:832c110a-723e-43f6-b881-0dde7a242dd0.json"
+                        }
+                    ], 
+                    "displayName": "Skydiggers", 
+                    "uri": "http://www.songkick.com/artists/329828-skydiggers?utm_source=32233&utm_medium=partner", 
+                    "id": 329828
+                }, 
+                "displayName": "Skydiggers", 
+                "id": 55062244, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28314534
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Skydiggers", 
+        "area": {
+            "sort-name": "Toronto", 
+            "disambiguation": "", 
+            "name": "Toronto", 
+            "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1987", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "roots rock"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.maplemusic.com/artists/sky/bio.asp", 
+                    "id": "20381e51-1b80-4b4a-8c07-9bed89fac0cc"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2244876", 
+                    "id": "ed5b278d-0fad-4722-b1d4-03dcc3babd7c"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.skydiggers.com/", 
+                    "id": "c75ef3c6-bfad-42e1-99b3-900556be3617"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q7537644", 
+                    "id": "a8793fc4-1af4-43bf-9950-7bda9f3b3d90"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Skydiggers", 
+                    "id": "6a5707ec-3841-402f-ae5b-4f5352c0957e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Skydiggers", 
+        "type": "Group", 
+        "id": "832c110a-723e-43f6-b881-0dde7a242dd0", 
+        "disambiguation": "Canadian roots rock band"
+    }, 
+    "age_minutes": 15883, 
+    "bandsintown_response": {
+        "description": "The Skydiggers", 
+        "title": "Skydiggers @ The Horseshoe Tavern in Toronto, Canada", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Toronto", 
+            "name": "The Horseshoe Tavern", 
+            "country": "Canada", 
+            "region": "ON", 
+            "longitude": -79.395913, 
+            "place": "The Horseshoe Tavern", 
+            "latitude": 43.6490438
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13110877?app_id=ticketsgame&artist=Skydiggers&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13110877/buy_tickets?app_id=ticketsgame&artist=Skydiggers&came_from=67", 
+        "on_sale_datetime": "2016-10-14T12:00:00", 
+        "formatted_datetime": "Friday, December 23, 2016 at 8:30PM", 
+        "datetime": "2016-12-23T20:30:00", 
+        "formatted_location": "Toronto, Canada", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1345049/tfly%3Futm_medium%3Dapi&afftrack=67%7E16471335%7E24100748%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.skydiggers.com/", 
+                "facebook_page_url": null, 
+                "name": "Skydiggers", 
+                "url": "Skydiggers", 
+                "tracker_count": 2573, 
+                "mbid": "832c110a-723e-43f6-b881-0dde7a242dd0", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5445917.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Skydiggers/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5445917.jpeg"
+            }
+        ], 
+        "ticket_details": {
+            "price_max": 32.5, 
+            "price_min": 32.5
+        }, 
+        "ticket_status": "available", 
+        "id": 13110877
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 32.5, 
+        "price_min": 32.5
+    }, 
+    "modified_time": 1479442901.0, 
+    "created_time": 1478543016.0, 
+    "modified_minutes": 885, 
+    "id": 28314534
+}

@@ -1,0 +1,124 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 4.9e-05, 
+        "displayName": "Ben Hammond at Lila B. Lounge, Comedy Works South (November 15, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Lila B. Lounge, Comedy Works South", 
+            "uri": "http://www.songkick.com/venues/2334139-lila-b-lounge-comedy-works-south?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": null, 
+            "id": 2334139
+        }, 
+        "uri": "http://www.songkick.com/concerts/28029134-ben-hammond-at-lila-b-lounge-comedy-works-south?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "datetime": "2016-11-15T17:30:00-0700", 
+            "time": "17:30:00"
+        }, 
+        "location": {
+            "lat": 39.6172, 
+            "city": "Greenwood Village, CO, US", 
+            "lng": -104.951
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Ben Hammond", 
+                "id": 54563669, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "daa6fabe-547e-4e1a-bedc-31c65e20471d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:daa6fabe-547e-4e1a-bedc-31c65e20471d.json"
+                        }
+                    ], 
+                    "displayName": "Ben Hammond", 
+                    "uri": "http://www.songkick.com/artists/1004556-ben-hammond?utm_source=32233&utm_medium=partner", 
+                    "id": 1004556
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28029134
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Location"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "Ben Hammond", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1983-01-03", 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.benhammondmusic.com/", 
+                    "id": "b0aa31b6-b419-425d-b149-d91c76d68615"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.cdbaby.com/cd/benhammond", 
+                    "id": "ce8f06f6-0941-4d10-ab02-45e540da9d28"
+                }, 
+                "begin": null, 
+                "type-id": "611b1862-67af-4253-a64f-34adba305d1d", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for mail-order", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Hammond, Ben", 
+        "gender": null, 
+        "disambiguation": "", 
+        "type": "Person", 
+        "id": "daa6fabe-547e-4e1a-bedc-31c65e20471d", 
+        "gender-id": null
+    }, 
+    "id": 28029134, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

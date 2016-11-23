@@ -1,0 +1,129 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Siamese with Arc Iris at Double Wide (November 18, 2016)", 
+        "popularity": 0.000616, 
+        "venue": {
+            "displayName": "Double Wide", 
+            "uri": "http://www.songkick.com/venues/78786-double-wide?utm_source=32233&utm_medium=partner", 
+            "lat": 32.7851202, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.773785, 
+            "id": 78786
+        }, 
+        "uri": "http://www.songkick.com/concerts/28085659-siamese-at-double-wide?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-18T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.7851202, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.773785
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1dbece7e-c6f9-4f94-91e8-47fb4c88e2ab", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1dbece7e-c6f9-4f94-91e8-47fb4c88e2ab.json"
+                        }
+                    ], 
+                    "displayName": "Siamese", 
+                    "uri": "http://www.songkick.com/artists/18489-siamese?utm_source=32233&utm_medium=partner", 
+                    "id": 18489
+                }, 
+                "displayName": "Siamese", 
+                "id": 54663109, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8834fa71-25e0-4892-a81e-aa06450d0b73", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8834fa71-25e0-4892-a81e-aa06450d0b73.json"
+                        }
+                    ], 
+                    "displayName": "Arc Iris", 
+                    "uri": "http://www.songkick.com/artists/6652564-arc-iris?utm_source=32233&utm_medium=partner", 
+                    "id": 6652564
+                }, 
+                "displayName": "Arc Iris", 
+                "id": 54663114, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28085659
+    }, 
+    "musicbrainz_response": {
+        "name": "Siamese", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/50664", 
+                    "id": "acc627be-f6e6-4236-83e9-0788513c077c"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Siamese", 
+        "type": "Group", 
+        "id": "1dbece7e-c6f9-4f94-91e8-47fb4c88e2ab", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15477, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442420.0, 
+    "created_time": 1478565996.0, 
+    "modified_minutes": 870, 
+    "id": 28085659
+}

@@ -1,0 +1,131 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Judd Apatow at Largo at the Coronet (November 29, 2016)", 
+        "popularity": 7.3e-05, 
+        "venue": {
+            "displayName": "Largo at the Coronet", 
+            "uri": "http://www.songkick.com/venues/31256-largo-at-the-coronet?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0778849, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.3764229, 
+            "id": 31256
+        }, 
+        "uri": "http://www.songkick.com/concerts/28541154-judd-apatow-at-largo-at-the-coronet?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-29", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-29T20:30:00-0800"
+        }, 
+        "location": {
+            "lat": 34.0778849, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.3764229
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Judd Apatow", 
+                "id": 55451479, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a1e2d13a-2f91-4747-a700-0b9c91749455", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a1e2d13a-2f91-4747-a700-0b9c91749455.json"
+                        }
+                    ], 
+                    "displayName": "Judd Apatow", 
+                    "uri": "http://www.songkick.com/artists/4793618-judd-apatow?utm_source=32233&utm_medium=partner", 
+                    "id": 4793618
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28541154
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Judd Apatow", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0031976/", 
+                    "id": "7b73d33a-bc6f-4429-894c-60a32beb6587"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/609507", 
+                    "id": "86e33a3e-b0b9-4134-9650-e032823d3fa7"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "Apatow, Judd", 
+        "country": null, 
+        "type": "Person", 
+        "id": "a1e2d13a-2f91-4747-a700-0b9c91749455", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 3194, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 50.0, 
+        "price_min": 50.0
+    }, 
+    "modified_time": 1479442280.0, 
+    "created_time": 1479305679.0, 
+    "modified_minutes": 917, 
+    "id": 28541154
+}

@@ -1,0 +1,111 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Citizen Zero at Irving Plaza (November 13, 2016)", 
+        "popularity": 0.000123, 
+        "venue": {
+            "displayName": "Irving Plaza", 
+            "uri": "http://www.songkick.com/venues/181873-irving-plaza?utm_source=32233&utm_medium=partner", 
+            "lat": 40.734917, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9884469, 
+            "id": 181873
+        }, 
+        "uri": "http://www.songkick.com/concerts/28129939-citizen-zero-at-irving-plaza?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-13T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.734917, 
+            "city": "New York, NY, US", 
+            "lng": -73.9884469
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d2915f1b-39ad-4848-bf2b-5745f420d62d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d2915f1b-39ad-4848-bf2b-5745f420d62d.json"
+                        }
+                    ], 
+                    "displayName": "Citizen Zero", 
+                    "uri": "http://www.songkick.com/artists/3967191-citizen-zero?utm_source=32233&utm_medium=partner", 
+                    "id": 3967191
+                }, 
+                "displayName": "Citizen Zero", 
+                "id": 54742269, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28129939
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Citizen Zero", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Detroit", 
+            "disambiguation": "", 
+            "id": "b03ff310-d8e2-45cf-9455-769f76641eb2", 
+            "name": "Detroit"
+        }, 
+        "country": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/citizenzero", 
+                    "id": "2c67e7d8-f01d-45ce-ab1b-c5107f7a2965"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Citizen Zero", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "type": "Group", 
+        "id": "d2915f1b-39ad-4848-bf2b-5745f420d62d"
+    }, 
+    "id": 28129939, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

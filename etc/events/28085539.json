@@ -1,0 +1,272 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Night Riots with The Hunna and The Shelters at U Street Music Hall (November 15, 2016)", 
+        "popularity": 0.003716, 
+        "venue": {
+            "displayName": "U Street Music Hall", 
+            "uri": "http://www.songkick.com/venues/839721-u-street-music-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 38.917202, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.027764, 
+            "id": 839721
+        }, 
+        "uri": "http://www.songkick.com/concerts/28085539-night-riots-at-u-street-music-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-15T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.917202, 
+            "city": "Washington, DC, US", 
+            "lng": -77.027764
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b476c4d1-9def-4452-a4e7-47bd5439d896", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b476c4d1-9def-4452-a4e7-47bd5439d896.json"
+                        }
+                    ], 
+                    "displayName": "Night Riots", 
+                    "uri": "http://www.songkick.com/artists/6457704-night-riots?utm_source=32233&utm_medium=partner", 
+                    "id": 6457704
+                }, 
+                "displayName": "Night Riots", 
+                "id": 54662879, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "39c6625e-8312-41f6-8cd0-2648e95f8db1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:39c6625e-8312-41f6-8cd0-2648e95f8db1.json"
+                        }
+                    ], 
+                    "displayName": "The Hunna", 
+                    "uri": "http://www.songkick.com/artists/8630654-hunna?utm_source=32233&utm_medium=partner", 
+                    "id": 8630654
+                }, 
+                "displayName": "The Hunna", 
+                "id": 54662884, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5a3b9588-41ec-40c4-ac69-36055f9012d5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5a3b9588-41ec-40c4-ac69-36055f9012d5.json"
+                        }
+                    ], 
+                    "displayName": "The Shelters", 
+                    "uri": "http://www.songkick.com/artists/3777951-shelters?utm_source=32233&utm_medium=partner", 
+                    "id": 3777951
+                }, 
+                "displayName": "The Shelters", 
+                "id": 54662889, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28085539
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Night Riots", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2011", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003329333", 
+                    "id": "a8771ee1-c125-4246-9cd4-1941054a6137"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4209882", 
+                    "id": "10218fdc-11b6-43fc-8b66-67adf00c18f3"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Night%20Riots", 
+                    "id": "318bfbee-1a38-4c4a-aa82-39fdb5cd5141"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.nightriots.com/", 
+                    "id": "50a15936-f5cb-42ca-915a-9080cffae1d3"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/night_riots", 
+                    "id": "27da5c5c-a44c-4d5b-af51-ae7f5235b9fa"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/nightriots", 
+                    "id": "d1fb58b9-fafa-43fe-b024-ba3982e88706"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q16957897", 
+                    "id": "132b33e1-5064-4734-96e1-59e0b12fa9cc"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Night_Riots", 
+                    "id": "66f8a98c-578c-4c26-8efd-1c79982b9334"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Night Riots", 
+        "begin_area": {
+            "sort-name": "San Luis Obispo", 
+            "disambiguation": "", 
+            "name": "San Luis Obispo", 
+            "id": "eeab8640-d52e-440a-af1a-425a1754975a"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "type": "Group", 
+        "id": "b476c4d1-9def-4452-a4e7-47bd5439d896", 
+        "disambiguation": ""
+    }, 
+    "id": 28085539, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

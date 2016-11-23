@@ -1,0 +1,111 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Newtown at Capitol Theatre (December 3, 2016)", 
+        "popularity": 8.1e-05, 
+        "venue": {
+            "displayName": "Capitol Theatre", 
+            "uri": "http://www.songkick.com/venues/3341959-capitol-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1626638, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.7816016, 
+            "id": 3341959
+        }, 
+        "uri": "http://www.songkick.com/concerts/27400479-newtown-at-capitol-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-03", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-03T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.1626638, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.7816016
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "869dd4b9-03bc-42d1-9f1b-e226602b1c24", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:869dd4b9-03bc-42d1-9f1b-e226602b1c24.json"
+                        }
+                    ], 
+                    "displayName": "Newtown", 
+                    "uri": "http://www.songkick.com/artists/3486701-newtown?utm_source=32233&utm_medium=partner", 
+                    "id": 3486701
+                }, 
+                "displayName": "Newtown", 
+                "id": 53417604, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27400479
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Newtown", 
+        "area": {
+            "sort-name": "Johannesburg", 
+            "disambiguation": "", 
+            "id": "291777c2-c48d-4002-9a0d-c7f87fea5c2b", 
+            "name": "Johannesburg"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1294909", 
+                    "id": "1a7b4807-f899-475e-8b4d-79969d5de003"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Newtown", 
+        "type": "Group", 
+        "id": "869dd4b9-03bc-42d1-9f1b-e226602b1c24", 
+        "disambiguation": "South African Alternative Soul"
+    }, 
+    "id": 27400479, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

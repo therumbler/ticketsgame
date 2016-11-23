@@ -1,0 +1,91 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Red & Ruby, Vince Brown, and LaVon Hardison at McMenamin's Sand Trap (March 31, 2017)", 
+        "popularity": 3e-06, 
+        "venue": {
+            "displayName": "McMenamin's Sand Trap", 
+            "uri": "http://www.songkick.com/venues/1212546-mcmenamins-sand-trap?utm_source=32233&utm_medium=partner", 
+            "lat": 46.037286, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -123.920234, 
+            "id": 1212546
+        }, 
+        "uri": "http://www.songkick.com/concerts/28513434-red-and-ruby-at-mcmenamins-sand-trap?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-03-31", 
+            "time": "19:00:00", 
+            "datetime": "2017-03-31T19:00:00-0700"
+        }, 
+        "location": {
+            "lat": 46.037286, 
+            "city": "Gearhart, OR, US", 
+            "lng": -123.920234
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Red & Ruby", 
+                "id": 55406109, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Red & Ruby", 
+                    "uri": "http://www.songkick.com/artists/7934618-red-and-ruby?utm_source=32233&utm_medium=partner", 
+                    "id": 7934618
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Vince Brown", 
+                "id": 55406114, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d6b9fcf8-71d1-49b8-9506-a22dbec28265", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d6b9fcf8-71d1-49b8-9506-a22dbec28265.json"
+                        }
+                    ], 
+                    "displayName": "Vince Brown", 
+                    "uri": "http://www.songkick.com/artists/7144319-vince-brown?utm_source=32233&utm_medium=partner", 
+                    "id": 7144319
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "LaVon Hardison", 
+                "id": 55406119, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "LaVon Hardison", 
+                    "uri": "http://www.songkick.com/artists/1709524-lavon-hardison?utm_source=32233&utm_medium=partner", 
+                    "id": 1709524
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28513434
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Rate limit exceeded"
+        ]
+    }, 
+    "id": 28513434, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

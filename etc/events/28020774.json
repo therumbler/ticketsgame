@@ -1,0 +1,146 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Ekali at Rough Trade NYC (November 11, 2016)", 
+        "popularity": 0.001243, 
+        "venue": {
+            "displayName": "Rough Trade NYC", 
+            "uri": "http://www.songkick.com/venues/2469314-rough-trade-nyc?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7209863, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9598502, 
+            "id": 2469314
+        }, 
+        "uri": "http://www.songkick.com/concerts/28020774-ekali-at-rough-trade-nyc?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-11T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7209863, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9598502
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f62a6ac4-664b-4035-9ab1-0b3ab8e1773e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f62a6ac4-664b-4035-9ab1-0b3ab8e1773e.json"
+                        }
+                    ], 
+                    "displayName": "Ekali", 
+                    "uri": "http://www.songkick.com/artists/8573814-ekali?utm_source=32233&utm_medium=partner", 
+                    "id": 8573814
+                }, 
+                "displayName": "Ekali", 
+                "id": 54547579, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28020774
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Ekali", 
+        "tags": [], 
+        "country": null, 
+        "twitter": "ekalimusic", 
+        "area": {
+            "sort-name": "Vancouver", 
+            "disambiguation": "", 
+            "id": "6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef", 
+            "name": "Vancouver"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/ekalimusic", 
+                    "id": "24d096c7-74f1-4259-8001-d6ffaaa43218"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/ekalibeats", 
+                    "id": "9f8b4d07-7543-4b5f-963e-b2a65177ca40"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/ekalimusic", 
+                    "id": "136b3bfa-bcfd-4c02-b3d4-19775dba0b2d"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "disambiguation": "", 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Ekali", 
+        "gender": "Male", 
+        "id": "f62a6ac4-664b-4035-9ab1-0b3ab8e1773e", 
+        "ipis": [], 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28020774, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

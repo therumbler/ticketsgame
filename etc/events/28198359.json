@@ -1,0 +1,322 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Cherub with Two Fresh and Gibbz at Marathon Music Works (December 31, 2016)", 
+        "popularity": 0.034998, 
+        "venue": {
+            "displayName": "Marathon Music Works", 
+            "uri": "http://www.songkick.com/venues/1519393-marathon-music-works?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1638608, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.7972118, 
+            "id": 1519393
+        }, 
+        "uri": "http://www.songkick.com/concerts/28198359-cherub-at-marathon-music-works?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-31", 
+            "time": "21:00:00", 
+            "datetime": "2016-12-31T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.1638608, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.7972118
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "abf42fca-8c2e-4d55-9fc8-6b1fc65a80f1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:abf42fca-8c2e-4d55-9fc8-6b1fc65a80f1.json"
+                        }, 
+                        {
+                            "mbid": "4bfa7565-cc25-4901-b0dc-64cc68cd8d6b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4bfa7565-cc25-4901-b0dc-64cc68cd8d6b.json"
+                        }
+                    ], 
+                    "displayName": "Cherub", 
+                    "uri": "http://www.songkick.com/artists/36105-cherub?utm_source=32233&utm_medium=partner", 
+                    "id": 36105
+                }, 
+                "displayName": "Cherub", 
+                "id": 54862714, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "576a7ff0-1b97-4023-b03a-83644ddc3537", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:576a7ff0-1b97-4023-b03a-83644ddc3537.json"
+                        }
+                    ], 
+                    "displayName": "Two Fresh", 
+                    "uri": "http://www.songkick.com/artists/2372087-two-fresh?utm_source=32233&utm_medium=partner", 
+                    "id": 2372087
+                }, 
+                "displayName": "Two Fresh", 
+                "id": 54862719, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "75520aeb-7fff-4995-8876-ee9785831b5d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:75520aeb-7fff-4995-8876-ee9785831b5d.json"
+                        }
+                    ], 
+                    "displayName": "Gibbz", 
+                    "uri": "http://www.songkick.com/artists/7619954-gibbz?utm_source=32233&utm_medium=partner", 
+                    "id": 7619954
+                }, 
+                "displayName": "Gibbz", 
+                "id": 54862724, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28198359
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Cherub", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2011", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "electro-indie"
+            }
+        ], 
+        "country": "US", 
+        "twitter": "CHERUBlamusica", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002939023", 
+                    "id": "05fd9c8d-59c9-428a-b296-5b63f80492e6"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/cherub-lyrics", 
+                    "id": "029a9a9d-d0ba-40dc-af65-f066a08a8040"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://cherublamusica.com/", 
+                    "id": "919275ad-ecca-4c70-bd4e-3d52d4fa50c5"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/cherublamusica", 
+                    "id": "9d5b41d7-cbcc-4a99-adc8-97cf6c09bfcb"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/CHERUBlamusica", 
+                    "id": "03b42d33-8224-447a-9a1b-6663153beea2"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Cherublamusica", 
+                    "id": "e698e2ea-5301-484a-a2d1-b4c888bcde2c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/cherublamusica", 
+                    "id": "eb4d3390-d345-4b36-8c4b-882a23e2672a"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q16826464", 
+                    "id": "9fc41155-3830-4a45-8393-7496b735a417"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Cherub_(musical_duo)", 
+                    "id": "747d03f5-a6aa-44de-a4f4-4e628a6082ce"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/CHERUBlamusica", 
+                    "id": "34517f4b-a63e-4b19-8cf4-1889c43ef407"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74", 
+            "name": "Nashville"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Cherub", 
+        "type": "Group", 
+        "id": "abf42fca-8c2e-4d55-9fc8-6b1fc65a80f1", 
+        "disambiguation": "US electro-indie duo"
+    }, 
+    "age_minutes": 15488, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 75.0, 
+        "price_min": 35.0
+    }, 
+    "modified_time": 1479442713.0, 
+    "created_time": 1478566042.0, 
+    "modified_minutes": 877, 
+    "id": 28198359
+}

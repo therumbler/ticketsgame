@@ -1,0 +1,227 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Viken Arman with stavroz at Bardot (November 12, 2016)", 
+        "popularity": 0.001214, 
+        "venue": {
+            "displayName": "Bardot", 
+            "uri": "http://www.songkick.com/venues/808731-bardot?utm_source=32233&utm_medium=partner", 
+            "lat": 25.8092934, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "FL"
+                }, 
+                "displayName": "Miami", 
+                "uri": "http://www.songkick.com/metro_areas/9776-us-miami?utm_source=32233&utm_medium=partner", 
+                "id": 9776
+            }, 
+            "lng": -80.195584, 
+            "id": 808731
+        }, 
+        "uri": "http://www.songkick.com/concerts/28485094-viken-arman-at-bardot?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "datetime": "2016-11-12T22:00:00-0500", 
+            "time": "22:00:00"
+        }, 
+        "location": {
+            "lat": 25.8092934, 
+            "city": "Miami, FL, US", 
+            "lng": -80.195584
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5dafc5bb-142f-4b96-9e69-b7cfe6bb6b73", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5dafc5bb-142f-4b96-9e69-b7cfe6bb6b73.json"
+                        }
+                    ], 
+                    "displayName": "Viken Arman", 
+                    "uri": "http://www.songkick.com/artists/6047579-viken-arman?utm_source=32233&utm_medium=partner", 
+                    "id": 6047579
+                }, 
+                "displayName": "Viken Arman", 
+                "id": 55355314, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "086a85c9-3ad7-4670-b460-4db32ec1fe81", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:086a85c9-3ad7-4670-b460-4db32ec1fe81.json"
+                        }
+                    ], 
+                    "displayName": "stavroz", 
+                    "uri": "http://www.songkick.com/artists/6024864-stavroz?utm_source=32233&utm_medium=partner", 
+                    "id": 6024864
+                }, 
+                "displayName": "stavroz", 
+                "id": 55355319, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28485094
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "Viken Arman", 
+        "sort-name": "Arman, Viken", 
+        "gender": "Male", 
+        "twitter": "viken_arman", 
+        "area": null, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3588468", 
+                    "id": "c1a96ee1-1956-4819-9c4a-a67f4fe56fa5"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.residentadvisor.net/dj/vikenarman", 
+                    "id": "49fee4c1-2d18-4624-8f4a-2c104f77e6dc"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://pro.beatport.com/artist/viken-arman/323597", 
+                    "id": "74bab13d-6e16-4859-893d-5472b1790544"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/viken_arman", 
+                    "id": "664f9e43-d416-4e9a-a763-da92616eea2a"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/VikenArman", 
+                    "id": "508b65b5-7974-4628-b93c-7339ac5b4bc7"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/6047579-viken-arman", 
+                    "id": "e5b61562-80a3-44fa-985e-035081c6b62c"
+                }, 
+                "begin": null, 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/vikenarman", 
+                    "id": "3a88f080-c1fc-44d8-a943-79bfa498d6b9"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "id": "5dafc5bb-142f-4b96-9e69-b7cfe6bb6b73", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": []
+    }, 
+    "id": 28485094, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Sad13 with Vagabon' at Songbyrd Music House (November 18, 2016)", 
+        "popularity": 2.9e-05, 
+        "venue": {
+            "displayName": "Songbyrd Music House", 
+            "uri": "http://www.songkick.com/venues/3115224-songbyrd-music-house?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9223987, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0422671, 
+            "id": 3115224
+        }, 
+        "uri": "http://www.songkick.com/concerts/28161759-sad13-at-songbyrd-music-house?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-18T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.9223987, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0422671
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "530f44a1-50a5-434a-8bba-2a6b75670831", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:530f44a1-50a5-434a-8bba-2a6b75670831.json"
+                        }
+                    ], 
+                    "displayName": "Sad13", 
+                    "uri": "http://www.songkick.com/artists/8870209-sad13?utm_source=32233&utm_medium=partner", 
+                    "id": 8870209
+                }, 
+                "displayName": "Sad13", 
+                "id": 54796914, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Vagabon'", 
+                    "uri": "http://www.songkick.com/artists/2877516-vagabon?utm_source=32233&utm_medium=partner", 
+                    "id": 2877516
+                }, 
+                "displayName": "Vagabon'", 
+                "id": 54796919, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28161759
+    }, 
+    "musicbrainz_response": {
+        "name": "Sad13", 
+        "area": {
+            "sort-name": "Philadelphia", 
+            "disambiguation": "", 
+            "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2", 
+            "name": "Philadelphia"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://carparkrecords.com/press/slugger/", 
+                    "id": "bc51ce93-75fe-4e7c-821e-405b1e22e2e8"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Sad13", 
+        "type": "Person", 
+        "id": "530f44a1-50a5-434a-8bba-2a6b75670831", 
+        "disambiguation": "Solo project of Sadie Dupuis from Speedy Ortiz"
+    }, 
+    "age_minutes": 15482, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 12.0, 
+        "price_min": 12.0
+    }, 
+    "modified_time": 1479442545.0, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 875, 
+    "id": 28161759
+}

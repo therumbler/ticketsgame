@@ -1,0 +1,235 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001228, 
+        "displayName": "Reid Speed at Studio 7 (December 17, 2016)", 
+        "ageRestriction": "18+", 
+        "venue": {
+            "displayName": "Studio 7", 
+            "uri": "http://www.songkick.com/venues/1275296-studio-7?utm_source=32233&utm_medium=partner", 
+            "lat": 47.5744461, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3334903, 
+            "id": 1275296
+        }, 
+        "uri": "http://www.songkick.com/concerts/28359634-reid-speed-at-studio-7?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-17", 
+            "datetime": "2016-12-17T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 47.5744461, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3334903
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Reid Speed", 
+                "id": 55141819, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ad9c1711-1bee-4ce0-969b-08015097fdf2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ad9c1711-1bee-4ce0-969b-08015097fdf2.json"
+                        }
+                    ], 
+                    "displayName": "Reid Speed", 
+                    "uri": "http://www.songkick.com/artists/332387-reid-speed?utm_source=32233&utm_medium=partner", 
+                    "id": 332387
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28359634
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Reid Speed @ Studio Seven in Seattle, WA", 
+        "ticket_type": null, 
+        "venue": {
+            "city": "Seattle", 
+            "name": "Studio Seven", 
+            "country": "United States", 
+            "region": "WA", 
+            "longitude": -122.3308333, 
+            "place": "Studio Seven", 
+            "latitude": 47.6063889
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13184705?app_id=ticketgame&artist=Reid+Speed&came_from=67", 
+        "ticket_url": null, 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Saturday, December 17, 2016 at 9:00PM", 
+        "datetime": "2016-12-17T21:00:00", 
+        "formatted_location": "Seattle, WA", 
+        "artists": [
+            {
+                "website": "http://www.reidspeed.com", 
+                "facebook_page_url": "https://www.facebook.com/djreidspeed", 
+                "name": "Reid Speed", 
+                "url": "ReidSpeed", 
+                "tracker_count": 17920, 
+                "mbid": "ad9c1711-1bee-4ce0-969b-08015097fdf2", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6306069.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/ReidSpeed/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6306069.jpeg"
+            }
+        ], 
+        "ticket_status": "unavailable", 
+        "id": 13184705
+    }, 
+    "musicbrainz_response": {
+        "name": "Reid Speed", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000460886", 
+                    "id": "6efbc440-bb93-43c0-be8b-fba9652ffe92"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000948759", 
+                    "id": "24a58cd3-f83e-4d78-ac24-ab995be0d3d8"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/37582", 
+                    "id": "959e72db-537d-4655-b565-4aa9e461a69e"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Reid%20Speed", 
+                    "id": "be61aa0d-9347-4242-b804-5d720c08e502"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/reid_speed", 
+                    "id": "495fca9e-599f-4874-8f6b-88133bbb884d"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/DJ_Reid_Speed", 
+                    "id": "132ecdb2-3928-4274-915d-e5257a544523"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "name": "New York", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f"
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Speed, Reid", 
+        "type": "Person", 
+        "id": "ad9c1711-1bee-4ce0-969b-08015097fdf2", 
+        "disambiguation": ""
+    }, 
+    "id": 28359634, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

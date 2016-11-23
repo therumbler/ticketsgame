@@ -1,0 +1,133 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Bison Machine at Live Wire Lounge (November 15, 2016)", 
+        "popularity": 3.8e-05, 
+        "venue": {
+            "displayName": "Live Wire Lounge", 
+            "uri": "http://www.songkick.com/venues/1643083-live-wire-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": null, 
+            "id": 1643083
+        }, 
+        "uri": "http://www.songkick.com/concerts/28167044-bison-machine-at-live-wire-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 41.8407, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6794
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "33d1f0c5-d584-40d7-8311-7b2afc28602f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:33d1f0c5-d584-40d7-8311-7b2afc28602f.json"
+                        }
+                    ], 
+                    "displayName": "Bison Machine", 
+                    "uri": "http://www.songkick.com/artists/3954026-bison-machine?utm_source=32233&utm_medium=partner", 
+                    "id": 3954026
+                }, 
+                "displayName": "Bison Machine", 
+                "id": 54806629, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28167044
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Bison Machine", 
+        "area": {
+            "sort-name": "Hamtramck", 
+            "disambiguation": "", 
+            "id": "2d72923d-9a27-40f5-8666-4cbcbe8dc771", 
+            "name": "Hamtramck"
+        }, 
+        "country": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://bisonmachine.bandcamp.com/", 
+                    "id": "ffe39f4a-0dda-4bb4-a83f-c5a0484f2eee"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/americanbison", 
+                    "id": "3944d154-72b9-425d-a8d1-2da7fb8f93a6"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Bison Machine", 
+        "begin_area": {
+            "sort-name": "Hamtramck", 
+            "disambiguation": "", 
+            "id": "2d72923d-9a27-40f5-8666-4cbcbe8dc771", 
+            "name": "Hamtramck"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "33d1f0c5-d584-40d7-8311-7b2afc28602f", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2010-03-17", 
+            "end": null
+        }
+    }, 
+    "id": 28167044, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

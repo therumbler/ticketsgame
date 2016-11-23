@@ -1,0 +1,285 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000273, 
+        "displayName": "Diemonds and Pigeon Park with Bloody Diamonds at Adelaide Hall (December 1, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Adelaide Hall", 
+            "uri": "http://www.songkick.com/venues/2369074-adelaide-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6482126, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.3890949, 
+            "id": 2369074
+        }, 
+        "uri": "http://www.songkick.com/concerts/28332524-diemonds-at-adelaide-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-01", 
+            "datetime": "2016-12-01T20:30:00-0500", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 43.6482126, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.3890949
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Diemonds", 
+                "id": 55092414, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "62ad22ca-bad5-4e5e-a4e4-e281ad25892e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:62ad22ca-bad5-4e5e-a4e4-e281ad25892e.json"
+                        }
+                    ], 
+                    "displayName": "Diemonds", 
+                    "uri": "http://www.songkick.com/artists/1969838-diemonds?utm_source=32233&utm_medium=partner", 
+                    "id": 1969838
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Pigeon Park", 
+                "id": 55092419, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "901a5282-6f18-4358-996f-1fffdd6ebf70", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:901a5282-6f18-4358-996f-1fffdd6ebf70.json"
+                        }
+                    ], 
+                    "displayName": "Pigeon Park", 
+                    "uri": "http://www.songkick.com/artists/4478718-pigeon-park?utm_source=32233&utm_medium=partner", 
+                    "id": 4478718
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Bloody Diamonds", 
+                "id": 55308814, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Bloody Diamonds", 
+                    "uri": "http://www.songkick.com/artists/5491763-bloody-diamonds?utm_source=32233&utm_medium=partner", 
+                    "id": 5491763
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28332524
+    }, 
+    "musicbrainz_response": {
+        "name": "Diemonds", 
+        "twitter": "diemonds", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2006", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1495487", 
+                    "id": "afcaeaca-a66d-4187-9b81-e58a20782723"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://diemonds.net/", 
+                    "id": "41ae1d93-2cdd-4a45-9670-95b586e97491"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/diemonds", 
+                    "id": "9228fc9c-e20c-40ff-b4a3-9799c8f6995f"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Diemonds", 
+                    "id": "ebd36cf6-d601-4ac6-962c-c47ae9201452"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q5274932", 
+                    "id": "49f70a49-cc09-4aa8-a535-881304f0e011"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Diemonds", 
+                    "id": "a0617a02-6db7-4439-bca4-ae824ab08b27"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/diemonds", 
+                    "id": "7b50de4d-fd5c-4596-8d6d-8dcd6ab8b107"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Toronto", 
+            "disambiguation": "", 
+            "name": "Toronto", 
+            "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Diemonds", 
+        "type": "Group", 
+        "id": "62ad22ca-bad5-4e5e-a4e4-e281ad25892e", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15884, 
+    "bandsintown_response": {
+        "description": "Diemonds & Pigeon Park", 
+        "title": "Diemonds @ Adelaide Hall in Toronto, Canada", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Toronto", 
+            "name": "Adelaide Hall", 
+            "country": "Canada", 
+            "region": "ON", 
+            "longitude": -79.389076, 
+            "place": "Adelaide Hall", 
+            "latitude": 43.648384
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13123341?app_id=ticketsgame&artist=Diemonds&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13123341/buy_tickets?app_id=ticketsgame&artist=Diemonds&came_from=67", 
+        "on_sale_datetime": "2016-10-13T10:00:00", 
+        "formatted_datetime": "Thursday, December 1, 2016 at 9:00PM", 
+        "datetime": "2016-12-01T21:00:27", 
+        "formatted_location": "Toronto, Canada", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1347633/tfly%3Futm_medium%3Dapi&afftrack=67%7E16489601%7E24136901%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.diemonds.net", 
+                "facebook_page_url": "https://www.facebook.com/Diemonds", 
+                "name": "Diemonds", 
+                "url": "Diemonds", 
+                "tracker_count": 6310, 
+                "mbid": "62ad22ca-bad5-4e5e-a4e4-e281ad25892e", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6704408.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Diemonds/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6704408.jpeg"
+            }
+        ], 
+        "ticket_details": {
+            "price_max": 11.5, 
+            "price_min": 11.5
+        }, 
+        "ticket_status": "available", 
+        "id": 13123341
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 11.5, 
+        "price_min": 11.5
+    }, 
+    "modified_time": 1479442718.0, 
+    "created_time": 1478543016.0, 
+    "modified_minutes": 889, 
+    "id": 28332524
+}

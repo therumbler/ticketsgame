@@ -1,0 +1,182 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Weyes Blood with Faten Kanaan and Matteah Baim at Ambient Church (November 10, 2016)", 
+        "popularity": 0.000958, 
+        "venue": {
+            "displayName": "Ambient Church", 
+            "uri": "http://www.songkick.com/venues/3432074-ambient-church?utm_source=32233&utm_medium=partner", 
+            "lat": 40.724814, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9446679, 
+            "id": 3432074
+        }, 
+        "uri": "http://www.songkick.com/concerts/28385704-weyes-blood-at-ambient-church?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-10T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.724814, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9446679
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "469d6414-1f06-43de-80d5-17762d4a356a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:469d6414-1f06-43de-80d5-17762d4a356a.json"
+                        }
+                    ], 
+                    "displayName": "Weyes Blood", 
+                    "uri": "http://www.songkick.com/artists/3042246-weyes-blood?utm_source=32233&utm_medium=partner", 
+                    "id": 3042246
+                }, 
+                "displayName": "Weyes Blood", 
+                "id": 55187634, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Faten Kanaan", 
+                    "uri": "http://www.songkick.com/artists/8911274-faten-kanaan?utm_source=32233&utm_medium=partner", 
+                    "id": 8911274
+                }, 
+                "displayName": "Faten Kanaan", 
+                "id": 55187639, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5a15a71f-b680-47ed-bb0b-4c30e47b6902", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5a15a71f-b680-47ed-bb0b-4c30e47b6902.json"
+                        }
+                    ], 
+                    "displayName": "Matteah Baim", 
+                    "uri": "http://www.songkick.com/artists/773570-matteah-baim?utm_source=32233&utm_medium=partner", 
+                    "id": 773570
+                }, 
+                "displayName": "Matteah Baim", 
+                "id": 55187644, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28385704
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Weyes Blood", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://weyesblood.bandcamp.com/", 
+                    "id": "c7b4f812-eadc-47b6-9b55-cd83bda928c9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3733968", 
+                    "id": "9882faaa-03f2-4b62-8689-31e95eced77b"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pages/Weyes-Blood/210391499001392", 
+                    "id": "a64bdfd4-1176-46ff-ae9b-9afcf19affd2"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Santa Monica", 
+            "disambiguation": "", 
+            "id": "dbacf2e3-7e3e-4cee-8804-999b109285fa", 
+            "name": "Santa Monica"
+        }, 
+        "id": "469d6414-1f06-43de-80d5-17762d4a356a", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Weyes Blood", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 28385704, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

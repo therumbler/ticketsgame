@@ -1,0 +1,433 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.042406, 
+        "displayName": "Amy Grant and Vince Gill at Ryman Auditorium (December 7, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Ryman Auditorium", 
+            "uri": "http://www.songkick.com/venues/795-ryman-auditorium?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1611688, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.7786881, 
+            "id": 795
+        }, 
+        "uri": "http://www.songkick.com/concerts/25721239-amy-grant-at-ryman-auditorium?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-07", 
+            "time": "19:30:00", 
+            "datetime": "2016-12-07T19:30:00-0600"
+        }, 
+        "location": {
+            "lat": 36.1611688, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.7786881
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Amy Grant", 
+                "id": 50374744, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3cd18a93-1797-4bbb-9b8a-c096d5e7864c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3cd18a93-1797-4bbb-9b8a-c096d5e7864c.json"
+                        }
+                    ], 
+                    "displayName": "Amy Grant", 
+                    "uri": "http://www.songkick.com/artists/482644-amy-grant?utm_source=32233&utm_medium=partner", 
+                    "id": 482644
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Vince Gill", 
+                "id": 50374749, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ec37ecfe-65b4-49a4-83c7-ee1ccaeec2e3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ec37ecfe-65b4-49a4-83c7-ee1ccaeec2e3.json"
+                        }
+                    ], 
+                    "displayName": "Vince Gill", 
+                    "uri": "http://www.songkick.com/artists/213496-vince-gill?utm_source=32233&utm_medium=partner", 
+                    "id": 213496
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 25721239
+    }, 
+    "musicbrainz_response": {
+        "name": "Amy Grant", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1960-11-25", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "classic pop and rock"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0004973/", 
+                    "id": "f15f45cc-5ee1-4eb2-8605-7b45f4cd0520"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/74046543", 
+                    "id": "e628904c-8835-43f4-b766-32fb69e3ac83"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000024944", 
+                    "id": "94de8531-6e18-4c2b-82e5-6f5832cee411"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.christianmusicarchive.com/artist/amy-grant", 
+                    "id": "0eb0a7ff-2347-4135-956e-4d24bef502ca"
+                }, 
+                "direction": "forward", 
+                "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/168359", 
+                    "id": "1d37cbb9-f2fe-45c9-8377-732c9279e901"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/amy-grant-lyrics", 
+                    "id": "d4370419-a339-482f-948c-a27e9b70ccad"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-3560/amy-grant/lyrics.html", 
+                    "id": "86e65d94-7981-4a53-a7c8-58b9381b0344"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/amygrant", 
+                    "id": "d86683a6-db9f-4b1a-8452-684876e1508f"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://amygrant.com/", 
+                    "id": "eb2ed134-5fa8-4758-8f0e-59c450e262d5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://musicmoz.org/Bands_and_Artists/G/Grant,_Amy/", 
+                    "id": "fd9220ac-1d44-4a1d-9946-2ceaa7586a44"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/amygrant", 
+                    "id": "e335de10-25c2-4214-9063-b1dab0d64342"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/amygrant", 
+                    "id": "5857a4a4-d3db-46d2-b851-a856564a7a22"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q464213", 
+                    "id": "1dbfe19c-b8ba-44be-9338-1eb7a1d6108a"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Amy_Grant", 
+                    "id": "4d6e1ff0-727f-4c0a-a063-fa6c79f36e2c"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/officialamygrant", 
+                    "id": "65358d42-0b18-4b67-9be7-e34e5e613f5c"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "id": "3cd18a93-1797-4bbb-9b8a-c096d5e7864c", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Grant, Amy", 
+        "type": "Person", 
+        "twitter": "amygrant", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15445, 
+    "bandsintown_response": {
+        "description": "AMY GRANT & VINCE GILL'S\nCHRISTMAS AT THE RYMAN PRE-SALE Announcement...\nTicket Pre-sales begin on Thursday, February 11th at 10 am\nTicket Pre-sales end on Thursday, February 11th at 10 pm\nPre-sale Password: agchristmas2016\nGeneral Public Tickets Available: Friday, February 12th at 10 am\n\n* Nov. 30 - www.ticketmaster.com/event/1B004F941DBA50F1\n* Dec. 1 - www.ticketmaster.com/event/1B004F9508999A75\n* Dec. 7 - www.ticketmaster.com/event/1B004F95089D9A7C\n* Dec. 8- www.ticketmaster.com/event/1B004F9508A09A81\n* Dec. 14 - www.ticketmaster.com/event/1B004F9508A49A8B\n* Dec. 15 - www.ticketmaster.com/event/1B004F9508A79A8E\n* Dec. 20 - www.ticketmaster.com/event/1B004F950CC99B26\n* Dec. 21 - www.ticketmaster.com/event/1B004F9508AB9A94\n* Dec. 22 - www.ticketmaster.com/event/1B004F9508AF9A97\n\nThese Concerts WILL sell out. Get your tickets early.", 
+        "title": "Amy Grant @ Amy Grant & Vince Gill's CHRISTMAS at the Ryman in Nashville, TN", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Nashville", 
+            "name": "Amy Grant & Vince Gill's CHRISTMAS at the Ryman", 
+            "country": "United States", 
+            "region": "TN", 
+            "longitude": -86.779399, 
+            "place": "Ryman Auditorium", 
+            "latitude": 36.162219
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/11106622?app_id=ticketgame&artist=Amy+Grant&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/11106622/buy_tickets?app_id=ticketgame&artist=Amy+Grant&came_from=67", 
+        "on_sale_datetime": "2016-02-11T10:00:00", 
+        "formatted_datetime": "Wednesday, December 7, 2016 at 7:30PM", 
+        "datetime": "2016-12-07T19:30:00", 
+        "formatted_location": "Nashville, TN", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F1B004F95089D9A7C&subId1=67%7E14162262%7E%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.amygrant.com/", 
+                "facebook_page_url": "https://www.facebook.com/amygrant", 
+                "name": "Amy Grant", 
+                "url": "AmyGrant", 
+                "tracker_count": 142979, 
+                "mbid": "3cd18a93-1797-4bbb-9b8a-c096d5e7864c", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6984252.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/AmyGrant/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6984252.jpeg"
+            }, 
+            {
+                "website": "http://www.amygrant.com/", 
+                "facebook_page_url": "https://www.facebook.com/amygrant", 
+                "name": "Amy Grant", 
+                "url": "AmyGrant", 
+                "tracker_count": 142979, 
+                "mbid": "3cd18a93-1797-4bbb-9b8a-c096d5e7864c", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/AmyGrant/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }, 
+            {
+                "website": "http://www.vincegill.com", 
+                "facebook_page_url": "https://www.facebook.com/VinceGill", 
+                "name": "Vince Gill", 
+                "url": "VinceGill", 
+                "tracker_count": 134373, 
+                "mbid": "ec37ecfe-65b4-49a4-83c7-ee1ccaeec2e3", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/VinceGill/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 11106622
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 135.98, 
+        "price_min": 43.14
+    }, 
+    "modified_time": 1478566041.0, 
+    "id": 25721239
+}

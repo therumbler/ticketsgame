@@ -1,0 +1,164 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.00034, 
+        "displayName": "Blank Range at The Basement East (December 1, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Basement East", 
+            "uri": "http://www.songkick.com/venues/2913113-basement-east?utm_source=32233&utm_medium=partner", 
+            "lat": 36.175636, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.755652, 
+            "id": 2913113
+        }, 
+        "uri": "http://www.songkick.com/concerts/28538754-blank-range-at-basement-east?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-01", 
+            "datetime": "2016-12-01T18:00:00-0600", 
+            "time": "18:00:00"
+        }, 
+        "location": {
+            "lat": 36.175636, 
+            "city": "East Nashville, TN, US", 
+            "lng": -86.755652
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d547b484-6a47-4146-b29a-e84a64e08fdc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d547b484-6a47-4146-b29a-e84a64e08fdc.json"
+                        }
+                    ], 
+                    "displayName": "Blank Range", 
+                    "uri": "http://www.songkick.com/artists/6206444-blank-range?utm_source=32233&utm_medium=partner", 
+                    "id": 6206444
+                }, 
+                "displayName": "Blank Range", 
+                "id": 55447774, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28538754
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "Blank Range", 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74", 
+            "name": "Nashville"
+        }, 
+        "isnis": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://blankrange.bandcamp.com/", 
+                    "id": "fb52a4bb-7917-4978-974e-d0d9bec35b62"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://blankrangemusic.com/", 
+                    "id": "2eede5d2-ac26-4968-95c5-c7c066b3474d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/blankrangemusic", 
+                    "id": "92637cdc-b7f3-4833-acfa-f9835d03eb2a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/blankrange", 
+                    "id": "a948f691-4141-492a-bc73-15db7706b490"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Range, Blank", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "id": "d547b484-6a47-4146-b29a-e84a64e08fdc", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "tags": []
+    }, 
+    "id": 28538754, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

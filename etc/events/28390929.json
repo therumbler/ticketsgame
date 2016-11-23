@@ -1,0 +1,162 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Weather Machine with The Mondegreens at Space Craft at Rollingbay Hall (December 3, 2016)", 
+        "popularity": 0.000215, 
+        "venue": {
+            "displayName": "Space Craft at Rollingbay Hall", 
+            "uri": "http://www.songkick.com/venues/3156439-space-craft-at-rollingbay-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6649587, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.5094521, 
+            "id": 3156439
+        }, 
+        "uri": "http://www.songkick.com/concerts/28390929-weather-machine-at-space-craft-at-rollingbay-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-03", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-03T19:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6649587, 
+            "city": "Bainbridge Island, WA, US", 
+            "lng": -122.5094521
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cd7bb1d1-213f-4492-b0ea-cfdaa27ca3eb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cd7bb1d1-213f-4492-b0ea-cfdaa27ca3eb.json"
+                        }
+                    ], 
+                    "displayName": "The Weather Machine", 
+                    "uri": "http://www.songkick.com/artists/1364470-weather-machine?utm_source=32233&utm_medium=partner", 
+                    "id": 1364470
+                }, 
+                "displayName": "The Weather Machine", 
+                "id": 55196659, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Mondegreens", 
+                    "uri": "http://www.songkick.com/artists/8215833-mondegreens?utm_source=32233&utm_medium=partner", 
+                    "id": 8215833
+                }, 
+                "displayName": "The Mondegreens", 
+                "id": 55196664, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28390929
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Weather Machine", 
+        "area": {
+            "sort-name": "Portland", 
+            "disambiguation": "", 
+            "name": "Portland", 
+            "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2013-01", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative folk"
+            }, 
+            {
+                "count": 1, 
+                "name": "antifolk"
+            }, 
+            {
+                "count": 1, 
+                "name": "singer-songwriter"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://weathermachinemusic.bandcamp.com/", 
+                    "id": "a80d54d5-5ebd-4418-a87e-95c30f860964"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://weathermachinemusic.com/", 
+                    "id": "77f3b9b5-ecb4-46e4-8569-7e85ec3d4ef3"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Portland", 
+            "disambiguation": "", 
+            "name": "Portland", 
+            "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557"
+        }, 
+        "sort-name": "Weather Machine, The", 
+        "gender": null, 
+        "id": "cd7bb1d1-213f-4492-b0ea-cfdaa27ca3eb", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.brownpapertickets.com/event/2707406"
+    }, 
+    "modified_time": 1479442632.0, 
+    "created_minutes": 18227, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 3618, 
+    "id": 28390929
+}

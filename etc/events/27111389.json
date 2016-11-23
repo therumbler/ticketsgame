@@ -1,0 +1,362 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Rasputina and Eliza Rickman at Howard Theatre (December 17, 2016)", 
+        "popularity": 0.0062, 
+        "venue": {
+            "displayName": "Howard Theatre", 
+            "uri": "http://www.songkick.com/venues/74872-howard-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 38.915271, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.021098, 
+            "id": 74872
+        }, 
+        "uri": "http://www.songkick.com/concerts/27111389-rasputina-at-howard-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-17", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-17T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.915271, 
+            "city": "Washington, DC, US", 
+            "lng": -77.021098
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2ee6f445-005e-40dd-8bb8-474849216a38", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2ee6f445-005e-40dd-8bb8-474849216a38.json"
+                        }
+                    ], 
+                    "displayName": "Rasputina", 
+                    "uri": "http://www.songkick.com/artists/461465-rasputina?utm_source=32233&utm_medium=partner", 
+                    "id": 461465
+                }, 
+                "displayName": "Rasputina", 
+                "id": 52886849, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "65d4f206-9f54-4b90-b207-f9e2b626655e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:65d4f206-9f54-4b90-b207-f9e2b626655e.json"
+                        }
+                    ], 
+                    "displayName": "Eliza Rickman", 
+                    "uri": "http://www.songkick.com/artists/2355377-eliza-rickman?utm_source=32233&utm_medium=partner", 
+                    "id": 2355377
+                }, 
+                "displayName": "Eliza Rickman", 
+                "id": 53296959, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27111389
+    }, 
+    "musicbrainz_response": {
+        "name": "Rasputina", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1992", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "cello"
+            }, 
+            {
+                "count": 1, 
+                "name": "cello rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "dark cabaret"
+            }, 
+            {
+                "count": 2, 
+                "name": "rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock and indie"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/2ee6f445-005e-40dd-8bb8-474849216a38", 
+                    "id": "7c2c14fb-cb36-4280-b2c1-8ba4a79ea18b"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000869219", 
+                    "id": "911b79c1-8285-42a5-8793-dc883cc17328"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/263656", 
+                    "id": "47aeb11f-1d5b-4a88-8ee8-24f9a3811572"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/rasputina-lyrics", 
+                    "id": "d79c74eb-785b-4ce6-9ff9-21980437ec94"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-8887/rasputina/lyrics.html", 
+                    "id": "9b5e5841-0606-4ab7-9cf1-600ce0a72a4c"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/rasputina", 
+                    "id": "7d1c20a0-6ad2-487a-b137-15e7e2752ea7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.rasputina.com/", 
+                    "id": "bbd6e994-aaec-42e6-b408-753e1ce652da"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/OfficialRasputina", 
+                    "id": "3df5dd1a-42a3-4e40-a5d1-f457b6fb1c4a"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q2031780", 
+                    "id": "0a52f198-21d6-4c8a-98ec-8c4551128913"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Rasputina_(band)", 
+                    "id": "95fff448-f754-4d76-9cf5-78d5a11f329b"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/rasputinaville", 
+                    "id": "b275e9b1-0093-4ff7-adcd-b441ed6c45da"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "Rasputina", 
+        "type": "Group", 
+        "id": "2ee6f445-005e-40dd-8bb8-474849216a38", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15450, 
+    "bandsintown_response": {
+        "description": "Rasputina Howard Theatre Tickets - Buy and sell Rasputina Washington Tickets for December 17 at Howard Theatre in Washington, DC on StubHub!", 
+        "title": "Rasputina @ Howard Theatre in Washington, DC", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Washington", 
+            "name": "Howard Theatre", 
+            "country": "United States", 
+            "region": "DC", 
+            "longitude": -77.021001, 
+            "place": "Howard Theatre", 
+            "latitude": 38.915552
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12130977?app_id=ticketgame&artist=Rasputina&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12130977/buy_tickets?app_id=ticketgame&artist=Rasputina&came_from=67", 
+        "on_sale_datetime": "2016-05-20T12:00:00", 
+        "formatted_datetime": "Saturday, December 17, 2016 at 8:00PM", 
+        "datetime": "2016-12-17T20:00:00", 
+        "formatted_location": "Washington, DC", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F150050B2FDF26B68&subId1=67%7E15148741%7E22539395%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.rasputina.com", 
+                "facebook_page_url": null, 
+                "name": "Rasputina", 
+                "url": "Rasputina", 
+                "tracker_count": 23052, 
+                "mbid": "2ee6f445-005e-40dd-8bb8-474849216a38", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/3371949.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Rasputina/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/3371949.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12130977
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 0, 
+        "price_min": 9999999
+    }, 
+    "modified_time": 1478566098.0, 
+    "id": 27111389
+}

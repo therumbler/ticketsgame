@@ -1,0 +1,279 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Teddy Thompson at Great American Music Hall (November 13, 2016)", 
+        "popularity": 0.007474, 
+        "venue": {
+            "displayName": "Great American Music Hall", 
+            "uri": "http://www.songkick.com/venues/1261-great-american-music-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 37.7851024, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.4187635, 
+            "id": 1261
+        }, 
+        "uri": "http://www.songkick.com/concerts/28222689-teddy-thompson-at-great-american-music-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-13T19:00:00-0800"
+        }, 
+        "location": {
+            "lat": 37.7851024, 
+            "city": "San Francisco, CA, US", 
+            "lng": -122.4187635
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1e816beb-dccc-445b-891f-f61d7d0e70d3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1e816beb-dccc-445b-891f-f61d7d0e70d3.json"
+                        }
+                    ], 
+                    "displayName": "Teddy Thompson", 
+                    "uri": "http://www.songkick.com/artists/251429-teddy-thompson?utm_source=32233&utm_medium=partner", 
+                    "id": 251429
+                }, 
+                "displayName": "Teddy Thompson", 
+                "id": 54904439, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28222689
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Location"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "Teddy Thompson", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "classic pop and rock"
+            }
+        ], 
+        "gender": "Male", 
+        "twitter": "teddythompson", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/1e816beb-dccc-445b-891f-f61d7d0e70d3", 
+                    "id": "b252ee03-a670-4c3b-bc20-0ca484e764b0"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/78781808", 
+                    "id": "bce9fe56-fb24-490e-9b24-0eea628deba0"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/340497", 
+                    "id": "cd825f51-4604-4a88-a2b4-ec05aa241825"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/teddy-thompson-lyrics", 
+                    "id": "4e2120b3-161e-4d0a-b97a-e6b3c92d1189"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/teddythompsonmusic", 
+                    "id": "80e87fde-0ad4-4684-9264-fff54049071f"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.teddythompson.com/", 
+                    "id": "1ca859ae-981b-4922-ab1e-b35b8e948596"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/teddythompson", 
+                    "id": "abada761-4cf1-4858-8b96-3da4a0d3255a"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/teddythompson", 
+                    "id": "4fb8f130-6ae8-464d-aa44-eb1f34a6f321"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q524060", 
+                    "id": "7ae937c2-3ab3-46e1-a172-6cae6ffc3153"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Teddy_Thompson", 
+                    "id": "53b1fb2b-9ee0-426f-9b26-ce3a72fe37bc"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": "1976-02-19", 
+            "end": null
+        }, 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "London", 
+            "disambiguation": "", 
+            "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f", 
+            "name": "London"
+        }, 
+        "id": "1e816beb-dccc-445b-891f-f61d7d0e70d3", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "GB", 
+        "sort-name": "Thompson, Teddy", 
+        "ipis": [], 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 28222689, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

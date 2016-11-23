@@ -1,0 +1,174 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Gotobeds with Feels (LA) at The Roxy Theatre (November 10, 2016)", 
+        "popularity": 0.00014, 
+        "venue": {
+            "displayName": "The Roxy Theatre", 
+            "uri": "http://www.songkick.com/venues/1300-roxy-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 34.090712, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.387966, 
+            "id": 1300
+        }, 
+        "uri": "http://www.songkick.com/concerts/27751084-gotobeds-at-roxy-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-10T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 34.090712, 
+            "city": "West Hollywood, CA, US", 
+            "lng": -118.387966
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e7b5de13-8dd7-4354-a385-3bb3d23bfd7a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e7b5de13-8dd7-4354-a385-3bb3d23bfd7a.json"
+                        }
+                    ], 
+                    "displayName": "The Gotobeds", 
+                    "uri": "http://www.songkick.com/artists/3123871-gotobeds?utm_source=32233&utm_medium=partner", 
+                    "id": 3123871
+                }, 
+                "displayName": "The Gotobeds", 
+                "id": 54059749, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Feels (LA)", 
+                    "uri": "http://www.songkick.com/artists/8269493-feels-la?utm_source=32233&utm_medium=partner", 
+                    "id": 8269493
+                }, 
+                "displayName": "Feels (LA)", 
+                "id": 55267284, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27751084
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Gotobeds", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Pittsburgh", 
+            "disambiguation": "", 
+            "name": "Pittsburgh", 
+            "id": "787abc26-28ce-44f8-a2d1-82d86b5d28a8"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thegotobeds.bandcamp.com/", 
+                    "id": "a686b41c-be40-4728-8ce1-506ccaa18b4a"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3470468", 
+                    "id": "f39f8e04-95b4-4643-86a9-5ea5c30fad0f"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/the_gotobeds", 
+                    "id": "6a020183-24c6-4576-87b7-f6f507a6d88d"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/channel/UCDdpe6N1lWUUMEs0wShuv2Q", 
+                    "id": "d0680b62-995a-4d7b-9b0a-18e3b14f3202"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Gotobeds, The", 
+        "country": null, 
+        "id": "e7b5de13-8dd7-4354-a385-3bb3d23bfd7a", 
+        "type": "Group", 
+        "disambiguation": "American Indie Rock band", 
+        "gender-id": null
+    }, 
+    "id": 27751084, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

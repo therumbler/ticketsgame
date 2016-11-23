@@ -1,0 +1,134 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Paul Reddick at Dakota Tavern (December 16, 2016)", 
+        "popularity": 0.000186, 
+        "venue": {
+            "displayName": "Dakota Tavern", 
+            "uri": "http://www.songkick.com/venues/101915-dakota-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6497366, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.4207667, 
+            "id": 101915
+        }, 
+        "uri": "http://www.songkick.com/concerts/28437484-paul-reddick-at-dakota-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-16", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-16T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 43.6497366, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.4207667
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "42f4e116-077b-4d16-ac51-fec7fe083df1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:42f4e116-077b-4d16-ac51-fec7fe083df1.json"
+                        }
+                    ], 
+                    "displayName": "Paul Reddick", 
+                    "uri": "http://www.songkick.com/artists/292232-paul-reddick?utm_source=32233&utm_medium=partner", 
+                    "id": 292232
+                }, 
+                "displayName": "Paul Reddick", 
+                "id": 55274614, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28437484
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Paul Reddick", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q7153135", 
+                    "id": "5335042b-34ad-4a05-a00b-c4cc7b1f2026"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Paul_Reddick", 
+                    "id": "ee5adfcb-c7bb-4401-ba14-e423b8a3ebdc"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Ontario", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "CA-ON"
+            ], 
+            "id": "2747553f-b44d-44c4-a7c3-b67412b6f10b", 
+            "name": "Ontario"
+        }, 
+        "sort-name": "Reddick, Paul", 
+        "country": null, 
+        "id": "42f4e116-077b-4d16-ac51-fec7fe083df1", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "age_minutes": 15895, 
+    "bandsintown_response": [], 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 20.0, 
+        "price_min": 18.0
+    }, 
+    "modified_time": 1479442516.0, 
+    "created_time": 1478543016.0, 
+    "modified_minutes": 903, 
+    "id": 28437484
+}

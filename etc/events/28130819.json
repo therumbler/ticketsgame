@@ -1,0 +1,370 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Chieftains at Atlanta Symphony Hall (March 7, 2017)", 
+        "popularity": 0.013456, 
+        "venue": {
+            "displayName": "Atlanta Symphony Hall", 
+            "uri": "http://www.songkick.com/venues/2471-atlanta-symphony-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7892284, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3849682, 
+            "id": 2471
+        }, 
+        "uri": "http://www.songkick.com/concerts/28130819-chieftains-at-atlanta-symphony-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-03-07", 
+            "time": "20:00:00", 
+            "datetime": "2017-03-07T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 33.7892284, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.3849682
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "fce5eb9a-95a7-4a54-b9e4-fe1b036fbe57", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fce5eb9a-95a7-4a54-b9e4-fe1b036fbe57.json"
+                        }
+                    ], 
+                    "displayName": "The Chieftains", 
+                    "uri": "http://www.songkick.com/artists/82459-chieftains?utm_source=32233&utm_medium=partner", 
+                    "id": 82459
+                }, 
+                "displayName": "The Chieftains", 
+                "id": 54743799, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28130819
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Chieftains", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "breton"
+            }, 
+            {
+                "count": 2, 
+                "name": "celtic"
+            }, 
+            {
+                "count": 1, 
+                "name": "celtic folk"
+            }, 
+            {
+                "count": 3, 
+                "name": "folk"
+            }, 
+            {
+                "count": 1, 
+                "name": "irish"
+            }, 
+            {
+                "count": 2, 
+                "name": "irish folk"
+            }
+        ], 
+        "country": "IE", 
+        "twitter": "thechieftains", 
+        "area": {
+            "sort-name": "Ireland", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "IE"
+            ], 
+            "id": "390b05d4-11ec-3bce-a343-703a366b34a5", 
+            "name": "Ireland"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/fce5eb9a-95a7-4a54-b9e4-fe1b036fbe57", 
+                    "id": "f6a7af3a-59fe-401d-87db-124feffd658b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0157298/", 
+                    "id": "291d2d04-8518-4c30-a995-f1832b98aa7f"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/149710475", 
+                    "id": "e17f30d6-37eb-4870-a3fa-f4df27f7ed8f"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000067406", 
+                    "id": "aad240f7-836b-4205-a3cc-9ec3d2ead536"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/281041", 
+                    "id": "0d0f293c-8a41-41fe-aa4a-d1b1322f1919"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/thechieftains", 
+                    "id": "d125e512-d26c-49b5-9e6f-e6106266deac"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.thechieftains.com/", 
+                    "id": "1ccc89a3-c23c-4e6b-acff-0c22fe9b2804"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://musicmoz.org/Bands_and_Artists/C/Chieftains,_The/", 
+                    "id": "0c76ebd6-c7fe-4049-a692-650210314ee9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/the_chieftains", 
+                    "id": "116bb687-6cf8-47d0-b8a3-4a71d07395fb"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/thechieftains", 
+                    "id": "43422746-c47d-4135-8597-7aba269e42f1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q662577", 
+                    "id": "07d9b7fe-e3fc-4f58-8864-1f20eee0f74a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Chieftains", 
+                    "id": "aa43944a-fa14-4a0b-9330-20c39ce5552b"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Dublin", 
+            "disambiguation": "", 
+            "id": "462e7952-4fa9-43cd-bc24-2c5c9cd5dd47", 
+            "name": "Dublin"
+        }, 
+        "sort-name": "Chieftains, The", 
+        "gender": null, 
+        "id": "fce5eb9a-95a7-4a54-b9e4-fe1b036fbe57", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1962", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15482, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "The Chieftains @ Atlanta Symphony Hall in Atlanta, GA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Atlanta", 
+            "name": "Atlanta Symphony Hall", 
+            "country": "United States", 
+            "region": "GA", 
+            "longitude": -84.385493, 
+            "place": "Atlanta Symphony Hall", 
+            "latitude": 33.790098
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12969907?app_id=ticketgame&artist=The+Chieftains&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12969907/buy_tickets?app_id=ticketgame&artist=The+Chieftains&came_from=67", 
+        "on_sale_datetime": "2016-09-23T14:00:00", 
+        "formatted_datetime": "Tuesday, March 7, 2017 at 8:00PM", 
+        "datetime": "2017-03-07T20:00:00", 
+        "formatted_location": "Atlanta, GA", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F0E0050F36B0D1DCE&subId1=67%7E16282902%7E23773877%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.thechieftains.com", 
+                "facebook_page_url": null, 
+                "name": "The Chieftains", 
+                "url": "TheChieftains", 
+                "tracker_count": 30655, 
+                "mbid": "fce5eb9a-95a7-4a54-b9e4-fe1b036fbe57", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5994425.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheChieftains/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5994425.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12969907
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 93.0, 
+        "price_min": 40.6
+    }, 
+    "modified_time": 1479442492.0, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 873, 
+    "id": 28130819
+}

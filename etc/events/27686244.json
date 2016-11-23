@@ -1,0 +1,130 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Almost Queen at Sellersville Theater 1894 (November 25, 2016)", 
+        "popularity": 0.000136, 
+        "venue": {
+            "displayName": "Sellersville Theater 1894", 
+            "uri": "http://www.songkick.com/venues/58245-sellersville-theater-1894?utm_source=32233&utm_medium=partner", 
+            "lat": 40.359344, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.311631, 
+            "id": 58245
+        }, 
+        "uri": "http://www.songkick.com/concerts/27686244-almost-queen-at-sellersville-theater-1894?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-25T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.359344, 
+            "city": "Sellersville, PA, US", 
+            "lng": -75.311631
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3202d622-89f0-423c-9e17-5c505b3fa7ee", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3202d622-89f0-423c-9e17-5c505b3fa7ee.json"
+                        }
+                    ], 
+                    "displayName": "Almost Queen", 
+                    "uri": "http://www.songkick.com/artists/202996-almost-queen?utm_source=32233&utm_medium=partner", 
+                    "id": 202996
+                }, 
+                "displayName": "Almost Queen", 
+                "id": 53942204, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27686244
+    }, 
+    "musicbrainz_response": {
+        "name": "Almost Queen", 
+        "tags": [], 
+        "gender-id": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.almostqueen.com/", 
+                    "id": "240613dc-2d40-4b7f-8eb5-1520866c6646"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/watch?v=_VTR3LesAGc", 
+                    "id": "0d823ba8-251a-4991-98b7-8c95b46b8b31"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Almost Queen", 
+        "gender": null, 
+        "type": "Group", 
+        "id": "3202d622-89f0-423c-9e17-5c505b3fa7ee", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Sold Out", 
+        "price_max": false, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?u=291182&b=234786&m=27601&urllink=www.ticketfly.com/purchase/event/1266273/tfly?utm_medium=api&afftrack=e27686244", 
+        "price_min": false
+    }, 
+    "modified_time": 1479442042.0, 
+    "created_minutes": 18155, 
+    "created_time": 1478566060.0, 
+    "modified_minutes": 3555, 
+    "id": 27686244
+}

@@ -1,0 +1,131 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mind Against at Spybar (November 11, 2016)", 
+        "popularity": 0.0011, 
+        "venue": {
+            "displayName": "Spybar", 
+            "uri": "http://www.songkick.com/venues/1353776-spybar?utm_source=32233&utm_medium=partner", 
+            "lat": 41.8936153, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6357172, 
+            "id": 1353776
+        }, 
+        "uri": "http://www.songkick.com/concerts/28280029-mind-against-at-spybar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-11T22:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.8936153, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6357172
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7e9826df-af21-4b16-9f5a-0523b2e3f4a0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7e9826df-af21-4b16-9f5a-0523b2e3f4a0.json"
+                        }
+                    ], 
+                    "displayName": "Mind Against", 
+                    "uri": "http://www.songkick.com/artists/6055179-mind-against?utm_source=32233&utm_medium=partner", 
+                    "id": 6055179
+                }, 
+                "displayName": "Mind Against", 
+                "id": 55000069, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28280029
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Mind Against", 
+        "area": {
+            "sort-name": "Germany", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "DE"
+            ], 
+            "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad", 
+            "name": "Germany"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2169341", 
+                    "id": "3f5be4c9-eea3-477c-be76-58d401eb2530"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/mindagainst", 
+                    "id": "29658a56-ba1d-4dc0-8e39-01da520d0a76"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Mind Against", 
+        "country": "DE", 
+        "disambiguation": "Berlin, Germany", 
+        "type": "Group", 
+        "id": "7e9826df-af21-4b16-9f5a-0523b2e3f4a0", 
+        "gender-id": null
+    }, 
+    "id": 28280029, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

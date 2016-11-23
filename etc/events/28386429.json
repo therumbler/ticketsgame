@@ -1,0 +1,150 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Future Elevators at The Earl (November 25, 2016)", 
+        "popularity": 9.2e-05, 
+        "venue": {
+            "displayName": "The Earl", 
+            "uri": "http://www.songkick.com/venues/603016-earl?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7413988, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3468808, 
+            "id": 603016
+        }, 
+        "uri": "http://www.songkick.com/concerts/28386429-future-elevators-at-earl?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-25T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 33.7413988, 
+            "city": "East Atlanta, GA, US", 
+            "lng": -84.3468808
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8050a693-3c71-4a0c-8529-6b71afb9df64", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8050a693-3c71-4a0c-8529-6b71afb9df64.json"
+                        }
+                    ], 
+                    "displayName": "Future Elevators", 
+                    "uri": "http://www.songkick.com/artists/8651579-future-elevators?utm_source=32233&utm_medium=partner", 
+                    "id": 8651579
+                }, 
+                "displayName": "Future Elevators", 
+                "id": 55189149, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28386429
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Future Elevators", 
+        "area": {
+            "sort-name": "Birmingham", 
+            "disambiguation": "", 
+            "name": "Birmingham", 
+            "id": "8995a377-da74-40b6-ab76-b1f2d6eed01f"
+        }, 
+        "gender": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bandsintown.com/FutureElevators", 
+                    "id": "494b460b-0b4b-460f-80cc-73fb20cb8536"
+                }, 
+                "direction": "forward", 
+                "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandsintown", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://weldbham.com/blog/2016/02/19/future-elevators-debut-album-interview/", 
+                    "id": "15745150-9390-444d-aab2-3f362fb2b5b7"
+                }, 
+                "direction": "forward", 
+                "type-id": "1f171391-1f98-4f45-b191-038ec3b12395", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "interview", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/FutureElevators", 
+                    "id": "f03c025a-626c-48c0-b42d-cfef70f1297c"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Birmingham", 
+            "disambiguation": "", 
+            "name": "Birmingham", 
+            "id": "8995a377-da74-40b6-ab76-b1f2d6eed01f"
+        }, 
+        "id": "8050a693-3c71-4a0c-8529-6b71afb9df64", 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Future Elevators", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 28386429, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,371 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Guster at Beacon Theatre (November 25, 2016)", 
+        "popularity": 0.06311, 
+        "venue": {
+            "displayName": "Beacon Theatre", 
+            "uri": "http://www.songkick.com/venues/1025-beacon-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7760381, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9820377, 
+            "id": 1025
+        }, 
+        "uri": "http://www.songkick.com/concerts/28070199-guster-at-beacon-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-25T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7760381, 
+            "city": "New York, NY, US", 
+            "lng": -73.9820377
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6cbe1e63-5895-4168-ac7e-f0d2836ba0c1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6cbe1e63-5895-4168-ac7e-f0d2836ba0c1.json"
+                        }
+                    ], 
+                    "displayName": "Guster", 
+                    "uri": "http://www.songkick.com/artists/24336-guster?utm_source=32233&utm_medium=partner", 
+                    "id": 24336
+                }, 
+                "displayName": "Guster", 
+                "id": 54637319, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28070199
+    }, 
+    "musicbrainz_response": {
+        "name": "Guster", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1991", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "acoustic rock"
+            }, 
+            {
+                "count": 2, 
+                "name": "alternative rock"
+            }, 
+            {
+                "count": 0, 
+                "name": "american"
+            }, 
+            {
+                "count": 1, 
+                "name": "jangle pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock"
+            }
+        ], 
+        "gender": null, 
+        "twitter": "guster", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000945245", 
+                    "id": "566de58c-6df3-4dfa-978c-77c796c10c29"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/125053", 
+                    "id": "46fa2c75-619a-4b88-bd28-c77804d696a0"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/guster-lyrics", 
+                    "id": "f1669142-4007-4278-b8a9-e2251ddd4a08"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/guster", 
+                    "id": "175c7c3d-7b02-4817-b2fc-bebf460c6e99"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.guster.com/", 
+                    "id": "b4c8976c-b156-48b3-9df0-eb43726caffa"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/guster", 
+                    "id": "36606523-cb4f-4ae1-8194-3fa28841d4d1"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/14190", 
+                    "id": "1cda11c9-fe05-4d45-b346-208326fdc563"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/guster", 
+                    "id": "cf9edc2c-a188-4320-8a61-428b8283709e"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Gustermusic", 
+                    "id": "968aa91a-19e4-42c7-9816-791cb173bd4c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q775690", 
+                    "id": "bb35dc1d-c5e6-44f5-95ba-dd709938f8da"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Guster", 
+                    "id": "e96c160b-3b4c-45de-a0a4-28a6ab58cfb6"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/Guster", 
+                    "id": "ecb912bc-7de0-47dc-a5f7-3844dfb0a802"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Boston", 
+            "disambiguation": "", 
+            "id": "e331bfdf-b908-429c-a79b-710cf9c06abb", 
+            "name": "Boston"
+        }, 
+        "gender-id": null, 
+        "isnis": [
+            "0000000107273747"
+        ], 
+        "sort-name": "Guster", 
+        "country": "US", 
+        "type": "Group", 
+        "id": "6cbe1e63-5895-4168-ac7e-f0d2836ba0c1", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": "Join us for a celebration of 25 years of Guster at The Beacon Theatre in New York, NY on Friday November 25th. Tickets go on sale Friday at 12PM EST, but you can save $5 and reserve your seat early by using the presale code BIGFRIEND on Wednesday at 12PM. \n\n- w/ The Old 97's\n- $25-$35\n- 7PM doors / 8PM show\n- All Ages", 
+        "title": "Guster @ Beacon Theatre in New York, NY", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "New York", 
+            "name": "Beacon Theatre", 
+            "country": "United States", 
+            "region": "NY", 
+            "longitude": -73.9816297, 
+            "place": "Beacon Theatre", 
+            "latitude": 40.7803275
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12923298?app_id=ticketgame&artist=Guster&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12923298/buy_tickets?app_id=ticketgame&artist=Guster&came_from=67", 
+        "on_sale_datetime": "2016-09-14T12:00:00", 
+        "formatted_datetime": "Friday, November 25, 2016 at 7:00PM", 
+        "datetime": "2016-11-25T19:00:00", 
+        "formatted_location": "New York, NY", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fwww.ticketmaster.com%2FGuster-tickets%2Fartist%2F781894+&subId1=67%7E16221489%7E%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.guster.com", 
+                "facebook_page_url": "https://www.facebook.com/Gustermusic", 
+                "name": "Guster", 
+                "url": "Guster", 
+                "tracker_count": 171643, 
+                "mbid": "6cbe1e63-5895-4168-ac7e-f0d2836ba0c1", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6309051.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Guster/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6309051.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12923298
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fwww.ticketmaster.com%2FGuster-tickets%2Fartist%2F781894+&subId1=67%7E16221489%7E%7E%7E"
+    }, 
+    "modified_time": 1479442343.0, 
+    "created_minutes": 5840, 
+    "created_time": 1479305699.0, 
+    "modified_minutes": 3562, 
+    "id": 28070199
+}

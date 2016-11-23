@@ -1,0 +1,146 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Swet Shop Boys at Rickshaw Stop (November 7, 2016)", 
+        "popularity": 3.4e-05, 
+        "venue": {
+            "displayName": "Rickshaw Stop", 
+            "uri": "http://www.songkick.com/venues/14791-rickshaw-stop?utm_source=32233&utm_medium=partner", 
+            "lat": 37.7759644, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.4204165, 
+            "id": 14791
+        }, 
+        "uri": "http://www.songkick.com/concerts/28274304-swet-shop-boys-at-rickshaw-stop?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-07", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-07T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 37.7759644, 
+            "city": "San Francisco, CA, US", 
+            "lng": -122.4204165
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "22f5d8e4-5aa2-4012-beb1-4a4785733e85", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:22f5d8e4-5aa2-4012-beb1-4a4785733e85.json"
+                        }
+                    ], 
+                    "displayName": "Swet Shop Boys", 
+                    "uri": "http://www.songkick.com/artists/8908234-swet-shop-boys?utm_source=32233&utm_medium=partner", 
+                    "id": 8908234
+                }, 
+                "displayName": "Swet Shop Boys", 
+                "id": 54989939, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28274304
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "swet shop boys", 
+        "area": {
+            "sort-name": "London", 
+            "disambiguation": "", 
+            "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f", 
+            "name": "London"
+        }, 
+        "gender": null, 
+        "twitter": "swetshopboys", 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://swetshopboys.bandcamp.com/", 
+                    "id": "b378bf8f-0573-48f7-bddf-c09eab6b0bb5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/swetshopboys", 
+                    "id": "2bdae88e-156d-4983-a18e-cde9c41a842a"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/swetshopboys", 
+                    "id": "9c1f9dc6-d97f-4263-af9e-3bf3ff799a2e"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "22f5d8e4-5aa2-4012-beb1-4a4785733e85", 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "swet shop boys", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2014", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28274304, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

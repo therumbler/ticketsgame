@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Wimps at The Liquor Store (December 10, 2016)", 
+        "popularity": 0.000325, 
+        "venue": {
+            "displayName": "The Liquor Store", 
+            "uri": "http://www.songkick.com/venues/2878978-liquor-store?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5165836, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6300034, 
+            "id": 2878978
+        }, 
+        "uri": "http://www.songkick.com/concerts/28320384-wimps-at-liquor-store?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-10", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 45.5165836, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6300034
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "93ba0fc0-8718-414a-91a7-4a9aa9643231", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:93ba0fc0-8718-414a-91a7-4a9aa9643231.json"
+                        }
+                    ], 
+                    "displayName": "Wimps", 
+                    "uri": "http://www.songkick.com/artists/4972983-wimps?utm_source=32233&utm_medium=partner", 
+                    "id": 4972983
+                }, 
+                "displayName": "Wimps", 
+                "id": 55072839, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28320384
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Wimps", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "england"
+            }, 
+            {
+                "count": 1, 
+                "name": "london"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/733824", 
+                    "id": "1df27671-a362-4a7b-aa99-760a3a639639"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Wimps, The", 
+        "country": "GB", 
+        "id": "93ba0fc0-8718-414a-91a7-4a9aa9643231", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28320384, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Alex Wiley at The Funhouse (November 28, 2016)", 
+        "popularity": 0.003928, 
+        "venue": {
+            "displayName": "The Funhouse", 
+            "uri": "http://www.songkick.com/venues/11594-funhouse?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6186334, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3293734, 
+            "id": 11594
+        }, 
+        "uri": "http://www.songkick.com/concerts/28437094-alex-wiley-at-funhouse?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-28", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-28T19:30:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6186334, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3293734
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1acf1644-ed1e-4513-87c0-346310eb42e4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1acf1644-ed1e-4513-87c0-346310eb42e4.json"
+                        }
+                    ], 
+                    "displayName": "Alex Wiley", 
+                    "uri": "http://www.songkick.com/artists/5596548-alex-wiley?utm_source=32233&utm_medium=partner", 
+                    "id": 5596548
+                }, 
+                "displayName": "Alex Wiley", 
+                "id": 55273864, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28437094
+    }, 
+    "musicbrainz_response": {
+        "name": "Alex Wiley", 
+        "area": {
+            "sort-name": "Chicago", 
+            "disambiguation": "", 
+            "name": "Chicago", 
+            "id": "29a709d8-0320-493e-8d0c-f2c386662b7f"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/alex-wiley-lyrics", 
+                    "id": "29a8abe6-0c45-4828-bd1c-66cb6673ab07"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Wiley, Alex", 
+        "gender": "Male", 
+        "type": "Person", 
+        "id": "1acf1644-ed1e-4513-87c0-346310eb42e4", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15510, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 25.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442518.0, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 903, 
+    "id": 28437094
+}

@@ -1,0 +1,145 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Goodnight Texas and Bombadil at Jammin' Java (December 7, 2016)", 
+        "popularity": 0.003528, 
+        "venue": {
+            "displayName": "Jammin' Java", 
+            "uri": "http://www.songkick.com/venues/124690-jammin-java?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9041378, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.2611259, 
+            "id": 124690
+        }, 
+        "uri": "http://www.songkick.com/concerts/28086214-goodnight-texas-at-jammin-java?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-07", 
+            "time": "19:30:00", 
+            "datetime": "2016-12-07T19:30:00-0500"
+        }, 
+        "location": {
+            "lat": 38.9041378, 
+            "city": "Vienna, VA, US", 
+            "lng": -77.2611259
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5def8c5b-3a30-43b8-95ee-5c830d717694", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5def8c5b-3a30-43b8-95ee-5c830d717694.json"
+                        }
+                    ], 
+                    "displayName": "Goodnight Texas", 
+                    "uri": "http://www.songkick.com/artists/4822148-goodnight-texas?utm_source=32233&utm_medium=partner", 
+                    "id": 4822148
+                }, 
+                "displayName": "Goodnight Texas", 
+                "id": 54664099, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "38e2ff64-8018-4810-aeea-f9422d017bda", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:38e2ff64-8018-4810-aeea-f9422d017bda.json"
+                        }, 
+                        {
+                            "mbid": "2f8d182d-32ac-4420-8370-a044d17d549a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2f8d182d-32ac-4420-8370-a044d17d549a.json"
+                        }, 
+                        {
+                            "mbid": "33576e38-43f0-4672-bac3-11eb65e49893", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:33576e38-43f0-4672-bac3-11eb65e49893.json"
+                        }
+                    ], 
+                    "displayName": "Bombadil", 
+                    "uri": "http://www.songkick.com/artists/177364-bombadil?utm_source=32233&utm_medium=partner", 
+                    "id": 177364
+                }, 
+                "displayName": "Bombadil", 
+                "id": 54664104, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28086214
+    }, 
+    "musicbrainz_response": {
+        "name": "Goodnight, Texas", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/goodnighttexas", 
+                    "id": "b1d55a9c-9d43-489e-b083-56b85f5af78a"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Goodnight, Texas", 
+        "gender": null, 
+        "disambiguation": "", 
+        "type": "Group", 
+        "id": "5def8c5b-3a30-43b8-95ee-5c830d717694", 
+        "gender-id": null
+    }, 
+    "age_minutes": 15475, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442430.0, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 870, 
+    "id": 28086214
+}

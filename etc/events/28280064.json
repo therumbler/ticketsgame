@@ -1,0 +1,107 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Warcries (Brooklyn), Casper Skulls, Very Fresh, and Fruit & Flowers at Shea Stadium BK (November 13, 2016)", 
+        "popularity": 2e-05, 
+        "venue": {
+            "displayName": "Shea Stadium BK", 
+            "uri": "http://www.songkick.com/venues/2452639-shea-stadium-bk?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7105321, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9364203, 
+            "id": 2452639
+        }, 
+        "uri": "http://www.songkick.com/concerts/28280064-warcries-brooklyn-at-shea-stadium-bk?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "datetime": "2016-11-13T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 40.7105321, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9364203
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Warcries (Brooklyn)", 
+                    "uri": "http://www.songkick.com/artists/8427368-warcries-brooklyn?utm_source=32233&utm_medium=partner", 
+                    "id": 8427368
+                }, 
+                "displayName": "Warcries (Brooklyn)", 
+                "id": 55000154, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c85f788c-a791-429c-8306-c190c52786b4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c85f788c-a791-429c-8306-c190c52786b4.json"
+                        }
+                    ], 
+                    "displayName": "Casper Skulls", 
+                    "uri": "http://www.songkick.com/artists/8590239-casper-skulls?utm_source=32233&utm_medium=partner", 
+                    "id": 8590239
+                }, 
+                "displayName": "Casper Skulls", 
+                "id": 55000159, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0630de3f-ae28-4632-a8a4-cb744bbd2d58", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0630de3f-ae28-4632-a8a4-cb744bbd2d58.json"
+                        }
+                    ], 
+                    "displayName": "Very Fresh", 
+                    "uri": "http://www.songkick.com/artists/3845916-very-fresh?utm_source=32233&utm_medium=partner", 
+                    "id": 3845916
+                }, 
+                "displayName": "Very Fresh", 
+                "id": 55000164, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Fruit & Flowers", 
+                    "uri": "http://www.songkick.com/artists/8554234-fruit-and-flowers?utm_source=32233&utm_medium=partner", 
+                    "id": 8554234
+                }, 
+                "displayName": "Fruit & Flowers", 
+                "id": 55000169, 
+                "billing": "headline", 
+                "billingIndex": 4
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28280064
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "id": 28280064, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

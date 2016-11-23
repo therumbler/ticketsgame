@@ -1,0 +1,573 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.021523, 
+        "displayName": "Pop Evil with Red Sun Rising and Badflower at Summit Music Hall (February 3, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Summit Music Hall", 
+            "uri": "http://www.songkick.com/venues/836146-summit-music-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7535064, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9953172, 
+            "id": 836146
+        }, 
+        "uri": "http://www.songkick.com/concerts/28359514-pop-evil-at-summit-music-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-03", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 39.7535064, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9953172
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Pop Evil", 
+                "id": 55141519, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8e3ce660-79ed-4072-bd3d-e8db7a409946", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8e3ce660-79ed-4072-bd3d-e8db7a409946.json"
+                        }
+                    ], 
+                    "displayName": "Pop Evil", 
+                    "uri": "http://www.songkick.com/artists/568890-pop-evil?utm_source=32233&utm_medium=partner", 
+                    "id": 568890
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Red Sun Rising", 
+                "id": 55141524, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cf02d468-f916-46a6-b110-82fa1dc3eb5f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cf02d468-f916-46a6-b110-82fa1dc3eb5f.json"
+                        }
+                    ], 
+                    "displayName": "Red Sun Rising", 
+                    "uri": "http://www.songkick.com/artists/695129-red-sun-rising?utm_source=32233&utm_medium=partner", 
+                    "id": 695129
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Badflower", 
+                "id": 55141529, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Badflower", 
+                    "uri": "http://www.songkick.com/artists/6504639-badflower?utm_source=32233&utm_medium=partner", 
+                    "id": 6504639
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28359514
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Pop Evil", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2001", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "twitter": "popevil", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative metal"
+            }, 
+            {
+                "count": 1, 
+                "name": "hard rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "post grunge"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/8e3ce660-79ed-4072-bd3d-e8db7a409946", 
+                    "id": "7464a2bd-2c4f-4cdf-8f70-3bd76401136c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000981727", 
+                    "id": "95f2b772-cfcb-43dd-bcf8-fa6c0551bfb4"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2807025", 
+                    "id": "3fffad1e-8ac1-4a16-b762-825573c20c33"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Pop+Evil", 
+                    "id": "2a1f1059-47f8-480e-bf17-d913a5505c1f"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/pop-evil-lyrics", 
+                    "id": "404e1124-a756-41ac-941a-f9d8e4c1f0de"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://genius.com/artists/Pop-evil", 
+                    "id": "103a4fd3-ab06-485e-8e47-460916e81ff0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/POPEVIL", 
+                    "id": "7f5ec6bf-d00f-4b22-af75-278d6be93657"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.popevil.com/", 
+                    "id": "4a51c579-189d-4a90-bf45-e1e73f7c3a12"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://imvdb.com/n/pop-evil", 
+                    "id": "4e7f5f39-4e51-4979-99e4-b366c200a788"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/pop_evil", 
+                    "id": "62ded42d-262e-4d8b-b4af-9c6aae76583e"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.musik-sammler.de/artist/pop-evil/", 
+                    "id": "ec311172-0eb6-498e-b3c9-d011e5e08e06"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/artist/id441597923", 
+                    "id": "5cbfe985-4295-41c1-a84d-df503560bb3a"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=Am5pwhpjvphgesy2obbmx3y6dvq", 
+                    "id": "befbc46d-922d-4d48-83e1-e08eb016a133"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/popevil", 
+                    "id": "805eb4ee-1949-4e0a-a72c-f116f839be59"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/popevil", 
+                    "id": "8a284400-4f68-4991-8cb2-ad5bcbe65236"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/popevil", 
+                    "id": "e31670e0-4888-4a3c-a268-9ce0622bf61c"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/pop-evil-official", 
+                    "id": "434c2480-8b90-4e15-acc8-ad4e29800aa4"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2", 
+                    "id": "8619567e-e199-402f-a056-7bf8b6f7cbf5"
+                }, 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q7228997", 
+                    "id": "e70ef2a1-523c-4b8b-bc7d-33ca5998ed81"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Pop_Evil", 
+                    "id": "4ca98934-f062-48bc-b920-a2ca114f1e43"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/PopEvilMusic", 
+                    "id": "784bed00-aab0-479e-9b82-d892fab1e754"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "North Muskegon", 
+            "disambiguation": "", 
+            "name": "North Muskegon", 
+            "id": "390f6b52-ad99-4c27-94fc-9b4c646daec3"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Pop Evil", 
+        "type": "Group", 
+        "id": "8e3ce660-79ed-4072-bd3d-e8db7a409946", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15504, 
+    "bandsintown_response": {
+        "description": "ALL AGES", 
+        "title": "Pop Evil @ Summit Music Hall in Denver, CO", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Denver", 
+            "name": "Summit Music Hall", 
+            "country": "United States", 
+            "region": "CO", 
+            "longitude": -104.995239, 
+            "place": "Summit Music Hall", 
+            "latitude": 39.753367
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13147982?app_id=ticketgame&artist=Pop+Evil&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13147982/buy_tickets?app_id=ticketgame&artist=Pop+Evil&came_from=67", 
+        "on_sale_datetime": "2016-10-19T10:00:00", 
+        "formatted_datetime": "Friday, February 3, 2017 at 7:00PM", 
+        "datetime": "2017-02-03T19:00:00", 
+        "formatted_location": "Denver, CO", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1364169&afftrack=67%7E16521341%7E%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.popevil.com", 
+                "facebook_page_url": "https://www.facebook.com/popevil", 
+                "name": "Pop Evil", 
+                "url": "PopEvil", 
+                "tracker_count": 194738, 
+                "mbid": "8e3ce660-79ed-4072-bd3d-e8db7a409946", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/7069868.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/PopEvil/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/7069868.jpeg"
+            }, 
+            {
+                "website": "http://www.popevil.com", 
+                "facebook_page_url": "https://www.facebook.com/popevil", 
+                "name": "Pop Evil", 
+                "url": "PopEvil", 
+                "tracker_count": 194738, 
+                "mbid": "8e3ce660-79ed-4072-bd3d-e8db7a409946", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/PopEvil/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }, 
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/redsunrisingmusic", 
+                "name": "Red Sun Rising", 
+                "url": "RedSunRising", 
+                "tracker_count": 21594, 
+                "mbid": null, 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/RedSunRising/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }, 
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/wearebadflower", 
+                "name": "Badflower", 
+                "url": "Badflower", 
+                "tracker_count": 2895, 
+                "mbid": null, 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Badflower/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13147982
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 25.0, 
+        "price_min": 22.5
+    }, 
+    "modified_time": 1479442686.0, 
+    "created_time": 1478566006.0, 
+    "modified_minutes": 893, 
+    "id": 28359514
+}

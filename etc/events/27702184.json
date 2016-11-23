@@ -1,0 +1,270 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mipso with Kristin Andreassen at City Winery (November 30, 2016)", 
+        "popularity": 0.000844, 
+        "venue": {
+            "displayName": "City Winery", 
+            "uri": "http://www.songkick.com/venues/1837308-city-winery?utm_source=32233&utm_medium=partner", 
+            "lat": 41.8844754, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6569735, 
+            "id": 1837308
+        }, 
+        "uri": "http://www.songkick.com/concerts/27702184-mipso-at-city-winery?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-30", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 41.8844754, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6569735
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "924b5ed3-d283-46af-ad59-406bdbe0a1a1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:924b5ed3-d283-46af-ad59-406bdbe0a1a1.json"
+                        }
+                    ], 
+                    "displayName": "Mipso", 
+                    "uri": "http://www.songkick.com/artists/5674339-mipso?utm_source=32233&utm_medium=partner", 
+                    "id": 5674339
+                }, 
+                "displayName": "Mipso", 
+                "id": 53970449, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2c6a6b29-9992-4547-991f-6da4ca56004a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2c6a6b29-9992-4547-991f-6da4ca56004a.json"
+                        }
+                    ], 
+                    "displayName": "Kristin Andreassen", 
+                    "uri": "http://www.songkick.com/artists/274795-kristin-andreassen?utm_source=32233&utm_medium=partner", 
+                    "id": 274795
+                }, 
+                "displayName": "Kristin Andreassen", 
+                "id": 54693199, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27702184
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Mipso", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2010", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Chapel Hill", 
+            "disambiguation": "", 
+            "id": "ca61a254-6d4e-45c1-89d2-a22f5cc158f8", 
+            "name": "Chapel Hill"
+        }, 
+        "gender": null, 
+        "twitter": "mipsomusic", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003245232", 
+                    "id": "2887d2e9-2c49-4ac8-a6ce-1415c6604772"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://mipsomusic.bandcamp.com/", 
+                    "id": "ea64d952-6a9a-41f2-abc1-498c857495d6"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4167444", 
+                    "id": "4a3f75dd-859e-4b09-b409-bb4d8781c474"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://mipsomusic.com/", 
+                    "id": "c311dbab-df79-4825-b697-37201c28347a"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/artist/id723851283", 
+                    "id": "dddce20f-bb7f-408f-8dbd-f11734a9d4cc"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/mipsomusic", 
+                    "id": "d9e03330-f5cd-4790-b998-84abfbcc194a"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/mipsomusic", 
+                    "id": "b066734f-3220-41d5-afa1-9ee255410321"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/mipsomusic", 
+                    "id": "a99ecca7-6e89-4815-8e1a-095569248608"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/mipsomusic", 
+                    "id": "393a8b81-13aa-4cf7-926b-882bed33cf4f"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Mipso", 
+        "begin_area": {
+            "sort-name": "Chapel Hill", 
+            "disambiguation": "", 
+            "id": "ca61a254-6d4e-45c1-89d2-a22f5cc158f8", 
+            "name": "Chapel Hill"
+        }, 
+        "gender-id": null, 
+        "country": null, 
+        "id": "924b5ed3-d283-46af-ad59-406bdbe0a1a1", 
+        "type": "Group", 
+        "disambiguation": "North Carolina Renegade Traditional"
+    }, 
+    "id": 27702184, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

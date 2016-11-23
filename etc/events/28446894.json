@@ -1,0 +1,234 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 3.1e-05, 
+        "displayName": "FRIGS and whim at Elvis Guesthouse (November 23, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Elvis Guesthouse", 
+            "uri": "http://www.songkick.com/venues/2849188-elvis-guesthouse?utm_source=32233&utm_medium=partner", 
+            "lat": 40.725358, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.98443, 
+            "id": 2849188
+        }, 
+        "uri": "http://www.songkick.com/concerts/28446894-frigs-at-elvis-guesthouse?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-23", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-23T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.725358, 
+            "city": "New York, NY, US", 
+            "lng": -73.98443
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "FRIGS", 
+                "id": 55290739, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "35d5ac07-bc39-4a8c-b3a0-7969d78020e8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:35d5ac07-bc39-4a8c-b3a0-7969d78020e8.json"
+                        }
+                    ], 
+                    "displayName": "FRIGS", 
+                    "uri": "http://www.songkick.com/artists/8788744-frigs?utm_source=32233&utm_medium=partner", 
+                    "id": 8788744
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "whim", 
+                "id": 55290744, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "whim", 
+                    "uri": "http://www.songkick.com/artists/1012369-whim?utm_source=32233&utm_medium=partner", 
+                    "id": 1012369
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28446894
+    }, 
+    "musicbrainz_response": {
+        "name": "FRIGS", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative"
+            }, 
+            {
+                "count": 1, 
+                "name": "arts & crafts"
+            }, 
+            {
+                "count": 1, 
+                "name": "canada"
+            }, 
+            {
+                "count": 1, 
+                "name": "frigs"
+            }, 
+            {
+                "count": 1, 
+                "name": "punk rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "sludge"
+            }, 
+            {
+                "count": 1, 
+                "name": "toronto"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Toronto", 
+            "disambiguation": "", 
+            "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77", 
+            "name": "Toronto"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://frigsmusic.com/", 
+                    "id": "30c739b2-3a39-4335-93d0-19c4baf86a45"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/FRIGSband", 
+                    "id": "8c84ae0e-cc29-45ac-9290-8d0a82ddb456"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/FRIGSBAND", 
+                    "id": "29314d68-2e0d-4b8e-ad7d-f9d00b885b73"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/frigsband/", 
+                    "id": "0a5cbacf-ffb7-4db0-907c-c5e84ebff1e6"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/frigs", 
+                    "id": "4a6ee22d-29db-42c3-9f94-41198e2d5feb"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Toronto", 
+            "disambiguation": "", 
+            "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77", 
+            "name": "Toronto"
+        }, 
+        "id": "35d5ac07-bc39-4a8c-b3a0-7969d78020e8", 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "FRIGS", 
+        "country": null, 
+        "type": "Group", 
+        "twitter": "FRIGSband", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 3184, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 5.0, 
+        "price_min": 5.0
+    }, 
+    "modified_time": 1479442491.0, 
+    "created_time": 1479305699.0, 
+    "modified_minutes": 905, 
+    "id": 28446894
+}

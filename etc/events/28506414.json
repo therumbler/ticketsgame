@@ -1,0 +1,129 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mckameys at The Park Theatre (February 3, 2017)", 
+        "popularity": 0.000207, 
+        "venue": {
+            "displayName": "The Park Theatre", 
+            "uri": "http://www.songkick.com/venues/3064584-park-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 35.6813734, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -85.7740639, 
+            "id": 3064584
+        }, 
+        "uri": "http://www.songkick.com/concerts/28506414-mckameys-at-park-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-03", 
+            "time": "19:00:00", 
+            "datetime": "2017-02-03T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 35.6813734, 
+            "city": "McMinnville, TN, US", 
+            "lng": -85.7740639
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Mckameys", 
+                "id": 55393024, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "acf11da2-1c55-4e1e-8365-dbbb6c014804", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:acf11da2-1c55-4e1e-8365-dbbb6c014804.json"
+                        }
+                    ], 
+                    "displayName": "Mckameys", 
+                    "uri": "http://www.songkick.com/artists/429750-mckameys?utm_source=32233&utm_medium=partner", 
+                    "id": 429750
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28506414
+    }, 
+    "musicbrainz_response": {
+        "name": "The McKameys", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q7750769", 
+                    "id": "1ae15945-7271-4ebc-857e-5fecd574ff64"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_McKameys", 
+                    "id": "d1536baf-2ef8-488f-b432-9d018eec1f8c"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "McKameys, The", 
+        "isnis": [], 
+        "disambiguation": "", 
+        "country": null, 
+        "type": null, 
+        "id": "acf11da2-1c55-4e1e-8365-dbbb6c014804", 
+        "gender-id": null
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://public.ticketbiscuit.com/ParkTheater/Events/288478"
+    }, 
+    "modified_time": 1479442360.0, 
+    "created_minutes": 14279, 
+    "created_time": 1478803675.0, 
+    "modified_minutes": 3634, 
+    "id": 28506414
+}

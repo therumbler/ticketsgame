@@ -1,0 +1,164 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Lowell at Phoenix Concert Theatre (November 10, 2016)", 
+        "popularity": 0.00362, 
+        "venue": {
+            "displayName": "Phoenix Concert Theatre", 
+            "uri": "http://www.songkick.com/venues/43092-phoenix-concert-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 43.66475, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.3736987, 
+            "id": 43092
+        }, 
+        "uri": "http://www.songkick.com/concerts/28411614-lowell-at-phoenix-concert-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 43.66475, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.3736987
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "090863f2-3b7b-457a-b5dd-b0796123f703", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:090863f2-3b7b-457a-b5dd-b0796123f703.json"
+                        }
+                    ], 
+                    "displayName": "Lowell", 
+                    "uri": "http://www.songkick.com/artists/199354-lowell?utm_source=32233&utm_medium=partner", 
+                    "id": 199354
+                }, 
+                "displayName": "Lowell", 
+                "id": 55231119, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28411614
+    }, 
+    "bandsintown_response": [
+        {
+            "description": null, 
+            "title": "Lowell @ Phoenix Concert Theatre in Toronto, Canada", 
+            "ticket_type": null, 
+            "venue": {
+                "city": "Toronto", 
+                "name": "Phoenix Concert Theatre", 
+                "country": "Canada", 
+                "region": "", 
+                "longitude": -79.374023, 
+                "place": "Phoenix Concert Theatre", 
+                "latitude": 43.664616
+            }, 
+            "facebook_rsvp_url": "http://www.bandsintown.com/event/12930810?app_id=ticketsgame&artist=Lowell&came_from=67", 
+            "ticket_url": null, 
+            "on_sale_datetime": "2016-09-16T12:00:00", 
+            "formatted_datetime": "Thursday, November 10, 2016 at 7:00PM", 
+            "datetime": "2016-11-10T19:00:00", 
+            "formatted_location": "Toronto, Canada", 
+            "artists": [
+                {
+                    "website": null, 
+                    "facebook_page_url": "https://www.facebook.com/lowellsongs", 
+                    "name": "Lowell", 
+                    "url": "Lowell", 
+                    "tracker_count": 10567, 
+                    "mbid": null, 
+                    "image_url": "https://s3.amazonaws.com/bit-photos/large/6644894.jpeg", 
+                    "facebook_tour_dates_url": "http://www.bandsintown.com/Lowell/facebookapp?came_from=67", 
+                    "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6644894.jpeg"
+                }
+            ], 
+            "ticket_status": "unavailable", 
+            "id": 12930810
+        }
+    ], 
+    "musicbrainz_response": {
+        "name": "Lowell", 
+        "sort-name": "Lowell", 
+        "country": "IT", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Italy", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "IT"
+            ], 
+            "id": "c6500277-9a3d-349b-bf30-41afdbf42add", 
+            "name": "Italy"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/441593", 
+                    "id": "334a0577-f705-43a3-8e2b-cef7e68f2c25"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/lowell", 
+                    "id": "068f31a3-33ca-45e1-ad30-d77fc4c4e9be"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "090863f2-3b7b-457a-b5dd-b0796123f703", 
+        "type": "Group", 
+        "disambiguation": "80s italodisco \"No Matter\"", 
+        "tags": []
+    }, 
+    "id": 28411614, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

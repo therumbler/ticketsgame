@@ -1,0 +1,228 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Theo Katzman and Joey Dosik at Baby's All Right (November 13, 2016)", 
+        "popularity": 0.000541, 
+        "venue": {
+            "displayName": "Baby's All Right", 
+            "uri": "http://www.songkick.com/venues/2445014-babys-all-right?utm_source=32233&utm_medium=partner", 
+            "lat": 40.709985, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.96347, 
+            "id": 2445014
+        }, 
+        "uri": "http://www.songkick.com/concerts/28132349-theo-katzman-at-babys-all-right?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-13T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.709985, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.96347
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "909c065e-8b75-45c8-b22c-4ca4ca1a4a38", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:909c065e-8b75-45c8-b22c-4ca4ca1a4a38.json"
+                        }
+                    ], 
+                    "displayName": "Theo Katzman", 
+                    "uri": "http://www.songkick.com/artists/2871591-theo-katzman?utm_source=32233&utm_medium=partner", 
+                    "id": 2871591
+                }, 
+                "displayName": "Theo Katzman", 
+                "id": 54746814, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "63283b34-0c24-4df9-b575-c434b9cfc9c7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:63283b34-0c24-4df9-b575-c434b9cfc9c7.json"
+                        }
+                    ], 
+                    "displayName": "Joey Dosik", 
+                    "uri": "http://www.songkick.com/artists/4045166-joey-dosik?utm_source=32233&utm_medium=partner", 
+                    "id": 4045166
+                }, 
+                "displayName": "Joey Dosik", 
+                "id": 54746819, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28132349
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Theo Katzman", 
+        "area": null, 
+        "gender": "Male", 
+        "twitter": "theokatzman", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://theokatzman.bandcamp.com/", 
+                    "id": "952af3b5-7727-46b6-aaff-2b4a037d239f"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3852268", 
+                    "id": "98c2491c-2b9a-4211-ac67-765bb9bd2112"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.theokatzman.com/", 
+                    "id": "7e54e5d0-559f-4416-b7fa-9448c59dac99"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/theokatzman", 
+                    "id": "86e2b746-6909-40e0-9959-8b1539acc798"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/theokatzmanmusic", 
+                    "id": "89636a30-6e51-49d4-8e2b-af34b5200b4b"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q16730644", 
+                    "id": "7ab2e715-8a88-4972-bfed-387d1945db0a"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/theokatzman", 
+                    "id": "51356063-449e-440c-8f68-11b31c6985ad"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00568162723"
+        ], 
+        "end_area": null, 
+        "sort-name": "Katzman, Theo", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "id": "909c065e-8b75-45c8-b22c-4ca4ca1a4a38", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1986", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28132349, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

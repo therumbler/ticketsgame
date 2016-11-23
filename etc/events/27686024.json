@@ -1,0 +1,121 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Diane Coffee with Palmas at Boot & Saddle (November 9, 2016)", 
+        "popularity": 0.001999, 
+        "venue": {
+            "displayName": "Boot & Saddle", 
+            "uri": "http://www.songkick.com/venues/2346454-boot-and-saddle?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9368934, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1667971, 
+            "id": 2346454
+        }, 
+        "uri": "http://www.songkick.com/concerts/27686024-diane-coffee-at-boot-and-saddle?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-09T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9368934, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1667971
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6ebb3976-571d-4adb-b3b8-50cd1a67b2bd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6ebb3976-571d-4adb-b3b8-50cd1a67b2bd.json"
+                        }
+                    ], 
+                    "displayName": "Diane Coffee", 
+                    "uri": "http://www.songkick.com/artists/7143259-diane-coffee?utm_source=32233&utm_medium=partner", 
+                    "id": 7143259
+                }, 
+                "displayName": "Diane Coffee", 
+                "id": 53941899, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cfa1c36a-b797-4a07-8564-1e74a958ead4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cfa1c36a-b797-4a07-8564-1e74a958ead4.json"
+                        }
+                    ], 
+                    "displayName": "Palmas", 
+                    "uri": "http://www.songkick.com/artists/5025568-palmas?utm_source=32233&utm_medium=partner", 
+                    "id": 5025568
+                }, 
+                "displayName": "Palmas", 
+                "id": 55060584, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27686024
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Diane Coffee", 
+        "sort-name": "Diane Coffee", 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2012-12-26", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "6ebb3976-571d-4adb-b3b8-50cd1a67b2bd", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "tags": []
+    }, 
+    "id": 27686024, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

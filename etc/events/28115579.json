@@ -1,0 +1,157 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Ophira Eisenberg, Adira Amram and the Experience, and Matthew Holtzclaw at C'mon Everybody (November 9, 2016)", 
+        "popularity": 0.000157, 
+        "venue": {
+            "displayName": "C'mon Everybody", 
+            "uri": "http://www.songkick.com/venues/2958648-cmon-everybody?utm_source=32233&utm_medium=partner", 
+            "lat": 40.6883159, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9568761, 
+            "id": 2958648
+        }, 
+        "uri": "http://www.songkick.com/concerts/28115579-ophira-eisenberg-at-cmon-everybody?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "datetime": "2016-11-09T19:30:00-0500", 
+            "time": "19:30:00"
+        }, 
+        "location": {
+            "lat": 40.6883159, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9568761
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "caa8317d-5208-48ad-bf10-62fab008b008", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:caa8317d-5208-48ad-bf10-62fab008b008.json"
+                        }
+                    ], 
+                    "displayName": "Ophira Eisenberg", 
+                    "uri": "http://www.songkick.com/artists/4209561-ophira-eisenberg?utm_source=32233&utm_medium=partner", 
+                    "id": 4209561
+                }, 
+                "displayName": "Ophira Eisenberg", 
+                "id": 54716509, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Adira Amram and the Experience", 
+                    "uri": "http://www.songkick.com/artists/4636183-adira-amram-and-the-experience?utm_source=32233&utm_medium=partner", 
+                    "id": 4636183
+                }, 
+                "displayName": "Adira Amram and the Experience", 
+                "id": 54716514, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Matthew Holtzclaw", 
+                    "uri": "http://www.songkick.com/artists/6138219-matthew-holtzclaw?utm_source=32233&utm_medium=partner", 
+                    "id": 6138219
+                }, 
+                "displayName": "Matthew Holtzclaw", 
+                "id": 54716519, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28115579
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Ophira Eisenberg", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f", 
+            "name": "New York"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q7097986", 
+                    "id": "93f9de9d-ba1c-4331-bc9b-21427d71f91a"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Ophira_Eisenberg", 
+                    "id": "b4de8c7b-cb24-4bd3-96ae-08011aef7ea6"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Calgary", 
+            "disambiguation": "", 
+            "id": "f88bfae6-8a35-4bed-bd37-8ea16ba2b9c6", 
+            "name": "Calgary"
+        }, 
+        "sort-name": "Eisenberg, Ophira", 
+        "gender": "Female", 
+        "disambiguation": "", 
+        "type": "Person", 
+        "id": "caa8317d-5208-48ad-bf10-62fab008b008", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2"
+    }, 
+    "id": 28115579, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

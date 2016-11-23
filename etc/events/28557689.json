@@ -1,0 +1,216 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000382, 
+        "displayName": "Haste with Sinless and Azul Toga at Holocene (December 4, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Holocene", 
+            "uri": "http://www.songkick.com/venues/11583-holocene?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5175739, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6553277, 
+            "id": 11583
+        }, 
+        "uri": "http://www.songkick.com/concerts/28557689-haste-at-holocene?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-04", 
+            "datetime": "2016-12-04T20:30:00-0800", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 45.5175739, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6553277
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "86412135-c788-4eb0-9719-99fc44f3ef39", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:86412135-c788-4eb0-9719-99fc44f3ef39.json"
+                        }
+                    ], 
+                    "displayName": "Haste", 
+                    "uri": "http://www.songkick.com/artists/540859-haste?utm_source=32233&utm_medium=partner", 
+                    "id": 540859
+                }, 
+                "displayName": "Haste", 
+                "id": 55482099, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Sinless", 
+                    "uri": "http://www.songkick.com/artists/8543814-sinless?utm_source=32233&utm_medium=partner", 
+                    "id": 8543814
+                }, 
+                "displayName": "Sinless", 
+                "id": 55482104, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Azul Toga", 
+                    "uri": "http://www.songkick.com/artists/8088643-azul-toga?utm_source=32233&utm_medium=partner", 
+                    "id": 8088643
+                }, 
+                "displayName": "Azul Toga", 
+                "id": 55482109, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28557689
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Haste", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": true, 
+            "begin": "1995", 
+            "end": "2007"
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000666593", 
+                    "id": "62366094-0a85-441a-a845-5c792b51bc05"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/317718", 
+                    "id": "274c93b8-0009-4c73-b539-ff4049f88fcb"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/haste", 
+                    "id": "0f1633ee-25ea-4ee0-a1c1-ec003c2b1bb2"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Birmingham", 
+            "disambiguation": "", 
+            "id": "8995a377-da74-40b6-ab76-b1f2d6eed01f", 
+            "name": "Birmingham"
+        }, 
+        "sort-name": "Haste", 
+        "isnis": [], 
+        "id": "86412135-c788-4eb0-9719-99fc44f3ef39", 
+        "country": "US", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "age_minutes": 3195, 
+    "bandsintown_response": {
+        "description": "Haste", 
+        "title": "Haste @ Holocene in Portland, OR", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Portland", 
+            "name": "Holocene", 
+            "country": "United States", 
+            "region": "OR", 
+            "longitude": -122.675, 
+            "place": "Holocene", 
+            "latitude": 45.5236111
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13293247?app_id=ticketgame&artist=Haste&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13293247/buy_tickets?app_id=ticketgame&artist=Haste&came_from=67", 
+        "on_sale_datetime": "2016-11-14T16:55:58", 
+        "formatted_datetime": "Sunday, December 4, 2016 at 8:30PM", 
+        "datetime": "2016-12-04T20:30:00", 
+        "formatted_location": "Portland, OR", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1385420/tfly%3Futm_medium%3Dapi&afftrack=67%7E16720805%7E24587465%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.myspace.com/haste", 
+                "facebook_page_url": "http://www.facebook.com/pages/HASTE/993031044061500", 
+                "name": "Haste", 
+                "url": "Haste", 
+                "tracker_count": 1051, 
+                "mbid": "86412135-c788-4eb0-9719-99fc44f3ef39", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6275634.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Haste/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6275634.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13293247
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 7.0, 
+        "price_min": 6.0
+    }, 
+    "modified_time": 1479442228.0, 
+    "created_time": 1479305717.0, 
+    "modified_minutes": 920, 
+    "id": 28557689
+}

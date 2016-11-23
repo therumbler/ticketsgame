@@ -1,0 +1,235 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "BettySoo and Michael Fracasso at Rockwood Music Hall Stage 3 (November 11, 2016)", 
+        "popularity": 0.000204, 
+        "venue": {
+            "displayName": "Rockwood Music Hall Stage 3", 
+            "uri": "http://www.songkick.com/venues/2399549-rockwood-music-hall-stage-3?utm_source=32233&utm_medium=partner", 
+            "lat": 40.722071, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.98847, 
+            "id": 2399549
+        }, 
+        "uri": "http://www.songkick.com/concerts/28033544-bettysoo-at-rockwood-music-hall-stage-3?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-11T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.722071, 
+            "city": "New York, NY, US", 
+            "lng": -73.98847
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8413012e-61ba-44f6-b898-478acc0b33e1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8413012e-61ba-44f6-b898-478acc0b33e1.json"
+                        }
+                    ], 
+                    "displayName": "BettySoo", 
+                    "uri": "http://www.songkick.com/artists/109269-bettysoo?utm_source=32233&utm_medium=partner", 
+                    "id": 109269
+                }, 
+                "displayName": "BettySoo", 
+                "id": 54572784, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "17f8d423-6cf2-462e-afb7-1f76d5227cd4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:17f8d423-6cf2-462e-afb7-1f76d5227cd4.json"
+                        }
+                    ], 
+                    "displayName": "Michael Fracasso", 
+                    "uri": "http://www.songkick.com/artists/478002-michael-fracasso?utm_source=32233&utm_medium=partner", 
+                    "id": 478002
+                }, 
+                "displayName": "Michael Fracasso", 
+                "id": 54572789, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28033544
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "BettySoo", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1979", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Austin", 
+            "disambiguation": "", 
+            "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5", 
+            "name": "Austin"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000868211", 
+                    "id": "124232e6-4a67-4c38-9008-9d57ce47c5ee"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1887749", 
+                    "id": "a5890480-14b4-4cb7-9f6d-c5e61a4b5e47"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2970992", 
+                    "id": "16323046-9950-497a-b49d-d7be627a3c2b"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/BettySoo", 
+                    "id": "4c1e842f-0517-40a9-8344-032193091a9c"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bettysoo.com/", 
+                    "id": "5f3eb283-2e18-41fe-af55-2449ac9f35ec"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/bettysoo", 
+                    "id": "2992d708-a1e4-497e-aec8-b14903f5225e"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/BettySooMusic", 
+                    "id": "338dd710-db68-4f8b-822a-062e8bb0461e"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "BettySoo", 
+        "begin_area": {
+            "sort-name": "Spring", 
+            "disambiguation": "", 
+            "name": "Spring", 
+            "id": "bc0fd790-58b7-414b-9565-883c6856df2c"
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "id": "8413012e-61ba-44f6-b898-478acc0b33e1", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 28033544, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

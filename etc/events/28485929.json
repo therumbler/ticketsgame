@@ -1,0 +1,163 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Louis the Child at Flash Factory (November 10, 2016)", 
+        "popularity": 0.008272, 
+        "venue": {
+            "displayName": "Flash Factory", 
+            "uri": "http://www.songkick.com/venues/3196558-flash-factory?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7480551, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.994748, 
+            "id": 3196558
+        }, 
+        "uri": "http://www.songkick.com/concerts/28485929-louis-the-child-at-flash-factory?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "datetime": "2016-11-10T23:00:00-0500", 
+            "time": "23:00:00"
+        }, 
+        "location": {
+            "lat": 40.7480551, 
+            "city": "New York, NY, US", 
+            "lng": -73.994748
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a56f9cc3-1569-4205-8514-9c5c545d724d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a56f9cc3-1569-4205-8514-9c5c545d724d.json"
+                        }
+                    ], 
+                    "displayName": "Louis the Child", 
+                    "uri": "http://www.songkick.com/artists/6441739-louis-the-child?utm_source=32233&utm_medium=partner", 
+                    "id": 6441739
+                }, 
+                "displayName": "Louis the Child", 
+                "id": 55356904, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28485929
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Louis the Child", 
+        "area": {
+            "sort-name": "Chicago", 
+            "disambiguation": "", 
+            "name": "Chicago", 
+            "id": "29a709d8-0320-493e-8d0c-f2c386662b7f"
+        }, 
+        "country": null, 
+        "twitter": "louisthechild", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.louisthechild.com/", 
+                    "id": "ab3bf056-db90-44f8-a41d-1ba35c4f8fd3"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/louisthechild", 
+                    "id": "a3fb791c-0862-4856-a443-d2cc3009ef5a"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/LouisTheChild", 
+                    "id": "9a7c4d82-8062-4598-8af6-77ec98b2926d"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/louisthechild", 
+                    "id": "f85ef273-0fb6-4933-a1f6-87766af35bbe"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Louis the Child", 
+        "gender": null, 
+        "id": "a56f9cc3-1569-4205-8514-9c5c545d724d", 
+        "disambiguation": "", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28485929, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

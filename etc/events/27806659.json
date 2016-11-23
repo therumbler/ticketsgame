@@ -1,0 +1,255 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Hot Tuna at The Hamilton Live (November 25, 2016)", 
+        "popularity": 0.005786, 
+        "venue": {
+            "displayName": "The Hamilton Live", 
+            "uri": "http://www.songkick.com/venues/1611908-hamilton-live?utm_source=32233&utm_medium=partner", 
+            "lat": 38.89749, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0321542, 
+            "id": 1611908
+        }, 
+        "uri": "http://www.songkick.com/concerts/27806659-hot-tuna-at-hamilton-live?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-25T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.89749, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0321542
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d13d9feb-b7c7-49f4-9b72-65e29a16aa24", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d13d9feb-b7c7-49f4-9b72-65e29a16aa24.json"
+                        }
+                    ], 
+                    "displayName": "Hot Tuna", 
+                    "uri": "http://www.songkick.com/artists/178160-hot-tuna?utm_source=32233&utm_medium=partner", 
+                    "id": 178160
+                }, 
+                "displayName": "Hot Tuna", 
+                "id": 54161584, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27806659
+    }, 
+    "musicbrainz_response": {
+        "name": "Hot Tuna", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1969", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000268871", 
+                    "id": "99603bc7-6fa4-495d-8a88-e56d6df8f2b1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/381929", 
+                    "id": "3b394d05-ebd8-4ed3-ab6d-b84fbcd2519f"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Hot%20Tuna", 
+                    "id": "dff0ced8-42bc-4cbf-bf34-112ed9b060a1"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-6349/hot-tuna/lyrics.html", 
+                    "id": "d29aeeb9-25ac-4cb7-810e-60237e25579d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://hottuna.com/", 
+                    "id": "3949a6a3-89a3-4dd5-b977-207c6fee38e7"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/hot_tuna", 
+                    "id": "66030eec-097a-4f5c-9cdb-3cb27c292747"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q379448", 
+                    "id": "a968abd2-4bf9-472c-9502-dfff1c4dbc11"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Hot_Tuna", 
+                    "id": "fb79e3e4-ca7d-413c-aa20-2670db9cd856"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "San Francisco", 
+            "disambiguation": "", 
+            "name": "San Francisco", 
+            "id": "83f22bb6-4631-443c-bace-9fae8540362a"
+        }, 
+        "sort-name": "Hot Tuna", 
+        "country": "US", 
+        "id": "d13d9feb-b7c7-49f4-9b72-65e29a16aa24", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "age_minutes": 15463, 
+    "bandsintown_response": {
+        "facebook_page_url": null, 
+        "upcoming_event_count": 7, 
+        "name": "Hot Tuna", 
+        "tracker_count": 18518, 
+        "mbid": "d13d9feb-b7c7-49f4-9b72-65e29a16aa24", 
+        "image_url": "https://s3.amazonaws.com/bit-photos/large/5360904.jpeg", 
+        "facebook_tour_dates_url": null, 
+        "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5360904.jpeg"
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 59.0, 
+        "price_min": 34.5
+    }, 
+    "modified_time": 1479442123.0, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 863, 
+    "id": 27806659
+}

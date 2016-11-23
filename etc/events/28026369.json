@@ -1,0 +1,140 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Sassyblack and The Seshen with Tay Sean at Nectar Lounge (November 13, 2016)", 
+        "popularity": 0.000565, 
+        "venue": {
+            "displayName": "Nectar Lounge", 
+            "uri": "http://www.songkick.com/venues/11589-nectar-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6521845, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3538836, 
+            "id": 11589
+        }, 
+        "uri": "http://www.songkick.com/concerts/28026369-sassyblack-at-nectar-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-13T19:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6521845, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3538836
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b6a47306-c024-4b06-9039-516ec38b7bff", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b6a47306-c024-4b06-9039-516ec38b7bff.json"
+                        }
+                    ], 
+                    "displayName": "Sassyblack", 
+                    "uri": "http://www.songkick.com/artists/6535034-sassyblack?utm_source=32233&utm_medium=partner", 
+                    "id": 6535034
+                }, 
+                "displayName": "Sassyblack", 
+                "id": 54559674, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "98d23366-4cd9-4e75-b366-d90c6dda2bc4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:98d23366-4cd9-4e75-b366-d90c6dda2bc4.json"
+                        }
+                    ], 
+                    "displayName": "The Seshen", 
+                    "uri": "http://www.songkick.com/artists/5241708-seshen?utm_source=32233&utm_medium=partner", 
+                    "id": 5241708
+                }, 
+                "displayName": "The Seshen", 
+                "id": 54559679, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Tay Sean", 
+                    "uri": "http://www.songkick.com/artists/8596069-tay-sean?utm_source=32233&utm_medium=partner", 
+                    "id": 8596069
+                }, 
+                "displayName": "Tay Sean", 
+                "id": 54559684, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28026369
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "SassyBlack", 
+        "area": {
+            "sort-name": "Seattle", 
+            "disambiguation": "", 
+            "name": "Seattle", 
+            "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://sassyblack.bandcamp.com/", 
+                    "id": "93db97fa-ca7a-4129-8d50-73a3f87f2eb7"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "SassyBlack", 
+        "country": null, 
+        "id": "b6a47306-c024-4b06-9039-516ec38b7bff", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28026369, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

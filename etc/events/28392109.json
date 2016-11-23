@@ -1,0 +1,85 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Fantoms at Ace Caf\u00e9 (November 12, 2016)", 
+        "popularity": 4.9e-05, 
+        "venue": {
+            "displayName": "Ace Caf\u00e9", 
+            "uri": "http://www.songkick.com/venues/48074-ace-cafe?utm_source=32233&utm_medium=partner", 
+            "lat": 51.541315, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.2778231, 
+            "id": 48074
+        }, 
+        "uri": "http://www.songkick.com/concerts/28392109-fantoms-at-ace-cafe?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-12T19:30:00+0000"
+        }, 
+        "location": {
+            "lat": 51.541315, 
+            "city": "London, UK", 
+            "lng": -0.2778231
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b8cd26c7-53ab-4371-bc2f-1671825c5b5d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b8cd26c7-53ab-4371-bc2f-1671825c5b5d.json"
+                        }
+                    ], 
+                    "displayName": "The Fantoms", 
+                    "uri": "http://www.songkick.com/artists/1121956-fantoms?utm_source=32233&utm_medium=partner", 
+                    "id": 1121956
+                }, 
+                "displayName": "The Fantoms", 
+                "id": 55198709, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28392109
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Fantoms", 
+        "area": null, 
+        "gender": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "id": "b8cd26c7-53ab-4371-bc2f-1671825c5b5d", 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Fantoms, The", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 28392109, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

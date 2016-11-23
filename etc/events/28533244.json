@@ -1,0 +1,128 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Amanda Jones with Xian Vox at Monte Cristo (November 11, 2016)", 
+        "popularity": 3.6e-05, 
+        "venue": {
+            "displayName": "Monte Cristo", 
+            "uri": "http://www.songkick.com/venues/205243-monte-cristo?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0615956, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2893406, 
+            "id": 205243
+        }, 
+        "uri": "http://www.songkick.com/concerts/28533244-amanda-jones-at-monte-cristo?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-11T22:00:00-0800"
+        }, 
+        "location": {
+            "lat": 34.0615956, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2893406
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Amanda Jones", 
+                "id": 55438059, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d452fb60-eeb7-4629-a78f-477eca6a1e7c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d452fb60-eeb7-4629-a78f-477eca6a1e7c.json"
+                        }
+                    ], 
+                    "displayName": "Amanda Jones", 
+                    "uri": "http://www.songkick.com/artists/248354-amanda-jones?utm_source=32233&utm_medium=partner", 
+                    "id": 248354
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Xian Vox", 
+                "id": 55438069, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Xian Vox", 
+                    "uri": "http://www.songkick.com/artists/8915814-xian-vox?utm_source=32233&utm_medium=partner", 
+                    "id": 8915814
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28533244
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Amanda Jones", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1995", 
+            "end": null
+        }, 
+        "sort-name": "Jones, Amanda", 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/182950", 
+                    "id": "3fb9f221-f452-4932-8537-d011ba1552d8"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "disambiguation": "Real name: Amanda Cole", 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "isnis": [], 
+        "country": "US", 
+        "type": "Person", 
+        "id": "d452fb60-eeb7-4629-a78f-477eca6a1e7c", 
+        "tags": []
+    }, 
+    "id": 28533244, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

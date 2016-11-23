@@ -1,0 +1,139 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Blacklite District at The Warehouse (January 20, 2017)", 
+        "popularity": 0.000583, 
+        "venue": {
+            "displayName": "The Warehouse", 
+            "uri": "http://www.songkick.com/venues/65248-warehouse?utm_source=32233&utm_medium=partner", 
+            "lat": 36.533396, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -87.364147, 
+            "id": 65248
+        }, 
+        "uri": "http://www.songkick.com/concerts/28375084-blacklite-district-at-warehouse?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-20", 
+            "time": "20:00:00", 
+            "datetime": "2017-01-20T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.533396, 
+            "city": "Clarksville, TN, US", 
+            "lng": -87.364147
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ada129b0-7445-4fe0-853d-daedeac3739f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ada129b0-7445-4fe0-853d-daedeac3739f.json"
+                        }
+                    ], 
+                    "displayName": "Blacklite District", 
+                    "uri": "http://www.songkick.com/artists/5489928-blacklite-district?utm_source=32233&utm_medium=partner", 
+                    "id": 5489928
+                }, 
+                "displayName": "Blacklite District", 
+                "id": 55168714, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28375084
+    }, 
+    "musicbrainz_response": {
+        "name": "Blacklite District", 
+        "area": {
+            "sort-name": "Spearfish", 
+            "disambiguation": "", 
+            "name": "Spearfish", 
+            "id": "87340755-bfd5-48a4-aece-79aa1e7184a6"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2002", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/blacklite_district", 
+                    "id": "7c4a6ba2-b7e7-43fe-b44e-e684223dc01b"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q4923124", 
+                    "id": "77513eea-71c6-401f-9f7f-c4837485ce42"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Spearfish", 
+            "disambiguation": "", 
+            "id": "87340755-bfd5-48a4-aece-79aa1e7184a6", 
+            "name": "Spearfish"
+        }, 
+        "sort-name": "Blacklite District", 
+        "country": null, 
+        "type": "Group", 
+        "id": "ada129b0-7445-4fe0-853d-daedeac3739f", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15505, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 12.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442655.0, 
+    "created_time": 1478566042.0, 
+    "modified_minutes": 895, 
+    "id": 28375084
+}

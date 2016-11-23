@@ -1,0 +1,179 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Aluk Todolo at Corsica Studios (November 9, 2016)", 
+        "popularity": 0.000348, 
+        "venue": {
+            "displayName": "Corsica Studios", 
+            "uri": "http://www.songkick.com/venues/8098-corsica-studios?utm_source=32233&utm_medium=partner", 
+            "lat": 51.4935647, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0987167, 
+            "id": 8098
+        }, 
+        "uri": "http://www.songkick.com/concerts/28167884-aluk-todolo-at-corsica-studios?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.4935647, 
+            "city": "London, UK", 
+            "lng": -0.0987167
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8fa4df42-e88d-4541-931e-591aca1bd3a5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8fa4df42-e88d-4541-931e-591aca1bd3a5.json"
+                        }
+                    ], 
+                    "displayName": "Aluk Todolo", 
+                    "uri": "http://www.songkick.com/artists/1963684-aluk-todolo?utm_source=32233&utm_medium=partner", 
+                    "id": 1963684
+                }, 
+                "displayName": "Aluk Todolo", 
+                "id": 54808009, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28167884
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Aluk Todolo", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2004", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "France", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "FR"
+            ], 
+            "name": "France", 
+            "id": "08310658-51eb-3801-80de-5a0739207115"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://aluktodolo.bandcamp.com/", 
+                    "id": "0c644066-09b9-489c-9a84-1c1970428a24"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/730743", 
+                    "id": "9b920745-4da0-4beb-a1a1-dd297408152d"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.amortout.com/aluktodolo/", 
+                    "id": "c10f8e9c-f9d0-4b8d-afd7-ad5334dd1167"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/aluk_todolo", 
+                    "id": "39f5383a-c8e9-4749-9dc4-3218a7a3aff5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/aluk-todolo", 
+                    "id": "1a0dd5b7-4991-43ac-9162-f6d32b55c88f"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "FR", 
+        "sort-name": "Aluk Todolo", 
+        "type": "Group", 
+        "id": "8fa4df42-e88d-4541-931e-591aca1bd3a5", 
+        "disambiguation": ""
+    }, 
+    "id": 28167884, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Plastic Pinks at Hotel Vegas (November 25, 2016)", 
+        "popularity": 7.9e-05, 
+        "venue": {
+            "displayName": "Hotel Vegas", 
+            "uri": "http://www.songkick.com/venues/1247901-hotel-vegas?utm_source=32233&utm_medium=partner", 
+            "lat": 30.2633837, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7272491, 
+            "id": 1247901
+        }, 
+        "uri": "http://www.songkick.com/concerts/28432294-plastic-pinks-at-hotel-vegas?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-25T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 30.2633837, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7272491
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "827e33af-92eb-4802-a20c-f1e7d469ab43", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:827e33af-92eb-4802-a20c-f1e7d469ab43.json"
+                        }
+                    ], 
+                    "displayName": "Plastic Pinks", 
+                    "uri": "http://www.songkick.com/artists/7919399-plastic-pinks?utm_source=32233&utm_medium=partner", 
+                    "id": 7919399
+                }, 
+                "displayName": "Plastic Pinks", 
+                "id": 55266224, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28432294
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Plastic Pinks", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://plasticpinks.bandcamp.com/", 
+                    "id": "1ed67bbd-434b-4099-aaa0-f7016d78ffd6"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "827e33af-92eb-4802-a20c-f1e7d469ab43", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Plastic Pinks", 
+        "type": null, 
+        "disambiguation": ""
+    }, 
+    "id": 28432294, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,421 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.008122, 
+        "displayName": "David Crosby at Keswick Theatre (December 9, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Keswick Theatre", 
+            "uri": "http://www.songkick.com/venues/684-keswick-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 40.106401, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.146851, 
+            "id": 684
+        }, 
+        "uri": "http://www.songkick.com/concerts/28020764-david-crosby-at-keswick-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-09", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 40.106401, 
+            "city": "Glenside, PA, US", 
+            "lng": -75.146851
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "David Crosby", 
+                "id": 54547569, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e90f9815-221d-4e10-8675-e75c07988113", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e90f9815-221d-4e10-8675-e75c07988113.json"
+                        }
+                    ], 
+                    "displayName": "David Crosby", 
+                    "uri": "http://www.songkick.com/artists/15992-david-crosby?utm_source=32233&utm_medium=partner", 
+                    "id": 15992
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28020764
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "David Crosby", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "folk"
+            }, 
+            {
+                "count": 1, 
+                "name": "folk rock"
+            }
+        ], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1941-08-14", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/e90f9815-221d-4e10-8675-e75c07988113", 
+                    "id": "d768eebd-762f-459c-857a-151d86e3214d"
+                }, 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0004849/", 
+                    "id": "90bef002-6c41-4f17-930c-c3a9c28ace8b"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/84171482", 
+                    "id": "9d3b5319-3056-4729-a699-3bb6b29aa14e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000644880", 
+                    "id": "4559747a-45da-407e-9bf5-7bd4397979bc"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/253966", 
+                    "id": "b76d2688-b288-44aa-abd4-61941d0edad0"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:David_Crosby_2012_1.jpg", 
+                    "id": "a8fe13ec-ddc0-4f25-9543-ff734265c917"
+                }, 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/david-crosby-lyrics", 
+                    "id": "771e7e44-9589-49ee-a0ae-0eaf51ea5f88"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-10407/david-crosby/lyrics.html", 
+                    "id": "b2f83245-9a5f-4820-abae-c6fc9fbec71d"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/davidcrosby", 
+                    "id": "fda30a2e-a28b-457e-be5a-9c35574a2b02"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.crosbycpr.com/", 
+                    "id": "1cd78ff6-7d6c-413c-b5b4-814a76034b0b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://d-nb.info/gnd/118874950", 
+                    "id": "114f8350-f4b7-4355-bdd2-f5091e64cd97"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/david_crosby", 
+                    "id": "d64c516e-d391-46c9-a3c4-4228634e46d4"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.worldcat.org/identities/lccn-n83-177197", 
+                    "id": "7e89db27-0280-4e25-9ea2-1f58e2703df0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/3518", 
+                    "id": "196cae12-21bc-40ec-8eb6-397e177c075a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q370560", 
+                    "id": "3abe6d11-9226-426d-9cc1-5fb0e44f3946"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/David_Crosby", 
+                    "id": "ae8d35f0-2ffe-46b0-aa05-d038d125a2bf"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00040653112"
+        ], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "name": "Los Angeles", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Crosby, David", 
+        "type": "Person", 
+        "id": "e90f9815-221d-4e10-8675-e75c07988113", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": "An Evening with David Crosby & Friends", 
+        "title": "David Crosby @ Keswick Theatre in Glenside, PA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Glenside", 
+            "name": "Keswick Theatre", 
+            "country": "United States", 
+            "region": "PA", 
+            "longitude": -75.147487, 
+            "place": "Keswick Theatre", 
+            "latitude": 40.106472
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12824862?app_id=ticketgame&artist=David+Crosby&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12824862/buy_tickets?app_id=ticketgame&artist=David+Crosby&came_from=67", 
+        "on_sale_datetime": "2016-09-09T10:00:00", 
+        "formatted_datetime": "Friday, December 9, 2016 at 8:00PM", 
+        "datetime": "2016-12-09T20:00:00", 
+        "formatted_location": "Glenside, PA", 
+        "ticket_redirect_url": "http://www.axs.com/events/314533/an-evening-with-david-crosby-friends-tickets?aff=usaffbandsintown", 
+        "artists": [
+            {
+                "website": "http://www.crosbycpr.com/", 
+                "facebook_page_url": null, 
+                "name": "David Crosby", 
+                "url": "DavidCrosby", 
+                "tracker_count": 53712, 
+                "mbid": "e90f9815-221d-4e10-8675-e75c07988113", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5119355.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/DavidCrosby/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5119355.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12824862
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.axs.com/events/314533/an-evening-with-david-crosby-friends-tickets?aff=usaffbandsintown"
+    }, 
+    "modified_time": 1479442313.0, 
+    "created_minutes": 18166, 
+    "created_time": 1478566061.0, 
+    "modified_minutes": 3561, 
+    "id": 28020764
+}

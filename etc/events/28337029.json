@@ -1,0 +1,125 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Tvsk, Moonfox, and The Tunnel at Ivy Room (November 10, 2016)", 
+        "popularity": 8.1e-05, 
+        "venue": {
+            "displayName": "Ivy Room", 
+            "uri": "http://www.songkick.com/venues/2905253-ivy-room?utm_source=32233&utm_medium=partner", 
+            "lat": 37.890405, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.2993057, 
+            "id": 2905253
+        }, 
+        "uri": "http://www.songkick.com/concerts/28337029-tvsk-at-ivy-room?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-10T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 37.890405, 
+            "city": "Albany, CA, US", 
+            "lng": -122.2993057
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Tvsk", 
+                    "uri": "http://www.songkick.com/artists/8614569-tvsk?utm_source=32233&utm_medium=partner", 
+                    "id": 8614569
+                }, 
+                "displayName": "Tvsk", 
+                "id": 55101094, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Moonfox", 
+                    "uri": "http://www.songkick.com/artists/4985609-moonfox?utm_source=32233&utm_medium=partner", 
+                    "id": 4985609
+                }, 
+                "displayName": "Moonfox", 
+                "id": 55101099, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "46051d46-010f-4a9c-9234-cb2833ec0104", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:46051d46-010f-4a9c-9234-cb2833ec0104.json"
+                        }, 
+                        {
+                            "mbid": "3e23ed92-e8c1-4093-884b-17c22e084742", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3e23ed92-e8c1-4093-884b-17c22e084742.json"
+                        }
+                    ], 
+                    "displayName": "The Tunnel", 
+                    "uri": "http://www.songkick.com/artists/434359-tunnel?utm_source=32233&utm_medium=partner", 
+                    "id": 434359
+                }, 
+                "displayName": "The Tunnel", 
+                "id": 55101104, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28337029
+    }, 
+    "bandsintown_response": [
+        {
+            "description": "Tvsk, The Tunnel", 
+            "title": "tvsk @ Ivy Room in Albany, CA", 
+            "ticket_type": "Tickets", 
+            "venue": {
+                "city": "Albany", 
+                "name": "Ivy Room", 
+                "country": "United States", 
+                "region": "CA", 
+                "longitude": -122.299365, 
+                "place": "Ivy Room", 
+                "latitude": 37.890367
+            }, 
+            "facebook_rsvp_url": "http://www.bandsintown.com/event/13151054?app_id=ticketsgame&artist=tvsk&came_from=67", 
+            "ticket_url": "http://www.bandsintown.com/event/13151054/buy_tickets?app_id=ticketsgame&artist=tvsk&came_from=67", 
+            "on_sale_datetime": "2016-09-27T12:45:23", 
+            "formatted_datetime": "Thursday, November 10, 2016 at 8:00PM", 
+            "datetime": "2016-11-10T20:00:00", 
+            "formatted_location": "Albany, CA", 
+            "artists": [
+                {
+                    "website": null, 
+                    "facebook_page_url": null, 
+                    "name": "tvsk", 
+                    "url": "tvsk", 
+                    "tracker_count": 146, 
+                    "mbid": null, 
+                    "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                    "facebook_tour_dates_url": "http://www.bandsintown.com/tvsk/facebookapp?came_from=67", 
+                    "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+                }
+            ], 
+            "ticket_status": "available", 
+            "id": 13151054
+        }
+    ], 
+    "id": 28337029, 
+    "ticket_details": false
+}

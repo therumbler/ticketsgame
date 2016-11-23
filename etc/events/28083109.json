@@ -1,0 +1,553 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Ace Frehley and Enuff Z'Nuff at Neptune Theatre (February 11, 2017)", 
+        "popularity": 0.011599, 
+        "venue": {
+            "displayName": "Neptune Theatre", 
+            "uri": "http://www.songkick.com/venues/1276526-neptune-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6612806, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3136475, 
+            "id": 1276526
+        }, 
+        "uri": "http://www.songkick.com/concerts/28083109-ace-frehley-at-neptune-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-11", 
+            "time": "20:00:00", 
+            "datetime": "2017-02-11T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6612806, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3136475
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:33d700ce-064f-44f6-ab9e-60f9eed0fca1.json"
+                        }
+                    ], 
+                    "displayName": "Ace Frehley", 
+                    "uri": "http://www.songkick.com/artists/307655-ace-frehley?utm_source=32233&utm_medium=partner", 
+                    "id": 307655
+                }, 
+                "displayName": "Ace Frehley", 
+                "id": 54658209, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "369cbaed-5209-4990-83c9-f8233d6c248b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:369cbaed-5209-4990-83c9-f8233d6c248b.json"
+                        }
+                    ], 
+                    "displayName": "Enuff Z'Nuff", 
+                    "uri": "http://www.songkick.com/artists/80611-enuff-znuff?utm_source=32233&utm_medium=partner", 
+                    "id": 80611
+                }, 
+                "displayName": "Enuff Z'Nuff", 
+                "id": 54658214, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28083109
+    }, 
+    "musicbrainz_response": {
+        "name": "Ace Frehley", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "hard rock"
+            }
+        ], 
+        "country": null, 
+        "twitter": "Ace_Frehley", 
+        "area": {
+            "sort-name": "San Diego", 
+            "disambiguation": "", 
+            "name": "San Diego", 
+            "id": "82f3a697-ba65-404d-a1ed-360147af7d10"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0293719/", 
+                    "id": "b6c7e46f-36d1-4b0b-ab22-dca8e17db71a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/95124859", 
+                    "id": "51cb87b1-d041-4b5e-a93a-ff25d9bcbe4d"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000588508", 
+                    "id": "ed92f76f-ef4d-4ee3-8597-57f82e0ef8da"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/315339", 
+                    "id": "46d7f267-6a9d-48d1-8c85-b4d375f33822"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:AceFrehley.jpg", 
+                    "id": "2463be5b-9952-4573-8100-0a6217d2131b"
+                }, 
+                "direction": "forward", 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Ace+Frehley", 
+                    "id": "1649018d-4d2f-4d75-91df-e7b4db98f1e8"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/ace-frehley-lyrics", 
+                    "id": "e1d7bb1c-e9f7-4511-9b90-2e67bc8a004b"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/acefrehley", 
+                    "id": "1ff41492-7376-4163-b5ed-9d1c01efeb24"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.acefrehley.com/", 
+                    "id": "adde9fa6-9cfc-49ce-b516-0d56d968c9fb"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/ace_frehley", 
+                    "id": "befbf8d4-5347-4e26-889e-6e8d871e1b93"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.worldcat.org/identities/lccn-n87148806/", 
+                    "id": "abb1c808-234d-458b-9fb5-a5786a63dc48"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://mora.jp/artist/157561/", 
+                    "id": "b61378e2-90c9-4df1-b91d-6571faa3a37a"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://mora.jp/artist/274014/", 
+                    "id": "f897839c-c35b-4adc-be39-26ebafe7eaae"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.starzik.com/mp3/artistes/Ace-Frehley-48509-0.html", 
+                    "id": "99fa172c-74f9-4aab-a7f1-997e0be46361"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id128869", 
+                    "id": "c471fc3b-c62e-4eb8-a097-a7b9be6812c3"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=Ajvw27xxycxsdkpfll5fq6hhu2y", 
+                    "id": "6d777ee5-cb0b-42fb-a62c-82a4298c3afa"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.hdtracks.com/music/artist/view/id/6775/", 
+                    "id": "5731bf38-8d27-443b-88bc-122104c217a6"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/Ace_Frehley", 
+                    "id": "60297829-3ed0-4f5b-9564-626ad18adcdc"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/officialacefrehley", 
+                    "id": "8acc1a80-2d2f-49a0-b43d-2aaa51769953"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q319610", 
+                    "id": "e9c34b7a-7e11-47f8-b71d-625d7ecb764d"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Ace_Frehley", 
+                    "id": "33e9f82d-03bf-43f5-a0ee-0a985298a742"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/channel/UCxaqu48w9UgW12ETxhsIPxQ", 
+                    "id": "bb3779c6-e146-4540-9eb2-3c787a71fe5f"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/officialacefrehley", 
+                    "id": "24b5f04a-9709-4b96-aed5-71b47a88d5c7"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00088699694"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "The Bronx", 
+            "disambiguation": "", 
+            "name": "The Bronx", 
+            "id": "eb4a386e-1178-4e3a-a371-30418dd6fd2e"
+        }, 
+        "id": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Frehley, Ace", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1951-04-27", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15475, 
+    "bandsintown_response": {
+        "description": "All support acts are subject to change without notice. The Neptune is located at 1303 NE 45th Street in Seattle's University District. 8 ticket limit per patron. Patrons exceeding the ticket limit will have their orders cancelled at the venue's discretion. All sales are final. No refunds or exchanges. Unless otherwise noted, each person must have a ticket regardless of age. No babies in arms. The Neptune is a general admission venue with a flat floor and seated balcony. For the premier theatre experience, upgrade to the Club at the Neptune. . No Elevator. Ramps only to the balcony level.", 
+        "title": "Ace Frehley @ Neptune Theatre in Seattle, WA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Seattle", 
+            "name": "Neptune Theatre", 
+            "country": "United States", 
+            "region": "WA", 
+            "longitude": -122.314125, 
+            "place": "Neptune Theatre", 
+            "latitude": 47.661301
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12927736?app_id=ticketgame&artist=Ace+Frehley&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12927736/buy_tickets?app_id=ticketgame&artist=Ace+Frehley&came_from=67", 
+        "on_sale_datetime": "2016-09-16T17:00:00", 
+        "formatted_datetime": "Saturday, February 11, 2017 at 8:00PM", 
+        "datetime": "2017-02-11T20:00:00", 
+        "formatted_location": "Seattle, WA", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F0F00510A8FC620F7&subId1=67%7E16226882%7E23678186%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "http://www.facebook.com/pages/Ace%20Frehley/56216285377", 
+                "name": "Ace Frehley", 
+                "url": "AceFrehley", 
+                "tracker_count": 91538, 
+                "mbid": "33d700ce-064f-44f6-ab9e-60f9eed0fca1", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/7154610.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/AceFrehley/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/7154610.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12927736
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 0, 
+        "price_min": 9999999
+    }, 
+    "modified_time": 1479442395.0, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 870, 
+    "id": 28083109
+}

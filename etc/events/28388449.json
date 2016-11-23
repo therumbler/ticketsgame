@@ -1,0 +1,354 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.073196, 
+        "displayName": "Brandy at Fillmore Silver Spring (November 20, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Fillmore Silver Spring", 
+            "uri": "http://www.songkick.com/venues/1448428-fillmore-silver-spring?utm_source=32233&utm_medium=partner", 
+            "lat": 38.997482, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.027928, 
+            "id": 1448428
+        }, 
+        "uri": "http://www.songkick.com/concerts/28388449-brandy-at-fillmore-silver-spring?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-20", 
+            "datetime": "2016-11-20T19:00:00-0500", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 38.997482, 
+            "city": "Silver Spring, MD, US", 
+            "lng": -77.027928
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Brandy", 
+                "id": 55192704, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "01e60eba-52df-4694-8f09-39f43abe54e9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:01e60eba-52df-4694-8f09-39f43abe54e9.json"
+                        }, 
+                        {
+                            "mbid": "f91af86f-d761-4fdc-b709-2251bc0d20c0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f91af86f-d761-4fdc-b709-2251bc0d20c0.json"
+                        }
+                    ], 
+                    "displayName": "Brandy", 
+                    "uri": "http://www.songkick.com/artists/289233-brandy?utm_source=32233&utm_medium=partner", 
+                    "id": 289233
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28388449
+    }, 
+    "musicbrainz_response": {
+        "name": "Brandy", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "american"
+            }, 
+            {
+                "count": 1, 
+                "name": "contemporary r&b"
+            }, 
+            {
+                "count": 0, 
+                "name": "hip hop rnb and dance hall"
+            }, 
+            {
+                "count": 2, 
+                "name": "pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "r&b"
+            }, 
+            {
+                "count": 0, 
+                "name": "rnb"
+            }
+        ], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1979-02-11", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/01e60eba-52df-4694-8f09-39f43abe54e9", 
+                    "id": "cf97e51b-d4a8-42c7-b3de-02d8988c9a71"
+                }, 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0005275/", 
+                    "id": "40535da2-26dd-4a2c-9a2c-1ce8f950df23"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000608945", 
+                    "id": "115fd65e-544a-458e-9dda-aea796a5995a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/31751", 
+                    "id": "c6488cd1-ee05-4a1d-819e-7a5bc1fcda9f"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/brandy-lyrics", 
+                    "id": "4019d4e4-f9b7-47ac-9363-a2521ae73c81"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-3452/brandy/lyrics.html", 
+                    "id": "15d03d87-ce7f-4994-9314-b8f31cd35517"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://foreverbrandy.com/", 
+                    "id": "a3592a51-232b-4a83-bfad-c286c68009cc"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://musicmoz.org/Bands_and_Artists/B/Brandy/", 
+                    "id": "eada287d-fb39-4e23-84d4-c1662fd5a43d"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/brandy", 
+                    "id": "ee20e397-54e6-4727-9ff6-077a160dc750"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q690974", 
+                    "id": "d36d93f2-cd16-445e-b090-0092b9ab6ed8"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Brandy_Norwood", 
+                    "id": "624c626e-6800-4c0f-a49f-1f7ae9d9b3a7"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "McComb", 
+            "disambiguation": "", 
+            "name": "McComb", 
+            "id": "ff7eb755-8d72-447f-a5f2-d7a4350cafd5"
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Brandy", 
+        "type": "Person", 
+        "id": "01e60eba-52df-4694-8f09-39f43abe54e9", 
+        "disambiguation": "US R&B singer"
+    }, 
+    "bandsintown_response": {
+        "description": "All General Admission tickets are Standing Room Only Doors open at 6pm. Show starts at 7pm. All support acts are subject to change without notice.", 
+        "title": "Brandy @ The Fillmore Silver Spring in Silver Spring, MD", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Silver Spring", 
+            "name": "The Fillmore Silver Spring", 
+            "country": "United States", 
+            "region": "MD", 
+            "longitude": -77.027529, 
+            "place": "The Fillmore Silver Spring", 
+            "latitude": 38.996924
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13174482?app_id=ticketgame&artist=Brandy&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13174482/buy_tickets?app_id=ticketgame&artist=Brandy&came_from=67", 
+        "on_sale_datetime": "2016-10-21T13:00:00", 
+        "formatted_datetime": "Sunday, November 20, 2016 at 7:00PM", 
+        "datetime": "2016-11-20T19:00:00", 
+        "formatted_location": "Silver Spring, MD", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fconcerts.livenation.com%2Fevent%2F15005153AF3041E0&subId1=67%7E16561730%7E24278636%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.foreverbrandy.com", 
+                "facebook_page_url": null, 
+                "name": "Brandy", 
+                "url": "Brandy", 
+                "tracker_count": 219242, 
+                "mbid": "01e60eba-52df-4694-8f09-39f43abe54e9", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5109817.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Brandy/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5109817.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13174482
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fconcerts.livenation.com%2Fevent%2F15005153AF3041E0&subId1=67%7E16561730%7E24278636%7E%7E"
+    }, 
+    "modified_time": 1479442641.0, 
+    "created_minutes": 18226, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 3617, 
+    "id": 28388449
+}

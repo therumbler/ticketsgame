@@ -1,0 +1,149 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Brogan Bentley at Trans-Pecos (November 8, 2016)", 
+        "popularity": 6.4e-05, 
+        "venue": {
+            "displayName": "Trans-Pecos", 
+            "uri": "http://www.songkick.com/venues/2491899-transpecos?utm_source=32233&utm_medium=partner", 
+            "lat": 40.6970575, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9061779, 
+            "id": 2491899
+        }, 
+        "uri": "http://www.songkick.com/concerts/28346144-brogan-bentley-at-transpecos?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-08", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-08T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.6970575, 
+            "city": "Ridgewood, NY, US", 
+            "lng": -73.9061779
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "69f67407-5b2f-42ee-9a18-768007b3b7d1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:69f67407-5b2f-42ee-9a18-768007b3b7d1.json"
+                        }
+                    ], 
+                    "displayName": "Brogan Bentley", 
+                    "uri": "http://www.songkick.com/artists/6614684-brogan-bentley?utm_source=32233&utm_medium=partner", 
+                    "id": 6614684
+                }, 
+                "displayName": "Brogan Bentley", 
+                "id": 55118024, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28346144
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Brogan Bentley", 
+        "area": {
+            "sort-name": "California", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-CA"
+            ], 
+            "id": "ae0110b6-13d4-4998-9116-5b926287aa23", 
+            "name": "California"
+        }, 
+        "gender": "Male", 
+        "twitter": "BroganBentley", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2854659", 
+                    "id": "492dd905-a688-4cb2-93e9-ea742802934b"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/BroganBentley", 
+                    "id": "a19c73a7-2f12-4a48-a28b-5cac5527cb6b"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/brogan-bentley", 
+                    "id": "833b0664-babc-4867-8986-334c9b81bf66"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Bentley, Brogan", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "id": "69f67407-5b2f-42ee-9a18-768007b3b7d1", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28346144, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

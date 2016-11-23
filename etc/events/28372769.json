@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Carter Hulsey at The Basement (November 7, 2016)", 
+        "popularity": 0.001041, 
+        "venue": {
+            "displayName": "The Basement", 
+            "uri": "http://www.songkick.com/venues/11066-basement?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1370083, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.778447, 
+            "id": 11066
+        }, 
+        "uri": "http://www.songkick.com/concerts/28372769-carter-hulsey-at-basement?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-07", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-07T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.1370083, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.778447
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e5bbd1cb-a6c2-4478-a798-c7e37c1311da", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e5bbd1cb-a6c2-4478-a798-c7e37c1311da.json"
+                        }
+                    ], 
+                    "displayName": "Carter Hulsey", 
+                    "uri": "http://www.songkick.com/artists/2595846-carter-hulsey?utm_source=32233&utm_medium=partner", 
+                    "id": 2595846
+                }, 
+                "displayName": "Carter Hulsey", 
+                "id": 55164594, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28372769
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Carter Hulsey", 
+        "sort-name": "Hulsey, Carter", 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/carter-hulsey-lyrics", 
+                    "id": "18c11622-c0b1-4a19-a108-b917fb68d73c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "disambiguation": "", 
+        "type": "Person", 
+        "id": "e5bbd1cb-a6c2-4478-a798-c7e37c1311da", 
+        "tags": []
+    }, 
+    "id": 28372769, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

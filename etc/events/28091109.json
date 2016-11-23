@@ -1,0 +1,130 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Kent 3 and The K Streets at Highline (December 10, 2016)", 
+        "popularity": 2.3e-05, 
+        "venue": {
+            "displayName": "Highline", 
+            "uri": "http://www.songkick.com/venues/1163446-highline?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6286702, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.321256, 
+            "id": 1163446
+        }, 
+        "uri": "http://www.songkick.com/concerts/28091109-kent-3-at-highline?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-10", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 47.6286702, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.321256
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "fdcb11ad-2950-493f-bc28-d2addbf463f5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fdcb11ad-2950-493f-bc28-d2addbf463f5.json"
+                        }
+                    ], 
+                    "displayName": "The Kent 3", 
+                    "uri": "http://www.songkick.com/artists/447579-kent-3?utm_source=32233&utm_medium=partner", 
+                    "id": 447579
+                }, 
+                "displayName": "The Kent 3", 
+                "id": 54673744, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The K Streets", 
+                    "uri": "http://www.songkick.com/artists/8891724-k-streets?utm_source=32233&utm_medium=partner", 
+                    "id": 8891724
+                }, 
+                "displayName": "The K Streets", 
+                "id": 54673749, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28091109
+    }, 
+    "musicbrainz_response": {
+        "name": "The Kent 3", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/711485", 
+                    "id": "4cacf9f9-ba58-4403-96ba-c49cb61cd215"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Kent 3, The", 
+        "type": null, 
+        "id": "fdcb11ad-2950-493f-bc28-d2addbf463f5", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15476, 
+    "bandsintown_response": {
+        "facebook_page_url": null, 
+        "upcoming_event_count": 0, 
+        "name": "The Kent 3", 
+        "tracker_count": 17, 
+        "mbid": "fdcb11ad-2950-493f-bc28-d2addbf463f5", 
+        "image_url": "https://s3.amazonaws.com/bit-photos/large/3924223.jpeg", 
+        "facebook_tour_dates_url": null, 
+        "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/3924223.jpeg"
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 12.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442440.0, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 870, 
+    "id": 28091109
+}

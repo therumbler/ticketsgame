@@ -1,0 +1,221 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.00149, 
+        "displayName": "Music Tapes at Songbyrd Music House (November 20, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Songbyrd Music House", 
+            "uri": "http://www.songkick.com/venues/3115224-songbyrd-music-house?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9223987, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0422671, 
+            "id": 3115224
+        }, 
+        "uri": "http://www.songkick.com/concerts/28209519-music-tapes-at-songbyrd-music-house?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-20", 
+            "datetime": "2016-11-20T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 38.9223987, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0422671
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Music Tapes", 
+                "id": 54881574, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "11e5be8b-e420-43ff-a8fc-87d8336db556", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:11e5be8b-e420-43ff-a8fc-87d8336db556.json"
+                        }
+                    ], 
+                    "displayName": "Music Tapes", 
+                    "uri": "http://www.songkick.com/artists/47146-music-tapes?utm_source=32233&utm_medium=partner", 
+                    "id": 47146
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28209519
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Music Tapes", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "twitter": "TheMusicTapes", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/471943", 
+                    "id": "57fdd74b-2fb7-4f46-b581-23bf4dd66d0a"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/TheMusicTapes", 
+                    "id": "5b01d6da-71ae-46db-81a3-7d21751c7e48"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pages/The-Music-Tapes/58196667913", 
+                    "id": "002eab2d-84e0-4c1b-9ea1-3b7733bfd1d7"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q7752757", 
+                    "id": "5b48cfc3-8506-40e8-be3f-9e7e9b091ec3"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Music_Tapes", 
+                    "id": "dea1072d-0771-4a56-a92d-2b5f1bd0da5c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "11e5be8b-e420-43ff-a8fc-87d8336db556", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Music Tapes, The", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15488, 
+    "bandsintown_response": {
+        "description": "The Orbiting Human Circus feat. Julian Koster and The Music Tapes", 
+        "title": "The Music Tapes @ Songbyrd Music House in Washington, DC", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Washington", 
+            "name": "Songbyrd Music House", 
+            "country": "United States", 
+            "region": "DC", 
+            "longitude": -77.042267, 
+            "place": "Songbyrd Music House", 
+            "latitude": 38.922399
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13032231?app_id=ticketgame&artist=The+Music+Tapes&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13032231/buy_tickets?app_id=ticketgame&artist=The+Music+Tapes&came_from=67", 
+        "on_sale_datetime": "2016-09-30T10:00:00", 
+        "formatted_datetime": "Sunday, November 20, 2016 at 8:00PM", 
+        "datetime": "2016-11-20T20:00:00", 
+        "formatted_location": "Washington, DC", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1337415/tfly%3Futm_medium%3Dapi&afftrack=67%7E16368295%7E23910237%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "The Music Tapes", 
+                "url": "TheMusicTapes", 
+                "tracker_count": 3256, 
+                "mbid": "11e5be8b-e420-43ff-a8fc-87d8336db556", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/131674.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheMusicTapes/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/131674.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13032231
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442721.0, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 878, 
+    "id": 28209519
+}

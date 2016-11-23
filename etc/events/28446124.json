@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Johnny Butler at Knitting Factory (November 15, 2016)", 
+        "popularity": 1.6e-05, 
+        "venue": {
+            "displayName": "Knitting Factory", 
+            "uri": "http://www.songkick.com/venues/664591-knitting-factory?utm_source=32233&utm_medium=partner", 
+            "lat": 40.714173, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9556651, 
+            "id": 664591
+        }, 
+        "uri": "http://www.songkick.com/concerts/28446124-johnny-butler-at-knitting-factory?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 40.714173, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9556651
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a5a7cfbd-a3a2-4581-a30c-4a5374909e24", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a5a7cfbd-a3a2-4581-a30c-4a5374909e24.json"
+                        }
+                    ], 
+                    "displayName": "Johnny Butler", 
+                    "uri": "http://www.songkick.com/artists/862329-johnny-butler?utm_source=32233&utm_medium=partner", 
+                    "id": 862329
+                }, 
+                "displayName": "Johnny Butler", 
+                "id": 55289379, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28446124
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Johnny Butler", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1259835", 
+                    "id": "e2c94484-8252-4c73-8fca-fb46be714567"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Butler, Johnny", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "type": null, 
+        "id": "a5a7cfbd-a3a2-4581-a30c-4a5374909e24", 
+        "disambiguation": ""
+    }, 
+    "id": 28446124, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

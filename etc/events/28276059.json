@@ -1,0 +1,290 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Joe Lynn Turner with Rahway and FRAGILE SKY at Mexicali Live (November 25, 2016)", 
+        "popularity": 0.001709, 
+        "venue": {
+            "displayName": "Mexicali Live", 
+            "uri": "http://www.songkick.com/venues/95708-mexicali-live?utm_source=32233&utm_medium=partner", 
+            "lat": 40.9016615, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -74.005009, 
+            "id": 95708
+        }, 
+        "uri": "http://www.songkick.com/concerts/28276059-joe-lynn-turner-at-mexicali-live?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 40.9016615, 
+            "city": "Teaneck, NJ, US", 
+            "lng": -74.005009
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "47cd459b-06c1-462f-8fdd-27721a03ef68", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:47cd459b-06c1-462f-8fdd-27721a03ef68.json"
+                        }
+                    ], 
+                    "displayName": "Joe Lynn Turner", 
+                    "uri": "http://www.songkick.com/artists/86465-joe-lynn-turner?utm_source=32233&utm_medium=partner", 
+                    "id": 86465
+                }, 
+                "displayName": "Joe Lynn Turner", 
+                "id": 54992974, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Rahway", 
+                    "uri": "http://www.songkick.com/artists/675582-rahway?utm_source=32233&utm_medium=partner", 
+                    "id": 675582
+                }, 
+                "displayName": "Rahway", 
+                "id": 54992979, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "FRAGILE SKY", 
+                    "uri": "http://www.songkick.com/artists/8263913-fragile-sky?utm_source=32233&utm_medium=partner", 
+                    "id": 8263913
+                }, 
+                "displayName": "FRAGILE SKY", 
+                "id": 54992984, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28276059
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Joe Lynn Turner", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1951-08-02", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/29732819", 
+                    "id": "1aa9c9da-dd26-4fd1-9e5f-29924053948c"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000141064", 
+                    "id": "fa755f90-36e2-41bb-8799-10c9b942ded1"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/273592", 
+                    "id": "f6497d5b-69df-4dcc-b19b-b254d3451b50"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.joelynnturner.com/", 
+                    "id": "a9526d2d-e411-494f-be9c-f09ec2a1ea25"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/joe_lynn_turner", 
+                    "id": "cf74d290-6529-4bba-a4e3-733a06258135"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/34330", 
+                    "id": "bb7e010c-922e-4c6d-bbd0-45cc49bb30c3"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q319297", 
+                    "id": "03917dd2-5788-455b-a27e-ce5ebbd97110"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00039241588", 
+            "00039241686"
+        ], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Hackensack", 
+            "disambiguation": "", 
+            "name": "Hackensack", 
+            "id": "e49d7877-9a49-4dae-bfcb-a793f4128f84"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "isnis": [
+            "000000009380960X", 
+            "0000000109624184"
+        ], 
+        "sort-name": "Turner, Joe Lynn", 
+        "country": "US", 
+        "type": "Person", 
+        "id": "47cd459b-06c1-462f-8fdd-27721a03ef68", 
+        "disambiguation": "US rock vocalist"
+    }, 
+    "age_minutes": 3167, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Joe Lynn Turner @ Mexicali Live in Teaneck, NJ", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Teaneck", 
+            "name": "Mexicali Live", 
+            "country": "United States", 
+            "region": "NJ", 
+            "longitude": -74.0163889, 
+            "place": "Mexicali Live", 
+            "latitude": 40.8975
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12805707?app_id=ticketgame&artist=Joe+Lynn+Turner&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12805707/buy_tickets?app_id=ticketgame&artist=Joe+Lynn+Turner&came_from=67", 
+        "on_sale_datetime": "2016-08-19T15:00:01", 
+        "formatted_datetime": "Friday, November 25, 2016 at 8:00PM", 
+        "datetime": "2016-11-25T20:00:00", 
+        "formatted_location": "Teaneck, NJ", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fwww.ticketweb.com%2Ft3%2Fsale%2FSaleEventDetail%3Fdispatch%3DloadSelectionData%26eventId%3D6864955%26REFERRAL_ID%3Dtmfeed&clickref=67%7E16066113%7E23396842%7E%7E", 
+        "artists": [
+            {
+                "website": "http://joelynnturner.com", 
+                "facebook_page_url": "http://www.facebook.com/pages/Joe%20Lynn%20Turner%20Official%20Page/61227983485", 
+                "name": "Joe Lynn Turner", 
+                "url": "JoeLynnTurner", 
+                "tracker_count": 7492, 
+                "mbid": "47cd459b-06c1-462f-8fdd-27721a03ef68", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6138220.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/JoeLynnTurner/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6138220.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12805707
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 54.0, 
+        "price_min": 28.5
+    }, 
+    "modified_time": 1479442890.0, 
+    "created_time": 1479305699.0, 
+    "modified_minutes": 880, 
+    "id": 28276059
+}

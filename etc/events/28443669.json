@@ -1,0 +1,282 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Kirko Bangz at The Studio at Warehouse Live (November 22, 2016)", 
+        "popularity": 0.055747, 
+        "venue": {
+            "displayName": "The Studio at Warehouse Live", 
+            "uri": "http://www.songkick.com/venues/617016-studio-at-warehouse-live?utm_source=32233&utm_medium=partner", 
+            "lat": 29.7521221, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.3546736, 
+            "id": 617016
+        }, 
+        "uri": "http://www.songkick.com/concerts/28443669-kirko-bangz-at-studio-at-warehouse-live?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-22", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-22T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 29.7521221, 
+            "city": "Houston, TX, US", 
+            "lng": -95.3546736
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7e08b1ef-cc96-4b9c-a175-e64aa022bc1d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7e08b1ef-cc96-4b9c-a175-e64aa022bc1d.json"
+                        }
+                    ], 
+                    "displayName": "Kirko Bangz", 
+                    "uri": "http://www.songkick.com/artists/4652908-kirko-bangz?utm_source=32233&utm_medium=partner", 
+                    "id": 4652908
+                }, 
+                "displayName": "Kirko Bangz", 
+                "id": 55285144, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28443669
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Kirko Bangz", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "hip hop"
+            }, 
+            {
+                "count": 1, 
+                "name": "rap"
+            }
+        ], 
+        "gender": "Male", 
+        "twitter": "kirkobangz", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "disambiguation": "American rapper", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Houston", 
+            "disambiguation": "", 
+            "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b", 
+            "name": "Houston"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002777120", 
+                    "id": "0d986fbf-1ed7-4ef8-86e2-c9bdede9fcd8"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2820361", 
+                    "id": "42326dbd-2992-4112-a14e-19b9b0a07dbb"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/kirko-bangz-lyrics", 
+                    "id": "5fa2487a-f3cf-4c8d-8f00-65c6888e58d7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://kirkobangz.com/", 
+                    "id": "7d66fe92-dec2-4f1b-a63c-545110e68a50"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/kirko_bangz", 
+                    "id": "44e3a62f-93b5-4c02-b75a-39de861def26"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/kirkobangz", 
+                    "id": "2316a6d7-d6d9-4686-bcf5-61413ef6d3a6"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/kirkobangz", 
+                    "id": "d1cc7382-8c29-4634-854d-a5579102d985"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1711339", 
+                    "id": "69876f43-29f9-45af-9f08-741837cac4b7"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Kirko_Bangz", 
+                    "id": "d14dfa2d-abb9-4e99-8c7b-b19d6dfecd68"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/KirkoBangz", 
+                    "id": "5c5e3ca2-88ef-4f37-9a1d-49b99ea9dfe5"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Bangz, Kirko", 
+        "country": "US", 
+        "id": "7e08b1ef-cc96-4b9c-a175-e64aa022bc1d", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1989-08-20", 
+            "end": null
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28443669, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

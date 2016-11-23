@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Irene Jalenti and Afro Blue at Smithsonian American Art Museum (December 9, 2016)", 
+        "popularity": 0.000782, 
+        "venue": {
+            "displayName": "Smithsonian American Art Museum", 
+            "uri": "http://www.songkick.com/venues/1355271-smithsonian-american-art-museum?utm_source=32233&utm_medium=partner", 
+            "lat": 38.8956739, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0229732, 
+            "id": 1355271
+        }, 
+        "uri": "http://www.songkick.com/concerts/27942769-irene-jalenti-at-smithsonian-american-art-museum?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-09", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-09T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.8956739, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0229732
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b30340ab-333f-4356-bb66-b15fd4dfa4dc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b30340ab-333f-4356-bb66-b15fd4dfa4dc.json"
+                        }
+                    ], 
+                    "displayName": "Irene Jalenti", 
+                    "uri": "http://www.songkick.com/artists/776286-irene-jalenti?utm_source=32233&utm_medium=partner", 
+                    "id": 776286
+                }, 
+                "displayName": "Irene Jalenti", 
+                "id": 54412044, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "82bd2085-3b1b-4b7f-a939-a7e394551bbc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:82bd2085-3b1b-4b7f-a939-a7e394551bbc.json"
+                        }
+                    ], 
+                    "displayName": "Afro Blue", 
+                    "uri": "http://www.songkick.com/artists/2360327-afro-blue?utm_source=32233&utm_medium=partner", 
+                    "id": 2360327
+                }, 
+                "displayName": "Afro Blue", 
+                "id": 54412049, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27942769
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Irene Jalenti", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/irejalenti", 
+                    "id": "7db2787f-013d-4b3b-86e8-8efa73bbb1aa"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "b30340ab-333f-4356-bb66-b15fd4dfa4dc", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Jalenti, Irene", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 27942769, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

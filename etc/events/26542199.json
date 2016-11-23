@@ -1,0 +1,231 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Chip Greene at The Park Theatre (November 19, 2016)", 
+        "popularity": 9.8e-05, 
+        "venue": {
+            "displayName": "The Park Theatre", 
+            "uri": "http://www.songkick.com/venues/3064584-park-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 35.6813734, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -85.7740639, 
+            "id": 3064584
+        }, 
+        "uri": "http://www.songkick.com/concerts/26542199-chip-greene-at-park-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-19T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 35.6813734, 
+            "city": "McMinnville, TN, US", 
+            "lng": -85.7740639
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d31c6023-d4cc-4cda-992c-1592ca26f5dc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d31c6023-d4cc-4cda-992c-1592ca26f5dc.json"
+                        }
+                    ], 
+                    "displayName": "Chip Greene", 
+                    "uri": "http://www.songkick.com/artists/607834-chip-greene?utm_source=32233&utm_medium=partner", 
+                    "id": 607834
+                }, 
+                "displayName": "Chip Greene", 
+                "id": 51825574, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26542199
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Chip Greene", 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "country": null, 
+        "twitter": "chipgreene", 
+        "area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "name": "Nashville", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://chipgreene.bandcamp.com/", 
+                    "id": "0a7c301a-5f6c-4a6b-aa3c-9cc1c0dce497"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://chipgreene.com/", 
+                    "id": "b41376f2-ef97-4d21-95b0-035cebf766d8"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.noisetrade.com/chipgreene/", 
+                    "id": "060968b0-c76a-4457-968e-33e6dc8b7ecd"
+                }, 
+                "begin": null, 
+                "type-id": "35b3a50f-bf0e-4309-a3b4-58eeed8cee6a", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "online community", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.cdbaby.com/Artist/ChipGreene", 
+                    "id": "5a1331bc-b756-48a4-ae63-869648335f50"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/artist/id57705038", 
+                    "id": "3392b5c1-2bdc-4bf0-8a70-9fae4254e54c"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=A3s22a56uwrw4o7tkgnnzre5fqq", 
+                    "id": "8bf647c7-41a9-4f92-977a-6a52b62cc732"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/chipgreene", 
+                    "id": "08e4fd32-640b-4dad-8ab4-b95c3092e65c"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/chipgreene", 
+                    "id": "4fd5f4e1-3d17-4495-995f-3a9b47825034"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Greene, Chip", 
+        "gender": "Male", 
+        "id": "d31c6023-d4cc-4cda-992c-1592ca26f5dc", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": []
+    }, 
+    "id": 26542199, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

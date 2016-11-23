@@ -1,0 +1,466 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Peter Frampton at Schermerhorn Symphony Center (March 26, 2017)", 
+        "popularity": 0.048724, 
+        "venue": {
+            "displayName": "Schermerhorn Symphony Center", 
+            "uri": "http://www.songkick.com/venues/11073-schermerhorn-symphony-center?utm_source=32233&utm_medium=partner", 
+            "lat": 36.159761, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.775546, 
+            "id": 11073
+        }, 
+        "uri": "http://www.songkick.com/concerts/27555169-peter-frampton-at-schermerhorn-symphony-center?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-03-26", 
+            "time": "19:30:00", 
+            "datetime": "2017-03-26T19:30:00-0500"
+        }, 
+        "location": {
+            "lat": 36.159761, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.775546
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "638206ee-0e3d-47cf-9769-d73330b15a87", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:638206ee-0e3d-47cf-9769-d73330b15a87.json"
+                        }
+                    ], 
+                    "displayName": "Peter Frampton", 
+                    "uri": "http://www.songkick.com/artists/486144-peter-frampton?utm_source=32233&utm_medium=partner", 
+                    "id": 486144
+                }, 
+                "displayName": "Peter Frampton", 
+                "id": 53706384, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27555169
+    }, 
+    "musicbrainz_response": {
+        "name": "Peter Frampton", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "country": "GB", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1950-04-22", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "aor"
+            }, 
+            {
+                "count": 0, 
+                "name": "british"
+            }, 
+            {
+                "count": 0, 
+                "name": "classic pop and rock"
+            }, 
+            {
+                "count": 0, 
+                "name": "english"
+            }, 
+            {
+                "count": 1, 
+                "name": "hard rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock"
+            }, 
+            {
+                "count": 0, 
+                "name": "uk"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/638206ee-0e3d-47cf-9769-d73330b15a87", 
+                    "id": "ab1bd6aa-c099-45ca-b98b-69623ede620a"
+                }, 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0289759/", 
+                    "id": "d9c3ac41-f5ef-4675-b26c-e0549326d636"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/42025234", 
+                    "id": "242bc3e6-73db-4295-877e-e3e26f0ce009"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000320845", 
+                    "id": "39a11e00-df7a-40da-a634-01ab8e865103"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/228859", 
+                    "id": "af84b007-bbbb-4e58-a5a2-3b9db8598293"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:PeterFrampton06.jpg", 
+                    "id": "b2855bd4-250c-460b-be1d-872f5ad6df3d"
+                }, 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/peter-frampton-lyrics", 
+                    "id": "713b323d-161d-4ca6-a9e7-291d70ec49d7"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-5528/peter-frampton/lyrics.html", 
+                    "id": "340fc4f4-acc8-4057-a745-1fe6d4f11aa1"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/peterframpton", 
+                    "id": "b6df3c4c-c224-4a0e-8207-bc11ff091c87"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.frampton.com/", 
+                    "id": "5fd38eb6-9c89-40ae-bf50-10de177a2692"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/peter_frampton", 
+                    "id": "cba6a5f3-8981-4217-8fd6-f7e61586dea2"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/167", 
+                    "id": "f6f6fb36-608e-4c7e-8d39-ffcad25b38dc"
+                }, 
+                "begin": null, 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/peterframpton", 
+                    "id": "91e69c66-6954-42cf-8891-a0cf68b32d30"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/PeterFrampton", 
+                    "id": "82ef716c-6348-45a6-8db2-62ac085e8462"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q337089", 
+                    "id": "abf239d5-9c2b-420d-96c3-7c0d4e9e627c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Peter_Frampton", 
+                    "id": "ba8166ad-43cf-4832-b9c9-a99e0975ea94"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/peterframptonvevo", 
+                    "id": "072f32ae-c2aa-4594-b8fd-85734abe8e3d"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00039992432"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Bromley", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "GB-BRY"
+            ], 
+            "id": "71d7ce55-816c-4e64-8dbf-e2289a696354", 
+            "name": "Bromley"
+        }, 
+        "id": "638206ee-0e3d-47cf-9769-d73330b15a87", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Frampton, Peter", 
+        "type": "Person", 
+        "twitter": "peterframpton", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Peter Frampton @ Schermerhorn Symphony Center (RAW: An Acoustic Tour) in Nashville, TN", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Nashville", 
+            "name": "Schermerhorn Symphony Center (RAW: An Acoustic Tour)", 
+            "country": "United States", 
+            "region": "TN", 
+            "longitude": -86.776331, 
+            "place": "Schermerhorn Symphony Center ", 
+            "latitude": 36.160045
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12532791?app_id=ticketgame&artist=Peter+Frampton&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12532791/buy_tickets?app_id=ticketgame&artist=Peter+Frampton&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Sunday, March 26, 2017 at 7:30PM", 
+        "datetime": "2017-03-26T19:30:00", 
+        "formatted_location": "Nashville, TN", 
+        "ticket_redirect_url": "http://smarturl.it/ynqase", 
+        "artists": [
+            {
+                "website": "http://www.frampton.com", 
+                "facebook_page_url": "https://www.facebook.com/PeterFrampton", 
+                "name": "Peter Frampton", 
+                "url": "PeterFrampton", 
+                "tracker_count": 190171, 
+                "mbid": "638206ee-0e3d-47cf-9769-d73330b15a87", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6175645.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/PeterFrampton/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6175645.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12532791
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://smarturl.it/ynqase"
+    }, 
+    "modified_time": 1479441987.0, 
+    "created_minutes": 18153, 
+    "created_time": 1478566042.0, 
+    "modified_minutes": 3554, 
+    "id": 27555169
+}

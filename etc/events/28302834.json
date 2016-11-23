@@ -1,0 +1,112 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000716, 
+        "displayName": "Flynt Flossy at Boot & Saddle (December 5, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Boot & Saddle", 
+            "uri": "http://www.songkick.com/venues/2346454-boot-and-saddle?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9368934, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1667971, 
+            "id": 2346454
+        }, 
+        "uri": "http://www.songkick.com/concerts/28302834-flynt-flossy-at-boot-and-saddle?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-05", 
+            "datetime": "2016-12-05T20:30:00-0500", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 39.9368934, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1667971
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Flynt Flossy", 
+                "id": 55040554, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "abd61197-c7b0-4fe2-b94a-aef415f60915", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:abd61197-c7b0-4fe2-b94a-aef415f60915.json"
+                        }
+                    ], 
+                    "displayName": "Flynt Flossy", 
+                    "uri": "http://www.songkick.com/artists/5078803-flynt-flossy?utm_source=32233&utm_medium=partner", 
+                    "id": 5078803
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28302834
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Flynt Flossy", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/flynt-flossy-lyrics", 
+                    "id": "09990596-568d-438f-afaf-95e727cadaa7"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Flossy, Flynt", 
+        "type": "Person", 
+        "id": "abd61197-c7b0-4fe2-b94a-aef415f60915", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15497, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442899.0, 
+    "created_time": 1478566061.0, 
+    "modified_minutes": 883, 
+    "id": 28302834
+}

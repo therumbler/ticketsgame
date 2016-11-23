@@ -1,0 +1,131 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mallett Brothers Band and Southern Belles at Gypsy Sally's (November 16, 2016)", 
+        "popularity": 0.000214, 
+        "venue": {
+            "displayName": "Gypsy Sally's", 
+            "uri": "http://www.songkick.com/venues/2402744-gypsy-sallys?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9025936, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0627545, 
+            "id": 2402744
+        }, 
+        "uri": "http://www.songkick.com/concerts/28421404-mallett-brothers-band-at-gypsy-sallys?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-16T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.9025936, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0627545
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8765fb93-546b-460e-abc3-161bab86c341", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8765fb93-546b-460e-abc3-161bab86c341.json"
+                        }
+                    ], 
+                    "displayName": "Mallett Brothers Band", 
+                    "uri": "http://www.songkick.com/artists/3728191-mallett-brothers-band?utm_source=32233&utm_medium=partner", 
+                    "id": 3728191
+                }, 
+                "displayName": "Mallett Brothers Band", 
+                "id": 55248374, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d0f15b24-920d-4a1c-b732-288fcba07b6a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d0f15b24-920d-4a1c-b732-288fcba07b6a.json"
+                        }
+                    ], 
+                    "displayName": "Southern Belles", 
+                    "uri": "http://www.songkick.com/artists/3577436-southern-belles?utm_source=32233&utm_medium=partner", 
+                    "id": 3577436
+                }, 
+                "displayName": "Southern Belles", 
+                "id": 55248379, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28421404
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Mallett Brothers Band", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.mallettbrothersband.com/", 
+                    "id": "ee035a32-c9af-4948-abd3-3ae7a2220c9b"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Mallett Brothers Band, The", 
+        "gender": null, 
+        "id": "8765fb93-546b-460e-abc3-161bab86c341", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28421404, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

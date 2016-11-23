@@ -1,0 +1,113 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Bond & Bentley and Jauntee at Gypsy Sally's (November 9, 2016)", 
+        "popularity": 7.2e-05, 
+        "venue": {
+            "displayName": "Gypsy Sally's", 
+            "uri": "http://www.songkick.com/venues/2402744-gypsy-sallys?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9025936, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0627545, 
+            "id": 2402744
+        }, 
+        "uri": "http://www.songkick.com/concerts/28374204-bond-and-bentley-at-gypsy-sallys?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-09T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 38.9025936, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0627545
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4a68366a-07b7-4050-bee3-4209ae27cfb0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4a68366a-07b7-4050-bee3-4209ae27cfb0.json"
+                        }
+                    ], 
+                    "displayName": "Bond & Bentley", 
+                    "uri": "http://www.songkick.com/artists/545630-bond-and-bentley?utm_source=32233&utm_medium=partner", 
+                    "id": 545630
+                }, 
+                "displayName": "Bond & Bentley", 
+                "id": 55166999, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Jauntee", 
+                    "uri": "http://www.songkick.com/artists/4246711-jauntee?utm_source=32233&utm_medium=partner", 
+                    "id": 4246711
+                }, 
+                "displayName": "Jauntee", 
+                "id": 55167004, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28374204
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Bond & Bentley", 
+        "area": {
+            "sort-name": "Rock", 
+            "disambiguation": "", 
+            "id": "541fc3aa-6ad4-450d-8a63-83c8a27c54dd", 
+            "name": "Rock"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2006", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Maryland", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-MD"
+            ], 
+            "id": "1ed51cbe-4272-4df9-9b18-44b0d4714086", 
+            "name": "Maryland"
+        }, 
+        "sort-name": "Bond & Bentley", 
+        "gender": null, 
+        "id": "4a68366a-07b7-4050-bee3-4209ae27cfb0", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28374204, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Dilly Dally with Palm at Boot & Saddle (November 7, 2016)", 
+        "popularity": 0.001763, 
+        "venue": {
+            "displayName": "Boot & Saddle", 
+            "uri": "http://www.songkick.com/venues/2346454-boot-and-saddle?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9368934, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1667971, 
+            "id": 2346454
+        }, 
+        "uri": "http://www.songkick.com/concerts/27987124-dilly-dally-at-boot-and-saddle?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-07", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-07T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9368934, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1667971
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e6eda7e1-2758-47c5-80e3-77493a7e469f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e6eda7e1-2758-47c5-80e3-77493a7e469f.json"
+                        }
+                    ], 
+                    "displayName": "Dilly Dally", 
+                    "uri": "http://www.songkick.com/artists/4625663-dilly-dally?utm_source=32233&utm_medium=partner", 
+                    "id": 4625663
+                }, 
+                "displayName": "Dilly Dally", 
+                "id": 54491839, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "54c184b7-9792-48ac-a3fb-8f6f20263c83", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:54c184b7-9792-48ac-a3fb-8f6f20263c83.json"
+                        }
+                    ], 
+                    "displayName": "Palm", 
+                    "uri": "http://www.songkick.com/artists/332148-palm?utm_source=32233&utm_medium=partner", 
+                    "id": 332148
+                }, 
+                "displayName": "Palm", 
+                "id": 55181679, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27987124
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Dilly Dally", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative"
+            }, 
+            {
+                "count": 1, 
+                "name": "dally"
+            }, 
+            {
+                "count": 1, 
+                "name": "dilly"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "toronto"
+            }
+        ], 
+        "country": null, 
+        "twitter": "dillydallyto", 
+        "area": {
+            "sort-name": "Toronto", 
+            "disambiguation": "", 
+            "name": "Toronto", 
+            "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://dillydally.bandcamp.com/", 
+                    "id": "61c15e66-7845-40dc-863b-bf244277ada1"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4620678", 
+                    "id": "a47be50d-b021-4bde-a644-c82b01dec092"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Dilly+Dally", 
+                    "id": "15d96633-e265-4355-8e17-c1d91a30d0a0"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.dillydallyband.com/", 
+                    "id": "ab9f5670-2389-42df-9c5b-f009517d441e"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/dilly_dally", 
+                    "id": "db3b095e-9147-4ea1-b908-c5d324fac96e"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/dillydallyto", 
+                    "id": "ee5cd4e0-5c35-4566-bfb5-df0c3fae8309"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/DillyDallyTO", 
+                    "id": "185ee16d-08dc-4f98-93dd-4f79270a37e0"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/dillydallyto/", 
+                    "id": "7f25478e-f4ed-4b5b-86d7-ed2c22b672e4"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/4625663-dilly-dally", 
+                    "id": "72b14043-2eb5-40cf-ad93-129be815bddd"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/dilly-dally", 
+                    "id": "8a86d1ed-7b8d-4887-ab62-1c4eb51d3ace"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q21287616", 
+                    "id": "4fed8e6d-aff4-49de-aa28-985b9ed3fdab"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/DillyDallyVEVO", 
+                    "id": "2652ab4e-c071-4ef1-9fe8-6c0e7ae23117"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "disambiguation": "", 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Dilly Dally", 
+        "gender": null, 
+        "id": "e6eda7e1-2758-47c5-80e3-77493a7e469f", 
+        "ipis": [], 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 27987124, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

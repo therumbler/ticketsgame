@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "45 R.p.m. at Mulcahy's Pub & Concert Hall (November 11, 2016)", 
+        "popularity": 1.5e-05, 
+        "venue": {
+            "displayName": "Mulcahy's Pub & Concert Hall", 
+            "uri": "http://www.songkick.com/venues/941-mulcahys-pub-and-concert-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 40.6723969, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.509991, 
+            "id": 941
+        }, 
+        "uri": "http://www.songkick.com/concerts/28404859-45-rpm-at-mulcahys-pub-and-concert-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-11T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.6723969, 
+            "city": "Wantagh, NY, US", 
+            "lng": -73.509991
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e54f5dde-8042-4b2a-a18e-85f646bb0840", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e54f5dde-8042-4b2a-a18e-85f646bb0840.json"
+                        }
+                    ], 
+                    "displayName": "45 R.p.m.", 
+                    "uri": "http://www.songkick.com/artists/95565-45-rpm?utm_source=32233&utm_medium=partner", 
+                    "id": 95565
+                }, 
+                "displayName": "45 R.p.m.", 
+                "id": 55219839, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28404859
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "45 RPM", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1177000", 
+                    "id": "d8fcd472-5775-468e-907b-b6832c97e888"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "45 RPM", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "type": null, 
+        "id": "e54f5dde-8042-4b2a-a18e-85f646bb0840", 
+        "disambiguation": ""
+    }, 
+    "id": 28404859, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

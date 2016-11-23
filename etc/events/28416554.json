@@ -1,0 +1,154 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 5.6e-05, 
+        "displayName": "Dave P at The Dolphin Tavern (November 11, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Dolphin Tavern", 
+            "uri": "http://www.songkick.com/venues/1824863-dolphin-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 39.930583, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.167911, 
+            "id": 1824863
+        }, 
+        "uri": "http://www.songkick.com/concerts/28416554-dave-p-at-dolphin-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-11T22:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.930583, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.167911
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Dave P", 
+                "id": 55239809, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9b32d0bd-06c1-4a43-82ac-0b227def3ae1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9b32d0bd-06c1-4a43-82ac-0b227def3ae1.json"
+                        }
+                    ], 
+                    "displayName": "Dave P", 
+                    "uri": "http://www.songkick.com/artists/178760-dave-p?utm_source=32233&utm_medium=partner", 
+                    "id": 178760
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28416554
+    }, 
+    "bandsintown_response": {
+        "description": "Dave P. ALL NITE LONG", 
+        "title": "Dave P @ Dolphin Tavern in Philadelphia, PA", 
+        "ticket_type": null, 
+        "venue": {
+            "city": "Philadelphia", 
+            "name": "Dolphin Tavern", 
+            "country": "United States", 
+            "region": "PA", 
+            "longitude": -75.168252, 
+            "place": "Dolphin Tavern", 
+            "latitude": 39.93055
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13117783?app_id=ticketgame&artist=Dave+P&came_from=67", 
+        "ticket_url": null, 
+        "on_sale_datetime": "2016-10-12T09:57:14", 
+        "formatted_datetime": "Friday, November 11, 2016 at 10:00PM", 
+        "datetime": "2016-11-11T22:00:00", 
+        "formatted_location": "Philadelphia, PA", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "Dave P", 
+                "url": "DaveP", 
+                "tracker_count": 21, 
+                "mbid": "9b32d0bd-06c1-4a43-82ac-0b227def3ae1", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5812121.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/DaveP/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5812121.jpeg"
+            }
+        ], 
+        "ticket_status": "unavailable", 
+        "id": 13117783
+    }, 
+    "musicbrainz_response": {
+        "name": "Dave P", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/354906", 
+                    "id": "7ee50130-ce63-491d-8e8f-0e18f0d885b3"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/davidpianka", 
+                    "id": "1c551f45-71d8-4bba-a992-ed6c33fb3692"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Dave P", 
+        "country": null, 
+        "id": "9b32d0bd-06c1-4a43-82ac-0b227def3ae1", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28416554, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

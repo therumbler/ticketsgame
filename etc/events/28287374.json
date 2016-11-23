@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Soundhouse at DAZZLE JAZZ (November 7, 2016)", 
+        "popularity": 6.5e-05, 
+        "venue": {
+            "displayName": "DAZZLE JAZZ", 
+            "uri": "http://www.songkick.com/venues/1942254-dazzle-jazz?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7310356, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9861157, 
+            "id": 1942254
+        }, 
+        "uri": "http://www.songkick.com/concerts/28287374-soundhouse-at-dazzle-jazz?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-07", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-07T19:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.7310356, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9861157
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4c902176-10c4-4f5b-ace4-3efb38dd3f9d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4c902176-10c4-4f5b-ace4-3efb38dd3f9d.json"
+                        }
+                    ], 
+                    "displayName": "Soundhouse", 
+                    "uri": "http://www.songkick.com/artists/769247-soundhouse?utm_source=32233&utm_medium=partner", 
+                    "id": 769247
+                }, 
+                "displayName": "Soundhouse", 
+                "id": 55012544, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28287374
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Sound House", 
+        "tags": [], 
+        "country": null, 
+        "disambiguation": "", 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/526831", 
+                    "id": "2dd30e40-e614-44b3-8235-c7ed80854968"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Sound House", 
+        "gender": null, 
+        "id": "4c902176-10c4-4f5b-ace4-3efb38dd3f9d", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28287374, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

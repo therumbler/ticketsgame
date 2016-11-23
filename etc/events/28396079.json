@@ -1,0 +1,148 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "La Yegros at Tropicalia (November 11, 2016)", 
+        "popularity": 0.001448, 
+        "venue": {
+            "displayName": "Tropicalia", 
+            "uri": "http://www.songkick.com/venues/1997109-tropicalia?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": null, 
+            "id": 1997109
+        }, 
+        "uri": "http://www.songkick.com/concerts/28396079-la-yegros-at-tropicalia?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 38.9136, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0132
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "aa22f8bc-2aeb-4dff-87b8-0fc89b9d4f87", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:aa22f8bc-2aeb-4dff-87b8-0fc89b9d4f87.json"
+                        }
+                    ], 
+                    "displayName": "La Yegros", 
+                    "uri": "http://www.songkick.com/artists/2491781-la-yegros?utm_source=32233&utm_medium=partner", 
+                    "id": 2491781
+                }, 
+                "displayName": "La Yegros", 
+                "id": 55204624, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28396079
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "La Yegros", 
+        "area": {
+            "sort-name": "Argentina", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "AR"
+            ], 
+            "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b", 
+            "name": "Argentina"
+        }, 
+        "country": "AR", 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1692300", 
+                    "id": "20c83859-1228-45cb-b4ec-e61248c458cd"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Horizonte_2014_So_0116.JPG", 
+                    "id": "5dae485b-67e8-4b5d-85be-701a2af3852e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q14280664", 
+                    "id": "25458e26-72cb-4548-9d07-a174528b5bdd"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Yegros, La", 
+        "gender": "Female", 
+        "id": "aa22f8bc-2aeb-4dff-87b8-0fc89b9d4f87", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2"
+    }, 
+    "id": 28396079, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

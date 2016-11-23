@@ -1,0 +1,163 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "21+", 
+        "displayName": "Shy Girls at Barboza (January 24, 2017)", 
+        "popularity": 0.0108, 
+        "venue": {
+            "displayName": "Barboza", 
+            "uri": "http://www.songkick.com/venues/1674423-barboza?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6140125, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3200355, 
+            "id": 1674423
+        }, 
+        "uri": "http://www.songkick.com/concerts/28441194-shy-girls-at-barboza?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-24", 
+            "time": "20:00:00", 
+            "datetime": "2017-01-24T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6140125, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3200355
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "225f29a7-6379-4fd3-803b-ca683da2ccc1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:225f29a7-6379-4fd3-803b-ca683da2ccc1.json"
+                        }
+                    ], 
+                    "displayName": "Shy Girls", 
+                    "uri": "http://www.songkick.com/artists/4714633-shy-girls?utm_source=32233&utm_medium=partner", 
+                    "id": 4714633
+                }, 
+                "displayName": "Shy Girls", 
+                "id": 55280994, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28441194
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Shy Girls", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Portland", 
+            "disambiguation": "", 
+            "name": "Portland", 
+            "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557"
+        }, 
+        "gender": "Male", 
+        "twitter": "shygirlsmusic", 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://shygirlsmusic.com/", 
+                    "id": "7a706d24-bb22-4263-a1fa-b3efdae8eb9e"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/shygirlsmusic", 
+                    "id": "cf9052a6-f636-441f-a9ce-c221072891a9"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/shygirlsmusic", 
+                    "id": "90e1148f-489a-4031-af5e-b4fff608c24e"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/shygirls", 
+                    "id": "e4f2d711-5b88-412b-8e5e-93ce9bd0b453"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Shy Girls", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "id": "225f29a7-6379-4fd3-803b-ca683da2ccc1", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 28441194, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

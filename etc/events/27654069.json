@@ -1,0 +1,258 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "All Ages", 
+        "displayName": "SALES with Tangerine at The Crocodile (November 20, 2016)", 
+        "popularity": 0.004401, 
+        "venue": {
+            "displayName": "The Crocodile", 
+            "uri": "http://www.songkick.com/venues/291-crocodile?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6134145, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3443283, 
+            "id": 291
+        }, 
+        "uri": "http://www.songkick.com/concerts/27654069-sales-at-crocodile?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-20", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 47.6134145, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3443283
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "597d6d84-0316-4e7b-8649-20c576dac29f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:597d6d84-0316-4e7b-8649-20c576dac29f.json"
+                        }
+                    ], 
+                    "displayName": "SALES", 
+                    "uri": "http://www.songkick.com/artists/7225704-sales?utm_source=32233&utm_medium=partner", 
+                    "id": 7225704
+                }, 
+                "displayName": "SALES", 
+                "id": 53883699, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ff7a1553-1dcc-45d6-a9e7-61a8728300b0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ff7a1553-1dcc-45d6-a9e7-61a8728300b0.json"
+                        }, 
+                        {
+                            "mbid": "f3fd18f6-99ab-4e8f-97c2-29cc006d9dc6", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f3fd18f6-99ab-4e8f-97c2-29cc006d9dc6.json"
+                        }, 
+                        {
+                            "mbid": "2e24aabf-8a30-417a-ae47-a205192db0c3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2e24aabf-8a30-417a-ae47-a205192db0c3.json"
+                        }, 
+                        {
+                            "mbid": "ba67f43e-439e-4a9a-b9ab-cb1ecb00b25e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ba67f43e-439e-4a9a-b9ab-cb1ecb00b25e.json"
+                        }
+                    ], 
+                    "displayName": "Tangerine", 
+                    "uri": "http://www.songkick.com/artists/18673-tangerine?utm_source=32233&utm_medium=partner", 
+                    "id": 18673
+                }, 
+                "displayName": "Tangerine", 
+                "id": 53883704, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27654069
+    }, 
+    "musicbrainz_response": {
+        "name": "SALES", 
+        "area": {
+            "sort-name": "Orlando", 
+            "disambiguation": "", 
+            "id": "ec1e55f4-03df-4ba1-a314-1ab959aa3fd6", 
+            "name": "Orlando"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "electronic"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://sales.bandcamp.com/", 
+                    "id": "90d64e34-aed3-49bd-b7e2-71d5c68e5ffe"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3760136", 
+                    "id": "589ceb3e-9e82-4eaf-9921-c4ff35aec533"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://wearenotsales.com/", 
+                    "id": "ecf5fd15-d3b8-4988-a707-0cd357e14dcc"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/wearenotsales", 
+                    "id": "e6f0b1a7-19cb-4a7d-8789-ac0d3ed1beb7"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Wearenotsales", 
+                    "id": "81caad88-6684-4901-8553-0563befc5041"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/sales", 
+                    "id": "aa16f43b-b1f1-4fbf-80ff-876da1bdf806"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/salesuniverse", 
+                    "id": "46ca193b-c5d1-4b25-8e30-cdbdb7c8ef5c"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "SALES", 
+        "country": null, 
+        "id": "597d6d84-0316-4e7b-8649-20c576dac29f", 
+        "disambiguation": "", 
+        "type": "Group", 
+        "twitter": "wearenotsales", 
+        "gender-id": null
+    }, 
+    "age_minutes": 15459, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442027.0, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 860, 
+    "id": 27654069
+}

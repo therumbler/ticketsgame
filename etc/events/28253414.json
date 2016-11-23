@@ -1,0 +1,118 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mark Farina at Unknown venue (January 21, 2017)", 
+        "popularity": 0.010119, 
+        "venue": {
+            "displayName": "Unknown venue", 
+            "uri": null, 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "FL"
+                }, 
+                "displayName": "Miami", 
+                "uri": "http://www.songkick.com/metro_areas/9776-us-miami?utm_source=32233&utm_medium=partner", 
+                "id": 9776
+            }, 
+            "lng": null, 
+            "id": null
+        }, 
+        "uri": "http://www.songkick.com/concerts/28253414-mark-farina-at-unknown-venue?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-21", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 25.7282, 
+            "city": "Coral Gables, FL, US", 
+            "lng": -80.271
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5fce80af-90c3-419b-97e6-55d0a1e98c2f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5fce80af-90c3-419b-97e6-55d0a1e98c2f.json"
+                        }, 
+                        {
+                            "mbid": "723644fe-d2b7-4b9c-a8e8-9ed7d5cdb476", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:723644fe-d2b7-4b9c-a8e8-9ed7d5cdb476.json"
+                        }
+                    ], 
+                    "displayName": "Mark Farina", 
+                    "uri": "http://www.songkick.com/artists/527589-mark-farina?utm_source=32233&utm_medium=partner", 
+                    "id": 527589
+                }, 
+                "displayName": "Mark Farina", 
+                "id": 54953949, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28253414
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Mark Farina", 
+        "area": {
+            "sort-name": "Italy", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "IT"
+            ], 
+            "name": "Italy", 
+            "id": "c6500277-9a3d-349b-bf30-41afdbf42add"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "sort-name": "Farina, Mark", 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/224077", 
+                    "id": "2724c699-f632-454b-a0bf-5c78874e07d5"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "IT", 
+        "tags": [], 
+        "type": "Person", 
+        "id": "5fce80af-90c3-419b-97e6-55d0a1e98c2f", 
+        "disambiguation": "Italian italodisco/eurobeat producer Mauro Farina"
+    }, 
+    "id": 28253414, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

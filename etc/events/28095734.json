@@ -1,0 +1,121 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000152, 
+        "displayName": "The All Star Band at S.O.B.'s (November 18, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "S.O.B.'s", 
+            "uri": "http://www.songkick.com/venues/48772-sobs?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7284492, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -74.0051241, 
+            "id": 48772
+        }, 
+        "uri": "http://www.songkick.com/concerts/28095734-all-star-band-at-sobs?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "datetime": "2016-11-18T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 40.7284492, 
+            "city": "Manhattan, NY, US", 
+            "lng": -74.0051241
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "The All Star Band", 
+                "id": 54681199, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7a830abe-24e7-467b-b336-96a6b171c28f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7a830abe-24e7-467b-b336-96a6b171c28f.json"
+                        }
+                    ], 
+                    "displayName": "The All Star Band", 
+                    "uri": "http://www.songkick.com/artists/203890-all-star-band?utm_source=32233&utm_medium=partner", 
+                    "id": 203890
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28095734
+    }, 
+    "bandsintown_response": {
+        "facebook_page_url": null, 
+        "upcoming_event_count": 0, 
+        "name": "The All Star Band", 
+        "tracker_count": 52, 
+        "mbid": "7a830abe-24e7-467b-b336-96a6b171c28f", 
+        "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+        "facebook_tour_dates_url": null, 
+        "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+    }, 
+    "musicbrainz_response": {
+        "name": "The All Star Band", 
+        "area": {
+            "sort-name": "Ethiopia", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "ET"
+            ], 
+            "id": "96699ab4-4bbf-332e-b037-b0119821f792", 
+            "name": "Ethiopia"
+        }, 
+        "country": "ET", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "isnis": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/540546", 
+                    "id": "45444bf4-7587-49f6-825b-a20572e38b49"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "All Star Band, The", 
+        "gender": null, 
+        "disambiguation": "Ethiopian band", 
+        "type": "Group", 
+        "id": "7a830abe-24e7-467b-b336-96a6b171c28f", 
+        "gender-id": null
+    }, 
+    "id": 28095734, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

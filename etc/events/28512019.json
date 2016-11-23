@@ -1,0 +1,79 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "All Ages!", 
+        "displayName": "Vial and Scully at All Star Lanes (November 18, 2016)", 
+        "popularity": 6e-05, 
+        "venue": {
+            "displayName": "All Star Lanes", 
+            "uri": "http://www.songkick.com/venues/86372-all-star-lanes?utm_source=32233&utm_medium=partner", 
+            "lat": 34.1255629, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2201972, 
+            "id": 86372
+        }, 
+        "uri": "http://www.songkick.com/concerts/28512019-vial-at-all-star-lanes?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-18T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 34.1255629, 
+            "city": "Eagle Rock, CA, US", 
+            "lng": -118.2201972
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Vial", 
+                "id": 55402934, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Vial", 
+                    "uri": "http://www.songkick.com/artists/5479338-vial?utm_source=32233&utm_medium=partner", 
+                    "id": 5479338
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Scully", 
+                "id": 55402939, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a15ba1c2-86ce-46dd-85be-5242ae2ddd81", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a15ba1c2-86ce-46dd-85be-5242ae2ddd81.json"
+                        }
+                    ], 
+                    "displayName": "Scully", 
+                    "uri": "http://www.songkick.com/artists/608714-scully?utm_source=32233&utm_medium=partner", 
+                    "id": 608714
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28512019
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Rate limit exceeded"
+        ]
+    }, 
+    "id": 28512019, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

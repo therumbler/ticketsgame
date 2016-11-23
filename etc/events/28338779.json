@@ -1,0 +1,443 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.00263, 
+        "displayName": "Useless ID at Redwood Bar & Grill (November 22, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Redwood Bar & Grill", 
+            "uri": "http://www.songkick.com/venues/35846-redwood-bar-and-grill?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0527977, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2472421, 
+            "id": 35846
+        }, 
+        "uri": "http://www.songkick.com/concerts/28338779-useless-id-at-redwood-bar-and-grill?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-22", 
+            "datetime": "2016-11-22T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 34.0527977, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2472421
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Useless ID", 
+                "id": 55103769, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3bb24e11-821a-4e4e-bd89-e0a2452474cf", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3bb24e11-821a-4e4e-bd89-e0a2452474cf.json"
+                        }
+                    ], 
+                    "displayName": "Useless ID", 
+                    "uri": "http://www.songkick.com/artists/250742-useless-id?utm_source=32233&utm_medium=partner", 
+                    "id": 250742
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28338779
+    }, 
+    "musicbrainz_response": {
+        "name": "Useless ID", 
+        "area": {
+            "sort-name": "Israel", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "IL"
+            ], 
+            "id": "03691455-bb46-37e3-91d2-cb064a35ffcc", 
+            "name": "Israel"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1995", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "haifa"
+            }, 
+            {
+                "count": 1, 
+                "name": "israel"
+            }, 
+            {
+                "count": 2, 
+                "name": "punk"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm1898054/", 
+                    "id": "7d45502e-6052-483a-a1f4-a230ee58310b"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/313004595", 
+                    "id": "428175db-c63e-4c5f-ba2b-4b07cb692e06"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000251161", 
+                    "id": "3f56fd17-129f-4b19-aae1-1c492b10ab53"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://uselessid.bandcamp.com/", 
+                    "id": "ac74e10b-447e-4c0c-a49f-0f54bbc702ec"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/253265", 
+                    "id": "ee892cc8-7a4c-4479-8231-95d99261a34f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/useless-id-lyrics", 
+                    "id": "70dce6f6-0b8b-44ef-9970-a607033f2824"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/wiki/Useless_ID", 
+                    "id": "e4a988cd-7473-4a57-98ad-47231b7931b5"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/uselessid", 
+                    "id": "2e775636-28aa-4e3f-bab7-68e52d7c28d3"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.uselessid.net/", 
+                    "id": "f0495067-48d4-45e5-9335-969015819ab3"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.worldcat.org/identities/lccn-n2002076758/", 
+                    "id": "6a43f216-2f44-4389-ba9b-bec8885eae9e"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/useless_id", 
+                    "id": "a707915d-3ce3-4c28-bd61-dad78d92790a"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.musik-sammler.de/artist/useless-id/", 
+                    "id": "c8a3520b-90d1-4d97-97ad-672c17c9be05"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://secondhandsongs.com/artist/41690", 
+                    "id": "12878bd2-1aee-4112-86a6-88a0f7a855a4"
+                }, 
+                "begin": null, 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.setlist.fm/setlists/useless-id-5bd7a348.html", 
+                    "id": "c09fe1d5-48c1-4220-a7b0-f3fb58cf32d9"
+                }, 
+                "direction": "forward", 
+                "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "setlistfm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/250742-useless-id", 
+                    "id": "e03bc028-2991-4dda-9ee5-fb45e6d78d23"
+                }, 
+                "begin": null, 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1472182", 
+                    "id": "72e648ec-7145-43ac-a1dd-8bc58f5ca298"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Useless_ID", 
+                    "id": "763e7c3a-5d89-473a-b9be-75845a9ca139"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Haifa", 
+            "disambiguation": "", 
+            "id": "4da37f20-218d-4406-8d29-7d30a32978bf", 
+            "name": "Haifa"
+        }, 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "Useless ID", 
+        "country": "IL", 
+        "type": "Group", 
+        "id": "3bb24e11-821a-4e4e-bd89-e0a2452474cf", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 11541, 
+    "bandsintown_response": {
+        "description": "Useless Id, Sic Waiting", 
+        "title": "Useless ID @ The Redwood Bar & Grill in Los Angeles, CA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Los Angeles", 
+            "name": "The Redwood Bar & Grill", 
+            "country": "United States", 
+            "region": "CA", 
+            "longitude": -118.2473416, 
+            "place": "The Redwood Bar & Grill", 
+            "latitude": 34.0527085
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13133903?app_id=ticketgame&artist=Useless+ID&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13133903/buy_tickets?app_id=ticketgame&artist=Useless+ID&came_from=67", 
+        "on_sale_datetime": "2016-10-14T19:25:01", 
+        "formatted_datetime": "Tuesday, November 22, 2016 at 8:00PM", 
+        "datetime": "2016-11-22T20:00:00", 
+        "formatted_location": "Los Angeles, CA", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fwww.ticketweb.com%2Ft3%2Fsale%2FSaleEventDetail%3Fdispatch%3DloadSelectionData%26eventId%3D6967895%26REFERRAL_ID%3Dtmfeed&subId1=67%7E16503939%7E24174201%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.uselessid.net/", 
+                "facebook_page_url": "https://www.facebook.com/pages/Useless-ID/40123148903", 
+                "name": "Useless ID", 
+                "url": "UselessId", 
+                "tracker_count": 9132, 
+                "mbid": "3bb24e11-821a-4e4e-bd89-e0a2452474cf", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6540263.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/UselessId/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6540263.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13133903
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 16.75, 
+        "price_min": 16.75
+    }, 
+    "modified_time": 1479442715.0, 
+    "created_time": 1478803663.0, 
+    "modified_minutes": 890, 
+    "id": 28338779
+}

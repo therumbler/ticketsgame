@@ -1,0 +1,304 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.003546, 
+        "displayName": "Eprom with ATL at The Basement East (December 15, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Basement East", 
+            "uri": "http://www.songkick.com/venues/3433549-basement-east?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7399878, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.346676, 
+            "id": 3433549
+        }, 
+        "uri": "http://www.songkick.com/concerts/28404544-eprom-at-basement-east?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-15", 
+            "datetime": "2016-12-15T21:00:00-0500", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 33.7399878, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.346676
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Eprom", 
+                "id": 55219409, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "afff372b-53cc-4ffb-a792-a072da56b5ad", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:afff372b-53cc-4ffb-a792-a072da56b5ad.json"
+                        }
+                    ], 
+                    "displayName": "Eprom", 
+                    "uri": "http://www.songkick.com/artists/945613-eprom?utm_source=32233&utm_medium=partner", 
+                    "id": 945613
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "ATL", 
+                "id": 55219414, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "92afc75c-02b6-4092-836e-79130e1005ac", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:92afc75c-02b6-4092-836e-79130e1005ac.json"
+                        }
+                    ], 
+                    "displayName": "ATL", 
+                    "uri": "http://www.songkick.com/artists/225086-atl?utm_source=32233&utm_medium=partner", 
+                    "id": 225086
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28404544
+    }, 
+    "musicbrainz_response": {
+        "name": "EPROM", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "twitter": "eprombeats", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "dubstep"
+            }, 
+            {
+                "count": 1, 
+                "name": "electronic"
+            }, 
+            {
+                "count": 1, 
+                "name": "glitch"
+            }, 
+            {
+                "count": 1, 
+                "name": "idm"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/afff372b-53cc-4ffb-a792-a072da56b5ad", 
+                    "id": "5ae61cf4-d1c5-4b1d-8085-9ee4c4a154a4"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://eprom.bandcamp.com/", 
+                    "id": "e66a55ff-2c8a-4bde-9293-80c7a77e764c"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/6822", 
+                    "id": "c7e4fb1c-6787-4a26-9573-a85b111dcd1a"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/eprommusic", 
+                    "id": "49482779-75bf-4d23-9aad-6cc7cdb18cc2"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://eprommusic.com/", 
+                    "id": "ab919866-6736-4124-9d62-509b1cf9f13c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/eprombeats", 
+                    "id": "26d9b3d6-5e7a-47be-abf9-03132b3bfee4"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/eprombeats", 
+                    "id": "4aa28a03-89b5-4295-9523-f69bbef9ffaf"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/eprom", 
+                    "id": "be0b46a6-c019-46ec-8912-0e10a853f238"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "EPROM", 
+        "type": "Person", 
+        "id": "afff372b-53cc-4ffb-a792-a072da56b5ad", 
+        "disambiguation": "electronic artist Sander Dennis"
+    }, 
+    "bandsintown_response": {
+        "description": "Post Future Presents:\u00a0\nEPROM + Sayer\nLimited Advance Tickets on sale now.\u00a0", 
+        "title": "EPROM @ The Basement in Atlanta, GA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Atlanta", 
+            "name": "The Basement", 
+            "country": "United States", 
+            "region": "GA", 
+            "longitude": -84.346653, 
+            "place": "The Basement", 
+            "latitude": 33.739965
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13192272?app_id=ticketgame&artist=EPROM&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13192272/buy_tickets?app_id=ticketgame&artist=EPROM&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Thursday, December 15, 2016 at 9:00PM", 
+        "datetime": "2016-12-15T21:00:00", 
+        "formatted_location": "Atlanta, GA", 
+        "ticket_redirect_url": "https://www.eventbrite.com/e/eprom-sayer-the-basement-atl-tickets-28668405974?aff=aff0bandsintown", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "EPROM", 
+                "url": "EPROM", 
+                "tracker_count": 17450, 
+                "mbid": "afff372b-53cc-4ffb-a792-a072da56b5ad", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5404479.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/EPROM/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5404479.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13192272
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.eventbrite.com/e/eprom-sayer-the-basement-atl-tickets-28668405974?aff=aff0bandsintown"
+    }, 
+    "modified_time": 1479442615.0, 
+    "created_minutes": 18230, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 3619, 
+    "id": 28404544
+}

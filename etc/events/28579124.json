@@ -1,0 +1,330 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Travis Scott at Story Nightclub (December 1, 2016)", 
+        "popularity": 0.083679, 
+        "venue": {
+            "displayName": "Story Nightclub", 
+            "uri": "http://www.songkick.com/venues/2095239-story-nightclub?utm_source=32233&utm_medium=partner", 
+            "lat": 25.770503, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "FL"
+                }, 
+                "displayName": "Miami", 
+                "uri": "http://www.songkick.com/metro_areas/9776-us-miami?utm_source=32233&utm_medium=partner", 
+                "id": 9776
+            }, 
+            "lng": -80.13421, 
+            "id": 2095239
+        }, 
+        "uri": "http://www.songkick.com/concerts/28579124-travis-scott-at-story-nightclub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-01", 
+            "time": "23:00:00", 
+            "datetime": "2016-12-01T23:00:00-0500"
+        }, 
+        "location": {
+            "lat": 25.770503, 
+            "city": "Miami Beach, FL, US", 
+            "lng": -80.13421
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Travis Scott", 
+                "id": 55520179, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e4a51f17-a57b-47b1-b37b-f552d0f8e9e6.json"
+                        }
+                    ], 
+                    "displayName": "Travis Scott", 
+                    "uri": "http://www.songkick.com/artists/6008144-travis-scott?utm_source=32233&utm_medium=partner", 
+                    "id": 6008144
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28579124
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Travis Scott", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1992-04-30", 
+            "end": null
+        }, 
+        "isnis": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002420638", 
+                    "id": "a157be23-39ab-49b2-9b38-387f7bd64fd8"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2742944", 
+                    "id": "cccaea3a-b07a-4515-89c7-5b6b026ce8dd"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Travis_Scott_2014_Feb.jpg", 
+                    "id": "53c546e6-b480-495e-b8b1-79baa4f1c021"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Travis%20Scott", 
+                    "id": "e57a416e-228f-4352-8ad1-18d02ea74c53"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://travisscott.com/", 
+                    "id": "ea90d32f-18d6-4fa4-a9ec-7ef8fe8fc47c"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/travi__scott", 
+                    "id": "6d9b3cba-f750-4d90-9e26-699ba9ea9d64"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/artist/id549236696", 
+                    "id": "81e73cdb-552e-4963-9dc1-2628b59dbda8"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/trvisXX", 
+                    "id": "f118390b-c8fb-4407-9702-91e295c491bb"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/trvisXX", 
+                    "id": "12934f83-425a-4d93-acfe-605c2a0f7020"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/travisscott-2", 
+                    "id": "aa6ebb36-d5d9-4680-8db7-a60944c72f94"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY", 
+                    "id": "717e0e70-55f4-4aff-bf3d-78925372bceb"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q13605596", 
+                    "id": "8155f3f0-3791-4368-b072-a25ca27df2a3"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Travis_Scott_(musician)", 
+                    "id": "59cffa95-510a-430f-aee2-a5f0c131bc92"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Scott, Travis", 
+        "begin_area": {
+            "sort-name": "Houston", 
+            "disambiguation": "", 
+            "name": "Houston", 
+            "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "id": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6", 
+        "tags": [], 
+        "type": "Person", 
+        "twitter": "trvisXX", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://wl.seetickets.us/event/Travis-Scott-w-Virgil-Abloh-Basel-Edition-STORY/338273?afflky=STORY"
+    }, 
+    "modified_time": 1479442181.0, 
+    "created_minutes": 4191, 
+    "created_time": 1479409372.0, 
+    "modified_minutes": 3644, 
+    "id": 28579124
+}

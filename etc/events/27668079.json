@@ -1,0 +1,183 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mandolin Orange with My Bubba at Old Town School of Folk Music (November 10, 2016)", 
+        "popularity": 0.004127, 
+        "venue": {
+            "displayName": "Old Town School of Folk Music", 
+            "uri": "http://www.songkick.com/venues/361-old-town-school-of-folk-music?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9642658, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6859085, 
+            "id": 361
+        }, 
+        "uri": "http://www.songkick.com/concerts/27668079-mandolin-orange-at-old-town-school-of-folk-music?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-10T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.9642658, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6859085
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4484644c-66be-4e2b-beaf-c5780e9c8e50", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4484644c-66be-4e2b-beaf-c5780e9c8e50.json"
+                        }
+                    ], 
+                    "displayName": "Mandolin Orange", 
+                    "uri": "http://www.songkick.com/artists/2589866-mandolin-orange?utm_source=32233&utm_medium=partner", 
+                    "id": 2589866
+                }, 
+                "displayName": "Mandolin Orange", 
+                "id": 53909364, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9dbbbf79-1032-4f8b-aec0-cdb072bdcbef", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9dbbbf79-1032-4f8b-aec0-cdb072bdcbef.json"
+                        }
+                    ], 
+                    "displayName": "My Bubba", 
+                    "uri": "http://www.songkick.com/artists/4277416-my-bubba?utm_source=32233&utm_medium=partner", 
+                    "id": 4277416
+                }, 
+                "displayName": "My Bubba", 
+                "id": 54180844, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27668079
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Mandolin Orange", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "twitter": "Mandolin_Orange", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/mandolinorange", 
+                    "id": "da6aa33e-4a98-4857-86bc-cd6b8a1e32a9"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.mandolinorange.com/", 
+                    "id": "3b6784c7-e755-4eac-9a6c-56a6286cb820"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/Mandolin_Orange", 
+                    "id": "6853f717-7879-41b9-a7dc-3e1846e09829"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/MandolinOrange", 
+                    "id": "9ad2e094-0056-4623-a9cf-58df9e69942e"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Mandolin Orange", 
+        "country": "US", 
+        "id": "4484644c-66be-4e2b-beaf-c5780e9c8e50", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 27668079, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

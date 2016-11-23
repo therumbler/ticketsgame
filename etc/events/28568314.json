@@ -1,0 +1,134 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000391, 
+        "displayName": "The Nth Power at Star Theater (January 27, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Star Theater", 
+            "uri": "http://www.songkick.com/venues/1293351-star-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 45.52335, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6765882, 
+            "id": 1293351
+        }, 
+        "uri": "http://www.songkick.com/concerts/28568314-nth-power-at-star-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-27", 
+            "datetime": "2017-01-27T21:30:00-0800", 
+            "time": "21:30:00"
+        }, 
+        "location": {
+            "lat": 45.52335, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6765882
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "914d0348-727f-4c35-8f16-8328b164c1ae", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:914d0348-727f-4c35-8f16-8328b164c1ae.json"
+                        }
+                    ], 
+                    "displayName": "The Nth Power", 
+                    "uri": "http://www.songkick.com/artists/6654404-nth-power?utm_source=32233&utm_medium=partner", 
+                    "id": 6654404
+                }, 
+                "displayName": "The Nth Power", 
+                "id": 55500254, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28568314
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Nth Power", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2012", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thenthpowermusic.com/", 
+                    "id": "88ed1437-c0db-4ca2-bc66-c0c703cb3e63"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "The Nth Power", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/TheNthPower", 
+                    "id": "08546910-f464-48a4-8a7f-b68e9c89d3ad"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Power, Nth", 
+        "begin_area": {
+            "sort-name": "New Orleans", 
+            "disambiguation": "", 
+            "name": "New Orleans", 
+            "id": "3c5a0506-d852-4e96-8d1e-d8126328f3be"
+        }, 
+        "gender-id": null, 
+        "isnis": [], 
+        "country": null, 
+        "type": "Group", 
+        "id": "914d0348-727f-4c35-8f16-8328b164c1ae", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=7026705&REFERRAL_ID=tmfeed"
+    }, 
+    "modified_time": 1479442207.0, 
+    "created_minutes": 5917, 
+    "created_time": 1479305717.0, 
+    "modified_minutes": 3642, 
+    "id": 28568314
+}

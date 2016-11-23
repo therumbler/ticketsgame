@@ -1,0 +1,155 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Merchandise at Walter's Downtown (December 16, 2016)", 
+        "popularity": 0.004853, 
+        "venue": {
+            "displayName": "Walter's Downtown", 
+            "uri": "http://www.songkick.com/venues/1561198-walters-downtown?utm_source=32233&utm_medium=partner", 
+            "lat": 29.7698171, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.3574509, 
+            "id": 1561198
+        }, 
+        "uri": "http://www.songkick.com/concerts/27621499-merchandise-at-walters-downtown?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-16", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 29.7698171, 
+            "city": "Houston, TX, US", 
+            "lng": -95.3574509
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "44c26f0c-7f46-4cf0-9673-f7aa1bec1e5b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:44c26f0c-7f46-4cf0-9673-f7aa1bec1e5b.json"
+                        }
+                    ], 
+                    "displayName": "Merchandise", 
+                    "uri": "http://www.songkick.com/artists/996369-merchandise?utm_source=32233&utm_medium=partner", 
+                    "id": 996369
+                }, 
+                "displayName": "Merchandise", 
+                "id": 53822454, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27621499
+    }, 
+    "musicbrainz_response": {
+        "name": "Merchandise", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1735627", 
+                    "id": "1f55533d-49b4-403e-9c18-a53f3b86cdc5"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://merchandisetheband.wordpress.com/", 
+                    "id": "f233a6ea-93a8-44d1-a5e8-9d7ab60859a7"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/wmerchandise", 
+                    "id": "278201e4-8b12-4531-bbd8-b1714dc80dab"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "Merchandise", 
+        "type": "Group", 
+        "id": "44c26f0c-7f46-4cf0-9673-f7aa1bec1e5b", 
+        "disambiguation": "US Indie"
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Unknown", 
+        "price_max": 12.0, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?u=291182&b=234786&m=27601&urllink=www.ticketfly.com/purchase/event/1259305/tfly?utm_medium=api&afftrack=e27621499", 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442008.0, 
+    "created_minutes": 18155, 
+    "created_time": 1478566013.0, 
+    "modified_minutes": 3555, 
+    "id": 27621499
+}

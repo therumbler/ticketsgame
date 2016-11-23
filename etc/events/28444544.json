@@ -1,0 +1,141 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Jamie Meyer at Belcourt Taps (November 8, 2016)", 
+        "popularity": 5.2e-05, 
+        "venue": {
+            "displayName": "Belcourt Taps", 
+            "uri": "http://www.songkick.com/venues/3331434-belcourt-taps?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1365823, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.8023972, 
+            "id": 3331434
+        }, 
+        "uri": "http://www.songkick.com/concerts/28444544-jamie-meyer-at-belcourt-taps?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-08", 
+            "time": "18:00:00", 
+            "datetime": "2016-11-08T18:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.1365823, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.8023972
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3f53318e-4faf-4671-b9d7-58ca2ec737f2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3f53318e-4faf-4671-b9d7-58ca2ec737f2.json"
+                        }, 
+                        {
+                            "mbid": "166eeb2d-4487-4a24-9384-a5e9f730d0ed", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:166eeb2d-4487-4a24-9384-a5e9f730d0ed.json"
+                        }
+                    ], 
+                    "displayName": "Jamie Meyer", 
+                    "uri": "http://www.songkick.com/artists/713351-jamie-meyer?utm_source=32233&utm_medium=partner", 
+                    "id": 713351
+                }, 
+                "displayName": "Jamie Meyer", 
+                "id": 55286644, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28444544
+    }, 
+    "bandsintown_response": {
+        "facebook_page_url": null, 
+        "upcoming_event_count": 0, 
+        "name": "Jamie Meyer", 
+        "tracker_count": 106, 
+        "mbid": "3f53318e-4faf-4671-b9d7-58ca2ec737f2", 
+        "image_url": "https://s3.amazonaws.com/bit-photos/large/2364759.jpeg", 
+        "facebook_tour_dates_url": null, 
+        "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/2364759.jpeg"
+    }, 
+    "musicbrainz_response": {
+        "name": "Jamie Meyer", 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "name": "Canada", 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/754219", 
+                    "id": "e02f4a8f-e54b-4fc2-94c9-7c927fedc4cd"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.metal-archives.com/artists/Jamie_Meyer/50310", 
+                    "id": "f4025639-ef69-4140-bd93-0a168e38ce1a"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Meyer, Jamie", 
+        "country": "CA", 
+        "type": "Person", 
+        "id": "3f53318e-4faf-4671-b9d7-58ca2ec737f2", 
+        "disambiguation": "Engineer & piano/keyboard player"
+    }, 
+    "id": 28444544, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

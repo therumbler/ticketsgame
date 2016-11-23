@@ -1,0 +1,205 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 2.1e-05, 
+        "displayName": "Bryce Jardine, David Newberry, and Chelsea Reed at Holy Oak Cafe (November 27, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Holy Oak Cafe", 
+            "uri": "http://www.songkick.com/venues/986786-holy-oak-cafe?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6585874, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.4411389, 
+            "id": 986786
+        }, 
+        "uri": "http://www.songkick.com/concerts/28495354-bryce-jardine-at-holy-oak-cafe?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-27", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-27T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 43.6585874, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.4411389
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Bryce Jardine", 
+                "id": 55373829, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Bryce Jardine", 
+                    "uri": "http://www.songkick.com/artists/5218508-bryce-jardine?utm_source=32233&utm_medium=partner", 
+                    "id": 5218508
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "David Newberry", 
+                "id": 55373834, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "82bf95b1-0de3-4265-ac0a-5a2490b075b9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:82bf95b1-0de3-4265-ac0a-5a2490b075b9.json"
+                        }
+                    ], 
+                    "displayName": "David Newberry", 
+                    "uri": "http://www.songkick.com/artists/664339-david-newberry?utm_source=32233&utm_medium=partner", 
+                    "id": 664339
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Chelsea Reed", 
+                "id": 55373839, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Chelsea Reed", 
+                    "uri": "http://www.songkick.com/artists/6644344-chelsea-reed?utm_source=32233&utm_medium=partner", 
+                    "id": 6644344
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28495354
+    }, 
+    "bandsintown_response": [], 
+    "musicbrainz_response": {
+        "name": "Bryce Jardine", 
+        "area": {
+            "sort-name": "Toronto", 
+            "disambiguation": "", 
+            "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77", 
+            "name": "Toronto"
+        }, 
+        "gender": "Male", 
+        "twitter": "BryceJardine", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "bryce"
+            }, 
+            {
+                "count": 1, 
+                "name": "folk"
+            }, 
+            {
+                "count": 1, 
+                "name": "jardine"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "toronto"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://brycejardine.bandcamp.com/", 
+                    "id": "c5234664-3bc3-49bb-8a02-4e4132d83e5d"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/ca/artist/id530916509", 
+                    "id": "59446481-d055-4094-9136-6c205fcb184d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/BryceJardine", 
+                    "id": "28aeca15-5f0c-46dc-8745-451e046c5c23"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/brycejardinemusic", 
+                    "id": "f1ea91cf-59e1-4882-9876-9531aefbdf2e"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Jardine, Bryce", 
+        "country": null, 
+        "id": "16ddf743-1bd4-4663-8257-6817ac2a1f98", 
+        "disambiguation": "", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28495354, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

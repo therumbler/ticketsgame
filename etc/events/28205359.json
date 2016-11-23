@@ -1,0 +1,128 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "21+", 
+        "displayName": "Coastlands with Eclisse at Doug Fir Lounge (January 4, 2017)", 
+        "popularity": 5e-05, 
+        "venue": {
+            "displayName": "Doug Fir Lounge", 
+            "uri": "http://www.songkick.com/venues/11585-doug-fir-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5229238, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6587133, 
+            "id": 11585
+        }, 
+        "uri": "http://www.songkick.com/concerts/28205359-coastlands-at-doug-fir-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-04", 
+            "time": "19:30:00", 
+            "datetime": "2017-01-04T19:30:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5229238, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6587133
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a14746b6-a91e-4e45-abfd-d1f6d71b97c1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a14746b6-a91e-4e45-abfd-d1f6d71b97c1.json"
+                        }
+                    ], 
+                    "displayName": "Coastlands", 
+                    "uri": "http://www.songkick.com/artists/5333108-coastlands?utm_source=32233&utm_medium=partner", 
+                    "id": 5333108
+                }, 
+                "displayName": "Coastlands", 
+                "id": 54874749, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Eclisse", 
+                    "uri": "http://www.songkick.com/artists/8812074-eclisse?utm_source=32233&utm_medium=partner", 
+                    "id": 8812074
+                }, 
+                "displayName": "Eclisse", 
+                "id": 54874754, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28205359
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Coastlands", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "sort-name": "Coastlands", 
+        "gender": null, 
+        "disambiguation": "Instrumental Rock from Portland, Oregon", 
+        "area": {
+            "sort-name": "Portland", 
+            "disambiguation": "", 
+            "name": "Portland", 
+            "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://coastlands.bandcamp.com/", 
+                    "id": "3c9a3579-17bb-4fd7-9c7c-6b2185f71f17"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Portland", 
+            "disambiguation": "", 
+            "name": "Portland", 
+            "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557"
+        }, 
+        "gender-id": null, 
+        "country": null, 
+        "type": "Group", 
+        "id": "a14746b6-a91e-4e45-abfd-d1f6d71b97c1", 
+        "tags": []
+    }, 
+    "id": 28205359, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

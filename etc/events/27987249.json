@@ -1,0 +1,200 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Tribal Theory with Dirty Rice at Majestic Ventura Theater (November 12, 2016)", 
+        "popularity": 0.000895, 
+        "venue": {
+            "displayName": "Majestic Ventura Theater", 
+            "uri": "http://www.songkick.com/venues/13452-majestic-ventura-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 34.2804444, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -119.2914354, 
+            "id": 13452
+        }, 
+        "uri": "http://www.songkick.com/concerts/27987249-tribal-theory-at-majestic-ventura-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-12T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 34.2804444, 
+            "city": "Ventura, CA, US", 
+            "lng": -119.2914354
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "059a5add-fb35-4137-8d5e-1a331a57ce38", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:059a5add-fb35-4137-8d5e-1a331a57ce38.json"
+                        }
+                    ], 
+                    "displayName": "Tribal Theory", 
+                    "uri": "http://www.songkick.com/artists/955412-tribal-theory?utm_source=32233&utm_medium=partner", 
+                    "id": 955412
+                }, 
+                "displayName": "Tribal Theory", 
+                "id": 54492079, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "578bb4f0-dcdd-4d04-b2b7-e0535149b8b2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:578bb4f0-dcdd-4d04-b2b7-e0535149b8b2.json"
+                        }
+                    ], 
+                    "displayName": "Dirty Rice", 
+                    "uri": "http://www.songkick.com/artists/409355-dirty-rice?utm_source=32233&utm_medium=partner", 
+                    "id": 409355
+                }, 
+                "displayName": "Dirty Rice", 
+                "id": 54492084, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27987249
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Tribal Theory", 
+        "tags": [], 
+        "gender": null, 
+        "twitter": "tribaltheory", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/tribaltheory", 
+                    "id": "486b633d-e2b4-492d-a919-01c4df142a65"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://tribaltheorymusic.com/", 
+                    "id": "33637920-2404-480f-a1b6-b3ebcf4cc8b7"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/tribaltheory", 
+                    "id": "c4d7624a-eba6-4c41-a25d-7ec5a0b85e98"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/TribalTheoryMusic", 
+                    "id": "e74c88ab-4572-48ac-8897-6681bbe53d04"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/tribaltheory619", 
+                    "id": "8ae906f7-374b-4fe7-bb59-90b8269c235f"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Tribal Theory", 
+        "country": "US", 
+        "id": "059a5add-fb35-4137-8d5e-1a331a57ce38", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2005", 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 27987249, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

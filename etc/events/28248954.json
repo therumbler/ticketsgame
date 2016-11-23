@@ -1,0 +1,152 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Men and Whales and Dreambeaches at Arlene's Grocery (November 12, 2016)", 
+        "popularity": 1.2e-05, 
+        "venue": {
+            "displayName": "Arlene's Grocery", 
+            "uri": "http://www.songkick.com/venues/29191-arlenes-grocery?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7212926, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9883709, 
+            "id": 29191
+        }, 
+        "uri": "http://www.songkick.com/concerts/28248954-men-and-whales-at-arlenes-grocery?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-12T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7212926, 
+            "city": "Manhattan, NY, US", 
+            "lng": -73.9883709
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d0ffcbcb-9de7-4140-98bb-83febd318eeb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d0ffcbcb-9de7-4140-98bb-83febd318eeb.json"
+                        }
+                    ], 
+                    "displayName": "Men and Whales", 
+                    "uri": "http://www.songkick.com/artists/2503191-men-and-whales?utm_source=32233&utm_medium=partner", 
+                    "id": 2503191
+                }, 
+                "displayName": "Men and Whales", 
+                "id": 54946969, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Dreambeaches", 
+                    "uri": "http://www.songkick.com/artists/8545824-dreambeaches?utm_source=32233&utm_medium=partner", 
+                    "id": 8545824
+                }, 
+                "displayName": "Dreambeaches", 
+                "id": 55105709, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28248954
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Men and Whales", 
+        "tags": [], 
+        "country": null, 
+        "disambiguation": "", 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/menandwhales", 
+                    "id": "6f7e07f1-01ff-4d63-b781-015011d8bfa5"
+                }, 
+                "direction": "forward", 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://menandwhales.com/", 
+                    "id": "fa5b936b-9aa8-4a03-9b10-2d4772de4e02"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/menandwhales", 
+                    "id": "ae62a061-7408-4a8f-972a-ebc7d02df35c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Men and Whales", 
+        "gender": null, 
+        "id": "d0ffcbcb-9de7-4140-98bb-83febd318eeb", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2007-01-31", 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28248954, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

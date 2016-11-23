@@ -1,0 +1,129 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Neal Morse Band at Curtain Club (January 25, 2017)", 
+        "popularity": 9.5e-05, 
+        "venue": {
+            "displayName": "Curtain Club", 
+            "uri": "http://www.songkick.com/venues/35191-curtain-club?utm_source=32233&utm_medium=partner", 
+            "lat": 32.783721, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.7831999, 
+            "id": 35191
+        }, 
+        "uri": "http://www.songkick.com/concerts/28035139-neal-morse-band-at-curtain-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-25", 
+            "time": "20:00:00", 
+            "datetime": "2017-01-25T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.783721, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.7831999
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "38c69101-243a-474b-851a-b82e0a35b173", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:38c69101-243a-474b-851a-b82e0a35b173.json"
+                        }
+                    ], 
+                    "displayName": "Neal Morse Band", 
+                    "uri": "http://www.songkick.com/artists/4048561-neal-morse-band?utm_source=32233&utm_medium=partner", 
+                    "id": 4048561
+                }, 
+                "displayName": "Neal Morse Band", 
+                "id": 54575479, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28035139
+    }, 
+    "musicbrainz_response": {
+        "name": "The Neal Morse Band", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2014-12-04", 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.nealmorse.com/", 
+                    "id": "61607cc2-7694-4182-acd4-2584b3972f6e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.radiantrecords.com/products/547-the-neal-morse-band-the-grand-experiment.aspx", 
+                    "id": "5e505800-68e7-4a75-bd0e-aa18ba7361e2"
+                }, 
+                "begin": null, 
+                "type-id": "611b1862-67af-4253-a64f-34adba305d1d", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for mail-order", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Morse, Neal, The, Band", 
+        "country": null, 
+        "disambiguation": "", 
+        "type": "Group", 
+        "id": "38c69101-243a-474b-851a-b82e0a35b173", 
+        "gender-id": null
+    }, 
+    "age_minutes": 15473, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 55.0, 
+        "price_min": 35.0
+    }, 
+    "modified_time": 1479442325.0, 
+    "created_time": 1478565997.0, 
+    "modified_minutes": 867, 
+    "id": 28035139
+}

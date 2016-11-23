@@ -1,0 +1,312 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.006624, 
+        "displayName": "Sebastian Bach at Howard Theatre (November 27, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Howard Theatre", 
+            "uri": "http://www.songkick.com/venues/74872-howard-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 38.915271, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.021098, 
+            "id": 74872
+        }, 
+        "uri": "http://www.songkick.com/concerts/28311534-sebastian-bach-at-howard-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-27", 
+            "datetime": "2016-11-27T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 38.915271, 
+            "city": "Washington, DC, US", 
+            "lng": -77.021098
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Sebastian Bach", 
+                "id": 55055539, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "50f10489-c87e-4df3-800f-be1f8d6bda4b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:50f10489-c87e-4df3-800f-be1f8d6bda4b.json"
+                        }
+                    ], 
+                    "displayName": "Sebastian Bach", 
+                    "uri": "http://www.songkick.com/artists/2652391-sebastian-bach?utm_source=32233&utm_medium=partner", 
+                    "id": 2652391
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28311534
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Sebastian Bach", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1968-04-03", 
+            "end": null
+        }, 
+        "tags": [], 
+        "gender": "Male", 
+        "twitter": "sebastianbach", 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+            "name": "Canada"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0045355/", 
+                    "id": "02fe9645-c662-4bd2-a8a0-2a21c41ab6c1"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000317029", 
+                    "id": "033efe40-6fc7-4b1f-808a-a912cdd77f08"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/497926", 
+                    "id": "74ec0079-84a7-420b-a118-a7670c0f22c5"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Sebastion_Bach_2012.jpg", 
+                    "id": "7a874921-a9f0-478e-bcbb-8f9303185403"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/sebastian-bach-lyrics", 
+                    "id": "06d6ee26-ecc8-4eae-9482-81c52aaa7048"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.sebastianbach.com/", 
+                    "id": "a358b8bb-af61-4b1e-bd35-4b2d61977d7e"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://musicmoz.org/Bands_and_Artists/S/Skid_Row/Members/Bach,_Sebastian/", 
+                    "id": "f01bf92d-419d-438b-9df1-710893a1844a"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/sebastianbach", 
+                    "id": "7c022008-ddcf-4709-adb9-bbcf4437b3e9"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q363490", 
+                    "id": "5b9685cf-c35e-4bd5-8e87-398bb97276d8"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Sebastian_Bach", 
+                    "id": "3a9592b8-16cd-4617-88a1-85676d8bf90c"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "City of Freeport", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "BS-FP"
+            ], 
+            "id": "04aa1ea6-78bd-42e3-b6be-7c59dd26f7ab", 
+            "name": "City of Freeport"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "CA", 
+        "sort-name": "Bach, Sebastian", 
+        "type": "Person", 
+        "id": "50f10489-c87e-4df3-800f-be1f8d6bda4b", 
+        "disambiguation": "Canadian metal singer"
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Sebastian Bach @ The Howard Theatre in Washington, DC", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Washington", 
+            "name": "The Howard Theatre", 
+            "country": "United States", 
+            "region": "DC", 
+            "longitude": -77.021088, 
+            "place": "The Howard Theatre", 
+            "latitude": 38.915562
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13110203?app_id=ticketgame&artist=Sebastian+Bach&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13110203/buy_tickets?app_id=ticketgame&artist=Sebastian+Bach&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Sunday, November 27, 2016 at 7:00PM", 
+        "datetime": "2016-11-27T19:00:00", 
+        "formatted_location": "Washington, DC", 
+        "ticket_redirect_url": "http://thehowardtheatre.com/show/2016/11/27/sebastian-bach/", 
+        "artists": [
+            {
+                "website": "http://www.sebastianbach.com", 
+                "facebook_page_url": "https://www.facebook.com/sebastianbach", 
+                "name": "Sebastian Bach", 
+                "url": "SebastianBach", 
+                "tracker_count": 125692, 
+                "mbid": "50f10489-c87e-4df3-800f-be1f8d6bda4b", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/7084921.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/SebastianBach/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/7084921.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13110203
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://thehowardtheatre.com/show/2016/11/27/sebastian-bach/"
+    }, 
+    "modified_time": 1479442900.0, 
+    "created_minutes": 18202, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 3589, 
+    "id": 28311534
+}

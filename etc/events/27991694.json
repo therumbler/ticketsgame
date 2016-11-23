@@ -1,0 +1,171 @@
+{
+    "songkick_response": {
+        "status": "cancelled", 
+        "ageRestriction": "All Ages", 
+        "displayName": "Larry McCray at Biscuits and Blues (November 19, 2016) (CANCELLED) ", 
+        "popularity": 0.000831, 
+        "venue": {
+            "displayName": "Biscuits and Blues", 
+            "uri": "http://www.songkick.com/venues/11497-biscuits-and-blues?utm_source=32233&utm_medium=partner", 
+            "lat": 37.7873533, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.4100572, 
+            "id": 11497
+        }, 
+        "uri": "http://www.songkick.com/concerts/27991694-larry-mccray-at-biscuits-and-blues?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "time": "17:00:00", 
+            "datetime": "2016-11-19T17:00:00-0800"
+        }, 
+        "location": {
+            "lat": 37.7873533, 
+            "city": "San Francisco, CA, US", 
+            "lng": -122.4100572
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "09c635be-c8e8-4f89-94bf-05c66b8144a1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:09c635be-c8e8-4f89-94bf-05c66b8144a1.json"
+                        }
+                    ], 
+                    "displayName": "Larry McCray", 
+                    "uri": "http://www.songkick.com/artists/83165-larry-mccray?utm_source=32233&utm_medium=partner", 
+                    "id": 83165
+                }, 
+                "displayName": "Larry McCray", 
+                "id": 54500144, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27991694
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Location"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "Larry McCray", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1960-04-05", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "blues"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/55864366", 
+                    "id": "90c8fe84-5b1e-447b-841d-44c8240107a7"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/946064", 
+                    "id": "a082b376-420d-4c6e-aea9-56d4bf02dcd6"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q3218080", 
+                    "id": "9766d9bc-5f1e-4eed-9188-0ee0f521db17"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Larry_McCray", 
+                    "id": "f6f311ee-bec9-476f-90ae-6964f1ac4c03"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "McCray, Larry", 
+        "country": "US", 
+        "id": "09c635be-c8e8-4f89-94bf-05c66b8144a1", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 27991694, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

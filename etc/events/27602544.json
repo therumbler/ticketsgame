@@ -1,0 +1,73 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "David Young (US) with David Young Presents at Unknown venue (December 18, 2016)", 
+        "popularity": 1e-06, 
+        "venue": {
+            "displayName": "Unknown venue", 
+            "uri": null, 
+            "lat": 30.267153, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7430608, 
+            "id": null
+        }, 
+        "uri": "http://www.songkick.com/concerts/27602544-david-young-us-at-unknown-venue?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-18", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-18T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 30.267153, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7430608
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "David Young (US)", 
+                    "uri": "http://www.songkick.com/artists/8294878-david-young-us?utm_source=32233&utm_medium=partner", 
+                    "id": 8294878
+                }, 
+                "displayName": "David Young (US)", 
+                "id": 53786429, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "David Young Presents", 
+                    "uri": "http://www.songkick.com/artists/8294883-david-young-presents?utm_source=32233&utm_medium=partner", 
+                    "id": 8294883
+                }, 
+                "displayName": "David Young Presents", 
+                "id": 53786589, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27602544
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "id": 27602544, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

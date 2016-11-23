@@ -1,0 +1,135 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Matisyahu at The Morris & Rae Frank Theatre (January 9, 2017)", 
+        "popularity": 0.119512, 
+        "venue": {
+            "displayName": "The Morris & Rae Frank Theatre", 
+            "uri": "http://www.songkick.com/venues/2432444-morris-and-rae-frank-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": null, 
+            "id": 2432444
+        }, 
+        "uri": "http://www.songkick.com/concerts/27443399-matisyahu-at-morris-and-rae-frank-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-09", 
+            "time": "20:00:00", 
+            "datetime": "2017-01-09T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": null, 
+            "city": "Dunwoody, GA, US", 
+            "lng": null
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "af5d0a4c-1372-4bac-b353-f0c31757ed0a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:af5d0a4c-1372-4bac-b353-f0c31757ed0a.json"
+                        }, 
+                        {
+                            "mbid": "e8993e9d-9313-4447-ad23-791459a3790d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e8993e9d-9313-4447-ad23-791459a3790d.json"
+                        }
+                    ], 
+                    "displayName": "Matisyahu", 
+                    "uri": "http://www.songkick.com/artists/386320-matisyahu?utm_source=32233&utm_medium=partner", 
+                    "id": 386320
+                }, 
+                "displayName": "Matisyahu", 
+                "id": 53502804, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27443399
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Matis", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1960", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "France", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "FR"
+            ], 
+            "name": "France", 
+            "id": "08310658-51eb-3801-80de-5a0739207115"
+        }, 
+        "gender": "Female", 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.matis.free.fr/", 
+                    "id": "31e3ba27-d805-4549-ab63-81356eb551b9"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q3571718", 
+                    "id": "00a0f807-bcab-4861-9c38-4b5b883fc42a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "country": "FR", 
+        "sort-name": "Matis", 
+        "type": "Person", 
+        "id": "af5d0a4c-1372-4bac-b353-f0c31757ed0a"
+    }, 
+    "id": 27443399, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

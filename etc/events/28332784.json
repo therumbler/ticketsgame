@@ -1,0 +1,136 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Woodshedders with By and By and Janet Emma at Gypsy Sally's (December 23, 2016)", 
+        "popularity": 6.9e-05, 
+        "venue": {
+            "displayName": "Gypsy Sally's", 
+            "uri": "http://www.songkick.com/venues/2402744-gypsy-sallys?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9025936, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0627545, 
+            "id": 2402744
+        }, 
+        "uri": "http://www.songkick.com/concerts/28332784-woodshedders-at-gypsy-sallys?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-23", 
+            "datetime": "2016-12-23T20:30:00-0500", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 38.9025936, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0627545
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4ad400cc-9b03-4908-bf79-978d9ca4a04b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4ad400cc-9b03-4908-bf79-978d9ca4a04b.json"
+                        }
+                    ], 
+                    "displayName": "The Woodshedders", 
+                    "uri": "http://www.songkick.com/artists/1903845-woodshedders?utm_source=32233&utm_medium=partner", 
+                    "id": 1903845
+                }, 
+                "displayName": "The Woodshedders", 
+                "id": 55092999, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "By and By", 
+                    "uri": "http://www.songkick.com/artists/6112519-by-and-by?utm_source=32233&utm_medium=partner", 
+                    "id": 6112519
+                }, 
+                "displayName": "By and By", 
+                "id": 55093004, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Janet Emma", 
+                    "uri": "http://www.songkick.com/artists/4873558-janet-emma?utm_source=32233&utm_medium=partner", 
+                    "id": 4873558
+                }, 
+                "displayName": "Janet Emma", 
+                "id": 55093009, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28332784
+    }, 
+    "musicbrainz_response": {
+        "name": "The Woodshedders", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.thewoodshedders.com/", 
+                    "id": "a60c6066-e733-4aba-a69c-3fbd57fa92f3"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Woodshedders, The", 
+        "type": "Group", 
+        "id": "4ad400cc-9b03-4908-bf79-978d9ca4a04b", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15500, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442717.0, 
+    "created_time": 1478566099.0, 
+    "modified_minutes": 890, 
+    "id": 28332784
+}

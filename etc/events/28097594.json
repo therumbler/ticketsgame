@@ -1,0 +1,185 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Handsome Ghost with Yoke Lore at World Cafe Live \u2013 Upstairs (December 6, 2016)", 
+        "popularity": 0.005168, 
+        "venue": {
+            "displayName": "World Cafe Live \u2013 Upstairs", 
+            "uri": "http://www.songkick.com/venues/855146-world-cafe-live-upstairs?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9522059, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.185114, 
+            "id": 855146
+        }, 
+        "uri": "http://www.songkick.com/concerts/28097594-handsome-ghost-at-world-cafe-live-upstairs?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-06", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-06T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9522059, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.185114
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c8c35216-9744-4fe8-810e-7f266926d45c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c8c35216-9744-4fe8-810e-7f266926d45c.json"
+                        }
+                    ], 
+                    "displayName": "Handsome Ghost", 
+                    "uri": "http://www.songkick.com/artists/7482889-handsome-ghost?utm_source=32233&utm_medium=partner", 
+                    "id": 7482889
+                }, 
+                "displayName": "Handsome Ghost", 
+                "id": 54685154, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "80a37f31-402b-4dfe-9181-2e7dd8f40143", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:80a37f31-402b-4dfe-9181-2e7dd8f40143.json"
+                        }
+                    ], 
+                    "displayName": "Yoke Lore", 
+                    "uri": "http://www.songkick.com/artists/8807274-yoke-lore?utm_source=32233&utm_medium=partner", 
+                    "id": 8807274
+                }, 
+                "displayName": "Yoke Lore", 
+                "id": 55125179, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28097594
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Handsome Ghost", 
+        "area": {
+            "sort-name": "Boston", 
+            "disambiguation": "", 
+            "name": "Boston", 
+            "id": "e331bfdf-b908-429c-a79b-710cf9c06abb"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://schedule.sxsw.com/2015/2015/events/event_MS32073", 
+                    "id": "b13b3a7d-166c-466d-9d92-505877098723"
+                }, 
+                "begin": null, 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.handsomestghost.com/", 
+                    "id": "e65cc759-c1e8-4778-b04f-5044e2639e65"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/handsomestghost", 
+                    "id": "b9a0324b-c424-44ef-a3e3-cd50b2f2a687"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/handsomestghost", 
+                    "id": "3977e958-5580-4656-8738-cc064693ba26"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Handsome Ghost", 
+        "gender": null, 
+        "type": null, 
+        "id": "c8c35216-9744-4fe8-810e-7f266926d45c", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15477, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 12.0, 
+        "price_min": 12.0
+    }, 
+    "modified_time": 1479442453.0, 
+    "created_time": 1478566061.0, 
+    "modified_minutes": 870, 
+    "id": 28097594
+}

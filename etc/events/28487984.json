@@ -1,0 +1,148 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Chain and the Gang with The Pistolettes at Texas Theatre (December 31, 2016)", 
+        "popularity": 0.002782, 
+        "venue": {
+            "displayName": "Texas Theatre", 
+            "uri": "http://www.songkick.com/venues/1356161-texas-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 32.74355, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.825836, 
+            "id": 1356161
+        }, 
+        "uri": "http://www.songkick.com/concerts/28487984-chain-and-the-gang-at-texas-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-31", 
+            "datetime": "2016-12-31T20:00:00-0600", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 32.74355, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.825836
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c748666d-f105-47f6-a5e6-04eb80ab4845", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c748666d-f105-47f6-a5e6-04eb80ab4845.json"
+                        }
+                    ], 
+                    "displayName": "Chain and the Gang", 
+                    "uri": "http://www.songkick.com/artists/2393230-chain-and-the-gang?utm_source=32233&utm_medium=partner", 
+                    "id": 2393230
+                }, 
+                "displayName": "Chain and the Gang", 
+                "id": 55361009, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Pistolettes", 
+                    "uri": "http://www.songkick.com/artists/8382388-pistolettes?utm_source=32233&utm_medium=partner", 
+                    "id": 8382388
+                }, 
+                "displayName": "The Pistolettes", 
+                "id": 55361014, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28487984
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Chain and The Gang", 
+        "tags": [], 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1447437", 
+                    "id": "1b215056-0861-44a4-9e4e-28bb80d6f452"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/chainandthegang", 
+                    "id": "67f0b5c4-fa33-4461-9455-b0255417b4bd"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Chain and The Gang", 
+        "type": "Group", 
+        "id": "c748666d-f105-47f6-a5e6-04eb80ab4845", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.prekindle.com/promo/id/24796391415165280"
+    }, 
+    "modified_time": 1479442389.0, 
+    "created_minutes": 18238, 
+    "created_time": 1478565997.0, 
+    "modified_minutes": 3632, 
+    "id": 28487984
+}

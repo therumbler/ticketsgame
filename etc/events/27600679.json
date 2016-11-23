@@ -1,0 +1,289 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "John Sebastian at Colony Theatre (March 8, 2017)", 
+        "popularity": 0.004321, 
+        "venue": {
+            "displayName": "Colony Theatre", 
+            "uri": "http://www.songkick.com/venues/3058-colony-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 25.7904238, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "FL"
+                }, 
+                "displayName": "Miami", 
+                "uri": "http://www.songkick.com/metro_areas/9776-us-miami?utm_source=32233&utm_medium=partner", 
+                "id": 9776
+            }, 
+            "lng": -80.1397597, 
+            "id": 3058
+        }, 
+        "uri": "http://www.songkick.com/concerts/27600679-john-sebastian-at-colony-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-03-08", 
+            "time": "19:00:00", 
+            "datetime": "2017-03-08T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 25.7904238, 
+            "city": "Miami Beach, FL, US", 
+            "lng": -80.1397597
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "95f9b1a1-dc0c-4440-9cd3-225aaba246ee", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:95f9b1a1-dc0c-4440-9cd3-225aaba246ee.json"
+                        }
+                    ], 
+                    "displayName": "John Sebastian", 
+                    "uri": "http://www.songkick.com/artists/437621-john-sebastian?utm_source=32233&utm_medium=partner", 
+                    "id": 437621
+                }, 
+                "displayName": "John Sebastian", 
+                "id": 53783359, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27600679
+    }, 
+    "bandsintown_response": {
+        "facebook_page_url": null, 
+        "upcoming_event_count": 6, 
+        "name": "John Sebastian", 
+        "tracker_count": 6349, 
+        "mbid": "95f9b1a1-dc0c-4440-9cd3-225aaba246ee", 
+        "image_url": "https://s3.amazonaws.com/bit-photos/large/6107485.jpeg", 
+        "facebook_tour_dates_url": null, 
+        "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6107485.jpeg"
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "John Sebastian", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "american"
+            }, 
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1944-03-17", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0780949/", 
+                    "id": "a7e39c5f-8e28-48ec-9e63-ff031149b9ca"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/24788417", 
+                    "id": "23a5ad6a-ce65-4646-ab78-2836fc54a0bb"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000814852", 
+                    "id": "cc86c758-8cec-407c-9cef-e6c6301a71ff"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/28889", 
+                    "id": "66b5763b-b068-4af8-ae35-76bb4bfd1951"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/john-sebastian-lyrics", 
+                    "id": "096993b9-8c68-4550-a081-9289f4b94c11"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.johnbsebastian.com/", 
+                    "id": "0a9488a9-9b8e-4063-b7d6-8a20dea3bb79"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/john_sebastian", 
+                    "id": "27e0bc57-7b4c-4b8f-9d50-314d28d3deb8"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/3964", 
+                    "id": "8c87c3b2-dfad-48ba-8d8f-f44932196c99"
+                }, 
+                "begin": null, 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q967761", 
+                    "id": "b4c7410b-9485-4618-8d8d-440f68e34e6b"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/John_Sebastian", 
+                    "id": "a9002000-a776-44f9-ab59-f61b6fc894c7"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00028214601"
+        ], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Greenwich Village", 
+            "disambiguation": "", 
+            "id": "bdcfe2e1-5647-4fa6-b978-f7c08ab3eddd", 
+            "name": "Greenwich Village"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Sebastian, John", 
+        "type": "Person", 
+        "id": "95f9b1a1-dc0c-4440-9cd3-225aaba246ee", 
+        "disambiguation": ""
+    }, 
+    "id": 27600679, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

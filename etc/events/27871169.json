@@ -1,0 +1,251 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Good Life with Jake Bellows and Field Mouse at The Bell House (November 17, 2016)", 
+        "popularity": 0.005805, 
+        "venue": {
+            "displayName": "The Bell House", 
+            "uri": "http://www.songkick.com/venues/33018-bell-house?utm_source=32233&utm_medium=partner", 
+            "lat": 40.6735155, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9917604, 
+            "id": 33018
+        }, 
+        "uri": "http://www.songkick.com/concerts/27871169-good-life-at-bell-house?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-17T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.6735155, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9917604
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0ad7bbcd-6e77-4dc0-bb61-e331c46f70ec", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0ad7bbcd-6e77-4dc0-bb61-e331c46f70ec.json"
+                        }, 
+                        {
+                            "mbid": "b7a68c64-e364-41d7-bd49-56b91a891073", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b7a68c64-e364-41d7-bd49-56b91a891073.json"
+                        }
+                    ], 
+                    "displayName": "The Good Life", 
+                    "uri": "http://www.songkick.com/artists/126518-good-life?utm_source=32233&utm_medium=partner", 
+                    "id": 126518
+                }, 
+                "displayName": "The Good Life", 
+                "id": 54280194, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "03c9ad1d-05cb-4009-8400-5b75e1ecb909", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:03c9ad1d-05cb-4009-8400-5b75e1ecb909.json"
+                        }
+                    ], 
+                    "displayName": "Jake Bellows", 
+                    "uri": "http://www.songkick.com/artists/2395373-jake-bellows?utm_source=32233&utm_medium=partner", 
+                    "id": 2395373
+                }, 
+                "displayName": "Jake Bellows", 
+                "id": 54280199, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9a16bdeb-ef43-44b4-b24d-1c2d0e9fabfe", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9a16bdeb-ef43-44b4-b24d-1c2d0e9fabfe.json"
+                        }
+                    ], 
+                    "displayName": "Field Mouse", 
+                    "uri": "http://www.songkick.com/artists/2803256-field-mouse?utm_source=32233&utm_medium=partner", 
+                    "id": 2803256
+                }, 
+                "displayName": "Field Mouse", 
+                "id": 55134354, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27871169
+    }, 
+    "musicbrainz_response": {
+        "name": "The Good Life", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "folk rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "indie rock"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2000", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/313971", 
+                    "id": "bdabd4de-e9b7-4062-b8aa-ca2accdbb4af"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/the-good-life-lyrics", 
+                    "id": "7b89414c-e1ee-4a1a-87e6-edbc448eb9f7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1483286", 
+                    "id": "d1a67f7c-71b2-4bac-ac1a-52b7be8fd85b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Good_Life_(band)", 
+                    "id": "500eee50-1885-451d-b874-30a78248b3f3"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "Good Life, The", 
+        "type": "Group", 
+        "id": "0ad7bbcd-6e77-4dc0-bb61-e331c46f70ec", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": "The Good Life", 
+        "title": "The Good Life @ The Bell House in New York, NY", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "New York", 
+            "name": "The Bell House", 
+            "country": "United States", 
+            "region": "NY", 
+            "longitude": -73.991658, 
+            "place": "The Bell House", 
+            "latitude": 40.673735
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12746637?app_id=ticketgame&artist=The+Good+Life&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12746637/buy_tickets?app_id=ticketgame&artist=The+Good+Life&came_from=67", 
+        "on_sale_datetime": "2016-08-19T12:00:00", 
+        "formatted_datetime": "Thursday, November 17, 2016 at 8:00PM", 
+        "datetime": "2016-11-17T20:00:00", 
+        "formatted_location": "New York, NY", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1289847/tfly%3Futm_medium%3Dapi&afftrack=67%7E15976175%7E23300608%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.saddle-creek.com", 
+                "facebook_page_url": "https://www.facebook.com/pages/The-Good-Life/114878155194886", 
+                "name": "The Good Life", 
+                "url": "TheGoodLife", 
+                "tracker_count": 16305, 
+                "mbid": "0ad7bbcd-6e77-4dc0-bb61-e331c46f70ec", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6495946.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheGoodLife/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6495946.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12746637
+    }, 
+    "ticket_details": {
+        "status": "Unknown", 
+        "price_max": 17.0, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1289847/tfly%3Futm_medium%3Dapi&afftrack=67%7E15976175%7E23300608%7E%7E", 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442219.0, 
+    "created_minutes": 18161, 
+    "created_time": 1478566051.0, 
+    "modified_minutes": 3558, 
+    "id": 27871169
+}

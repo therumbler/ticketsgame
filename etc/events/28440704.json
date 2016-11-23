@@ -1,0 +1,192 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Logan Mize at 12th and Porter (November 9, 2016)", 
+        "popularity": 0.002409, 
+        "venue": {
+            "displayName": "12th and Porter", 
+            "uri": "http://www.songkick.com/venues/15229-12th-and-porter?utm_source=32233&utm_medium=partner", 
+            "lat": 36.157862, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.788136, 
+            "id": 15229
+        }, 
+        "uri": "http://www.songkick.com/concerts/28440704-logan-mize-at-12th-and-porter?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "17:00:00", 
+            "datetime": "2016-11-09T17:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.157862, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.788136
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7cacb443-1ffd-43fb-9ea3-4001e426ac36", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7cacb443-1ffd-43fb-9ea3-4001e426ac36.json"
+                        }
+                    ], 
+                    "displayName": "Logan Mize", 
+                    "uri": "http://www.songkick.com/artists/3172181-logan-mize?utm_source=32233&utm_medium=partner", 
+                    "id": 3172181
+                }, 
+                "displayName": "Logan Mize", 
+                "id": 55280064, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28440704
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Logan Mize", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "country"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://loganmize.com/", 
+                    "id": "fb79f5d3-e017-4679-b744-5ff60b4b04f6"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id339640201", 
+                    "id": "598b9151-f875-4a3e-a657-0d9d356435ae"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/LoganMize", 
+                    "id": "4288fca6-d5ab-429e-b5b9-db04b4637f13"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q16731591", 
+                    "id": "b889597a-832b-4d8b-851f-6a10bfc2b40d"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Logan_Mize", 
+                    "id": "74b4bae5-38d3-4f3e-a5ea-6c622c5eff28"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Clearwater", 
+            "disambiguation": "", 
+            "name": "Clearwater", 
+            "id": "54d2e0ff-c06a-47ab-b9c3-df4c9d1f57c5"
+        }, 
+        "id": "7cacb443-1ffd-43fb-9ea3-4001e426ac36", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Mize, Logan", 
+        "type": "Person", 
+        "disambiguation": "Country music artist"
+    }, 
+    "id": 28440704, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

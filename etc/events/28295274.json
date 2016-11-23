@@ -1,0 +1,154 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "BETSY at Hoxton Courtyard (November 15, 2016)", 
+        "popularity": 0.000419, 
+        "venue": {
+            "displayName": "Hoxton Courtyard", 
+            "uri": "http://www.songkick.com/venues/2382054-hoxton-courtyard?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5279889, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0834657, 
+            "id": 2382054
+        }, 
+        "uri": "http://www.songkick.com/concerts/28295274-betsy-at-hoxton-courtyard?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-15T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5279889, 
+            "city": "London, UK", 
+            "lng": -0.0834657
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bfa48993-163b-4ee9-a3ab-3d6faa799a46", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bfa48993-163b-4ee9-a3ab-3d6faa799a46.json"
+                        }
+                    ], 
+                    "displayName": "BETSY", 
+                    "uri": "http://www.songkick.com/artists/423759-betsy?utm_source=32233&utm_medium=partner", 
+                    "id": 423759
+                }, 
+                "displayName": "BETSY", 
+                "id": 55027469, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28295274
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Betsy", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": true, 
+            "begin": "1988", 
+            "end": "1989"
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "hard rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "heavy metal"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/706518", 
+                    "id": "47fd59a8-0482-4141-be55-fa26c64299ca"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Betsy", 
+                    "id": "19cdb004-4157-4869-8189-e00be06fabc4"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/betsy", 
+                    "id": "3abfb524-0fab-4618-9d5c-534e28e4c1c7"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "bfa48993-163b-4ee9-a3ab-3d6faa799a46", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Betsy", 
+        "type": "Group", 
+        "disambiguation": "American metal band, aka Bitch"
+    }, 
+    "id": 28295274, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

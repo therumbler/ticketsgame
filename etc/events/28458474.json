@@ -1,0 +1,433 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.009102, 
+        "displayName": "Herb Alpert and Lani Hall at Aladdin Theater (January 26, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Aladdin Theater", 
+            "uri": "http://www.songkick.com/venues/1207-aladdin-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 45.501102, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.654253, 
+            "id": 1207
+        }, 
+        "uri": "http://www.songkick.com/concerts/28458474-herb-alpert-at-aladdin-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-26", 
+            "datetime": "2017-01-26T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 45.501102, 
+            "city": "Portland, OR, US", 
+            "lng": -122.654253
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Herb Alpert", 
+                "id": 55309994, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "db76f244-049f-440e-be53-cc5f3c0cdfb6", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:db76f244-049f-440e-be53-cc5f3c0cdfb6.json"
+                        }
+                    ], 
+                    "displayName": "Herb Alpert", 
+                    "uri": "http://www.songkick.com/artists/310323-herb-alpert?utm_source=32233&utm_medium=partner", 
+                    "id": 310323
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Lani Hall", 
+                "id": 55309999, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f7b4213c-d766-47d4-80c7-d6de66380f30", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f7b4213c-d766-47d4-80c7-d6de66380f30.json"
+                        }
+                    ], 
+                    "displayName": "Lani Hall", 
+                    "uri": "http://www.songkick.com/artists/481694-lani-hall?utm_source=32233&utm_medium=partner", 
+                    "id": 481694
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28458474
+    }, 
+    "musicbrainz_response": {
+        "name": "Herb Alpert", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "classic pop and rock"
+            }
+        ], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1935-03-31", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Malibu", 
+            "disambiguation": "", 
+            "id": "fb0c4113-d177-4f3f-be56-4fa05d4807b9", 
+            "name": "Malibu"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/db76f244-049f-440e-be53-cc5f3c0cdfb6", 
+                    "id": "dbc939ed-67cd-4ede-b8e6-bf567a8ac916"
+                }, 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0004704/", 
+                    "id": "1a5b36fe-da08-4241-ab39-6a051129276d"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/84952468", 
+                    "id": "eb96a511-6add-46e6-a682-cbb760c60d44"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000674332", 
+                    "id": "0927cf21-9e4e-4a59-b6e6-314b88c20b25"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.tijuanabrass.com/alpert/", 
+                    "id": "1a7cfebb-3ae5-47bb-86cb-11c1e63256ca"
+                }, 
+                "direction": "forward", 
+                "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/35022", 
+                    "id": "d37ca028-4fea-4293-9642-ca8c2af306d9"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Herb_Alpert_1967.jpg", 
+                    "id": "b3b9b94b-bc7e-4ed6-a356-8ba7312bbab7"
+                }, 
+                "direction": "forward", 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Herb+Alpert", 
+                    "id": "1120e8da-f553-4bb1-b22d-2069ca1e0dcd"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/herb-alpert-lyrics", 
+                    "id": "fc0e3aec-cf46-473f-a5dc-471224c80523"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/Herb_Alpert", 
+                    "id": "1319734a-9003-474b-be74-0774bed2d043"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.herbalpert.com/", 
+                    "id": "25f96994-a7aa-4a78-bbe9-7c77785d1403"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/herb_alpert", 
+                    "id": "e2605de5-9507-4891-876d-e35a7be18690"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.musik-sammler.de/artist/148740", 
+                    "id": "792e62ee-332e-4de0-8fc9-d7110bf24f0b"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/875", 
+                    "id": "3d522981-2a18-4464-8b22-d3c2c858e97f"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q344822", 
+                    "id": "bc43a83d-3ae7-4ade-ac20-08c3864470e9"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Herb_Alpert", 
+                    "id": "b1ac286c-8917-4d7a-bcf2-be4645a9b245"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00000678901"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62", 
+            "name": "Los Angeles"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Alpert, Herb", 
+        "type": "Person", 
+        "id": "db76f244-049f-440e-be53-cc5f3c0cdfb6", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15512, 
+    "bandsintown_response": {
+        "description": "Herb Alpert & Lani Hall", 
+        "title": "Herb Alpert @ Aladdin Theater in Portland, OR", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Portland", 
+            "name": "Aladdin Theater", 
+            "country": "United States", 
+            "region": "OR", 
+            "longitude": -122.65432, 
+            "place": "Aladdin Theater", 
+            "latitude": 45.501066
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13228619?app_id=ticketgame&artist=Herb+Alpert&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13228619/buy_tickets?app_id=ticketgame&artist=Herb+Alpert&came_from=67", 
+        "on_sale_datetime": "2016-10-31T10:00:00", 
+        "formatted_datetime": "Thursday, January 26, 2017 at 8:00PM", 
+        "datetime": "2017-01-26T20:00:00", 
+        "formatted_location": "Portland, OR", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1368861/tfly%3Futm_medium%3Dapi&afftrack=67%7E16635706%7E24422988%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.herbalpert.com/", 
+                "facebook_page_url": "https://www.facebook.com/HerbAlpertPresents", 
+                "name": "Herb Alpert", 
+                "url": "HerbAlpert", 
+                "tracker_count": 14307, 
+                "mbid": "db76f244-049f-440e-be53-cc5f3c0cdfb6", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6765038.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/HerbAlpert/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6765038.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13228619
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442460.0, 
+    "created_time": 1478566069.0, 
+    "modified_minutes": 906, 
+    "id": 28458474
+}

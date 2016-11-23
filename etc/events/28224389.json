@@ -1,0 +1,145 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Chaim Tannenbaum at Proud Camdenl (November 11, 2016)", 
+        "popularity": 0.000258, 
+        "venue": {
+            "displayName": "Proud Camdenl", 
+            "uri": "http://www.songkick.com/venues/3414164-proud-camdenl?utm_source=32233&utm_medium=partner", 
+            "lat": 51.542865, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1487671, 
+            "id": 3414164
+        }, 
+        "uri": "http://www.songkick.com/concerts/28224389-chaim-tannenbaum-at-proud-camdenl?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-11T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.542865, 
+            "city": "London, UK", 
+            "lng": -0.1487671
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b1c800e0-821a-4ba8-bf1f-01852fa210f7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b1c800e0-821a-4ba8-bf1f-01852fa210f7.json"
+                        }
+                    ], 
+                    "displayName": "Chaim Tannenbaum", 
+                    "uri": "http://www.songkick.com/artists/3299846-chaim-tannenbaum?utm_source=32233&utm_medium=partner", 
+                    "id": 3299846
+                }, 
+                "displayName": "Chaim Tannenbaum", 
+                "id": 54906724, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28224389
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Chaim Tannenbaum", 
+        "area": {
+            "sort-name": "Quebec", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "CA-QC"
+            ], 
+            "id": "a510b9b1-404d-4e23-8db8-0f6585909ed8", 
+            "name": "Quebec"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/79722537", 
+                    "id": "6ed1f866-d9d4-4a4c-af93-4ba687c7fcfd"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000190801", 
+                    "id": "72976682-456e-4a63-8d61-fb2102dd84d0"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/370611", 
+                    "id": "4f000fa1-baeb-4719-bc89-6fb153abd962"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Tannenbaum, Chaim", 
+        "country": null, 
+        "disambiguation": "", 
+        "type": "Person", 
+        "id": "b1c800e0-821a-4ba8-bf1f-01852fa210f7", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28224389, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

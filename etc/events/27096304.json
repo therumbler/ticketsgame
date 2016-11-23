@@ -1,0 +1,132 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "16+", 
+        "displayName": "Bridget Everett at Gothic Theatre (February 17, 2017)", 
+        "popularity": 5.6e-05, 
+        "venue": {
+            "displayName": "Gothic Theatre", 
+            "uri": "http://www.songkick.com/venues/5229-gothic-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 39.6557761, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9876818, 
+            "id": 5229
+        }, 
+        "uri": "http://www.songkick.com/concerts/27096304-bridget-everett-at-gothic-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-17", 
+            "time": "19:00:00", 
+            "datetime": "2017-02-17T19:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.6557761, 
+            "city": "Englewood, CO, US", 
+            "lng": -104.9876818
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d59b63a0-0ff5-40d2-94b8-787751138846", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d59b63a0-0ff5-40d2-94b8-787751138846.json"
+                        }
+                    ], 
+                    "displayName": "Bridget Everett", 
+                    "uri": "http://www.songkick.com/artists/2350082-bridget-everett?utm_source=32233&utm_medium=partner", 
+                    "id": 2350082
+                }, 
+                "displayName": "Bridget Everett", 
+                "id": 52861519, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27096304
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Bridget Everett", 
+        "area": null, 
+        "gender": "Female", 
+        "life-span": {
+            "ended": false, 
+            "begin": "????-04-21", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q18686082", 
+                    "id": "b8cea4a1-fc79-4748-ac7b-36b6d8848a0b"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Bridget_Everett", 
+                    "id": "4717215f-9117-44cf-9ff8-3fff963fa5a6"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Manhattan", 
+            "disambiguation": "", 
+            "id": "b981d2fa-86a6-43d4-9bfc-7ac4569c17bc", 
+            "name": "Manhattan"
+        }, 
+        "sort-name": "Everett, Bridget", 
+        "country": null, 
+        "id": "d59b63a0-0ff5-40d2-94b8-787751138846", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2"
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.songkick.com/store/events/27096304"
+    }, 
+    "modified_time": 1479441914.0, 
+    "created_minutes": 18152, 
+    "created_time": 1478566006.0, 
+    "modified_minutes": 3554, 
+    "id": 27096304
+}

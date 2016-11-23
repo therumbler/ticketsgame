@@ -1,0 +1,132 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 9.4e-05, 
+        "displayName": "Growler with Shitkill at Union Pool (November 22, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Union Pool", 
+            "uri": "http://www.songkick.com/venues/10751-union-pool?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7149447, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9516144, 
+            "id": 10751
+        }, 
+        "uri": "http://www.songkick.com/concerts/28568894-growler-at-union-pool?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-22", 
+            "datetime": "2016-11-22T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 40.7149447, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9516144
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "fa2b7e05-4ee1-4564-ba6c-bf182dda38b7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fa2b7e05-4ee1-4564-ba6c-bf182dda38b7.json"
+                        }, 
+                        {
+                            "mbid": "8d690819-f81e-426b-953f-eb80ecc1d777", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8d690819-f81e-426b-953f-eb80ecc1d777.json"
+                        }
+                    ], 
+                    "displayName": "Growler", 
+                    "uri": "http://www.songkick.com/artists/58876-growler?utm_source=32233&utm_medium=partner", 
+                    "id": 58876
+                }, 
+                "displayName": "Growler", 
+                "id": 55501189, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Shitkill", 
+                    "uri": "http://www.songkick.com/artists/2793801-shitkill?utm_source=32233&utm_medium=partner", 
+                    "id": 2793801
+                }, 
+                "displayName": "Shitkill", 
+                "id": 55501194, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28568894
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "The Growler", 
+        "area": {
+            "sort-name": "Trinidad and Tobago", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "TT"
+            ], 
+            "id": "6c290168-f3b9-3adb-9889-b856feb2c26c", 
+            "name": "Trinidad and Tobago"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "life-span": {
+            "ended": true, 
+            "begin": "1911", 
+            "end": "1952-07-15"
+        }, 
+        "isnis": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1323840", 
+                    "id": "06348ef1-4ce7-4e72-831d-0368d0a4fe48"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "disambiguation": "", 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Growler, The", 
+        "country": "TT", 
+        "type": "Person", 
+        "id": "fa2b7e05-4ee1-4564-ba6c-bf182dda38b7", 
+        "tags": []
+    }, 
+    "id": 28568894, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

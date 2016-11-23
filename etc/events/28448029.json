@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "cancelled", 
+        "ageRestriction": null, 
+        "displayName": "Luke Williams at Alta's Cafe (November 11, 2016) (CANCELLED) ", 
+        "popularity": 6.7e-05, 
+        "venue": {
+            "displayName": "Alta's Cafe", 
+            "uri": "http://www.songkick.com/venues/2918583-altas-cafe?utm_source=32233&utm_medium=partner", 
+            "lat": 30.2605185, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7417291, 
+            "id": 2918583
+        }, 
+        "uri": "http://www.songkick.com/concerts/28448029-luke-williams-at-altas-cafe?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "17:00:00", 
+            "datetime": "2016-11-11T17:00:00-0600"
+        }, 
+        "location": {
+            "lat": 30.2605185, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7417291
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "378d381a-bd7d-4fc4-af3e-4dea1fa683e4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:378d381a-bd7d-4fc4-af3e-4dea1fa683e4.json"
+                        }
+                    ], 
+                    "displayName": "Luke Williams", 
+                    "uri": "http://www.songkick.com/artists/698597-luke-williams?utm_source=32233&utm_medium=partner", 
+                    "id": 698597
+                }, 
+                "displayName": "Luke Williams", 
+                "id": 55292524, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28448029
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Luke Williams", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/456700", 
+                    "id": "10ed35ee-3318-4d4a-8768-ec075bb022a6"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "378d381a-bd7d-4fc4-af3e-4dea1fa683e4", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Williams, Luke", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 28448029, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

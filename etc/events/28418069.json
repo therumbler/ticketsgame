@@ -1,0 +1,250 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001794, 
+        "displayName": "California Guitar Trio with Montreal Guitar Trio at Granada Theater (February 16, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Granada Theater", 
+            "uri": "http://www.songkick.com/venues/11334-granada-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 32.8308876, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.7700051, 
+            "id": 11334
+        }, 
+        "uri": "http://www.songkick.com/concerts/28418069-california-guitar-trio-at-granada-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-16", 
+            "datetime": "2017-02-16T21:30:00-0600", 
+            "time": "21:30:00"
+        }, 
+        "location": {
+            "lat": 32.8308876, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.7700051
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "California Guitar Trio", 
+                "id": 55243004, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9cf33209-55f0-4f75-bd9c-30623db33b16", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9cf33209-55f0-4f75-bd9c-30623db33b16.json"
+                        }
+                    ], 
+                    "displayName": "California Guitar Trio", 
+                    "uri": "http://www.songkick.com/artists/237162-california-guitar-trio?utm_source=32233&utm_medium=partner", 
+                    "id": 237162
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Montreal Guitar Trio", 
+                "id": 55243009, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6f83c4d9-aa7d-4e84-9802-4a1d0d3686ff", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6f83c4d9-aa7d-4e84-9802-4a1d0d3686ff.json"
+                        }
+                    ], 
+                    "displayName": "Montreal Guitar Trio", 
+                    "uri": "http://www.songkick.com/artists/2105731-montreal-guitar-trio?utm_source=32233&utm_medium=partner", 
+                    "id": 2105731
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28418069
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "California Guitar Trio", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1991", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "chamber jazz"
+            }, 
+            {
+                "count": 1, 
+                "name": "instrumental rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "new acoustic music"
+            }, 
+            {
+                "count": 1, 
+                "name": "new-age"
+            }, 
+            {
+                "count": 1, 
+                "name": "post-rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "progressive rock"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/527333", 
+                    "id": "43e0960d-de1d-4d8f-9f32-ec269deed944"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.cgtrio.com/", 
+                    "id": "ce79f4e3-10e2-4cbd-89ea-0c4a44653cb1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1026817", 
+                    "id": "906168f4-f2d3-4957-b0df-0fa08c903d7c"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/California_Guitar_Trio", 
+                    "id": "2e091eac-5bac-4d7e-bf45-4079685a1eed"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62", 
+            "name": "Los Angeles"
+        }, 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "California Guitar Trio", 
+        "type": "Group", 
+        "id": "9cf33209-55f0-4f75-bd9c-30623db33b16", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15511, 
+    "bandsintown_response": {
+        "description": "California Guitar Trio+ Montreal Guitar Trio", 
+        "title": "California Guitar Trio @ Granada Theater in Dallas, TX", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Dallas", 
+            "name": "Granada Theater", 
+            "country": "United States", 
+            "region": "TX", 
+            "longitude": -96.770141, 
+            "place": "Granada Theater", 
+            "latitude": 32.83074
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13196236?app_id=ticketgame&artist=California+Guitar+Trio&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13196236/buy_tickets?app_id=ticketgame&artist=California+Guitar+Trio&came_from=67", 
+        "on_sale_datetime": "2016-10-28T11:00:00", 
+        "formatted_datetime": "Thursday, February 16, 2017 at 9:30PM", 
+        "datetime": "2017-02-16T21:30:00", 
+        "formatted_location": "Dallas, TX", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1371375/tfly%3Futm_medium%3Dapi&afftrack=67%7E16592737%7E24332139%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.cgtrio.com/", 
+                "facebook_page_url": "https://www.facebook.com/CGTrio", 
+                "name": "California Guitar Trio", 
+                "url": "CaliforniaGuitarTrio", 
+                "tracker_count": 4962, 
+                "mbid": "9cf33209-55f0-4f75-bd9c-30623db33b16", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6935843.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/CaliforniaGuitarTrio/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6935843.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13196236
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 42.0, 
+        "price_min": 24.0
+    }, 
+    "modified_time": 1479442569.0, 
+    "created_time": 1478565997.0, 
+    "modified_minutes": 901, 
+    "id": 28418069
+}

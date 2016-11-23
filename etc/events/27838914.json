@@ -1,0 +1,151 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "JOHNNYSWIM with Jonny P at Union Transfer (November 19, 2016)", 
+        "popularity": 0.010047, 
+        "venue": {
+            "displayName": "Union Transfer", 
+            "uri": "http://www.songkick.com/venues/1392958-union-transfer?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9616234, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.155307, 
+            "id": 1392958
+        }, 
+        "uri": "http://www.songkick.com/concerts/27838914-johnnyswim-at-union-transfer?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-19T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9616234, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.155307
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f73fb555-9bce-4c67-b101-311efd2e9f79", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f73fb555-9bce-4c67-b101-311efd2e9f79.json"
+                        }
+                    ], 
+                    "displayName": "JOHNNYSWIM", 
+                    "uri": "http://www.songkick.com/artists/1141881-johnnyswim?utm_source=32233&utm_medium=partner", 
+                    "id": 1141881
+                }, 
+                "displayName": "JOHNNYSWIM", 
+                "id": 54221724, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bf5b4ceb-03a9-4c08-b1df-4c6c69ffd14b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bf5b4ceb-03a9-4c08-b1df-4c6c69ffd14b.json"
+                        }
+                    ], 
+                    "displayName": "Jonny P", 
+                    "uri": "http://www.songkick.com/artists/8367373-jonny-p?utm_source=32233&utm_medium=partner", 
+                    "id": 8367373
+                }, 
+                "displayName": "Jonny P", 
+                "id": 54506309, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27838914
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Johnnyswim", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2005", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.johnnyswim.com/", 
+                    "id": "e5523a47-e1f4-45d5-8dca-314413f9b077"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Johnnyswim", 
+                    "id": "8c9dc985-0ab8-440c-a3cc-a3da4ad50b58"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74", 
+            "name": "Nashville"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Johnnyswim", 
+        "type": "Group", 
+        "id": "f73fb555-9bce-4c67-b101-311efd2e9f79", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15465, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 85.0, 
+        "price_min": 25.0
+    }, 
+    "modified_time": 1479442167.0, 
+    "created_time": 1478566060.0, 
+    "modified_minutes": 863, 
+    "id": 27838914
+}

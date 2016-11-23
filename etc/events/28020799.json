@@ -1,0 +1,147 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Sims with Air Credits at Rough Trade NYC (November 12, 2016)", 
+        "popularity": 0.002427, 
+        "venue": {
+            "displayName": "Rough Trade NYC", 
+            "uri": "http://www.songkick.com/venues/2469314-rough-trade-nyc?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7209863, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9598502, 
+            "id": 2469314
+        }, 
+        "uri": "http://www.songkick.com/concerts/28020799-sims-at-rough-trade-nyc?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-12T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7209863, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9598502
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "059be594-2947-46ff-a53b-247180f446ba", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:059be594-2947-46ff-a53b-247180f446ba.json"
+                        }, 
+                        {
+                            "mbid": "25ba4897-3531-4916-bd93-3e9a70b6324c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:25ba4897-3531-4916-bd93-3e9a70b6324c.json"
+                        }
+                    ], 
+                    "displayName": "Sims", 
+                    "uri": "http://www.songkick.com/artists/189357-sims?utm_source=32233&utm_medium=partner", 
+                    "id": 189357
+                }, 
+                "displayName": "Sims", 
+                "id": 54547604, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Air Credits", 
+                    "uri": "http://www.songkick.com/artists/8822594-air-credits?utm_source=32233&utm_medium=partner", 
+                    "id": 8822594
+                }, 
+                "displayName": "Air Credits", 
+                "id": 54555129, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28020799
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Sim's", 
+        "area": {
+            "sort-name": "Switzerland", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CH"
+            ], 
+            "name": "Switzerland", 
+            "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df"
+        }, 
+        "country": "CH", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/simspolak", 
+                    "id": "3791ce31-741e-47ad-a572-e7edb0d64c52"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.sims-lesite.ch/", 
+                    "id": "ba350e1a-380b-4ea0-94a4-77b0aabe33d1"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Sim's", 
+        "gender": "Male", 
+        "disambiguation": "Swiss hip hop artist", 
+        "type": "Person", 
+        "id": "059be594-2947-46ff-a53b-247180f446ba", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28020799, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

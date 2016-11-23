@@ -1,0 +1,209 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "TAUK with Mont\u00fa at Three Links (November 9, 2016)", 
+        "popularity": 0.001225, 
+        "venue": {
+            "displayName": "Three Links", 
+            "uri": "http://www.songkick.com/venues/2146544-three-links?utm_source=32233&utm_medium=partner", 
+            "lat": 32.7844141, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.7844972, 
+            "id": 2146544
+        }, 
+        "uri": "http://www.songkick.com/concerts/27799309-tauk-at-three-links?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 32.7844141, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.7844972
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6f2adbd6-7685-47a9-932e-b1e450a561a3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6f2adbd6-7685-47a9-932e-b1e450a561a3.json"
+                        }
+                    ], 
+                    "displayName": "TAUK", 
+                    "uri": "http://www.songkick.com/artists/633278-tauk?utm_source=32233&utm_medium=partner", 
+                    "id": 633278
+                }, 
+                "displayName": "TAUK", 
+                "id": 54148069, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Mont\u00fa", 
+                    "uri": "http://www.songkick.com/artists/1200058-montu?utm_source=32233&utm_medium=partner", 
+                    "id": 1200058
+                }, 
+                "displayName": "Mont\u00fa", 
+                "id": 54445249, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27799309
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "TAUK", 
+        "area": {
+            "sort-name": "Oyster Bay", 
+            "disambiguation": "", 
+            "name": "Oyster Bay", 
+            "id": "fda87c2c-d04f-43e8-a6be-f10fec4dea70"
+        }, 
+        "country": null, 
+        "twitter": "taukband", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/tauk", 
+                    "id": "f07d5bf1-ac58-4fd3-afff-9e18a76d6690"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://taukband.com/", 
+                    "id": "09a427d6-c6e0-401a-a5eb-1cd0506d692a"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/taukband", 
+                    "id": "83d3e56a-3745-430f-8055-ec408c062edb"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/taukband", 
+                    "id": "2a7237fe-8666-4dd1-9cfb-dafc802567eb"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/tauk", 
+                    "id": "534b4748-8698-4f4f-bfc3-3ab223b8c4bb"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/Taukband", 
+                    "id": "348efd6b-abb5-43ad-a5ec-6f56c33a1c0e"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "TAUK", 
+        "gender": null, 
+        "id": "6f2adbd6-7685-47a9-932e-b1e450a561a3", 
+        "disambiguation": "", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2007", 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 27799309, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

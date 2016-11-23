@@ -1,0 +1,150 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001446, 
+        "displayName": "La Yegros at David Rubenstein Atrium, Lincoln Center (November 22, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "David Rubenstein Atrium, Lincoln Center", 
+            "uri": "http://www.songkick.com/venues/673966-david-rubenstein-atrium-lincoln-center?utm_source=32233&utm_medium=partner", 
+            "lat": 40.771109, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.98306, 
+            "id": 673966
+        }, 
+        "uri": "http://www.songkick.com/concerts/28369234-la-yegros-at-david-rubenstein-atrium-lincoln-center?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-22", 
+            "datetime": "2016-11-22T19:00:00-0500", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 40.771109, 
+            "city": "New York, NY, US", 
+            "lng": -73.98306
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "La Yegros", 
+                "id": 55158139, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "aa22f8bc-2aeb-4dff-87b8-0fc89b9d4f87", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:aa22f8bc-2aeb-4dff-87b8-0fc89b9d4f87.json"
+                        }
+                    ], 
+                    "displayName": "La Yegros", 
+                    "uri": "http://www.songkick.com/artists/2491781-la-yegros?utm_source=32233&utm_medium=partner", 
+                    "id": 2491781
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28369234
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "La Yegros", 
+        "area": {
+            "sort-name": "Argentina", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "AR"
+            ], 
+            "name": "Argentina", 
+            "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b"
+        }, 
+        "gender": "Female", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1692300", 
+                    "id": "20c83859-1228-45cb-b4ec-e61248c458cd"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Horizonte_2014_So_0116.JPG", 
+                    "id": "5dae485b-67e8-4b5d-85be-701a2af3852e"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q14280664", 
+                    "id": "25458e26-72cb-4548-9d07-a174528b5bdd"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "aa22f8bc-2aeb-4dff-87b8-0fc89b9d4f87", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "isnis": [], 
+        "sort-name": "Yegros, La", 
+        "country": "AR", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 28369234, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

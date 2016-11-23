@@ -1,0 +1,507 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.007673, 
+        "displayName": "The Tea Party at Danforth Music Hall (March 4, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Danforth Music Hall", 
+            "uri": "http://www.songkick.com/venues/30065-danforth-music-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6764418, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.3571276, 
+            "id": 30065
+        }, 
+        "uri": "http://www.songkick.com/concerts/28425254-tea-party-at-danforth-music-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-03-04", 
+            "time": "19:00:00", 
+            "datetime": "2017-03-04T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 43.6764418, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.3571276
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "The Tea Party", 
+                "id": 55255094, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7ebc552b-71b2-47b7-9dc8-31ef08e20aec", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7ebc552b-71b2-47b7-9dc8-31ef08e20aec.json"
+                        }
+                    ], 
+                    "displayName": "The Tea Party", 
+                    "uri": "http://www.songkick.com/artists/313210-tea-party?utm_source=32233&utm_medium=partner", 
+                    "id": 313210
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28425254
+    }, 
+    "musicbrainz_response": {
+        "name": "The Tea Party", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "canadian"
+            }
+        ], 
+        "country": "CA", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1990", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "name": "Canada", 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/7ebc552b-71b2-47b7-9dc8-31ef08e20aec", 
+                    "id": "cfd23307-538f-483d-9021-8b5a6978c54a"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm3162083/", 
+                    "id": "80516db7-b7c7-4e01-8f20-d75f090b815f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/139736571", 
+                    "id": "2151f24c-ae63-4ac7-8430-619ba5e4af3c"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000565815", 
+                    "id": "628d6747-194a-4ae1-8651-99aaa6ee463d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/275833", 
+                    "id": "1e6f5a63-5e0e-4272-92d3-a00576f68b5b"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.theteaparty.de/", 
+                    "id": "341442cd-7050-430f-8acb-145e04818604"
+                }, 
+                "direction": "forward", 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/The+Tea+Party", 
+                    "id": "d7156172-4e1a-4faa-8244-aab9107a57a5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/the-tea-party-lyrics", 
+                    "id": "7a2341df-91d9-41a1-b8cf-00c3f83bbf81"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/theteaparty", 
+                    "id": "1736f239-e759-417f-b43d-99f56df45ac9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.teaparty.com/", 
+                    "id": "e363606c-7c77-448d-9295-a25d82e3df9f"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://musicmoz.org/Bands_and_Artists/T/Tea_Party,_The/", 
+                    "id": "c2b7f6bd-1638-47d0-855c-2b540ce33d0c"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/the_tea_party", 
+                    "id": "0c6b656c-a623-45c3-a0e1-ed0123e78f93"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/14277", 
+                    "id": "9718da95-f4fc-4ba9-9acf-fd30eb94c108"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://plus.google.com/109128321487000086783", 
+                    "id": "739a6840-f043-422e-a8f4-1ccb6d424ade"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/theteapartyband", 
+                    "id": "3340aaff-15e2-4130-aea8-a4f86e253fc9"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/theteapartyofficial", 
+                    "id": "bf3bb511-b23f-42ab-a50e-5006378df948"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/theteapartyband/", 
+                    "id": "5795b030-11a3-4c75-9f87-54b4ab4b4bd1"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/theteaparty", 
+                    "id": "eb045fcd-49ed-436b-ad0f-516fa83b33e1"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1886368", 
+                    "id": "110813f2-e705-4eab-84f8-ed9f7337ff94"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Tea_Party", 
+                    "id": "157d1a63-8f0f-4318-913b-085fd6ab68c8"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/TheTeaPartyLive", 
+                    "id": "693d05a3-0cba-404e-8ead-0695dd857f8b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Windsor", 
+            "disambiguation": "", 
+            "name": "Windsor", 
+            "id": "e4f1e288-92a0-4f36-8f0e-23397e261a99"
+        }, 
+        "id": "7ebc552b-71b2-47b7-9dc8-31ef08e20aec", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Tea Party, The", 
+        "type": "Group", 
+        "twitter": "theteapartyband", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15894, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "The Tea Party @ Danforth Music Hall in Toronto, Canada", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Toronto", 
+            "name": "Danforth Music Hall", 
+            "country": "Canada", 
+            "region": "ON", 
+            "longitude": -79.4013593, 
+            "place": "Danforth Music Hall", 
+            "latitude": 43.7564976
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13207289?app_id=ticketsgame&artist=The+Tea+Party&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13207289/buy_tickets?app_id=ticketsgame&artist=The+Tea+Party&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Saturday, March 4, 2017 at 7:00PM", 
+        "datetime": "2017-03-04T19:00:00", 
+        "formatted_location": "Toronto, Canada", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fwww.ticketmaster.ca%2Fthe-tea-party-transmission-tour-toronto-ontario-03-04-2017%2Fevent%2F100051574A434AB6&subId1=67%7E16608519%7E%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.teaparty.com/", 
+                "facebook_page_url": "https://www.facebook.com/theteapartyofficial", 
+                "name": "The Tea Party", 
+                "url": "TheTeaParty", 
+                "tracker_count": 25337, 
+                "mbid": "7ebc552b-71b2-47b7-9dc8-31ef08e20aec", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6771800.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TheTeaParty/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6771800.jpeg"
+            }
+        ], 
+        "ticket_details": {
+            "price_max": 54.25, 
+            "price_min": 44.0
+        }, 
+        "ticket_status": "available", 
+        "id": 13207289
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 0, 
+        "price_min": 9999999
+    }, 
+    "modified_time": 1479442560.0, 
+    "created_time": 1478543016.0, 
+    "modified_minutes": 901, 
+    "id": 28425254
+}

@@ -1,0 +1,296 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Marcia Griffiths and Judy Mowatt at Center Stage Theater (December 18, 2016)", 
+        "popularity": 0.008612, 
+        "venue": {
+            "displayName": "Center Stage Theater", 
+            "uri": "http://www.songkick.com/venues/1275-center-stage-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7920851, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3880007, 
+            "id": 1275
+        }, 
+        "uri": "http://www.songkick.com/concerts/28082434-marcia-griffiths-at-center-stage-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-18", 
+            "time": "20:30:00", 
+            "datetime": "2016-12-18T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 33.7920851, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.3880007
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f7fb3771-3dc1-4b7b-b144-7f0a43fa1422", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f7fb3771-3dc1-4b7b-b144-7f0a43fa1422.json"
+                        }
+                    ], 
+                    "displayName": "Marcia Griffiths", 
+                    "uri": "http://www.songkick.com/artists/285540-marcia-griffiths?utm_source=32233&utm_medium=partner", 
+                    "id": 285540
+                }, 
+                "displayName": "Marcia Griffiths", 
+                "id": 54657189, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "67919668-0060-4097-9687-8af0ed1df3da", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:67919668-0060-4097-9687-8af0ed1df3da.json"
+                        }
+                    ], 
+                    "displayName": "Judy Mowatt", 
+                    "uri": "http://www.songkick.com/artists/56692-judy-mowatt?utm_source=32233&utm_medium=partner", 
+                    "id": 56692
+                }, 
+                "displayName": "Judy Mowatt", 
+                "id": 54657194, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28082434
+    }, 
+    "musicbrainz_response": {
+        "name": "Marcia Griffiths", 
+        "area": {
+            "sort-name": "Jamaica", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "JM"
+            ], 
+            "name": "Jamaica", 
+            "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7"
+        }, 
+        "country": "JM", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1949-11-23", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/f7fb3771-3dc1-4b7b-b144-7f0a43fa1422", 
+                    "id": "78d25406-ce33-4988-89d2-a5314d27bf0c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/103656848", 
+                    "id": "2d69da32-4e07-49fd-88ac-821c155a0783"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000573978", 
+                    "id": "28fd3764-2e07-47b3-977b-7a5e29c7ee25"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/29823", 
+                    "id": "2c66ca32-dd24-45d5-b253-9e9cda7f2373"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.marciagriffiths.net/", 
+                    "id": "76bd7ab1-0801-4581-9f4b-004d50185b9d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/marcia_griffiths", 
+                    "id": "34ed4051-8700-4983-9f32-e4af0c9ac976"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q443164", 
+                    "id": "d60f1ffa-a3b9-453f-8b83-4abafb023ff1"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Marcia_Griffiths", 
+                    "id": "337f3e6e-4a7f-4170-bbe9-49c402532715"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Kingston", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "JM-01"
+            ], 
+            "name": "Kingston", 
+            "id": "23e0d135-9fe7-48cb-b2c4-93addd3d1e37"
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "Griffiths, Marcia", 
+        "type": "Person", 
+        "id": "f7fb3771-3dc1-4b7b-b144-7f0a43fa1422", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15476, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Marcia Griffiths @ Center Stage Theater in Atlanta, GA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Atlanta", 
+            "name": "Center Stage Theater", 
+            "country": "United States", 
+            "region": "GA", 
+            "longitude": -84.3877907, 
+            "place": "Center Stage Theater", 
+            "latitude": 33.7918926
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12904118?app_id=ticketgame&artist=Marcia+Griffiths&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12904118/buy_tickets?app_id=ticketgame&artist=Marcia+Griffiths&came_from=67", 
+        "on_sale_datetime": "2016-09-09T04:00:00", 
+        "formatted_datetime": "Sunday, December 18, 2016 at 8:30PM", 
+        "datetime": "2016-12-18T20:30:00", 
+        "formatted_location": "Atlanta, GA", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F0E005128B0D859C4&subId1=67%7E16196220%7E23619326%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.marciagriffiths.net/", 
+                "facebook_page_url": null, 
+                "name": "Marcia Griffiths", 
+                "url": "MarciaGriffiths", 
+                "tracker_count": 10493, 
+                "mbid": "f7fb3771-3dc1-4b7b-b144-7f0a43fa1422", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5457539.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/MarciaGriffiths/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5457539.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12904118
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 0, 
+        "price_min": 9999999
+    }, 
+    "modified_time": 1479442391.0, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 869, 
+    "id": 28082434
+}

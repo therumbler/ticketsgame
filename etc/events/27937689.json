@@ -1,0 +1,197 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Apashe at Foundation Nightclub (November 9, 2016)", 
+        "popularity": 0.002304, 
+        "venue": {
+            "displayName": "Foundation Nightclub", 
+            "uri": "http://www.songkick.com/venues/1934839-foundation-nightclub?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6123456, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3465061, 
+            "id": 1934839
+        }, 
+        "uri": "http://www.songkick.com/concerts/27937689-apashe-at-foundation-nightclub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "22:00:00", 
+            "datetime": "2016-11-09T22:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6123456, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3465061
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ce0724ab-2d63-415b-bbb1-839f97bb771a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ce0724ab-2d63-415b-bbb1-839f97bb771a.json"
+                        }
+                    ], 
+                    "displayName": "Apashe", 
+                    "uri": "http://www.songkick.com/artists/7621484-apashe?utm_source=32233&utm_medium=partner", 
+                    "id": 7621484
+                }, 
+                "displayName": "Apashe", 
+                "id": 54403734, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27937689
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Apashe", 
+        "area": {
+            "sort-name": "Montreal", 
+            "disambiguation": "", 
+            "id": "c3cc624e-b963-49cf-ad0b-e318cb341963", 
+            "name": "Montreal"
+        }, 
+        "gender": "Male", 
+        "twitter": "Apashe_Music", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2809859", 
+                    "id": "e8f13fdb-490e-4388-9379-c7e982fb6fb7"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.beatport.com/artist/apashe/230535", 
+                    "id": "e33961df-65e2-4bb1-bf8c-c3d1d445d6be"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/au/artist/id489718443", 
+                    "id": "e9c4a01f-d615-4f1c-b5e1-00d20d4944d7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/Apashe_Music", 
+                    "id": "55b3852f-88f2-4200-94fa-2a37c44439ad"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Apashe.Official", 
+                    "id": "3ab796e2-29c7-4fe7-88e4-8d1359605026"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/lindien", 
+                    "id": "5a889238-d513-4b75-a657-d1a69dee5ece"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Apashe", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "id": "ce0724ab-2d63-415b-bbb1-839f97bb771a", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": "Electronic music artist originally from Brussels now in Montreal"
+    }, 
+    "id": 27937689, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

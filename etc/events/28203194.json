@@ -1,0 +1,195 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Sun Voyager, The Casey Hopkins Duo, and Heavy Traffic at The Gutter (November 11, 2016)", 
+        "popularity": 2.2e-05, 
+        "venue": {
+            "displayName": "The Gutter", 
+            "uri": "http://www.songkick.com/venues/1220226-gutter?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7227338, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9553639, 
+            "id": 1220226
+        }, 
+        "uri": "http://www.songkick.com/concerts/28203194-sun-voyager-at-gutter?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-11T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7227338, 
+            "city": "New York, NY, US", 
+            "lng": -73.9553639
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8d6be49c-b74e-4dbc-a66f-3b04840042af", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8d6be49c-b74e-4dbc-a66f-3b04840042af.json"
+                        }
+                    ], 
+                    "displayName": "Sun Voyager", 
+                    "uri": "http://www.songkick.com/artists/6455194-sun-voyager?utm_source=32233&utm_medium=partner", 
+                    "id": 6455194
+                }, 
+                "displayName": "Sun Voyager", 
+                "id": 54870489, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Casey Hopkins Duo", 
+                    "uri": "http://www.songkick.com/artists/5754234-casey-hopkins-duo?utm_source=32233&utm_medium=partner", 
+                    "id": 5754234
+                }, 
+                "displayName": "The Casey Hopkins Duo", 
+                "id": 54870494, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "280f99c3-dd95-438e-9021-d7c92dfdf9c3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:280f99c3-dd95-438e-9021-d7c92dfdf9c3.json"
+                        }
+                    ], 
+                    "displayName": "Heavy Traffic", 
+                    "uri": "http://www.songkick.com/artists/969616-heavy-traffic?utm_source=32233&utm_medium=partner", 
+                    "id": 969616
+                }, 
+                "displayName": "Heavy Traffic", 
+                "id": 54870499, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28203194
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Sun Voyager", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "twitter": "sunvoyager_rock", 
+        "tags": [], 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Sun Voyager", 
+        "begin_area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://sun-voyager.bandcamp.com/", 
+                    "id": "9dd955bf-6ac8-41aa-901f-ce182f996066"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://sunvoyagerband.tumblr.com/", 
+                    "id": "4d4f6a79-5ac3-46cc-abde-073332a44cc6"
+                }, 
+                "direction": "forward", 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/sunvoyager_rock", 
+                    "id": "9b539035-2635-4219-a0a6-b52e988793cb"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/sunvoyagerband", 
+                    "id": "11be9450-a407-4e7f-925b-8f79e8b3a77f"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "8d6be49c-b74e-4dbc-a66f-3b04840042af", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 28203194, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

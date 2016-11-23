@@ -1,0 +1,187 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Miles Nielsen at The Basement (November 11, 2016)", 
+        "popularity": 0.000195, 
+        "venue": {
+            "displayName": "The Basement", 
+            "uri": "http://www.songkick.com/venues/11066-basement?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1370083, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.778447, 
+            "id": 11066
+        }, 
+        "uri": "http://www.songkick.com/concerts/28404869-miles-nielsen-at-basement?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-11T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.1370083, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.778447
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f940a33d-6664-4362-b056-b1c56351dd85", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f940a33d-6664-4362-b056-b1c56351dd85.json"
+                        }
+                    ], 
+                    "displayName": "Miles Nielsen", 
+                    "uri": "http://www.songkick.com/artists/1967239-miles-nielsen?utm_source=32233&utm_medium=partner", 
+                    "id": 1967239
+                }, 
+                "displayName": "Miles Nielsen", 
+                "id": 55219849, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28404869
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Miles Nielsen", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0001479751", 
+                    "id": "122a7298-99c8-4703-b959-d0d648684608"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1687294", 
+                    "id": "140cb7f7-7169-4c74-8670-277526f3f3bb"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/miles_nielsen", 
+                    "id": "9108535e-d826-4057-a7b0-9ffb08ee5903"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/milesnielsenmusic", 
+                    "id": "796795d4-f6a3-4a59-a449-86a1b09970df"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/artist/6zfhxtPILE8TVyWNdiR1OK", 
+                    "id": "ec1c37ad-8ff0-46fa-9218-e3f356f867ba"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Rockford", 
+            "disambiguation": "", 
+            "name": "Rockford", 
+            "id": "8b3205bc-1e33-425e-bcc3-88d015924e64"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Nielsen, Miles", 
+        "type": "Person", 
+        "id": "f940a33d-6664-4362-b056-b1c56351dd85", 
+        "disambiguation": ""
+    }, 
+    "id": 28404869, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Woodhouse (CAN) with Barbra Lica at Lula Lounge (December 18, 2016)", 
+        "popularity": 0.0001, 
+        "venue": {
+            "displayName": "Lula Lounge", 
+            "uri": "http://www.songkick.com/venues/34965-lula-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 43.649815, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.4345674, 
+            "id": 34965
+        }, 
+        "uri": "http://www.songkick.com/concerts/28460629-woodhouse-can-at-lula-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-18", 
+            "datetime": "2016-12-18T18:30:00-0500", 
+            "time": "18:30:00"
+        }, 
+        "location": {
+            "lat": 43.649815, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.4345674
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Woodhouse (CAN)", 
+                    "uri": "http://www.songkick.com/artists/8368763-woodhouse-can?utm_source=32233&utm_medium=partner", 
+                    "id": 8368763
+                }, 
+                "displayName": "The Woodhouse (CAN)", 
+                "id": 55313759, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3dae8f71-ac30-46ad-a7b1-9d7c4353cba3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3dae8f71-ac30-46ad-a7b1-9d7c4353cba3.json"
+                        }
+                    ], 
+                    "displayName": "Barbra Lica", 
+                    "uri": "http://www.songkick.com/artists/6903544-barbra-lica?utm_source=32233&utm_medium=partner", 
+                    "id": 6903544
+                }, 
+                "displayName": "Barbra Lica", 
+                "id": 55313764, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28460629
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "id": 28460629, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

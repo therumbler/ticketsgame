@@ -1,0 +1,270 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Sunflower Bean with The Lemon Twigs and American Wrestlers at Exit/In (November 9, 2016)", 
+        "popularity": 0.003076, 
+        "venue": {
+            "displayName": "Exit/In", 
+            "uri": "http://www.songkick.com/venues/35919-exitin?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1513349, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.8042602, 
+            "id": 35919
+        }, 
+        "uri": "http://www.songkick.com/concerts/27778184-sunflower-bean-at-exitin?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 36.1513349, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.8042602
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e8160bb0-f4ba-4577-9e82-04d8f7ddcca4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e8160bb0-f4ba-4577-9e82-04d8f7ddcca4.json"
+                        }
+                    ], 
+                    "displayName": "Sunflower Bean", 
+                    "uri": "http://www.songkick.com/artists/7213264-sunflower-bean?utm_source=32233&utm_medium=partner", 
+                    "id": 7213264
+                }, 
+                "displayName": "Sunflower Bean", 
+                "id": 54109784, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f32d94e8-8d55-4ee2-9077-53d1c024a03b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f32d94e8-8d55-4ee2-9077-53d1c024a03b.json"
+                        }
+                    ], 
+                    "displayName": "The Lemon Twigs", 
+                    "uri": "http://www.songkick.com/artists/8344013-lemon-twigs?utm_source=32233&utm_medium=partner", 
+                    "id": 8344013
+                }, 
+                "displayName": "The Lemon Twigs", 
+                "id": 54672094, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "097bfec9-712a-4d8c-a660-61fbdc8ffbd8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:097bfec9-712a-4d8c-a660-61fbdc8ffbd8.json"
+                        }
+                    ], 
+                    "displayName": "American Wrestlers", 
+                    "uri": "http://www.songkick.com/artists/8363078-american-wrestlers?utm_source=32233&utm_medium=partner", 
+                    "id": 8363078
+                }, 
+                "displayName": "American Wrestlers", 
+                "id": 54674604, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27778184
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Sunflower Bean", 
+        "area": {
+            "sort-name": "Manhattan", 
+            "disambiguation": "", 
+            "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0", 
+            "name": "Manhattan"
+        }, 
+        "gender": null, 
+        "twitter": "Sunflower_Bean", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://sunflowerbean.bandcamp.com/", 
+                    "id": "cb95ce96-85ac-4e14-93b9-401de847909d"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://sunflowerbeanband.tumblr.com/", 
+                    "id": "fb02003e-2ff1-40eb-b981-7d4ca09e087c"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4221227", 
+                    "id": "a4954e86-af9d-4c92-bc64-798b18e002e4"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/Sunflower_Bean", 
+                    "id": "d2d1e1cc-2eb4-46bc-852c-e6555489a058"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/SunflowerBean", 
+                    "id": "6ac4fdbb-9c1e-4101-b255-aec6716c3c82"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/sunflowerbean/", 
+                    "id": "3792845a-4788-4ca3-82c4-d4a8e6c9a0d8"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/sunflower-bean#_=_", 
+                    "id": "10e2c131-3ea3-4f6d-8879-4e26c755dc84"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/sunflowerbeanmusic", 
+                    "id": "78b360af-121e-43bc-b6c8-50beb097326f"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": "2013-08", 
+            "end": null
+        }, 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Manhattan", 
+            "disambiguation": "", 
+            "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0", 
+            "name": "Manhattan"
+        }, 
+        "sort-name": "Sunflower Bean", 
+        "country": null, 
+        "id": "e8160bb0-f4ba-4577-9e82-04d8f7ddcca4", 
+        "ipis": [], 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 27778184, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

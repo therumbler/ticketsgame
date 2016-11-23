@@ -1,0 +1,150 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Naked Giants at Neumos Crystal Ball Reading Room (December 30, 2016)", 
+        "popularity": 6.5e-05, 
+        "venue": {
+            "displayName": "Neumos Crystal Ball Reading Room", 
+            "uri": "http://www.songkick.com/venues/1163-neumos-crystal-ball-reading-room?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6140125, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3200355, 
+            "id": 1163
+        }, 
+        "uri": "http://www.songkick.com/concerts/28592484-naked-giants-at-neumos-crystal-ball-reading-room?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-30", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 47.6140125, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3200355
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Naked Giants", 
+                "id": 55542664, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0b183251-c4a7-47ab-87b4-4cc0e50dfe95", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0b183251-c4a7-47ab-87b4-4cc0e50dfe95.json"
+                        }
+                    ], 
+                    "displayName": "Naked Giants", 
+                    "uri": "http://www.songkick.com/artists/8159658-naked-giants?utm_source=32233&utm_medium=partner", 
+                    "id": 8159658
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28592484
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Naked Giants", 
+        "twitter": "nakedgiants", 
+        "area": {
+            "sort-name": "Seattle", 
+            "disambiguation": "", 
+            "name": "Seattle", 
+            "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc"
+        }, 
+        "country": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "isnis": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "url": {
+                    "resource": "http://nakedgiants.bandcamp.com/", 
+                    "id": "b520a1b1-e8b5-46d0-93e7-cf211711a9c7"
+                }, 
+                "target-type": "url", 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "url": {
+                    "resource": "https://twitter.com/nakedgiants", 
+                    "id": "ef0e8a4f-4bda-40f5-ad17-651724689794"
+                }, 
+                "target-type": "url", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/NKDGNTS", 
+                    "id": "3b980ca0-f34d-44b3-b4d8-8c83848077e4"
+                }, 
+                "end": null, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "0b183251-c4a7-47ab-87b4-4cc0e50dfe95", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Naked Giants", 
+        "type": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "age_minutes": 0, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }, 
+    "modified_time": 1479487046.0, 
+    "id": 28592484
+}

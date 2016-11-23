@@ -1,0 +1,108 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 1.2e-05, 
+        "displayName": "Michael Wagner at Rockwood Music Hall (November 18, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Rockwood Music Hall", 
+            "uri": "http://www.songkick.com/venues/34514-rockwood-music-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7224278, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9886921, 
+            "id": 34514
+        }, 
+        "uri": "http://www.songkick.com/concerts/28513944-michael-wagner-at-rockwood-music-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 40.7224278, 
+            "city": "New York, NY, US", 
+            "lng": -73.9886921
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3fd31a1a-0087-4ef6-8f5e-4dbc5af08b8b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3fd31a1a-0087-4ef6-8f5e-4dbc5af08b8b.json"
+                        }
+                    ], 
+                    "displayName": "Michael Wagner", 
+                    "uri": "http://www.songkick.com/artists/916005-michael-wagner?utm_source=32233&utm_medium=partner", 
+                    "id": 916005
+                }, 
+                "displayName": "Michael Wagner", 
+                "id": 55406819, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28513944
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "gender": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Michael Wagner", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "country": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/260914", 
+                    "id": "96de90e2-5b7e-4b50-bb57-c5ee8b814485"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Wagner, Michael", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "isnis": [], 
+        "type": "Person", 
+        "id": "3fd31a1a-0087-4ef6-8f5e-4dbc5af08b8b"
+    }, 
+    "id": 28513944, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

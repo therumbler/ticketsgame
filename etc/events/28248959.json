@@ -1,0 +1,169 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Haybaby and Leapling with Holy Tunics and Fern Mayo at Shea Stadium BK (November 12, 2016)", 
+        "popularity": 0.000442, 
+        "venue": {
+            "displayName": "Shea Stadium BK", 
+            "uri": "http://www.songkick.com/venues/2452639-shea-stadium-bk?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7105321, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9364203, 
+            "id": 2452639
+        }, 
+        "uri": "http://www.songkick.com/concerts/28248959-haybaby-at-shea-stadium-bk?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-12T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7105321, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9364203
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "baf9a456-531c-4d08-aee3-3a0a06ebc126", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:baf9a456-531c-4d08-aee3-3a0a06ebc126.json"
+                        }
+                    ], 
+                    "displayName": "Haybaby", 
+                    "uri": "http://www.songkick.com/artists/4400948-haybaby?utm_source=32233&utm_medium=partner", 
+                    "id": 4400948
+                }, 
+                "displayName": "Haybaby", 
+                "id": 54946974, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "028b9e2e-4265-44cd-be01-56e1d2b5648e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:028b9e2e-4265-44cd-be01-56e1d2b5648e.json"
+                        }
+                    ], 
+                    "displayName": "Leapling", 
+                    "uri": "http://www.songkick.com/artists/5777949-leapling?utm_source=32233&utm_medium=partner", 
+                    "id": 5777949
+                }, 
+                "displayName": "Leapling", 
+                "id": 54946979, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Holy Tunics", 
+                    "uri": "http://www.songkick.com/artists/8327498-holy-tunics?utm_source=32233&utm_medium=partner", 
+                    "id": 8327498
+                }, 
+                "displayName": "Holy Tunics", 
+                "id": 54946984, 
+                "billing": "support", 
+                "billingIndex": 3
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Fern Mayo", 
+                    "uri": "http://www.songkick.com/artists/8237693-fern-mayo?utm_source=32233&utm_medium=partner", 
+                    "id": 8237693
+                }, 
+                "displayName": "Fern Mayo", 
+                "id": 54946989, 
+                "billing": "support", 
+                "billingIndex": 4
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28248959
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Haybaby", 
+        "area": {
+            "sort-name": "Brooklyn", 
+            "disambiguation": "", 
+            "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c", 
+            "name": "Brooklyn"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://haybabyband.com/", 
+                    "id": "42f1b827-9c33-403f-9815-7185351d4598"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/haybabyband", 
+                    "id": "2a519b91-89a2-4187-8427-dd3dc8231458"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Haybaby", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "type": "Group", 
+        "id": "baf9a456-531c-4d08-aee3-3a0a06ebc126", 
+        "disambiguation": ""
+    }, 
+    "id": 28248959, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

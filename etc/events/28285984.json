@@ -1,0 +1,148 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Robby Ameen at Subrosa (November 14, 2016)", 
+        "popularity": 2.2e-05, 
+        "venue": {
+            "displayName": "Subrosa", 
+            "uri": "http://www.songkick.com/venues/2822288-subrosa?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7395553, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -74.007366, 
+            "id": 2822288
+        }, 
+        "uri": "http://www.songkick.com/concerts/28285984-robby-ameen-at-subrosa?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-14", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-14T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7395553, 
+            "city": "New York, NY, US", 
+            "lng": -74.007366
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4dcd302a-b6df-44e0-8c86-4255f19e489e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4dcd302a-b6df-44e0-8c86-4255f19e489e.json"
+                        }
+                    ], 
+                    "displayName": "Robby Ameen", 
+                    "uri": "http://www.songkick.com/artists/1106301-robby-ameen?utm_source=32233&utm_medium=partner", 
+                    "id": 1106301
+                }, 
+                "displayName": "Robby Ameen", 
+                "id": 55010084, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28285984
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Robbie Ameen", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000230556", 
+                    "id": "238a1795-375c-4e48-9bae-9e66f0ec1d28"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/417654", 
+                    "id": "2e610f4c-72cf-4d12-83e1-b09aee247170"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/robbyameen", 
+                    "id": "fec57731-24c4-4c0b-8e9f-5697d9d9bcd5"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Ameen, Robbie", 
+        "type": "Person", 
+        "id": "4dcd302a-b6df-44e0-8c86-4255f19e489e", 
+        "disambiguation": ""
+    }, 
+    "id": 28285984, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

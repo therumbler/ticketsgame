@@ -1,0 +1,297 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Lee Foss with Rez at Flash (November 9, 2016)", 
+        "popularity": 0.005062, 
+        "venue": {
+            "displayName": "Flash", 
+            "uri": "http://www.songkick.com/venues/2382729-flash?utm_source=32233&utm_medium=partner", 
+            "lat": 38.916281, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.021369, 
+            "id": 2382729
+        }, 
+        "uri": "http://www.songkick.com/concerts/28033414-lee-foss-at-flash?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-09T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.916281, 
+            "city": "Washington, DC, US", 
+            "lng": -77.021369
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ec6477a4-94e4-43ac-b6dc-b205e38a6a6e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ec6477a4-94e4-43ac-b6dc-b205e38a6a6e.json"
+                        }
+                    ], 
+                    "displayName": "Lee Foss", 
+                    "uri": "http://www.songkick.com/artists/628222-lee-foss?utm_source=32233&utm_medium=partner", 
+                    "id": 628222
+                }, 
+                "displayName": "Lee Foss", 
+                "id": 54572544, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e70674e8-9ad9-4fde-8e21-128e5661944e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e70674e8-9ad9-4fde-8e21-128e5661944e.json"
+                        }, 
+                        {
+                            "mbid": "39951d27-dfd1-4925-b85b-8afb4bcbefa1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:39951d27-dfd1-4925-b85b-8afb4bcbefa1.json"
+                        }, 
+                        {
+                            "mbid": "b88546e8-e3dc-4b09-854d-0ed6f7460144", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b88546e8-e3dc-4b09-854d-0ed6f7460144.json"
+                        }
+                    ], 
+                    "displayName": "Rez", 
+                    "uri": "http://www.songkick.com/artists/263505-rez?utm_source=32233&utm_medium=partner", 
+                    "id": 263505
+                }, 
+                "displayName": "Rez", 
+                "id": 55166994, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28033414
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Lee Foss", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Chicago", 
+            "disambiguation": "", 
+            "id": "29a709d8-0320-493e-8d0c-f2c386662b7f", 
+            "name": "Chicago"
+        }, 
+        "gender": "Male", 
+        "twitter": "leefossmusic", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002527899", 
+                    "id": "166c58e2-d0ab-4026-b584-f66976644a1b"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1546934", 
+                    "id": "2eb78ed5-11fb-40e2-9134-b24873b2a629"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Lee%20Foss", 
+                    "id": "422aa477-d4c0-44fc-a5b3-476d3fda8660"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/leefoss", 
+                    "id": "eabaee80-7e2c-4419-ae61-bc695e97ba5f"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/lee_foss", 
+                    "id": "d2f2cde6-417d-42f6-a950-2ca03afed569"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/leefossmusic", 
+                    "id": "0a4e6996-ad52-4ccb-9892-2c55b19ab80c"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/leefossofficial/info", 
+                    "id": "c39ea5cc-a789-4406-8d06-091961cc94c7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/leefoss", 
+                    "id": "c3d6fcf1-7bd0-4bb0-aebe-f6e637df6163"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q12324127", 
+                    "id": "7e1096eb-420c-48d1-b527-b194243dba10"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/HotCreationsMusic", 
+                    "id": "911ef7d1-c50c-4b62-8633-1304f22c9da9"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00698375772"
+        ], 
+        "end_area": null, 
+        "sort-name": "Foss, Lee", 
+        "begin_area": {
+            "sort-name": "DeKalb", 
+            "disambiguation": "", 
+            "id": "f3742196-47f6-4e1f-ac28-dcdb83437a24", 
+            "name": "DeKalb"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "id": "ec6477a4-94e4-43ac-b6dc-b205e38a6a6e", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 28033414, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

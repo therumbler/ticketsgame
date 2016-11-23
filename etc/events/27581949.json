@@ -1,0 +1,319 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Alex G with LVL UP and Brandon Can't Dance at Subterranean (November 11, 2016)", 
+        "popularity": 0.003223, 
+        "venue": {
+            "displayName": "Subterranean", 
+            "uri": "http://www.songkick.com/venues/262-subterranean?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9104085, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.677996, 
+            "id": 262
+        }, 
+        "uri": "http://www.songkick.com/concerts/27581949-alex-g-at-subterranean?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-11T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.9104085, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.677996
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7df4c4de-3181-4a69-bd36-9d663970cebb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7df4c4de-3181-4a69-bd36-9d663970cebb.json"
+                        }
+                    ], 
+                    "displayName": "Alex G", 
+                    "uri": "http://www.songkick.com/artists/8670199-alex-g?utm_source=32233&utm_medium=partner", 
+                    "id": 8670199
+                }, 
+                "displayName": "Alex G", 
+                "id": 53751564, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f63e017a-bd02-4a4f-b64d-5316a99f8535", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f63e017a-bd02-4a4f-b64d-5316a99f8535.json"
+                        }
+                    ], 
+                    "displayName": "LVL UP", 
+                    "uri": "http://www.songkick.com/artists/5274578-lvl-up?utm_source=32233&utm_medium=partner", 
+                    "id": 5274578
+                }, 
+                "displayName": "LVL UP", 
+                "id": 53751569, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Brandon Can't Dance", 
+                    "uri": "http://www.songkick.com/artists/2901301-brandon-cant-dance?utm_source=32233&utm_medium=partner", 
+                    "id": 2901301
+                }, 
+                "displayName": "Brandon Can't Dance", 
+                "id": 53751574, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27581949
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Alex G", 
+        "area": {
+            "sort-name": "Philadelphia", 
+            "disambiguation": "", 
+            "name": "Philadelphia", 
+            "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2"
+        }, 
+        "gender": "Male", 
+        "twitter": "sandyalexg", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "acoustic"
+            }, 
+            {
+                "count": 1, 
+                "name": "bedroom pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "indie rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "lo fi"
+            }, 
+            {
+                "count": 1, 
+                "name": "sadcore"
+            }, 
+            {
+                "count": 1, 
+                "name": "singer-songwriter"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "Alex G", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/7df4c4de-3181-4a69-bd36-9d663970cebbhttp://www.bbc.co.uk/music/artists/7df4c4de-3181-4a69-bd36-9d663970cebb", 
+                    "id": "28096c91-998e-4db7-9c95-72fc02df1bc7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003292911", 
+                    "id": "4482a88d-9999-4017-be43-838bdf95c4f8"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://sandy.bandcamp.com/", 
+                    "id": "ff86509a-38a4-48d3-b0d9-981007aba529"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://sandyalexg.com/", 
+                    "id": "b91ec85f-84e5-45b3-a739-349bae2fcfd5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/sandyalexg", 
+                    "id": "73dab885-4e32-4a46-b41e-5f89042c7c32"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/sandyalexg", 
+                    "id": "dc9dd0de-93aa-4763-a92a-315d58fe1dac"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/7192394-sandy-alex-g", 
+                    "id": "b5bc6a8d-75d7-4227-9afc-a314839ac453"
+                }, 
+                "direction": "forward", 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs", 
+                    "id": "7e18226e-757c-443b-86c9-524fcf2777d7"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q20709155", 
+                    "id": "d208b201-796c-4e39-9684-032228309697"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Alex_G", 
+                    "id": "29deca04-cf21-444a-83d1-dfb505d40684"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": "1993", 
+            "end": null
+        }, 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "7df4c4de-3181-4a69-bd36-9d663970cebb", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "sort-name": "G, Alex", 
+        "ipis": [], 
+        "type": "Person", 
+        "disambiguation": "SANDY / Alex Giannascoli"
+    }, 
+    "id": 27581949, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

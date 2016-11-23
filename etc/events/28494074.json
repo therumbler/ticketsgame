@@ -1,0 +1,390 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Doctor P, Funtcase, and Diskord at Cervantes' Masterpiece Ballroom (December 8, 2016)", 
+        "popularity": 0.044801, 
+        "venue": {
+            "displayName": "Cervantes' Masterpiece Ballroom", 
+            "uri": "http://www.songkick.com/venues/5668-cervantes-masterpiece-ballroom?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7544946, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9785364, 
+            "id": 5668
+        }, 
+        "uri": "http://www.songkick.com/concerts/28494074-doctor-p-at-cervantes-masterpiece-ballroom?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-08", 
+            "datetime": "2016-12-08T21:00:00-0700", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 39.7544946, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9785364
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "569f11cd-2d27-40da-9b01-237f7837db77", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:569f11cd-2d27-40da-9b01-237f7837db77.json"
+                        }
+                    ], 
+                    "displayName": "Doctor P", 
+                    "uri": "http://www.songkick.com/artists/2884861-doctor-p?utm_source=32233&utm_medium=partner", 
+                    "id": 2884861
+                }, 
+                "displayName": "Doctor P", 
+                "id": 55371519, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "248b7591-8b81-4d7f-ba26-32cfbef23a62", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:248b7591-8b81-4d7f-ba26-32cfbef23a62.json"
+                        }
+                    ], 
+                    "displayName": "Funtcase", 
+                    "uri": "http://www.songkick.com/artists/2955211-funtcase?utm_source=32233&utm_medium=partner", 
+                    "id": 2955211
+                }, 
+                "displayName": "Funtcase", 
+                "id": 55371524, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "099a4984-9e15-47b1-b768-ca039d8db268", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:099a4984-9e15-47b1-b768-ca039d8db268.json"
+                        }, 
+                        {
+                            "mbid": "00f31eab-3b69-4a10-8d9e-abb5e2519c90", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:00f31eab-3b69-4a10-8d9e-abb5e2519c90.json"
+                        }
+                    ], 
+                    "displayName": "Diskord", 
+                    "uri": "http://www.songkick.com/artists/438419-diskord?utm_source=32233&utm_medium=partner", 
+                    "id": 438419
+                }, 
+                "displayName": "Diskord", 
+                "id": 55371529, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28494074
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Doctor P", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1986-04-09", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "dubstep"
+            }, 
+            {
+                "count": 1, 
+                "name": "electronic"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/569f11cd-2d27-40da-9b01-237f7837db77", 
+                    "id": "63a54e10-e647-4f06-b7af-de2b7dcc87cd"
+                }, 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002455548", 
+                    "id": "428fab24-1cb7-4eca-aa23-5437b80597c8"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1518574", 
+                    "id": "4df099bd-f410-4eb4-af17-ae1d8912f5b9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-11421/doctor-p/lyrics.html", 
+                    "id": "a8fa06ae-5076-44ab-b0d1-6644c51153f5"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/doctorpdubstep", 
+                    "id": "78ac27aa-b0b6-4d36-9cfa-6e567a068348"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/doctor_p", 
+                    "id": "436798b7-b65a-41dd-bc44-c8be1713b8ee"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/gb/artist/id337725870", 
+                    "id": "5b90598f-7bd6-4166-8002-a427d9192e99"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=Ajviuwms55ykdz7x53qycrstu3i", 
+                    "id": "6dc565f4-4fb1-46c1-9e2b-fa4982b7e9c3"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.beatport.com/artist/doctor-p/118450", 
+                    "id": "ca5fd6da-1acf-4ca5-bae5-4f598e22e6ac"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/doctorpcircus", 
+                    "id": "542310b6-44b2-4d4f-a2cb-956c53311409"
+                }, 
+                "direction": "forward", 
+                "begin": "2009-10-30", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/doctorpcircus", 
+                    "id": "d69987ac-2bd1-4616-b1ec-1a43fd29b46d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/doctorpcircus", 
+                    "id": "98f343e3-f139-4b21-809e-7be13d3640c2"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q21061", 
+                    "id": "d2fa437c-b02e-47d3-94eb-07e3f9ffa428"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Doctor_P", 
+                    "id": "bfa3bb36-0aeb-474f-b9ee-97334432c69b"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "569f11cd-2d27-40da-9b01-237f7837db77", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "GB", 
+        "sort-name": "Doctor P", 
+        "type": "Person", 
+        "twitter": "doctorpcircus", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15518, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": false, 
+        "price_min": false
+    }, 
+    "modified_time": 1479442383.0, 
+    "created_time": 1478566005.0, 
+    "modified_minutes": 911, 
+    "id": 28494074
+}

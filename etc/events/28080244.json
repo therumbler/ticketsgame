@@ -1,0 +1,106 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "SWMRS at Brighton Bar (November 13, 2016)", 
+        "popularity": 0.001143, 
+        "venue": {
+            "displayName": "Brighton Bar", 
+            "uri": "http://www.songkick.com/venues/10743-brighton-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 40.2845863, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9873435, 
+            "id": 10743
+        }, 
+        "uri": "http://www.songkick.com/concerts/28080244-swmrs-at-brighton-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "18:00:00", 
+            "datetime": "2016-11-13T18:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.2845863, 
+            "city": "Long Branch, NJ, US", 
+            "lng": -73.9873435
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e02ea2a6-b58e-4b6c-8538-5b1cf3bf2fe8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e02ea2a6-b58e-4b6c-8538-5b1cf3bf2fe8.json"
+                        }
+                    ], 
+                    "displayName": "SWMRS", 
+                    "uri": "http://www.songkick.com/artists/8683629-swmrs?utm_source=32233&utm_medium=partner", 
+                    "id": 8683629
+                }, 
+                "displayName": "SWMRS", 
+                "id": 54653139, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28080244
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "SWMRS", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://swmrs.com/", 
+                    "id": "7983d1cc-479b-45bd-80fe-99565b76fb16"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "SWMRS", 
+        "country": null, 
+        "id": "e02ea2a6-b58e-4b6c-8538-5b1cf3bf2fe8", 
+        "type": null, 
+        "disambiguation": "", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28080244, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

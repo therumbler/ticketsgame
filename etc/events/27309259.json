@@ -1,0 +1,141 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Metalachi at Stubb's BBQ - Indoors (December 2, 2016)", 
+        "popularity": 0.000541, 
+        "venue": {
+            "displayName": "Stubb's BBQ - Indoors", 
+            "uri": "http://www.songkick.com/venues/14630-stubbs-bbq-indoors?utm_source=32233&utm_medium=partner", 
+            "lat": 30.268569, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.736081, 
+            "id": 14630
+        }, 
+        "uri": "http://www.songkick.com/concerts/27309259-metalachi-at-stubbs-bbq-indoors?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 30.268569, 
+            "city": "Austin, TX, US", 
+            "lng": -97.736081
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cbe5d8bd-bd44-49e1-a4e8-f8ae5caa552b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cbe5d8bd-bd44-49e1-a4e8-f8ae5caa552b.json"
+                        }
+                    ], 
+                    "displayName": "Metalachi", 
+                    "uri": "http://www.songkick.com/artists/3139591-metalachi?utm_source=32233&utm_medium=partner", 
+                    "id": 3139591
+                }, 
+                "displayName": "Metalachi", 
+                "id": 53255129, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27309259
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Metalachi", 
+        "sort-name": "Metalachi", 
+        "gender": null, 
+        "twitter": "metalachi", 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/metalachi", 
+                    "id": "b91fae1f-fd24-4192-a5f6-297caadaed81"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Metalachi", 
+                    "id": "d15e1427-1ffe-4671-a2f4-b49fa675b6a5"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/Metalachi", 
+                    "id": "da744d08-739f-4789-87d8-054c8f610766"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "id": "cbe5d8bd-bd44-49e1-a4e8-f8ae5caa552b", 
+        "disambiguation": "", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": []
+    }, 
+    "id": 27309259, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

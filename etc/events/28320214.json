@@ -1,0 +1,126 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "DeafMind and Lil Clark at The Whiskey Bar (December 17, 2016)", 
+        "popularity": 0.000171, 
+        "venue": {
+            "displayName": "The Whiskey Bar", 
+            "uri": "http://www.songkick.com/venues/877846-whiskey-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5227428, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6713265, 
+            "id": 877846
+        }, 
+        "uri": "http://www.songkick.com/concerts/28320214-deafmind-at-whiskey-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-17", 
+            "time": "22:00:00", 
+            "datetime": "2016-12-17T22:00:00-0800"
+        }, 
+        "location": {
+            "lat": 45.5227428, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6713265
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3cf80ecc-263c-46c8-811e-988c8ffca653", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3cf80ecc-263c-46c8-811e-988c8ffca653.json"
+                        }
+                    ], 
+                    "displayName": "DeafMind", 
+                    "uri": "http://www.songkick.com/artists/7642814-deafmind?utm_source=32233&utm_medium=partner", 
+                    "id": 7642814
+                }, 
+                "displayName": "DeafMind", 
+                "id": 55072549, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Lil Clark", 
+                    "uri": "http://www.songkick.com/artists/7796744-lil-clark?utm_source=32233&utm_medium=partner", 
+                    "id": 7796744
+                }, 
+                "displayName": "Lil Clark", 
+                "id": 55072554, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28320214
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "DeafMind", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/wearedeafmind", 
+                    "id": "9ec30448-c03f-4504-a358-5a75407c9a41"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "DeafMind", 
+        "gender": null, 
+        "type": "Group", 
+        "id": "3cf80ecc-263c-46c8-811e-988c8ffca653", 
+        "disambiguation": "US trap/bass production/DJ duo"
+    }, 
+    "id": 28320214, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

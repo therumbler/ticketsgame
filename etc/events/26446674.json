@@ -1,0 +1,122 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Lucas Debargue at Benaroya Hall (November 18, 2016)", 
+        "popularity": 2.2e-05, 
+        "venue": {
+            "displayName": "Benaroya Hall", 
+            "uri": "http://www.songkick.com/venues/2952-benaroya-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 47.607827, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.337549, 
+            "id": 2952
+        }, 
+        "uri": "http://www.songkick.com/concerts/26446674-lucas-debargue-at-benaroya-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "12:00:00", 
+            "datetime": "2016-11-18T12:00:00-0800"
+        }, 
+        "location": {
+            "lat": 47.607827, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.337549
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8e0b2205-8053-4592-8968-d806d7be1abc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8e0b2205-8053-4592-8968-d806d7be1abc.json"
+                        }
+                    ], 
+                    "displayName": "Lucas Debargue", 
+                    "uri": "http://www.songkick.com/artists/8728409-lucas-debargue?utm_source=32233&utm_medium=partner", 
+                    "id": 8728409
+                }, 
+                "displayName": "Lucas Debargue", 
+                "id": 51647884, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26446674
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Lucas Debargue", 
+        "area": {
+            "sort-name": "France", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "FR"
+            ], 
+            "name": "France", 
+            "id": "08310658-51eb-3801-80de-5a0739207115"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1990-10-23", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q20744823", 
+                    "id": "3ee23374-1618-4685-b5a1-c45e0373a9a9"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Paris", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "FR-75"
+            ], 
+            "name": "Paris", 
+            "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "FR", 
+        "sort-name": "Debargue, Lucas", 
+        "type": "Person", 
+        "id": "8e0b2205-8053-4592-8968-d806d7be1abc", 
+        "disambiguation": "French pianist"
+    }, 
+    "id": 26446674, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Carter Hulsey with Dylan Dunlap at Uncommon Ground on Clark (November 13, 2016)", 
+        "popularity": 0.001046, 
+        "venue": {
+            "displayName": "Uncommon Ground on Clark", 
+            "uri": "http://www.songkick.com/venues/11158-uncommon-ground-on-clark?utm_source=32233&utm_medium=partner", 
+            "lat": 41.951253, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.660073, 
+            "id": 11158
+        }, 
+        "uri": "http://www.songkick.com/concerts/28378234-carter-hulsey-at-uncommon-ground-on-clark?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "18:00:00", 
+            "datetime": "2016-11-13T18:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.951253, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.660073
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e5bbd1cb-a6c2-4478-a798-c7e37c1311da", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e5bbd1cb-a6c2-4478-a798-c7e37c1311da.json"
+                        }
+                    ], 
+                    "displayName": "Carter Hulsey", 
+                    "uri": "http://www.songkick.com/artists/2595846-carter-hulsey?utm_source=32233&utm_medium=partner", 
+                    "id": 2595846
+                }, 
+                "displayName": "Carter Hulsey", 
+                "id": 55174244, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Dylan Dunlap", 
+                    "uri": "http://www.songkick.com/artists/6878464-dylan-dunlap?utm_source=32233&utm_medium=partner", 
+                    "id": 6878464
+                }, 
+                "displayName": "Dylan Dunlap", 
+                "id": 55174249, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28378234
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Carter Hulsey", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/carter-hulsey-lyrics", 
+                    "id": "18c11622-c0b1-4a19-a108-b917fb68d73c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Hulsey, Carter", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "id": "e5bbd1cb-a6c2-4478-a798-c7e37c1311da", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 28378234, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

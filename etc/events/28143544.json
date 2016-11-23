@@ -1,0 +1,285 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Pussy Riot with Shepard Fairey and Allison Wolfe at The Regent Theater (November 7, 2016)", 
+        "popularity": 0.00165, 
+        "venue": {
+            "displayName": "The Regent Theater", 
+            "uri": "http://www.songkick.com/venues/36035-regent-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 34.046981, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2478, 
+            "id": 36035
+        }, 
+        "uri": "http://www.songkick.com/concerts/28143544-pussy-riot-at-regent-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-07", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-07T19:30:00-0800"
+        }, 
+        "location": {
+            "lat": 34.046981, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2478
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "631e3bc5-428a-432b-87f7-5d357a007fc0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:631e3bc5-428a-432b-87f7-5d357a007fc0.json"
+                        }
+                    ], 
+                    "displayName": "Pussy Riot", 
+                    "uri": "http://www.songkick.com/artists/5387358-pussy-riot?utm_source=32233&utm_medium=partner", 
+                    "id": 5387358
+                }, 
+                "displayName": "Pussy Riot", 
+                "id": 54765564, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bcb4cde1-839d-43f4-919a-91f64d4b5bf0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bcb4cde1-839d-43f4-919a-91f64d4b5bf0.json"
+                        }
+                    ], 
+                    "displayName": "Shepard Fairey", 
+                    "uri": "http://www.songkick.com/artists/2379830-shepard-fairey?utm_source=32233&utm_medium=partner", 
+                    "id": 2379830
+                }, 
+                "displayName": "Shepard Fairey", 
+                "id": 55222794, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "6ae4e39e-45fc-4276-94cd-bf149c20f7b9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:6ae4e39e-45fc-4276-94cd-bf149c20f7b9.json"
+                        }
+                    ], 
+                    "displayName": "Allison Wolfe", 
+                    "uri": "http://www.songkick.com/artists/2950171-allison-wolfe?utm_source=32233&utm_medium=partner", 
+                    "id": 2950171
+                }, 
+                "displayName": "Allison Wolfe", 
+                "id": 55222799, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28143544
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Pussy Riot", 
+        "area": {
+            "sort-name": "Russia", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "RU"
+            ], 
+            "name": "Russia", 
+            "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef"
+        }, 
+        "country": "RU", 
+        "twitter": "pussyrrriot", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "feminist"
+            }, 
+            {
+                "count": 1, 
+                "name": "punk"
+            }, 
+            {
+                "count": 1, 
+                "name": "riot grrrl"
+            }, 
+            {
+                "count": 1, 
+                "name": "russian"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://pussyriots.bandcamp.com/", 
+                    "id": "1e489852-1bd1-4954-96be-ead21f693c13"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2823210", 
+                    "id": "29b614f1-5c96-40e0-92e8-69b24e4825f8"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-12074/pussy-riot/lyrics.html", 
+                    "id": "41060053-2689-4f5d-b9e5-bb55a091890c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/pussyrrriot", 
+                    "id": "3f619491-5237-4637-9735-5b2689044a48"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/PussyRiot", 
+                    "id": "4852ebfa-0139-46e0-bbb0-2528e1c7967b"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/pussy-riot", 
+                    "id": "d79c29b1-2245-4b67-bcab-42f3a3f4add6"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q7551", 
+                    "id": "9f4b52c3-075a-443d-8f0c-0597cf104c36"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Pussy_Riot", 
+                    "id": "1c74403e-54a4-4374-82da-33ca58b56efd"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Pussy Riot", 
+        "gender": null, 
+        "id": "631e3bc5-428a-432b-87f7-5d357a007fc0", 
+        "disambiguation": "Russian feminist punk-rock band", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2011", 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28143544, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

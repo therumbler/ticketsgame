@@ -1,0 +1,79 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Leon thomas lll with Laura Marano at Pepsi Center (February 2, 2017)", 
+        "popularity": 0.001625, 
+        "venue": {
+            "displayName": "Pepsi Center", 
+            "uri": "http://www.songkick.com/venues/497-pepsi-center?utm_source=32233&utm_medium=partner", 
+            "lat": 39.745565, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -105.010476, 
+            "id": 497
+        }, 
+        "uri": "http://www.songkick.com/concerts/28515274-leon-thomas-lll-at-pepsi-center?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-02", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 39.745565, 
+            "city": "Denver, CO, US", 
+            "lng": -105.010476
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Leon thomas lll", 
+                "id": 55409044, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Leon thomas lll", 
+                    "uri": "http://www.songkick.com/artists/8840554-leon-thomas-lll?utm_source=32233&utm_medium=partner", 
+                    "id": 8840554
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Laura Marano", 
+                "id": 55409049, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8cb1ccd9-5c5d-4aa9-b043-7048bf1e0f6e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8cb1ccd9-5c5d-4aa9-b043-7048bf1e0f6e.json"
+                        }
+                    ], 
+                    "displayName": "Laura Marano", 
+                    "uri": "http://www.songkick.com/artists/7476629-laura-marano?utm_source=32233&utm_medium=partner", 
+                    "id": 7476629
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28515274
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Rate limit exceeded"
+        ]
+    }, 
+    "id": 28515274, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

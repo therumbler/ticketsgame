@@ -1,0 +1,183 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Goddamn Gallows at Knitting Factory (November 8, 2016)", 
+        "popularity": 0.001034, 
+        "venue": {
+            "displayName": "Knitting Factory", 
+            "uri": "http://www.songkick.com/venues/664591-knitting-factory?utm_source=32233&utm_medium=partner", 
+            "lat": 40.714173, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9556651, 
+            "id": 664591
+        }, 
+        "uri": "http://www.songkick.com/concerts/27599259-goddamn-gallows-at-knitting-factory?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-08", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-08T20:30:00-0500"
+        }, 
+        "location": {
+            "lat": 40.714173, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9556651
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "89eb8924-fad2-401d-b812-c6c1b3ccba23", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:89eb8924-fad2-401d-b812-c6c1b3ccba23.json"
+                        }
+                    ], 
+                    "displayName": "Goddamn Gallows", 
+                    "uri": "http://www.songkick.com/artists/583676-goddamn-gallows?utm_source=32233&utm_medium=partner", 
+                    "id": 583676
+                }, 
+                "displayName": "Goddamn Gallows", 
+                "id": 53780544, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27599259
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Goddamn Gallows", 
+        "tags": [], 
+        "gender": null, 
+        "twitter": "GoddamnGallows", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1470757", 
+                    "id": "0416bf42-084a-46e6-b7bf-93e9883f78d9"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.thegoddamngallows.com/", 
+                    "id": "528cd9f1-1b9c-4560-bcdc-f8ffaea9fdb3"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/GoddamnGallows", 
+                    "id": "5a177c6d-33f3-4fb9-b60f-522a2daf07fc"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/goddamngallows", 
+                    "id": "761a9f83-45a6-4156-9685-d97ccaa91ef7"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/thegoddamngallowsofficial/", 
+                    "id": "0353df6d-40ed-4a32-8b63-1ed1f369f7ba"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "id": "89eb8924-fad2-401d-b812-c6c1b3ccba23", 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "Goddamn Gallows, The", 
+        "ipis": [], 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2004", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 27599259, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

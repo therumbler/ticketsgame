@@ -1,0 +1,236 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001261, 
+        "displayName": "Shoffy at The Roxy Theatre (November 16, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Roxy Theatre", 
+            "uri": "http://www.songkick.com/venues/1300-roxy-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 34.090712, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.387966, 
+            "id": 1300
+        }, 
+        "uri": "http://www.songkick.com/concerts/28552509-shoffy-at-roxy-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "datetime": "2016-11-16T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 34.090712, 
+            "city": "West Hollywood, CA, US", 
+            "lng": -118.387966
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "10d8e90d-2c32-4d45-b966-986f5d0f9fa5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:10d8e90d-2c32-4d45-b966-986f5d0f9fa5.json"
+                        }
+                    ], 
+                    "displayName": "Shoffy", 
+                    "uri": "http://www.songkick.com/artists/8668919-shoffy?utm_source=32233&utm_medium=partner", 
+                    "id": 8668919
+                }, 
+                "displayName": "Shoffy", 
+                "id": 55472479, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28552509
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "Shoffy", 
+        "twitter": "shoffymusic", 
+        "sort-name": "Shoffy", 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "isnis": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://shoffymusic.tumblr.com/", 
+                    "id": "6190afde-7fab-46b1-923d-83c2d0685fe7"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4536996", 
+                    "id": "57b4f953-ffe5-4303-9dcf-9dfe5b2f5cc6"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://shoffymusic.com/", 
+                    "id": "c45b390b-2852-486d-a5ad-c1ff823f0f59"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/shoffymusic/", 
+                    "id": "c14d6b0c-a6b4-4c7d-94e5-7580fefffd1a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/shoffymusic", 
+                    "id": "d7edd198-eeff-4b0b-8a0b-222e1633f3f3"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/shoffymusic", 
+                    "id": "c20432c4-49f8-4f8a-a3a0-fe9701520fb9"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/shoffymusic", 
+                    "id": "ff955d22-f7bc-40c1-96ff-8350d2dc04d0"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/ShoffyMusic", 
+                    "id": "ddacb1a1-dc89-42ba-9dab-040608a8e07d"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "id": "10d8e90d-2c32-4d45-b966-986f5d0f9fa5", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "tags": []
+    }, 
+    "id": 28552509, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

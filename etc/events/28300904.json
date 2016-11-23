@@ -1,0 +1,203 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Fake Limbs with Beat Drun Juel at The Empty Bottle (November 23, 2016)", 
+        "popularity": 3.4e-05, 
+        "venue": {
+            "displayName": "The Empty Bottle", 
+            "uri": "http://www.songkick.com/venues/251-empty-bottle?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9003921, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6867877, 
+            "id": 251
+        }, 
+        "uri": "http://www.songkick.com/concerts/28300904-fake-limbs-at-empty-bottle?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-23", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-23T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.9003921, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6867877
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "df1351ed-11d0-4a3b-b45c-61d94fdb48e4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:df1351ed-11d0-4a3b-b45c-61d94fdb48e4.json"
+                        }
+                    ], 
+                    "displayName": "Fake Limbs", 
+                    "uri": "http://www.songkick.com/artists/4661523-fake-limbs?utm_source=32233&utm_medium=partner", 
+                    "id": 4661523
+                }, 
+                "displayName": "Fake Limbs", 
+                "id": 55036679, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Beat Drun Juel", 
+                    "uri": "http://www.songkick.com/artists/8108833-beat-drun-juel?utm_source=32233&utm_medium=partner", 
+                    "id": 8108833
+                }, 
+                "displayName": "Beat Drun Juel", 
+                "id": 55070109, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28300904
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Fake Limbs", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "sort-name": "Fake Limbs", 
+        "gender": null, 
+        "disambiguation": "", 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://fakelimbs.bandcamp.com/", 
+                    "id": "0d422a16-2da2-474c-a8a4-5d1e5c58b717"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2741516", 
+                    "id": "f7bb587f-0756-42ad-8d9a-d4846c18d2b9"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.fakelimbs.com/", 
+                    "id": "ad64e068-e193-4621-a70f-fe19a0c3511f"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id510071443", 
+                    "id": "f9c72d47-f523-4644-b565-f3d27412e465"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/fakelimbs", 
+                    "id": "58f833e0-88b1-48b0-83e2-d82986b47011"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/0YSfXTOMewQWSaQgfDsl2I", 
+                    "id": "ab45f986-37af-4d20-b327-88fddb52d336"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "type": "Group", 
+        "id": "df1351ed-11d0-4a3b-b45c-61d94fdb48e4", 
+        "tags": []
+    }, 
+    "id": 28300904, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

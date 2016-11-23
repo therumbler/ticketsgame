@@ -1,0 +1,111 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Trinity River Band and Volume Five at Sheraton Music City Hotel (February 4, 2017)", 
+        "popularity": 6e-05, 
+        "venue": {
+            "displayName": "Sheraton Music City Hotel", 
+            "uri": "http://www.songkick.com/venues/288266-sheraton-music-city-hotel?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1448622, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.6831796, 
+            "id": 288266
+        }, 
+        "uri": "http://www.songkick.com/concerts/27852119-trinity-river-band-at-sheraton-music-city-hotel?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-04", 
+            "time": "19:00:00", 
+            "datetime": "2017-02-04T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.1448622, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.6831796
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Trinity River Band", 
+                    "uri": "http://www.songkick.com/artists/6694044-trinity-river-band?utm_source=32233&utm_medium=partner", 
+                    "id": 6694044
+                }, 
+                "displayName": "Trinity River Band", 
+                "id": 54244369, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2b9970e9-abc2-4bfd-a428-7c28bafb63fb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2b9970e9-abc2-4bfd-a428-7c28bafb63fb.json"
+                        }
+                    ], 
+                    "displayName": "Volume Five", 
+                    "uri": "http://www.songkick.com/artists/5432308-volume-five?utm_source=32233&utm_medium=partner", 
+                    "id": 5432308
+                }, 
+                "displayName": "Volume Five", 
+                "id": 54244374, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27852119
+    }, 
+    "bandsintown_response": [
+        {
+            "description": "43rd Annual SPBGMA Bluegrass Music Awards & 34th National Convention", 
+            "title": "Trinity River Band @ Sheraton Music City Hotel in Nashville, TN", 
+            "ticket_type": null, 
+            "venue": {
+                "city": "Nashville", 
+                "name": "Sheraton Music City Hotel", 
+                "country": "United States", 
+                "region": "TN", 
+                "longitude": -86.683284, 
+                "place": "Sheraton Music City Hotel", 
+                "latitude": 36.144873
+            }, 
+            "facebook_rsvp_url": "http://www.bandsintown.com/event/12733492?app_id=ticketsgame&artist=Trinity+River+Band&came_from=67", 
+            "ticket_url": null, 
+            "on_sale_datetime": null, 
+            "formatted_datetime": "Saturday, February 4, 2017 at 7:00PM", 
+            "datetime": "2017-02-04T19:00:00", 
+            "formatted_location": "Nashville, TN", 
+            "artists": [
+                {
+                    "website": null, 
+                    "facebook_page_url": "https://www.facebook.com/TrinityRiverBand/", 
+                    "name": "Trinity River Band", 
+                    "url": "TrinityRiverBand", 
+                    "tracker_count": 1580, 
+                    "mbid": null, 
+                    "image_url": "https://s3.amazonaws.com/bit-photos/large/7020778.jpeg", 
+                    "facebook_tour_dates_url": "http://www.bandsintown.com/TrinityRiverBand/facebookapp?came_from=67", 
+                    "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/7020778.jpeg"
+                }
+            ], 
+            "ticket_status": "unavailable", 
+            "id": 12733492
+        }
+    ], 
+    "id": 27852119, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

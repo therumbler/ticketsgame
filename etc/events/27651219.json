@@ -1,0 +1,116 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "J Metro at Capone's Bar and Oven (November 19, 2016)", 
+        "popularity": 2e-05, 
+        "venue": {
+            "displayName": "Capone's Bar and Oven", 
+            "uri": "http://www.songkick.com/venues/1017996-capones-bar-and-oven?utm_source=32233&utm_medium=partner", 
+            "lat": 29.7339997, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.4152474, 
+            "id": 1017996
+        }, 
+        "uri": "http://www.songkick.com/concerts/27651219-j-metro-at-capones-bar-and-oven?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-19T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 29.7339997, 
+            "city": "Houston, TX, US", 
+            "lng": -95.4152474
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "acecdef0-fc5c-4dcf-8b12-aa9d5f5d4511", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:acecdef0-fc5c-4dcf-8b12-aa9d5f5d4511.json"
+                        }
+                    ], 
+                    "displayName": "J Metro", 
+                    "uri": "http://www.songkick.com/artists/6311089-j-metro?utm_source=32233&utm_medium=partner", 
+                    "id": 6311089
+                }, 
+                "displayName": "J Metro", 
+                "id": 53877004, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27651219
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "J Metro", 
+        "area": {
+            "sort-name": "Houston", 
+            "disambiguation": "", 
+            "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b", 
+            "name": "Houston"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1984-04-18", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.jmetromusic.com/", 
+                    "id": "1eda4c10-5c24-4c6f-8179-cf019a4e853a"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Houston", 
+            "disambiguation": "", 
+            "name": "Houston", 
+            "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b"
+        }, 
+        "sort-name": "J Metro", 
+        "country": null, 
+        "disambiguation": "", 
+        "type": "Person", 
+        "id": "acecdef0-fc5c-4dcf-8b12-aa9d5f5d4511", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 27651219, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

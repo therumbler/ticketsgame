@@ -1,0 +1,270 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Wheel Workers at Last Concert Cafe (November 20, 2016)", 
+        "popularity": 8.4e-05, 
+        "venue": {
+            "displayName": "Last Concert Cafe", 
+            "uri": "http://www.songkick.com/venues/179678-last-concert-cafe?utm_source=32233&utm_medium=partner", 
+            "lat": 29.7682073, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.3531964, 
+            "id": 179678
+        }, 
+        "uri": "http://www.songkick.com/concerts/28461199-wheel-workers-at-last-concert-cafe?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-20", 
+            "datetime": "2016-11-20T18:00:00-0600", 
+            "time": "18:00:00"
+        }, 
+        "location": {
+            "lat": 29.7682073, 
+            "city": "Houston, TX, US", 
+            "lng": -95.3531964
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bbd18d3e-00d8-437c-aa33-2fc0f59a1239", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bbd18d3e-00d8-437c-aa33-2fc0f59a1239.json"
+                        }
+                    ], 
+                    "displayName": "The Wheel Workers", 
+                    "uri": "http://www.songkick.com/artists/3273996-wheel-workers?utm_source=32233&utm_medium=partner", 
+                    "id": 3273996
+                }, 
+                "displayName": "The Wheel Workers", 
+                "id": 55314794, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28461199
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Wheel Workers", 
+        "area": {
+            "sort-name": "Houston", 
+            "disambiguation": "", 
+            "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b", 
+            "name": "Houston"
+        }, 
+        "gender": null, 
+        "twitter": "thewheelworkers", 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002958425", 
+                    "id": "355ed327-05c2-4f4f-accc-0ba68940543a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thewheelworkers.bandcamp.com/", 
+                    "id": "b9f75494-0941-435d-adb8-b07c10ecaa0f"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/The%20Wheel%20Workers", 
+                    "id": "97fd7da3-872e-4d13-8f6d-e29e167d451c"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.thewheelworkers.com/", 
+                    "id": "50b8bdd6-cf88-452a-b9fd-0ce914313393"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/the_wheel_workers", 
+                    "id": "e9fab7dd-30df-44b0-af2d-02cf83353fb3"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id412551344", 
+                    "id": "be762c76-3406-4832-ae85-fdcba1d38021"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.amazon.com/-/e/B0068898EM", 
+                    "id": "ae3c6801-244f-4633-bf5e-76a9eb6cba78"
+                }, 
+                "direction": "forward", 
+                "type-id": "611b1862-67af-4253-a64f-34adba305d1d", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for mail-order", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/thewheelworkers", 
+                    "id": "b53d9ba0-f597-46bb-80c2-4b7de89da3cb"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/thewheelworkers", 
+                    "id": "b8d859fc-0a41-4829-ada4-aaf56f39cf6b"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/thewheelworkers", 
+                    "id": "7a1bba04-6e1d-4dbc-81ab-1f972f22a60f"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Houston", 
+            "disambiguation": "", 
+            "name": "Houston", 
+            "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b"
+        }, 
+        "sort-name": "Wheel Workers, The", 
+        "country": null, 
+        "id": "bbd18d3e-00d8-437c-aa33-2fc0f59a1239", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2010-06-10", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28461199, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

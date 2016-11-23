@@ -1,0 +1,117 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Demun Jones at Mesa Theater & Club (January 21, 2017)", 
+        "popularity": 0.000368, 
+        "venue": {
+            "displayName": "Mesa Theater & Club", 
+            "uri": "http://www.songkick.com/venues/13541-mesa-theater-and-club?utm_source=32233&utm_medium=partner", 
+            "lat": 39.0675168, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -108.5635473, 
+            "id": 13541
+        }, 
+        "uri": "http://www.songkick.com/concerts/28437804-demun-jones-at-mesa-theater-and-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-21", 
+            "time": "20:00:00", 
+            "datetime": "2017-01-21T20:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.0675168, 
+            "city": "Grand Junction, CO, US", 
+            "lng": -108.5635473
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "fd46bf8c-fcba-4a87-a08d-47ceaa15560d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fd46bf8c-fcba-4a87-a08d-47ceaa15560d.json"
+                        }
+                    ], 
+                    "displayName": "Demun Jones", 
+                    "uri": "http://www.songkick.com/artists/337498-demun-jones?utm_source=32233&utm_medium=partner", 
+                    "id": 337498
+                }, 
+                "displayName": "Demun Jones", 
+                "id": 55275144, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28437804
+    }, 
+    "musicbrainz_response": {
+        "name": "Demun Jones", 
+        "area": {
+            "sort-name": "Atlanta", 
+            "disambiguation": "", 
+            "name": "Atlanta", 
+            "id": "26e0e534-19ea-4645-bfb3-1aa4e83a4046"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.demunjones.com/", 
+                    "id": "3f4af514-2df5-4369-8ef3-441b7744265d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "sort-name": "Jones, Demun", 
+        "type": "Person", 
+        "id": "fd46bf8c-fcba-4a87-a08d-47ceaa15560d", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15512, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 60.0, 
+        "price_min": 12.0
+    }, 
+    "modified_time": 1479442516.0, 
+    "created_time": 1478566006.0, 
+    "modified_minutes": 903, 
+    "id": 28437804
+}

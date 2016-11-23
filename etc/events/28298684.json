@@ -1,0 +1,90 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "21+", 
+        "displayName": "DINNER\u00ae, Family Fun, and Land Band at Hank's Saloon (November 11, 2016)", 
+        "popularity": 2.1e-05, 
+        "venue": {
+            "displayName": "Hank's Saloon", 
+            "uri": "http://www.songkick.com/venues/120685-hanks-saloon?utm_source=32233&utm_medium=partner", 
+            "lat": 40.6852443, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9809715, 
+            "id": 120685
+        }, 
+        "uri": "http://www.songkick.com/concerts/28298684-dinnerr-at-hanks-saloon?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-11T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.6852443, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9809715
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "DINNER\u00ae", 
+                    "uri": "http://www.songkick.com/artists/8455978-dinnerr?utm_source=32233&utm_medium=partner", 
+                    "id": 8455978
+                }, 
+                "displayName": "DINNER\u00ae", 
+                "id": 55033424, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8d9823e7-b275-4f02-b25b-3c0ea7fba493", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8d9823e7-b275-4f02-b25b-3c0ea7fba493.json"
+                        }
+                    ], 
+                    "displayName": "Family Fun", 
+                    "uri": "http://www.songkick.com/artists/2969211-family-fun?utm_source=32233&utm_medium=partner", 
+                    "id": 2969211
+                }, 
+                "displayName": "Family Fun", 
+                "id": 55033434, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Land Band", 
+                    "uri": "http://www.songkick.com/artists/8764199-land-band?utm_source=32233&utm_medium=partner", 
+                    "id": 8764199
+                }, 
+                "displayName": "Land Band", 
+                "id": 55033439, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28298684
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "id": 28298684, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

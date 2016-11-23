@@ -1,0 +1,148 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000371, 
+        "displayName": "Jess Williamson with Mega Bog and Buck Meek at The Footlight Bar (November 18, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Footlight Bar", 
+            "uri": "http://www.songkick.com/venues/3426039-footlight-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7061007, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9128119, 
+            "id": 3426039
+        }, 
+        "uri": "http://www.songkick.com/concerts/28416889-jess-williamson-at-footlight-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "datetime": "2016-11-18T20:30:00-0500", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 40.7061007, 
+            "city": "Queens, NY, US", 
+            "lng": -73.9128119
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Jess Williamson", 
+                "id": 55240744, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "47f9c144-02dd-4c87-9be1-7bc945ac5544", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:47f9c144-02dd-4c87-9be1-7bc945ac5544.json"
+                        }
+                    ], 
+                    "displayName": "Jess Williamson", 
+                    "uri": "http://www.songkick.com/artists/2827511-jess-williamson?utm_source=32233&utm_medium=partner", 
+                    "id": 2827511
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Mega Bog", 
+                "id": 55308294, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4343ece5-c46d-4457-a580-ef1cefa9546d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4343ece5-c46d-4457-a580-ef1cefa9546d.json"
+                        }
+                    ], 
+                    "displayName": "Mega Bog", 
+                    "uri": "http://www.songkick.com/artists/4239051-mega-bog?utm_source=32233&utm_medium=partner", 
+                    "id": 4239051
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Buck Meek", 
+                "id": 55308299, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Buck Meek", 
+                    "uri": "http://www.songkick.com/artists/7313854-buck-meek?utm_source=32233&utm_medium=partner", 
+                    "id": 7313854
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28416889
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Jess Williamson", 
+        "area": {
+            "sort-name": "Austin", 
+            "disambiguation": "", 
+            "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5", 
+            "name": "Austin"
+        }, 
+        "gender": "Female", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://jesswilliamson.com/", 
+                    "id": "56101a2f-3697-4e0e-863c-bff7eaf37960"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "isnis": [], 
+        "sort-name": "Williamson, Jess", 
+        "country": null, 
+        "type": "Person", 
+        "id": "47f9c144-02dd-4c87-9be1-7bc945ac5544", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 11549, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442580.0, 
+    "created_time": 1478803684.0, 
+    "modified_minutes": 901, 
+    "id": 28416889
+}

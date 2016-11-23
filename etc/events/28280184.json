@@ -1,0 +1,134 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 8.1e-05, 
+        "displayName": "Slaughter Beach, Dog with Abi Reimold at Everybody Hits (November 22, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Everybody Hits", 
+            "uri": "http://www.songkick.com/venues/2715528-everybody-hits?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9705922, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1462118, 
+            "id": 2715528
+        }, 
+        "uri": "http://www.songkick.com/concerts/28280184-slaughter-beach-dog-at-everybody-hits?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-22", 
+            "datetime": "2016-11-22T21:00:00-0500", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 39.9705922, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1462118
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Slaughter Beach, Dog", 
+                "id": 55000449, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9969f247-ce03-4b25-927f-c00c51ecedbe", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9969f247-ce03-4b25-927f-c00c51ecedbe.json"
+                        }
+                    ], 
+                    "displayName": "Slaughter Beach, Dog", 
+                    "uri": "http://www.songkick.com/artists/8724259-slaughter-beach-dog?utm_source=32233&utm_medium=partner", 
+                    "id": 8724259
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Abi Reimold", 
+                "id": 55000454, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0d4bc26d-a500-40db-a547-ec1e0e5661fb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0d4bc26d-a500-40db-a547-ec1e0e5661fb.json"
+                        }
+                    ], 
+                    "displayName": "Abi Reimold", 
+                    "uri": "http://www.songkick.com/artists/6011174-abi-reimold?utm_source=32233&utm_medium=partner", 
+                    "id": 6011174
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28280184
+    }, 
+    "musicbrainz_response": {
+        "type-id": null, 
+        "name": "Slaughter Beach, Dog", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Philadelphia", 
+            "disambiguation": "", 
+            "name": "Philadelphia", 
+            "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://slaughterbeach.bandcamp.com/", 
+                    "id": "43f216d8-9e84-40b7-ae60-5d26df251f65"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Slaughter Beach, Dog", 
+        "type": null, 
+        "id": "9969f247-ce03-4b25-927f-c00c51ecedbe", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15495, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442891.0, 
+    "created_time": 1478566060.0, 
+    "modified_minutes": 881, 
+    "id": 28280184
+}

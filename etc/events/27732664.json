@@ -1,0 +1,145 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "RP Boo at Cafe OTO (November 10, 2016)", 
+        "popularity": 0.000596, 
+        "venue": {
+            "displayName": "Cafe OTO", 
+            "uri": "http://www.songkick.com/venues/15449-cafe-oto?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5469092, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0747739, 
+            "id": 15449
+        }, 
+        "uri": "http://www.songkick.com/concerts/27732664-rp-boo-at-cafe-oto?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.5469092, 
+            "city": "London, UK", 
+            "lng": -0.0747739
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "55ccebaa-109c-437d-a533-44cbef54a08d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:55ccebaa-109c-437d-a533-44cbef54a08d.json"
+                        }
+                    ], 
+                    "displayName": "RP Boo", 
+                    "uri": "http://www.songkick.com/artists/6785919-rp-boo?utm_source=32233&utm_medium=partner", 
+                    "id": 6785919
+                }, 
+                "displayName": "RP Boo", 
+                "id": 54024639, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27732664
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "RP Boo", 
+        "sort-name": "RP Boo", 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002573983", 
+                    "id": "983049b6-b87e-4088-b5a6-5bdfb974a844"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/400544", 
+                    "id": "240482d2-ddaf-46f1-ae7e-c06f45e1a7d5"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pages/RP-Boo/182490341830364", 
+                    "id": "36b970a8-5890-42aa-be0f-c06ba491439a"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "id": "55ccebaa-109c-437d-a533-44cbef54a08d", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "tags": []
+    }, 
+    "id": 27732664, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Nth Power with Dynamo at Aisle 5 (January 6, 2017)", 
+        "popularity": 0.000391, 
+        "venue": {
+            "displayName": "Aisle 5", 
+            "uri": "http://www.songkick.com/venues/2715413-aisle-5?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7642325, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3502283, 
+            "id": 2715413
+        }, 
+        "uri": "http://www.songkick.com/concerts/28582489-nth-power-at-aisle-5?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-06", 
+            "time": "22:00:00", 
+            "datetime": "2017-01-06T22:00:00-0500"
+        }, 
+        "location": {
+            "lat": 33.7642325, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.3502283
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "The Nth Power", 
+                "id": 55525054, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "914d0348-727f-4c35-8f16-8328b164c1ae", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:914d0348-727f-4c35-8f16-8328b164c1ae.json"
+                        }
+                    ], 
+                    "displayName": "The Nth Power", 
+                    "uri": "http://www.songkick.com/artists/6654404-nth-power?utm_source=32233&utm_medium=partner", 
+                    "id": 6654404
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Dynamo", 
+                "id": 55525059, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "af51cc9a-43f5-4be4-ac1a-a24ae12ff8f1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:af51cc9a-43f5-4be4-ac1a-a24ae12ff8f1.json"
+                        }, 
+                        {
+                            "mbid": "4e7d4d87-88bb-43c5-b6ef-e6b4b263f490", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4e7d4d87-88bb-43c5-b6ef-e6b4b263f490.json"
+                        }, 
+                        {
+                            "mbid": "ee768530-0582-41ff-b461-f52a9d81ba14", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ee768530-0582-41ff-b461-f52a9d81ba14.json"
+                        }, 
+                        {
+                            "mbid": "779c8b5a-9401-40ec-a73d-d545875ffec8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:779c8b5a-9401-40ec-a73d-d545875ffec8.json"
+                        }
+                    ], 
+                    "displayName": "Dynamo", 
+                    "uri": "http://www.songkick.com/artists/419779-dynamo?utm_source=32233&utm_medium=partner", 
+                    "id": 419779
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28582489
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "gender": null, 
+        "name": "Nth Power", 
+        "end_area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2012", 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thenthpowermusic.com/", 
+                    "id": "88ed1437-c0db-4ca2-bc66-c0c703cb3e63"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "The Nth Power", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "ended": false, 
+                "url": {
+                    "resource": "https://www.facebook.com/TheNthPower", 
+                    "id": "08546910-f464-48a4-8a7f-b68e9c89d3ad"
+                }, 
+                "target-type": "url", 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "New Orleans", 
+            "disambiguation": "", 
+            "name": "New Orleans", 
+            "id": "3c5a0506-d852-4e96-8d1e-d8126328f3be"
+        }, 
+        "sort-name": "Power, Nth", 
+        "isnis": [], 
+        "id": "914d0348-727f-4c35-8f16-8328b164c1ae", 
+        "tags": [], 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28582489, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

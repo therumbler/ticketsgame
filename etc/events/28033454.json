@@ -1,0 +1,192 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Starro with Rexx Life Raj at The Independent (November 9, 2016)", 
+        "popularity": 0.001201, 
+        "venue": {
+            "displayName": "The Independent", 
+            "uri": "http://www.songkick.com/venues/324-independent?utm_source=32233&utm_medium=partner", 
+            "lat": 37.7755211, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.4378099, 
+            "id": 324
+        }, 
+        "uri": "http://www.songkick.com/concerts/28033454-starro-at-independent?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-09T21:00:00-0800"
+        }, 
+        "location": {
+            "lat": 37.7755211, 
+            "city": "San Francisco, CA, US", 
+            "lng": -122.4378099
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0f4a632a-0024-44ad-9df6-34cf624dc67a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0f4a632a-0024-44ad-9df6-34cf624dc67a.json"
+                        }
+                    ], 
+                    "displayName": "Starro", 
+                    "uri": "http://www.songkick.com/artists/7098069-starro?utm_source=32233&utm_medium=partner", 
+                    "id": 7098069
+                }, 
+                "displayName": "Starro", 
+                "id": 54572614, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "35b0967d-9ce1-4e1c-9dad-7cb9da2a4723", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:35b0967d-9ce1-4e1c-9dad-7cb9da2a4723.json"
+                        }
+                    ], 
+                    "displayName": "Rexx Life Raj", 
+                    "uri": "http://www.songkick.com/artists/8842794-rexx-life-raj?utm_source=32233&utm_medium=partner", 
+                    "id": 8842794
+                }, 
+                "displayName": "Rexx Life Raj", 
+                "id": 55257354, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28033454
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "sort-name": "starRo", 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "starRo", 
+        "tags": [], 
+        "gender": "Male", 
+        "twitter": "starRo75", 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://starro.bandcamp.com/", 
+                    "id": "c468ec3a-27ef-48ea-b20f-a1ed6a8b2d10"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2429218", 
+                    "id": "ef8150a2-9c85-47e2-9516-4f63f7a5770d"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/starRo75", 
+                    "id": "d182ea1e-c218-41e1-a4b4-fa2f0bc33f75"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/starRoofficial", 
+                    "id": "c6260f48-33ce-4ae9-83b4-cdabada8da9c"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/starro", 
+                    "id": "d06533cf-cd14-4d63-ae50-ed1bc1c450e9"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "id": "0f4a632a-0024-44ad-9df6-34cf624dc67a", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28033454, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

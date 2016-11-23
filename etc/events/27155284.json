@@ -1,0 +1,436 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.004826, 
+        "displayName": "Sara Watkins at Bluebird Theater (December 4, 2016)", 
+        "ageRestriction": "16+", 
+        "venue": {
+            "displayName": "Bluebird Theater", 
+            "uri": "http://www.songkick.com/venues/10459-bluebird-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7402806, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.948382, 
+            "id": 10459
+        }, 
+        "uri": "http://www.songkick.com/concerts/27155284-sara-watkins-at-bluebird-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-04", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-04T19:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.7402806, 
+            "city": "Denver, CO, US", 
+            "lng": -104.948382
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e6dbe57d-74cf-4f6e-9e16-ed6cce18baef", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e6dbe57d-74cf-4f6e-9e16-ed6cce18baef.json"
+                        }
+                    ], 
+                    "displayName": "Sara Watkins", 
+                    "uri": "http://www.songkick.com/artists/1171233-sara-watkins?utm_source=32233&utm_medium=partner", 
+                    "id": 1171233
+                }, 
+                "displayName": "Sara Watkins", 
+                "id": 52968509, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27155284
+    }, 
+    "musicbrainz_response": {
+        "name": "Sara Watkins", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "bluegrass"
+            }, 
+            {
+                "count": 1, 
+                "name": "country"
+            }, 
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "gender": "Female", 
+        "twitter": "sarawatkins", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/e6dbe57d-74cf-4f6e-9e16-ed6cce18baef", 
+                    "id": "1b0d3832-0205-4fc8-8bbb-908f928d48d6"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm1999311/", 
+                    "id": "afc47f8f-3671-40c0-b6a5-ee64a906ec0f"
+                }, 
+                "direction": "forward", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/100393655", 
+                    "id": "8a5dfaf7-b0de-4860-be20-4782dbf658a3"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/959549", 
+                    "id": "57aa37bf-a412-4e52-bb41-8fd54f1d2bef"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:SaraWatkinsACL.jpg", 
+                    "id": "08ca46a0-cd28-4dda-9648-a913734042a1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Sara+Watkins", 
+                    "id": "a6b6c57d-909e-4915-9784-8b60cf4f45fa"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/sarawatkinssolo", 
+                    "id": "afc0392a-3fb9-4ab6-a8f5-edb7bf987011"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://sarawatkins.com/", 
+                    "id": "35e13594-35b4-46f6-9061-969632221f80"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id30553653", 
+                    "id": "b431bf60-18f6-4b8a-823a-2a6a7f620194"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.amazon.com/-/e/B001YDMR12", 
+                    "id": "874d980e-ec8b-47d6-a646-e63a02b3d2a4"
+                }, 
+                "direction": "forward", 
+                "type-id": "611b1862-67af-4253-a64f-34adba305d1d", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for mail-order", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/sarawatkins/", 
+                    "id": "44a34255-29a5-4b3b-8dcf-91d9a70f65ee"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/sarawatkins", 
+                    "id": "6a1438e5-07e0-4630-8029-a5d42fc437f8"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/SaraWatkins", 
+                    "id": "10e2cd57-d688-40e6-adb9-e2a8a39a81f7"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/sarawatkins", 
+                    "id": "05fef4e7-38b9-4b10-9ea3-1757ce53167e"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek", 
+                    "id": "c0d68047-13aa-4dd6-96a1-29b6ba777a76"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1154965", 
+                    "id": "c85cf495-ef55-4059-b767-bb18cf4b2ae2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Sara_Watkins", 
+                    "id": "5a1646cf-931d-41f6-809e-e80aaf64f2a3"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "id": "e6dbe57d-74cf-4f6e-9e16-ed6cce18baef", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "country": "US", 
+        "sort-name": "Watkins, Sara", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1981-06-08", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Sara Watkins @ Bluebird Theater in Denver, CO", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Denver", 
+            "name": "Bluebird Theater", 
+            "country": "United States", 
+            "region": "CO", 
+            "longitude": -104.948382, 
+            "place": "Bluebird Theater", 
+            "latitude": 39.7402806
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12197182?app_id=ticketgame&artist=Sara+Watkins&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12197182/buy_tickets?app_id=ticketgame&artist=Sara+Watkins&came_from=67", 
+        "on_sale_datetime": "2016-05-27T10:00:00", 
+        "formatted_datetime": "Sunday, December 4, 2016 at 7:00PM", 
+        "datetime": "2016-12-04T19:00:00", 
+        "formatted_location": "Denver, CO", 
+        "ticket_redirect_url": "https://events.applauze.com/events/3157077", 
+        "artists": [
+            {
+                "website": "http://www.sarawatkins.com", 
+                "facebook_page_url": "https://www.facebook.com/SaraWatkins", 
+                "name": "Sara Watkins", 
+                "url": "SaraWatkins", 
+                "tracker_count": 24327, 
+                "mbid": "e6dbe57d-74cf-4f6e-9e16-ed6cce18baef", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6281596.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/SaraWatkins/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6281596.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12197182
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://events.applauze.com/events/3157077"
+    }, 
+    "modified_time": 1479441922.0, 
+    "created_minutes": 18152, 
+    "created_time": 1478566005.0, 
+    "modified_minutes": 3554, 
+    "id": 27155284
+}

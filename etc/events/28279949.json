@@ -1,0 +1,233 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Dirty Fences with Big Huge and Nat Brower at Baby's All Right (November 8, 2016)", 
+        "popularity": 0.000542, 
+        "venue": {
+            "displayName": "Baby's All Right", 
+            "uri": "http://www.songkick.com/venues/2445014-babys-all-right?utm_source=32233&utm_medium=partner", 
+            "lat": 40.709985, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.96347, 
+            "id": 2445014
+        }, 
+        "uri": "http://www.songkick.com/concerts/28279949-dirty-fences-at-babys-all-right?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-08", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-08T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.709985, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.96347
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c9c1a928-bacc-4d78-aa56-9b1c8129f787", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c9c1a928-bacc-4d78-aa56-9b1c8129f787.json"
+                        }
+                    ], 
+                    "displayName": "Dirty Fences", 
+                    "uri": "http://www.songkick.com/artists/2511176-dirty-fences?utm_source=32233&utm_medium=partner", 
+                    "id": 2511176
+                }, 
+                "displayName": "Dirty Fences", 
+                "id": 54999909, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a1f0b5bc-388b-40fd-9295-4bfe31f5def3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a1f0b5bc-388b-40fd-9295-4bfe31f5def3.json"
+                        }
+                    ], 
+                    "displayName": "Big Huge", 
+                    "uri": "http://www.songkick.com/artists/268581-big-huge?utm_source=32233&utm_medium=partner", 
+                    "id": 268581
+                }, 
+                "displayName": "Big Huge", 
+                "id": 54999914, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Nat Brower", 
+                    "uri": "http://www.songkick.com/artists/3970376-nat-brower?utm_source=32233&utm_medium=partner", 
+                    "id": 3970376
+                }, 
+                "displayName": "Nat Brower", 
+                "id": 55284644, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28279949
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Dirty Fences", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002878632", 
+                    "id": "0ad9b4d9-d7be-4951-b9ca-02e3081d70bb"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://dirtyfences.bandcamp.com/", 
+                    "id": "16dd8f71-bff5-4cf4-ba7e-9be00916c8cd"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3342474", 
+                    "id": "1d3749dc-ac0c-486d-8c17-ffd1401c3211"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/dirty_fences", 
+                    "id": "b1cc8d7f-d156-4689-b3d7-1e26293ea78c"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/dirtyfences/", 
+                    "id": "16c9c200-79e8-4372-a540-7305e7865ad2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/DIRTYFENCES", 
+                    "id": "7ee99a98-bbb8-48c3-ae5b-0f12f2f747f2"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Dirty Fences", 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "name": "New York", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f"
+        }, 
+        "gender-id": null, 
+        "country": "US", 
+        "type": "Group", 
+        "id": "c9c1a928-bacc-4d78-aa56-9b1c8129f787", 
+        "disambiguation": ""
+    }, 
+    "id": 28279949, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

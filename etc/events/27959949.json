@@ -1,0 +1,450 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Pop Group with Dennis Bovell and Liberez at 100 Club (November 24, 2016)", 
+        "popularity": 0.003637, 
+        "venue": {
+            "displayName": "100 Club", 
+            "uri": "http://www.songkick.com/venues/8128-100-club?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5160992, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1351725, 
+            "id": 8128
+        }, 
+        "uri": "http://www.songkick.com/concerts/27959949-pop-group-at-100-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-24", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.5160992, 
+            "city": "London, UK", 
+            "lng": -0.1351725
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4c9f194e-6235-475a-bf7b-2fd54a0879ec", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4c9f194e-6235-475a-bf7b-2fd54a0879ec.json"
+                        }
+                    ], 
+                    "displayName": "The Pop Group", 
+                    "uri": "http://www.songkick.com/artists/173013-pop-group?utm_source=32233&utm_medium=partner", 
+                    "id": 173013
+                }, 
+                "displayName": "The Pop Group", 
+                "id": 54442619, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "77eb63bd-cc38-4044-a23c-c2ff3cfcc610", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:77eb63bd-cc38-4044-a23c-c2ff3cfcc610.json"
+                        }, 
+                        {
+                            "mbid": "c261b530-2ab9-4468-b148-f82b175c9e4a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c261b530-2ab9-4468-b148-f82b175c9e4a.json"
+                        }
+                    ], 
+                    "displayName": "Dennis Bovell", 
+                    "uri": "http://www.songkick.com/artists/69923-dennis-bovell?utm_source=32233&utm_medium=partner", 
+                    "id": 69923
+                }, 
+                "displayName": "Dennis Bovell", 
+                "id": 54460284, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Liberez", 
+                    "uri": "http://www.songkick.com/artists/2411693-liberez?utm_source=32233&utm_medium=partner", 
+                    "id": 2411693
+                }, 
+                "displayName": "Liberez", 
+                "id": 54460289, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27959949
+    }, 
+    "musicbrainz_response": {
+        "name": "The Pop Group", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "alternative"
+            }, 
+            {
+                "count": 1, 
+                "name": "bristol"
+            }, 
+            {
+                "count": 1, 
+                "name": "england"
+            }, 
+            {
+                "count": 1, 
+                "name": "experimental rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "post-punk"
+            }, 
+            {
+                "count": 1, 
+                "name": "punk"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock and indie"
+            }
+        ], 
+        "gender-id": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1977", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/4c9f194e-6235-475a-bf7b-2fd54a0879ec", 
+                    "id": "ad1081fc-55aa-44d2-9d5a-b6a872b9545d"
+                }, 
+                "direction": "forward", 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000487663", 
+                    "id": "46122043-0b67-4696-8df8-acb51e1e0d19"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/33932", 
+                    "id": "6e4a4dd5-7a8c-425d-9e15-f22242ae4157"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.wedigdixon.com/pop_group/index.php", 
+                    "id": "5b5d5fcd-a501-42a2-8923-6b02054e8317"
+                }, 
+                "direction": "forward", 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://lyrics.wikia.com/The_Pop_Group", 
+                    "id": "8b9d7621-9b27-4f26-8d9c-66641b2064ff"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.thepopgroup.net/", 
+                    "id": "cd3b1653-1168-412b-a719-5bc48597ebc7"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/the_pop_group", 
+                    "id": "95e65b83-4deb-429b-9156-4142b8be47b9"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/ThePopGroup", 
+                    "id": "c2e841aa-dc76-4a36-badf-bb059fc72bc3"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/ThePopGroupOfficial", 
+                    "id": "9eaa9980-2fe5-418a-a5ef-e80dec8ae81d"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/173013-pop-group", 
+                    "id": "de51721d-cc4d-4dca-8346-704fce74de0d"
+                }, 
+                "direction": "forward", 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/thepopgroup", 
+                    "id": "01eba130-7922-4c44-bd5e-4526e2064785"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/user/thepopgroup", 
+                    "id": "a6030d9b-4c2e-4126-aa90-e65f5270c497"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.deezer.com/artist/64588", 
+                    "id": "a305ee26-13c5-4520-a0d0-a0474dd99ad7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q2166634", 
+                    "id": "e5443c0b-c0c3-4746-9f90-fbd6ebfac172"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Pop_Group", 
+                    "id": "a8866909-0c9f-4baa-ac2b-b3099b8a4d0e"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/thepopgroupofficial", 
+                    "id": "69afda30-dcab-43f5-b40b-ba532597495d"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Bristol", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "GB-BST"
+            ], 
+            "id": "40d758a4-b7c2-40f3-b439-5efbd2a3b038", 
+            "name": "Bristol"
+        }, 
+        "sort-name": "Pop Group, The", 
+        "isnis": [
+            "0000000089454607"
+        ], 
+        "id": "4c9f194e-6235-475a-bf7b-2fd54a0879ec", 
+        "country": "GB", 
+        "type": "Group", 
+        "twitter": "ThePopGroup", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "facebook_page_url": "https://www.facebook.com/ThePopGroupOfficial", 
+        "upcoming_event_count": 8, 
+        "name": "The Pop Group", 
+        "tracker_count": 6416, 
+        "mbid": "4c9f194e-6235-475a-bf7b-2fd54a0879ec", 
+        "image_url": "https://s3.amazonaws.com/bit-photos/large/7163537.jpeg", 
+        "facebook_tour_dates_url": "http://www.bandsintown.com/ThePopGroup/facebookapp?came_from=67", 
+        "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/7163537.jpeg"
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://babayaga.ticketabc.com/events/pop-group/"
+    }, 
+    "modified_time": 1479442266.0, 
+    "created_minutes": 5836, 
+    "created_time": 1479305670.0, 
+    "modified_minutes": 3560, 
+    "id": 27959949
+}

@@ -1,0 +1,75 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "artsdepot and Jacqui Dankworth at artsdepot (November 12, 2016)", 
+        "popularity": 0.000305, 
+        "venue": {
+            "displayName": "artsdepot", 
+            "uri": "http://www.songkick.com/venues/2811363-artsdepot?utm_source=32233&utm_medium=partner", 
+            "lat": 51.6128591, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1766991, 
+            "id": 2811363
+        }, 
+        "uri": "http://www.songkick.com/concerts/28430149-artsdepot-at-artsdepot?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-12T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.6128591, 
+            "city": "London, UK", 
+            "lng": -0.1766991
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "artsdepot", 
+                    "uri": "http://www.songkick.com/artists/7945853-artsdepot?utm_source=32233&utm_medium=partner", 
+                    "id": 7945853
+                }, 
+                "displayName": "artsdepot", 
+                "id": 55262369, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1c905ad1-a6fc-4d29-ab72-41e9f147391c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1c905ad1-a6fc-4d29-ab72-41e9f147391c.json"
+                        }
+                    ], 
+                    "displayName": "Jacqui Dankworth", 
+                    "uri": "http://www.songkick.com/artists/33764-jacqui-dankworth?utm_source=32233&utm_medium=partner", 
+                    "id": 33764
+                }, 
+                "displayName": "Jacqui Dankworth", 
+                "id": 55262374, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28430149
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "id": 28430149, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

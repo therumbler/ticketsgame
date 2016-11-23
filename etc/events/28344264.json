@@ -1,0 +1,108 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Carroll at All Nite Diner (December 2, 2016)", 
+        "popularity": 0.000431, 
+        "venue": {
+            "displayName": "All Nite Diner", 
+            "uri": "http://www.songkick.com/venues/3428254-all-nite-diner?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9525839, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1652215, 
+            "id": 3428254
+        }, 
+        "uri": "http://www.songkick.com/concerts/28344264-carroll-at-all-nite-diner?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 39.9525839, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1652215
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ffff7f23-866a-4a9a-a911-41832d824c4d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ffff7f23-866a-4a9a-a911-41832d824c4d.json"
+                        }
+                    ], 
+                    "displayName": "Carroll", 
+                    "uri": "http://www.songkick.com/artists/589901-carroll?utm_source=32233&utm_medium=partner", 
+                    "id": 589901
+                }, 
+                "displayName": "Carroll", 
+                "id": 55114534, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28344264
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Carroll", 
+        "area": null, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4965098", 
+                    "id": "e06d39e6-d127-4484-ada8-85a8199ca999"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00159945813"
+        ], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Carroll", 
+        "country": null, 
+        "id": "ffff7f23-866a-4a9a-a911-41832d824c4d", 
+        "type": "Person", 
+        "disambiguation": "Andrew Philip Carroll", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28344264, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

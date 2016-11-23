@@ -1,0 +1,259 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Daniel Romano and Caitlin Rose at Normaltown Hall (November 18, 2016)", 
+        "popularity": 0.008543, 
+        "venue": {
+            "displayName": "Normaltown Hall", 
+            "uri": "http://www.songkick.com/venues/2354319-normaltown-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 33.95903, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -83.38497, 
+            "id": 2354319
+        }, 
+        "uri": "http://www.songkick.com/concerts/28349804-daniel-romano-at-normaltown-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 33.95903, 
+            "city": "Athens, GA, US", 
+            "lng": -83.38497
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4c368da6-e355-42e6-93d3-830b7e080d82", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4c368da6-e355-42e6-93d3-830b7e080d82.json"
+                        }
+                    ], 
+                    "displayName": "Daniel Romano", 
+                    "uri": "http://www.songkick.com/artists/3313671-daniel-romano?utm_source=32233&utm_medium=partner", 
+                    "id": 3313671
+                }, 
+                "displayName": "Daniel Romano", 
+                "id": 55124509, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2e14c19d-21e2-4103-842d-7478381f2bdb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2e14c19d-21e2-4103-842d-7478381f2bdb.json"
+                        }
+                    ], 
+                    "displayName": "Caitlin Rose", 
+                    "uri": "http://www.songkick.com/artists/2087073-caitlin-rose?utm_source=32233&utm_medium=partner", 
+                    "id": 2087073
+                }, 
+                "displayName": "Caitlin Rose", 
+                "id": 55124514, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28349804
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Daniel Romano", 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b", 
+            "name": "Canada"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1985", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0001567101", 
+                    "id": "c6826e21-5d17-4b4c-963e-0c6c96ac832b"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://danielromano.bandcamp.com/", 
+                    "id": "1c7bfaab-9fc1-4b54-a52d-05e7e7fa7bbf"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/748962", 
+                    "id": "64259bc7-c145-47fd-87e5-a33cc22da8a1"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.danielromanomusic.com/", 
+                    "id": "0584e990-8179-4fed-a9c0-09e5d8a4ae8e"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/daniel_romano", 
+                    "id": "a83b7b61-a8a0-4ad2-85f1-61c86eb68218"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/danielromanomusic", 
+                    "id": "cf0974e6-7b44-47b9-b2ea-b7315aa3c68b"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q5218614", 
+                    "id": "d5b28602-7f5c-45f5-9ac8-9e5ee0e6cadf"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Daniel_Romano", 
+                    "id": "b2e63f7e-b02e-4a09-808c-62d0ab45a8a3"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Welland", 
+            "disambiguation": "", 
+            "id": "25e0be47-e878-47e5-aa7f-6fbe832da9a3", 
+            "name": "Welland"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "CA", 
+        "sort-name": "Romano, Daniel", 
+        "type": "Person", 
+        "id": "4c368da6-e355-42e6-93d3-830b7e080d82", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.eventbrite.com/e/daniel-romano-and-caitlin-rose-tickets-28613808672?aff=aff0songkick"
+    }, 
+    "modified_time": 1479442704.0, 
+    "created_minutes": 18207, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 3595, 
+    "id": 28349804
+}

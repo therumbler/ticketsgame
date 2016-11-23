@@ -1,0 +1,143 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "After Dark at The Bomb Factory (November 11, 2016)", 
+        "popularity": 0.000481, 
+        "venue": {
+            "displayName": "The Bomb Factory", 
+            "uri": "http://www.songkick.com/venues/45544-bomb-factory?utm_source=32233&utm_medium=partner", 
+            "lat": 32.782367, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.783697, 
+            "id": 45544
+        }, 
+        "uri": "http://www.songkick.com/concerts/28197589-after-dark-at-bomb-factory?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "18:00:00", 
+            "datetime": "2016-11-11T18:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.782367, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.783697
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f83494c8-387c-4017-9c8f-9d83fce56374", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f83494c8-387c-4017-9c8f-9d83fce56374.json"
+                        }, 
+                        {
+                            "mbid": "56e83b5e-dcfe-4f49-9388-3d351edaa691", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:56e83b5e-dcfe-4f49-9388-3d351edaa691.json"
+                        }, 
+                        {
+                            "mbid": "9db38763-8d86-43e0-ba5d-aa9d38ddf5eb", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9db38763-8d86-43e0-ba5d-aa9d38ddf5eb.json"
+                        }, 
+                        {
+                            "mbid": "8879c408-1842-45e0-a23b-ef1805b1049e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8879c408-1842-45e0-a23b-ef1805b1049e.json"
+                        }
+                    ], 
+                    "displayName": "After Dark", 
+                    "uri": "http://www.songkick.com/artists/450596-after-dark?utm_source=32233&utm_medium=partner", 
+                    "id": 450596
+                }, 
+                "displayName": "After Dark", 
+                "id": 54861134, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28197589
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "After Dark", 
+        "tags": [], 
+        "country": "SE", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1976", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Sweden", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "SE"
+            ], 
+            "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb", 
+            "name": "Sweden"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q956985", 
+                    "id": "938e688f-90ad-4a09-b3a3-bad5dab0c684"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/After_Dark_(drag_act)", 
+                    "id": "55d51ace-ee8a-4125-bedd-bddc3f6f5b3f"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "After Dark", 
+        "type": "Group", 
+        "id": "f83494c8-387c-4017-9c8f-9d83fce56374", 
+        "disambiguation": "Swedish dragshow"
+    }, 
+    "id": 28197589, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

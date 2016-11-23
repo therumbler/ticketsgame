@@ -1,0 +1,359 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "All Ages", 
+        "displayName": "Neurosis with Yob at Hawthorne Theatre (November 25, 2016)", 
+        "popularity": 0.010143, 
+        "venue": {
+            "displayName": "Hawthorne Theatre", 
+            "uri": "http://www.songkick.com/venues/11593-hawthorne-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5118718, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6229791, 
+            "id": 11593
+        }, 
+        "uri": "http://www.songkick.com/concerts/27912234-neurosis-at-hawthorne-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-25", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 45.5118718, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6229791
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a9416fb3-4d28-4575-abae-f0d160be83ed", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a9416fb3-4d28-4575-abae-f0d160be83ed.json"
+                        }
+                    ], 
+                    "displayName": "Neurosis", 
+                    "uri": "http://www.songkick.com/artists/77997-neurosis?utm_source=32233&utm_medium=partner", 
+                    "id": 77997
+                }, 
+                "displayName": "Neurosis", 
+                "id": 54357404, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0dd6d8d0-e132-4f54-9b9e-175ea149aeb1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0dd6d8d0-e132-4f54-9b9e-175ea149aeb1.json"
+                        }, 
+                        {
+                            "mbid": "988e8f69-9319-4431-9164-acdf53b08cd4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:988e8f69-9319-4431-9164-acdf53b08cd4.json"
+                        }
+                    ], 
+                    "displayName": "Yob", 
+                    "uri": "http://www.songkick.com/artists/405575-yob?utm_source=32233&utm_medium=partner", 
+                    "id": 405575
+                }, 
+                "displayName": "Yob", 
+                "id": 54357409, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27912234
+    }, 
+    "musicbrainz_response": {
+        "name": "Neurosis", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1985", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "art-core"
+            }, 
+            {
+                "count": 1, 
+                "name": "post-core"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock and indie"
+            }, 
+            {
+                "count": 1, 
+                "name": "sludge"
+            }, 
+            {
+                "count": 1, 
+                "name": "sludge metal"
+            }, 
+            {
+                "count": 1, 
+                "name": "usa"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000388198", 
+                    "id": "e1bcc97d-f482-4917-a0cf-2654f89a98c4"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/154935", 
+                    "id": "390734e0-633f-4bd7-8311-e09f4fb4ba9e"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/neurosis-lyrics", 
+                    "id": "9092be88-72cb-482b-9b5a-9894839b7f0b"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.neurosis.com/", 
+                    "id": "9db8e007-db00-4eb0-8511-97c0a6a7e382"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/neurosis", 
+                    "id": "44ffffe1-eb3f-4e70-b581-a4496cc77f00"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.metal-archives.com/bands/Neurosis/60", 
+                    "id": "bafb516f-7455-4c48-8ea9-9d6f0b75298e"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/officialneurosis", 
+                    "id": "8b311ffc-7f21-4ec5-a9de-a8169b62f3b2"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q334093", 
+                    "id": "568eb868-fa71-4000-a1dc-e58c7bb592f2"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Neurosis_(band)", 
+                    "id": "3788a983-1243-401e-94b4-f39888117dac"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Oakland", 
+            "disambiguation": "", 
+            "name": "Oakland", 
+            "id": "6195f381-5711-4655-bf7c-75918c04b201"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Neurosis", 
+        "type": "Group", 
+        "id": "a9416fb3-4d28-4575-abae-f0d160be83ed", 
+        "disambiguation": "US sludge metal band"
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Neurosis @ Hawthorne Theatre in Portland, OR", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Portland", 
+            "name": "Hawthorne Theatre", 
+            "country": "United States", 
+            "region": "OR", 
+            "longitude": -122.623029, 
+            "place": "Hawthorne Theatre", 
+            "latitude": 45.511855
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12813552?app_id=ticketgame&artist=Neurosis&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12813552/buy_tickets?app_id=ticketgame&artist=Neurosis&came_from=67", 
+        "on_sale_datetime": "2016-08-26T10:00:00", 
+        "formatted_datetime": "Friday, November 25, 2016 at 8:00PM", 
+        "datetime": "2016-11-25T20:00:00", 
+        "formatted_location": "Portland, OR", 
+        "ticket_redirect_url": "http://cascadetickets.com/event/?performer_id=4494879", 
+        "artists": [
+            {
+                "website": "http://neurosis.com", 
+                "facebook_page_url": "https://www.facebook.com/officialneurosis", 
+                "name": "Neurosis", 
+                "url": "Neurosis", 
+                "tracker_count": 65372, 
+                "mbid": "a9416fb3-4d28-4575-abae-f0d160be83ed", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6301392.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Neurosis/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6301392.jpeg"
+            }, 
+            {
+                "website": "http://www.yobdoom.com/", 
+                "facebook_page_url": "http://www.facebook.com/pages/Yob/36708497970", 
+                "name": "Yob", 
+                "url": "Yob", 
+                "tracker_count": 26612, 
+                "mbid": "0dd6d8d0-e132-4f54-9b9e-175ea149aeb1", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Yob/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }, 
+            {
+                "website": "http://inthewalledcity.com", 
+                "facebook_page_url": "https://www.facebook.com/kowloonwalledcity/", 
+                "name": "Kowloon Walled City", 
+                "url": "KowloonWalledCity", 
+                "tracker_count": 5090, 
+                "mbid": "88f521b9-f56a-4059-9474-ff1aafdc37b6", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/artistLarge.jpg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/KowloonWalledCity/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/artistThumb.jpg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12813552
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://cascadetickets.com/event/?performer_id=4494879"
+    }, 
+    "modified_time": 1479442241.0, 
+    "created_minutes": 18162, 
+    "created_time": 1478566069.0, 
+    "modified_minutes": 3559, 
+    "id": 27912234
+}

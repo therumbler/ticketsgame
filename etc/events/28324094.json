@@ -1,0 +1,191 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001261, 
+        "displayName": "Echos with Shoffy at The Roxy Theatre (December 3, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Roxy Theatre", 
+            "uri": "http://www.songkick.com/venues/1300-roxy-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 34.090712, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.387966, 
+            "id": 1300
+        }, 
+        "uri": "http://www.songkick.com/concerts/28324094-echos-at-roxy-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-03", 
+            "datetime": "2016-12-03T21:00:00-0800", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 34.090712, 
+            "city": "West Hollywood, CA, US", 
+            "lng": -118.387966
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "879e0dcf-9cf9-4279-8a13-539a8ed075d8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:879e0dcf-9cf9-4279-8a13-539a8ed075d8.json"
+                        }
+                    ], 
+                    "displayName": "Echos", 
+                    "uri": "http://www.songkick.com/artists/363749-echos?utm_source=32233&utm_medium=partner", 
+                    "id": 363749
+                }, 
+                "displayName": "Echos", 
+                "id": 55078514, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "10d8e90d-2c32-4d45-b966-986f5d0f9fa5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:10d8e90d-2c32-4d45-b966-986f5d0f9fa5.json"
+                        }
+                    ], 
+                    "displayName": "Shoffy", 
+                    "uri": "http://www.songkick.com/artists/8668919-shoffy?utm_source=32233&utm_medium=partner", 
+                    "id": 8668919
+                }, 
+                "displayName": "Shoffy", 
+                "id": 55472529, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28324094
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Echos", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/EchosOfficial", 
+                    "id": "1452c5ea-3524-46fa-8e2d-1da332601e9e"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pages/Echos/376206675814289", 
+                    "id": "fee8626f-c9ec-4f49-b55f-bfde63de67cb"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/echosofficial/", 
+                    "id": "90c46193-92b9-46c5-8f3a-53945b3a5120"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/echosofficial", 
+                    "id": "84c79201-713a-408f-9a6e-180f73a5315f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": null, 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Echos", 
+        "isnis": [], 
+        "id": "879e0dcf-9cf9-4279-8a13-539a8ed075d8", 
+        "country": "US", 
+        "type": "Group", 
+        "twitter": "EchosOfficial", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 1444, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442902.0, 
+    "created_time": 1479409369.0, 
+    "modified_minutes": 886, 
+    "id": 28324094
+}

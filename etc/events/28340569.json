@@ -1,0 +1,217 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "DJ Intel at Steak Bar (November 12, 2016)", 
+        "popularity": 7.8e-05, 
+        "venue": {
+            "displayName": "Steak Bar", 
+            "uri": "http://www.songkick.com/venues/3253709-steak-bar?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9092591, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6349936, 
+            "id": 3253709
+        }, 
+        "uri": "http://www.songkick.com/concerts/28340569-dj-intel-at-steak-bar?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "23:00:00", 
+            "datetime": "2016-11-12T23:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.9092591, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6349936
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1116ff11-d931-47f8-86df-8703782b5cfe", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1116ff11-d931-47f8-86df-8703782b5cfe.json"
+                        }
+                    ], 
+                    "displayName": "DJ Intel", 
+                    "uri": "http://www.songkick.com/artists/299237-dj-intel?utm_source=32233&utm_medium=partner", 
+                    "id": 299237
+                }, 
+                "displayName": "DJ Intel", 
+                "id": 55107344, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28340569
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "DJ Intel", 
+        "tags": [], 
+        "gender": "Male", 
+        "twitter": "djintel", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/983860", 
+                    "id": "246539ee-daa9-407e-85dd-00ae85bdb5fa"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/intelone", 
+                    "id": "2baad3d5-d56b-473c-9388-4e1b7c4959e8"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.thedjintel.com/", 
+                    "id": "aa196649-2af2-4d22-9e83-f43a9a34f267"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/djintel", 
+                    "id": "4f0f1799-d726-491c-91c4-8188f183ec18"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/djintel", 
+                    "id": "95d0a4e2-17ff-48f6-b95f-fc8ae219aec3"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/djintel/", 
+                    "id": "abc16878-1f13-47b2-9b19-bdca084eaa83"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/thedjintel", 
+                    "id": "04f53da8-db85-48b3-90ba-ee26f80480a9"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Intel, DJ", 
+        "country": "US", 
+        "id": "1116ff11-d931-47f8-86df-8703782b5cfe", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28340569, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

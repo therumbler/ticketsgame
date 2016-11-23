@@ -1,0 +1,90 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Alcoa at Boston Music Room (November 14, 2016)", 
+        "popularity": 0.000507, 
+        "venue": {
+            "displayName": "Boston Music Room", 
+            "uri": "http://www.songkick.com/venues/3269-boston-music-room?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5571591, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1383657, 
+            "id": 3269
+        }, 
+        "uri": "http://www.songkick.com/concerts/28272474-alcoa-at-boston-music-room?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-14", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.5571591, 
+            "city": "London, UK", 
+            "lng": -0.1383657
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0d34b658-812d-4bb7-ae1d-52bbd45f483c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0d34b658-812d-4bb7-ae1d-52bbd45f483c.json"
+                        }
+                    ], 
+                    "displayName": "Alcoa", 
+                    "uri": "http://www.songkick.com/artists/6110329-alcoa?utm_source=32233&utm_medium=partner", 
+                    "id": 6110329
+                }, 
+                "displayName": "Alcoa", 
+                "id": 54986839, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28272474
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Alcoa", 
+        "tags": [], 
+        "gender": "Male", 
+        "disambiguation": "Defeater frontman Derek Archambault", 
+        "area": {
+            "sort-name": "Portsmouth", 
+            "disambiguation": "", 
+            "name": "Portsmouth", 
+            "id": "b64a4ffd-29a1-4ea1-b9a3-27a43a680eda"
+        }, 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Alcoa", 
+        "country": null, 
+        "id": "0d34b658-812d-4bb7-ae1d-52bbd45f483c", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28272474, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

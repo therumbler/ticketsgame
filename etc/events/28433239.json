@@ -1,0 +1,171 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Hippo Campus at Wonder Ballroom (February 25, 2017)", 
+        "popularity": 0.006104, 
+        "venue": {
+            "displayName": "Wonder Ballroom", 
+            "uri": "http://www.songkick.com/venues/1433-wonder-ballroom?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5408474, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6634854, 
+            "id": 1433
+        }, 
+        "uri": "http://www.songkick.com/concerts/28433239-hippo-campus-at-wonder-ballroom?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-25", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 45.5408474, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6634854
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cf9655a8-ce1e-414e-9843-de1c4a60830d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cf9655a8-ce1e-414e-9843-de1c4a60830d.json"
+                        }
+                    ], 
+                    "displayName": "Hippo Campus", 
+                    "uri": "http://www.songkick.com/artists/4848788-hippo-campus?utm_source=32233&utm_medium=partner", 
+                    "id": 4848788
+                }, 
+                "displayName": "Hippo Campus", 
+                "id": 55268084, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28433239
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Hippo Campus", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thehalocline.bandcamp.com/", 
+                    "id": "1563b4fc-4372-4770-a84a-7767fe831492"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://hippocampusband.com/", 
+                    "id": "b9d021ff-ff8d-4003-8efc-bc283d4ff421"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/thehalocline", 
+                    "id": "6a20e3ab-458c-4598-b28c-539254cbc9ed"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/hippo-campus", 
+                    "id": "4f4bb6ec-0b0d-4f4a-86e1-b99b6c7a0011"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Hippo Campus", 
+        "type": "Group", 
+        "id": "cf9655a8-ce1e-414e-9843-de1c4a60830d", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15510, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442545.0, 
+    "created_time": 1478566069.0, 
+    "modified_minutes": 902, 
+    "id": 28433239
+}

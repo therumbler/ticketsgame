@@ -1,0 +1,134 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 3.6e-05, 
+        "displayName": "Carson Mchone at Saxon Pub (November 22, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Saxon Pub", 
+            "uri": "http://www.songkick.com/venues/61167-saxon-pub?utm_source=32233&utm_medium=partner", 
+            "lat": 30.2544135, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7624768, 
+            "id": 61167
+        }, 
+        "uri": "http://www.songkick.com/concerts/28323844-carson-mchone-at-saxon-pub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-22", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-22T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 30.2544135, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7624768
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Carson Mchone", 
+                "id": 55078139, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c8c2f008-2621-4fa9-b14a-ecc6ae7b5e64", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c8c2f008-2621-4fa9-b14a-ecc6ae7b5e64.json"
+                        }
+                    ], 
+                    "displayName": "Carson Mchone", 
+                    "uri": "http://www.songkick.com/artists/4355936-carson-mchone?utm_source=32233&utm_medium=partner", 
+                    "id": 4355936
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28323844
+    }, 
+    "musicbrainz_response": {
+        "name": "Carson McHone", 
+        "area": {
+            "sort-name": "Austin", 
+            "disambiguation": "", 
+            "name": "Austin", 
+            "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.carsonmchonemusic.com/", 
+                    "id": "444f8c43-f962-4073-a2bc-e4bc1494bf5c"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/CarsonMcHoneMusic", 
+                    "id": "3501b95f-c8cb-4a29-a261-ea817882eea1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "sort-name": "McHone, Carson", 
+        "type": "Person", 
+        "id": "c8c2f008-2621-4fa9-b14a-ecc6ae7b5e64", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15501, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 5.0, 
+        "price_min": 5.0
+    }, 
+    "modified_time": 1479442902.0, 
+    "created_time": 1478565978.0, 
+    "modified_minutes": 885, 
+    "id": 28323844
+}

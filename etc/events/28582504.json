@@ -1,0 +1,134 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.00051, 
+        "displayName": "Will Eastman with OzKeR at U Street Music Hall (January 7, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "U Street Music Hall", 
+            "uri": "http://www.songkick.com/venues/839721-u-street-music-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 38.917202, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.027764, 
+            "id": 839721
+        }, 
+        "uri": "http://www.songkick.com/concerts/28582504-will-eastman-at-u-street-music-hall?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-07", 
+            "datetime": "2017-01-07T22:00:00-0500", 
+            "time": "22:00:00"
+        }, 
+        "location": {
+            "lat": 38.917202, 
+            "city": "Washington, DC, US", 
+            "lng": -77.027764
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0db4ae1b-02dd-442b-8946-21f778055858", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0db4ae1b-02dd-442b-8946-21f778055858.json"
+                        }
+                    ], 
+                    "displayName": "Will Eastman", 
+                    "uri": "http://www.songkick.com/artists/1114785-will-eastman?utm_source=32233&utm_medium=partner", 
+                    "id": 1114785
+                }, 
+                "displayName": "Will Eastman", 
+                "id": 55525079, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "OzKeR", 
+                    "uri": "http://www.songkick.com/artists/989510-ozker?utm_source=32233&utm_medium=partner", 
+                    "id": 989510
+                }, 
+                "displayName": "OzKeR", 
+                "id": 55525084, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28582504
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Will Eastman", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "isnis": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2222231", 
+                    "id": "6f9d1164-efa5-450f-9347-5ade158984ba"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Eastman, Will", 
+        "type": "Person", 
+        "id": "0db4ae1b-02dd-442b-8946-21f778055858", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 1486, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442156.0, 
+    "created_time": 1479409439.0, 
+    "modified_minutes": 940, 
+    "id": 28582504
+}

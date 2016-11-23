@@ -1,0 +1,234 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Elephant Revival with Gipsy Moon at Boulder Theater (December 8, 2016)", 
+        "popularity": 0.005692, 
+        "venue": {
+            "displayName": "Boulder Theater", 
+            "uri": "http://www.songkick.com/venues/30382-boulder-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 40.019138, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -105.277207, 
+            "id": 30382
+        }, 
+        "uri": "http://www.songkick.com/concerts/28132874-elephant-revival-at-boulder-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-08", 
+            "time": "20:30:00", 
+            "datetime": "2016-12-08T20:30:00-0700"
+        }, 
+        "location": {
+            "lat": 40.019138, 
+            "city": "Boulder, CO, US", 
+            "lng": -105.277207
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1c9f21b2-1841-4d2f-9fc1-1e17eda19e0a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1c9f21b2-1841-4d2f-9fc1-1e17eda19e0a.json"
+                        }
+                    ], 
+                    "displayName": "Elephant Revival", 
+                    "uri": "http://www.songkick.com/artists/1982235-elephant-revival?utm_source=32233&utm_medium=partner", 
+                    "id": 1982235
+                }, 
+                "displayName": "Elephant Revival", 
+                "id": 54747864, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "83630461-8d92-4aea-9215-3218649a2393", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:83630461-8d92-4aea-9215-3218649a2393.json"
+                        }
+                    ], 
+                    "displayName": "Gipsy Moon", 
+                    "uri": "http://www.songkick.com/artists/5316963-gipsy-moon?utm_source=32233&utm_medium=partner", 
+                    "id": 5316963
+                }, 
+                "displayName": "Gipsy Moon", 
+                "id": 54747869, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28132874
+    }, 
+    "musicbrainz_response": {
+        "name": "Elephant Revival", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "bluegrass"
+            }, 
+            {
+                "count": 1, 
+                "name": "celtic"
+            }, 
+            {
+                "count": 1, 
+                "name": "folk"
+            }, 
+            {
+                "count": 1, 
+                "name": "hip-hop"
+            }, 
+            {
+                "count": 1, 
+                "name": "indie rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "psychedelic country"
+            }, 
+            {
+                "count": 1, 
+                "name": "reggae"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2006", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://elephantrevival.com/", 
+                    "id": "d016e511-0bbe-4092-8d1e-594c568ad7e6"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/elephantrevival", 
+                    "id": "79ff5cbf-92a4-4176-808a-c3498a95794b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs", 
+                    "id": "769b34d0-aea5-43cc-8135-14e4e29672cb"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q5359354", 
+                    "id": "01d063e3-c96b-4f8b-bdad-d6a6ef2fef98"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Elephant_Revival", 
+                    "id": "2a1fc530-0d1d-4520-bd67-684eb74744b5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "Elephant Revival", 
+        "type": "Group", 
+        "id": "1c9f21b2-1841-4d2f-9fc1-1e17eda19e0a", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15481, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 35.0, 
+        "price_min": 30.0
+    }, 
+    "modified_time": 1479442507.0, 
+    "created_time": 1478566005.0, 
+    "modified_minutes": 873, 
+    "id": 28132874
+}

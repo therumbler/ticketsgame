@@ -1,0 +1,145 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "A Thousand Horses at Unknown venue (December 31, 2016)", 
+        "popularity": 0.007331, 
+        "venue": {
+            "displayName": "Unknown venue", 
+            "uri": null, 
+            "lat": 36.1523805, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.7893889, 
+            "id": null
+        }, 
+        "uri": "http://www.songkick.com/concerts/28423329-a-thousand-horses-at-unknown-venue?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-31", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 36.1523805, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.7893889
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ad3a1b29-ac6e-44c0-bd96-8b561bf5dcd7", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ad3a1b29-ac6e-44c0-bd96-8b561bf5dcd7.json"
+                        }
+                    ], 
+                    "displayName": "A Thousand Horses", 
+                    "uri": "http://www.songkick.com/artists/3464316-a-thousand-horses?utm_source=32233&utm_medium=partner", 
+                    "id": 3464316
+                }, 
+                "displayName": "A Thousand Horses", 
+                "id": 55251969, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28423329
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "A Thousand Horses", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "country"
+            }
+        ], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002534031", 
+                    "id": "edbe296b-502c-48dc-9a66-fa9163678b24"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q19864280", 
+                    "id": "926938ab-dc80-482d-96e3-965d7ae63bd7"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/A_Thousand_Horses", 
+                    "id": "ab137765-0ae1-432e-83f0-a1dec7fff6c1"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Thousand Horses, A", 
+        "country": null, 
+        "disambiguation": "Rock/blues band based in Nashville, Tennessee, US.", 
+        "type": "Group", 
+        "id": "ad3a1b29-ac6e-44c0-bd96-8b561bf5dcd7", 
+        "gender-id": null
+    }, 
+    "id": 28423329, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

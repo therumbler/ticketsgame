@@ -1,0 +1,100 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Case Arnold with Tim Gent at The Paper Box (November 10, 2016)", 
+        "popularity": 0.0001, 
+        "venue": {
+            "displayName": "The Paper Box", 
+            "uri": "http://www.songkick.com/venues/1832098-paper-box?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7106783, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.936494, 
+            "id": 1832098
+        }, 
+        "uri": "http://www.songkick.com/concerts/28330469-case-arnold-at-paper-box?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "datetime": "2016-11-10T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 40.7106783, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.936494
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "34a7214a-ef04-4e0c-ab73-8ed76a253e48", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:34a7214a-ef04-4e0c-ab73-8ed76a253e48.json"
+                        }
+                    ], 
+                    "displayName": "Case Arnold", 
+                    "uri": "http://www.songkick.com/artists/5409593-case-arnold?utm_source=32233&utm_medium=partner", 
+                    "id": 5409593
+                }, 
+                "displayName": "Case Arnold", 
+                "id": 55088884, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Tim Gent", 
+                    "uri": "http://www.songkick.com/artists/7514599-tim-gent?utm_source=32233&utm_medium=partner", 
+                    "id": 7514599
+                }, 
+                "displayName": "Tim Gent", 
+                "id": 55088889, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28330469
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Case Arnold", 
+        "area": null, 
+        "country": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "id": "34a7214a-ef04-4e0c-ab73-8ed76a253e48", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Case Arnold", 
+        "type": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }
+    }, 
+    "id": 28330469, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

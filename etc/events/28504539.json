@@ -1,0 +1,127 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 4e-05, 
+        "displayName": "Peter Silberman with Sam Watts (Ghosts I've Met) at The Triple Door (November 14, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Triple Door", 
+            "uri": "http://www.songkick.com/venues/5368-triple-door?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6086673, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3373085, 
+            "id": 5368
+        }, 
+        "uri": "http://www.songkick.com/concerts/28504539-peter-silberman-at-triple-door?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-14", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 47.6086673, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3373085
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5ea53863-5ee9-477a-b598-a9483f1bd245", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5ea53863-5ee9-477a-b598-a9483f1bd245.json"
+                        }
+                    ], 
+                    "displayName": "Peter Silberman", 
+                    "uri": "http://www.songkick.com/artists/7305369-peter-silberman?utm_source=32233&utm_medium=partner", 
+                    "id": 7305369
+                }, 
+                "displayName": "Peter Silberman", 
+                "id": 55389924, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Sam Watts (Ghosts I've Met)", 
+                    "uri": "http://www.songkick.com/artists/8125313-sam-watts-ghosts-ive-met?utm_source=32233&utm_medium=partner", 
+                    "id": 8125313
+                }, 
+                "displayName": "Sam Watts (Ghosts I've Met)", 
+                "id": 55389929, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28504539
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "Peter Silberman", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1394742", 
+                    "id": "48ffd9e1-64e4-4bf6-a3fe-49b8a78c2043"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Silberman, Peter", 
+        "type": "Person", 
+        "id": "5ea53863-5ee9-477a-b598-a9483f1bd245", 
+        "disambiguation": ""
+    }, 
+    "id": 28504539, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

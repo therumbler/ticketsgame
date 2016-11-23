@@ -1,0 +1,300 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.008024, 
+        "displayName": "James Hersey with Plaitum and IDER at Kamio (formerly Red Gallery) (November 22, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Kamio (formerly Red Gallery)", 
+            "uri": "http://www.songkick.com/venues/3331129-kamio?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5262855, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0833839, 
+            "id": 3331129
+        }, 
+        "uri": "http://www.songkick.com/concerts/28140584-james-hersey-at-kamio?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-22", 
+            "datetime": "2016-11-22T19:30:00+0000", 
+            "time": "19:30:00"
+        }, 
+        "location": {
+            "lat": 51.5262855, 
+            "city": "London, UK", 
+            "lng": -0.0833839
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "James Hersey", 
+                "id": 54760809, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "fdd67e7a-8cf1-4bca-93b4-b5ddf1fea41c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fdd67e7a-8cf1-4bca-93b4-b5ddf1fea41c.json"
+                        }
+                    ], 
+                    "displayName": "James Hersey", 
+                    "uri": "http://www.songkick.com/artists/4014906-james-hersey?utm_source=32233&utm_medium=partner", 
+                    "id": 4014906
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Plaitum", 
+                "id": 54769619, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "266ff4a6-83c5-4ad3-9bfd-0647f834446e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:266ff4a6-83c5-4ad3-9bfd-0647f834446e.json"
+                        }
+                    ], 
+                    "displayName": "Plaitum", 
+                    "uri": "http://www.songkick.com/artists/5038053-plaitum?utm_source=32233&utm_medium=partner", 
+                    "id": 5038053
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "IDER", 
+                "id": 54769624, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "IDER", 
+                    "uri": "http://www.songkick.com/artists/8503468-ider?utm_source=32233&utm_medium=partner", 
+                    "id": 8503468
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28140584
+    }, 
+    "musicbrainz_response": {
+        "gender": "Male", 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "James Hersey", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1988-07-15", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Wien", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "AT-9"
+            ], 
+            "name": "Wien", 
+            "id": "afff1a94-a98b-4322-8874-3148139ab6da"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002782114", 
+                    "id": "a816ad09-ee04-40e2-b590-616c41c07555"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3231007", 
+                    "id": "fcfb75a7-6640-48ff-8d5e-670512e72890"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/James%20Hersey", 
+                    "id": "f547d6c0-504c-4142-936e-e598e4b7249c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.jamesherseymusic.com/", 
+                    "id": "c3749aec-68fe-439f-993b-558dfe623069"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/james_hersey", 
+                    "id": "9c7942ca-7a50-4080-a1a9-a49cd5c5a6af"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/JamesHersey", 
+                    "id": "5b45a2f9-9582-4801-8ead-5c1fd1d9e133"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/jamesherseymusic", 
+                    "id": "a138839e-91d8-4778-9a68-12321181896f"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/jameshersey", 
+                    "id": "8610f487-d2b8-4209-8ed1-78943800558f"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q17322517", 
+                    "id": "74eb2faf-5d8f-4665-a3bd-d4ed857defe1"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/jamesherseymusic", 
+                    "id": "6f07b136-e1b5-42ae-bc76-760c52a958e9"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Hersey, James", 
+        "isnis": [], 
+        "id": "fdd67e7a-8cf1-4bca-93b4-b5ddf1fea41c", 
+        "type": "Person", 
+        "twitter": "JamesHersey", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.gigantic.com/first-fifty-kamio-red-gallery-2016-11-22-19-30?utm_source=songkick&utm_medium=affiliate&utm_campaign=songkick"
+    }, 
+    "modified_time": 1479442522.0, 
+    "created_minutes": 12411, 
+    "created_time": 1478911664.0, 
+    "modified_minutes": 3563, 
+    "id": 28140584
+}

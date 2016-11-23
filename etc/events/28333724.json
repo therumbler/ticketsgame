@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Nathaniel Rateliff & The Night Sweats at Atlanta Coliseum (December 2, 2016)", 
+        "popularity": 0.013666, 
+        "venue": {
+            "displayName": "Atlanta Coliseum", 
+            "uri": "http://www.songkick.com/venues/3364379-atlanta-coliseum?utm_source=32233&utm_medium=partner", 
+            "lat": 33.9580824, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.1294648, 
+            "id": 3364379
+        }, 
+        "uri": "http://www.songkick.com/concerts/28333724-nathaniel-rateliff-and-the-night-sweats-at-atlanta-coliseum?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 33.9580824, 
+            "city": "Duluth, GA, US", 
+            "lng": -84.1294648
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2d97d9a8-e7dd-443f-b7cb-e35700dacd0a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2d97d9a8-e7dd-443f-b7cb-e35700dacd0a.json"
+                        }
+                    ], 
+                    "displayName": "Nathaniel Rateliff & The Night Sweats", 
+                    "uri": "http://www.songkick.com/artists/7514479-nathaniel-rateliff-and-the-night-sweats?utm_source=32233&utm_medium=partner", 
+                    "id": 7514479
+                }, 
+                "displayName": "Nathaniel Rateliff & The Night Sweats", 
+                "id": 55094569, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28333724
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Nathaniel Rateliff & the Night Sweats", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "gender": null, 
+        "disambiguation": "", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003399894", 
+                    "id": "c0a6289a-dfc6-421b-8c3a-6f09cf83ccab"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4254234", 
+                    "id": "e127b2bb-760a-4b42-a4fa-5eba5866c5a0"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Nathaniel Rateliff & the Night Sweats", 
+        "country": null, 
+        "type": "Group", 
+        "id": "2d97d9a8-e7dd-443f-b7cb-e35700dacd0a", 
+        "gender-id": null
+    }, 
+    "id": 28333724, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

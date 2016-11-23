@@ -1,0 +1,359 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.014869, 
+        "displayName": "Marc Broussard at City Winery (December 19, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "City Winery", 
+            "uri": "http://www.songkick.com/venues/1837308-city-winery?utm_source=32233&utm_medium=partner", 
+            "lat": 41.8844754, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6569735, 
+            "id": 1837308
+        }, 
+        "uri": "http://www.songkick.com/concerts/28481939-marc-broussard-at-city-winery?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-19", 
+            "time": "18:00:00", 
+            "datetime": "2016-12-19T18:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.8844754, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6569735
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Marc Broussard", 
+                "id": 55349824, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c9584c27-f240-4f0e-8e82-3470111f24be", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c9584c27-f240-4f0e-8e82-3470111f24be.json"
+                        }
+                    ], 
+                    "displayName": "Marc Broussard", 
+                    "uri": "http://www.songkick.com/artists/135964-marc-broussard?utm_source=32233&utm_medium=partner", 
+                    "id": 135964
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28481939
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Marc Broussard", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "soul"
+            }
+        ], 
+        "gender": "Male", 
+        "twitter": "MarcBroussard", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/63724343", 
+                    "id": "7718601f-7ec2-48f0-9809-7c1ae5ebdec4"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000678098", 
+                    "id": "89fe7a7c-5798-4485-85c2-b539c9d7613a"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/992908", 
+                    "id": "89ac6fd7-1885-480d-bc7b-aaf1448f6126"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Marc%20Broussard", 
+                    "id": "37ed9f74-d0db-4c1a-81bc-5ae333cc27a3"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/marc-broussard-lyrics", 
+                    "id": "45c30cbd-4efb-41ef-a8bd-fbee2be9101c"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.marcbroussard.com/", 
+                    "id": "1a647b09-d773-4e15-9fb6-f5b4b45d598d"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/marc_broussard", 
+                    "id": "ce7e5328-5ee2-49cc-b728-a99e5477fedf"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/MarcBroussard", 
+                    "id": "7f75fc0c-0741-4d18-8cd7-8ce51e5d89c2"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/marcbroussard", 
+                    "id": "6d54ab93-890b-47f8-a5cd-9246525ff261"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q2038636", 
+                    "id": "728980da-3667-4d7d-957a-fe04a8b8af98"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Marc_Broussard", 
+                    "id": "ae29e83d-c68e-4444-81f4-72ddfc9d0465"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/MarcBroussardVEVO", 
+                    "id": "3f83f33d-e006-4066-ad59-30da8d795a5c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Carencro", 
+            "disambiguation": "", 
+            "name": "Carencro", 
+            "id": "29b9caf1-55f7-42a7-a9b8-5daf75d2e907"
+        }, 
+        "sort-name": "Broussard, Marc", 
+        "isnis": [
+            "0000000114737802"
+        ], 
+        "id": "c9584c27-f240-4f0e-8e82-3470111f24be", 
+        "country": "US", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1982-01-14", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Marc Broussard @ City Winery in Chicago, IL", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Chicago", 
+            "name": "City Winery", 
+            "country": "United States", 
+            "region": "IL", 
+            "longitude": -87.657387, 
+            "place": "City Winery", 
+            "latitude": 41.884251
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13243366?app_id=ticketgame&artist=Marc+Broussard&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13243366/buy_tickets?app_id=ticketgame&artist=Marc+Broussard&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Monday, December 19, 2016 at 8:00PM", 
+        "datetime": "2016-12-19T20:00:00", 
+        "formatted_location": "Chicago, IL", 
+        "ticket_redirect_url": "http://www.citywinery.com/chicago/tickets/marc-broussard-12-19.html", 
+        "artists": [
+            {
+                "website": "http://www.marcbroussard.com", 
+                "facebook_page_url": "https://www.facebook.com/marcbroussard", 
+                "name": "Marc Broussard", 
+                "url": "MarcBroussard", 
+                "tracker_count": 61442, 
+                "mbid": "c9584c27-f240-4f0e-8e82-3470111f24be", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6858300.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/MarcBroussard/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6858300.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13243366
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.citywinery.com/chicago/tickets/marc-broussard-12-19.html"
+    }, 
+    "modified_time": 1479442399.0, 
+    "created_minutes": 5910, 
+    "created_time": 1479305635.0, 
+    "modified_minutes": 3631, 
+    "id": 28481939
+}

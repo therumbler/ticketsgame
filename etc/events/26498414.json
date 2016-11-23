@@ -1,0 +1,120 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001712, 
+        "displayName": "Jan Garbarek Group and Trilok Gurtu at Royal Festival Hall, Southbank Centre (November 13, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Royal Festival Hall, Southbank Centre", 
+            "uri": "http://www.songkick.com/venues/17582-royal-festival-hall-southbank-centre?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5033996, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.117448, 
+            "id": 17582
+        }, 
+        "uri": "http://www.songkick.com/concerts/26498414-jan-garbarek-group-at-royal-festival-hall-southbank-centre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-13T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5033996, 
+            "city": "London, UK", 
+            "lng": -0.117448
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Jan Garbarek Group", 
+                "id": 51744164, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ade18e14-d868-44ee-994b-51587e587f72", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ade18e14-d868-44ee-994b-51587e587f72.json"
+                        }
+                    ], 
+                    "displayName": "Jan Garbarek Group", 
+                    "uri": "http://www.songkick.com/artists/114470-jan-garbarek-group?utm_source=32233&utm_medium=partner", 
+                    "id": 114470
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Trilok Gurtu", 
+                "id": 51744169, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5af7a83c-88ba-493f-8bec-5c9e3b895e3e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5af7a83c-88ba-493f-8bec-5c9e3b895e3e.json"
+                        }
+                    ], 
+                    "displayName": "Trilok Gurtu", 
+                    "uri": "http://www.songkick.com/artists/376392-trilok-gurtu?utm_source=32233&utm_medium=partner", 
+                    "id": 376392
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26498414
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Jan Garbarek Group", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/337598", 
+                    "id": "388f6ecc-b38c-4951-a97b-34aee846169b"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Garbarek, Jan, Group", 
+        "gender": null, 
+        "id": "ade18e14-d868-44ee-994b-51587e587f72", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 26498414, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

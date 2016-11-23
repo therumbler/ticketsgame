@@ -1,0 +1,276 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000109, 
+        "displayName": "Johnny Nicholas at Saxon Pub (November 19, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Saxon Pub", 
+            "uri": "http://www.songkick.com/venues/61167-saxon-pub?utm_source=32233&utm_medium=partner", 
+            "lat": 30.2544135, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7624768, 
+            "id": 61167
+        }, 
+        "uri": "http://www.songkick.com/concerts/28323744-johnny-nicholas-at-saxon-pub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "datetime": "2016-11-19T19:00:00-0600", 
+            "time": "19:00:00"
+        }, 
+        "location": {
+            "lat": 30.2544135, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7624768
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Johnny Nicholas", 
+                "id": 55077949, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7a2c8df8-58bb-4d2d-8f76-2b75230c2934", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7a2c8df8-58bb-4d2d-8f76-2b75230c2934.json"
+                        }
+                    ], 
+                    "displayName": "Johnny Nicholas", 
+                    "uri": "http://www.songkick.com/artists/320104-johnny-nicholas?utm_source=32233&utm_medium=partner", 
+                    "id": 320104
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28323744
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Johnny Nicholas", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1948", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/14966150", 
+                    "id": "a27f6cbc-5de7-4e4d-963e-f5cf7def7025"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000207120", 
+                    "id": "6615f34f-99c9-4cca-897c-95ae28b8ca7b"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2063031", 
+                    "id": "cbfd6ce5-c376-4d7f-92c7-71a0b01f3283"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Johnny%20Nicholas", 
+                    "id": "f9dbcbda-8b32-4d8e-8406-fb0162df3457"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://johnnynicholasmusic.com/", 
+                    "id": "6184a3ec-b934-4d24-83a8-6568ca290b73"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/johnny_nicholas", 
+                    "id": "abb75bcd-b9d3-4c1e-8a29-5c67dd905701"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q15462461", 
+                    "id": "d61b0f5d-d06c-4680-aed5-fe3a8119d87e"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Johnny_Nicholas", 
+                    "id": "50547533-aa23-4f1e-9b09-7f35e44701a2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Westerly", 
+            "disambiguation": "", 
+            "id": "bd2d0852-8d5c-4ea6-bc09-00601abcf3ee", 
+            "name": "Westerly"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Nicholas, Johnny", 
+        "type": "Person", 
+        "id": "7a2c8df8-58bb-4d2d-8f76-2b75230c2934", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15501, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Johnny Nicholas @ The Saxon Pub in Austin, TX", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Austin", 
+            "name": "The Saxon Pub", 
+            "country": "United States", 
+            "region": "TX", 
+            "longitude": -97.7634506, 
+            "place": "The Saxon Pub", 
+            "latitude": 30.2536068
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13119562?app_id=ticketgame&artist=Johnny+Nicholas&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13119562/buy_tickets?app_id=ticketgame&artist=Johnny+Nicholas&came_from=67", 
+        "on_sale_datetime": "2016-10-12T17:44:11", 
+        "formatted_datetime": "Saturday, November 19, 2016 at 7:00PM", 
+        "datetime": "2016-11-19T19:00:00", 
+        "formatted_location": "Austin, TX", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1357393/tfly%3Futm_medium%3Dapi&afftrack=67%7E16639497%7E24122633%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/johnnynicholasblues/", 
+                "name": "Johnny Nicholas", 
+                "url": "JohnnyNicholas", 
+                "tracker_count": 699, 
+                "mbid": "7a2c8df8-58bb-4d2d-8f76-2b75230c2934", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6904205.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/JohnnyNicholas/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6904205.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13119562
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442902.0, 
+    "created_time": 1478565978.0, 
+    "modified_minutes": 885, 
+    "id": 28323744
+}

@@ -1,0 +1,146 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Kane Brown and Jordan Rager at House of Blues (December 17, 2016)", 
+        "popularity": 0.003435, 
+        "venue": {
+            "displayName": "House of Blues", 
+            "uri": "http://www.songkick.com/venues/621-house-of-blues?utm_source=32233&utm_medium=partner", 
+            "lat": 41.8882295, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6290953, 
+            "id": 621
+        }, 
+        "uri": "http://www.songkick.com/concerts/28185069-kane-brown-at-house-of-blues?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-17", 
+            "time": "19:00:00", 
+            "datetime": "2016-12-17T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.8882295, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6290953
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a62e299b-4707-4ff5-ad53-d80b2b03319d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a62e299b-4707-4ff5-ad53-d80b2b03319d.json"
+                        }
+                    ], 
+                    "displayName": "Kane Brown", 
+                    "uri": "http://www.songkick.com/artists/3587911-kane-brown?utm_source=32233&utm_medium=partner", 
+                    "id": 3587911
+                }, 
+                "displayName": "Kane Brown", 
+                "id": 54838754, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "fabdf1ad-d09b-484b-b587-c340dd424b58", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fabdf1ad-d09b-484b-b587-c340dd424b58.json"
+                        }
+                    ], 
+                    "displayName": "Jordan Rager", 
+                    "uri": "http://www.songkick.com/artists/4595208-jordan-rager?utm_source=32233&utm_medium=partner", 
+                    "id": 4595208
+                }, 
+                "displayName": "Jordan Rager", 
+                "id": 54838759, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28185069
+    }, 
+    "musicbrainz_response": {
+        "name": "Kane Brown", 
+        "area": null, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1993-10-21", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id930928857", 
+                    "id": "d72faf5f-fd2b-47a7-92c8-4323d1e7f4a7"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Kane_Brown", 
+                    "id": "6b3db4f2-c015-4afc-903a-cceb0d9d4503"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "isnis": [], 
+        "sort-name": "Brown, Kane", 
+        "country": null, 
+        "type": "Person", 
+        "id": "a62e299b-4707-4ff5-ad53-d80b2b03319d", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://concerts.livenation.com/event/0400512F080C444A"
+    }, 
+    "modified_time": 1479442578.0, 
+    "created_minutes": 5846, 
+    "created_time": 1479305635.0, 
+    "modified_minutes": 3564, 
+    "id": 28185069
+}

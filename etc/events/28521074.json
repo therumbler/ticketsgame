@@ -1,0 +1,147 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001625, 
+        "displayName": "Laura Marano at CNE Stadium (November 10, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "CNE Stadium", 
+            "uri": "http://www.songkick.com/venues/46856-cne-stadium?utm_source=32233&utm_medium=partner", 
+            "lat": 43.632339, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.4212734, 
+            "id": 46856
+        }, 
+        "uri": "http://www.songkick.com/concerts/28521074-laura-marano-at-cne-stadium?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 43.632339, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.4212734
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8cb1ccd9-5c5d-4aa9-b043-7048bf1e0f6e", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8cb1ccd9-5c5d-4aa9-b043-7048bf1e0f6e.json"
+                        }
+                    ], 
+                    "displayName": "Laura Marano", 
+                    "uri": "http://www.songkick.com/artists/7476629-laura-marano?utm_source=32233&utm_medium=partner", 
+                    "id": 7476629
+                }, 
+                "displayName": "Laura Marano", 
+                "id": 55417429, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28521074
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "name": "Laura Marano", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1995-11-29", 
+            "end": null
+        }, 
+        "tags": [], 
+        "isnis": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm1404824/", 
+                    "id": "c425c9a8-a389-4be8-8c28-4da47c70d006"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q242792", 
+                    "id": "5bdd1d46-da66-4d1c-ba77-e66b7379e0e1"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Laura_Marano", 
+                    "id": "552309da-55df-49c5-a6f9-2c64f9b6dc7c"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "name": "Los Angeles", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62"
+        }, 
+        "sort-name": "Marano, Laura", 
+        "gender": "Female", 
+        "id": "8cb1ccd9-5c5d-4aa9-b043-7048bf1e0f6e", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2"
+    }, 
+    "id": 28521074, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

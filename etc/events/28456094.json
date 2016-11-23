@@ -1,0 +1,148 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Acid Pauli at The Factory at Magic City Studios (December 4, 2016)", 
+        "popularity": 0.003306, 
+        "venue": {
+            "displayName": "The Factory at Magic City Studios", 
+            "uri": "http://www.songkick.com/venues/3405124-factory-at-magic-city-studios?utm_source=32233&utm_medium=partner", 
+            "lat": 25.8338749, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "FL"
+                }, 
+                "displayName": "Miami", 
+                "uri": "http://www.songkick.com/metro_areas/9776-us-miami?utm_source=32233&utm_medium=partner", 
+                "id": 9776
+            }, 
+            "lng": -80.1884655, 
+            "id": 3405124
+        }, 
+        "uri": "http://www.songkick.com/concerts/28456094-acid-pauli-at-factory-at-magic-city-studios?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-04", 
+            "time": "14:00:00", 
+            "datetime": "2016-12-04T14:00:00-0500"
+        }, 
+        "location": {
+            "lat": 25.8338749, 
+            "city": "Miami, FL, US", 
+            "lng": -80.1884655
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "dcdde0fc-04f9-4f1d-a3c8-759e3738784a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:dcdde0fc-04f9-4f1d-a3c8-759e3738784a.json"
+                        }
+                    ], 
+                    "displayName": "Acid Pauli", 
+                    "uri": "http://www.songkick.com/artists/3208341-acid-pauli?utm_source=32233&utm_medium=partner", 
+                    "id": 3208341
+                }, 
+                "displayName": "Acid Pauli", 
+                "id": 55305999, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28456094
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Acid Pauli", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Germany", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "DE"
+            ], 
+            "name": "Germany", 
+            "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/101225", 
+                    "id": "86b4ab5c-8dff-4899-b47a-95938de1cde1"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.acidpauli.de/", 
+                    "id": "e30f84cc-34c4-4eea-93f8-884eb42e59fc"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/pages/Acid-Pauli/201133649776", 
+                    "id": "d7c3df36-0661-4767-a2a6-151bee1e4338"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Pauli, Acid", 
+        "country": "DE", 
+        "id": "dcdde0fc-04f9-4f1d-a3c8-759e3738784a", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28456094, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Flashback Band at The Hamilton Live (December 17, 2016)", 
+        "popularity": 2.3e-05, 
+        "venue": {
+            "displayName": "The Hamilton Live", 
+            "uri": "http://www.songkick.com/venues/1611908-hamilton-live?utm_source=32233&utm_medium=partner", 
+            "lat": 38.89749, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0321542, 
+            "id": 1611908
+        }, 
+        "uri": "http://www.songkick.com/concerts/27770914-flashback-band-at-hamilton-live?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-17", 
+            "time": "22:00:00", 
+            "datetime": "2016-12-17T22:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.89749, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0321542
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "296ed231-fe4d-42b5-a15b-98d3d7011934", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:296ed231-fe4d-42b5-a15b-98d3d7011934.json"
+                        }
+                    ], 
+                    "displayName": "The Flashback Band", 
+                    "uri": "http://www.songkick.com/artists/92821-flashback-band?utm_source=32233&utm_medium=partner", 
+                    "id": 92821
+                }, 
+                "displayName": "The Flashback Band", 
+                "id": 54095709, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27770914
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Flashback Band", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Flashback Band, The", 
+        "country": "GB", 
+        "id": "296ed231-fe4d-42b5-a15b-98d3d7011934", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 27770914, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

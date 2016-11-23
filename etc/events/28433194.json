@@ -1,0 +1,169 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "16+", 
+        "displayName": "Hippo Campus at Bluebird Theater (February 18, 2017)", 
+        "popularity": 0.006153, 
+        "venue": {
+            "displayName": "Bluebird Theater", 
+            "uri": "http://www.songkick.com/venues/10459-bluebird-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7402806, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.948382, 
+            "id": 10459
+        }, 
+        "uri": "http://www.songkick.com/concerts/28433194-hippo-campus-at-bluebird-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-18", 
+            "datetime": "2017-02-18T20:00:00-0700", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 39.7402806, 
+            "city": "Denver, CO, US", 
+            "lng": -104.948382
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "cf9655a8-ce1e-414e-9843-de1c4a60830d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:cf9655a8-ce1e-414e-9843-de1c4a60830d.json"
+                        }
+                    ], 
+                    "displayName": "Hippo Campus", 
+                    "uri": "http://www.songkick.com/artists/4848788-hippo-campus?utm_source=32233&utm_medium=partner", 
+                    "id": 4848788
+                }, 
+                "displayName": "Hippo Campus", 
+                "id": 55267999, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28433194
+    }, 
+    "musicbrainz_response": {
+        "name": "Hippo Campus", 
+        "tags": [], 
+        "gender-id": null, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thehalocline.bandcamp.com/", 
+                    "id": "1563b4fc-4372-4770-a84a-7767fe831492"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://hippocampusband.com/", 
+                    "id": "b9d021ff-ff8d-4003-8efc-bc283d4ff421"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/thehalocline", 
+                    "id": "6a20e3ab-458c-4598-b28c-539254cbc9ed"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/hippo-campus", 
+                    "id": "4f4bb6ec-0b0d-4f4a-86e1-b99b6c7a0011"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Hippo Campus", 
+        "gender": null, 
+        "type": "Group", 
+        "id": "cf9655a8-ce1e-414e-9843-de1c4a60830d", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.songkick.com/store/events/28433194"
+    }, 
+    "modified_time": 1479442545.0, 
+    "created_minutes": 18232, 
+    "created_time": 1478566006.0, 
+    "modified_minutes": 3623, 
+    "id": 28433194
+}

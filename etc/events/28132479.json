@@ -1,0 +1,149 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Russ at Emo's Austin (November 19, 2016)", 
+        "popularity": 0.00541, 
+        "venue": {
+            "displayName": "Emo's Austin", 
+            "uri": "http://www.songkick.com/venues/1421588-emos-austin?utm_source=32233&utm_medium=partner", 
+            "lat": 30.2403964, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7282016, 
+            "id": 1421588
+        }, 
+        "uri": "http://www.songkick.com/concerts/28132479-russ-at-emos-austin?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-19T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 30.2403964, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7282016
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9ddf4b19-dd14-45d9-b056-49541b16dc80", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9ddf4b19-dd14-45d9-b056-49541b16dc80.json"
+                        }
+                    ], 
+                    "displayName": "Russ", 
+                    "uri": "http://www.songkick.com/artists/407566-russ?utm_source=32233&utm_medium=partner", 
+                    "id": 407566
+                }, 
+                "displayName": "Russ", 
+                "id": 54747079, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28132479
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Russ", 
+        "tags": [], 
+        "country": "US", 
+        "twitter": "russdiemon", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/russdiemon", 
+                    "id": "94f45ad6-733e-4941-88bb-b60b70b59d82"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/russtheone", 
+                    "id": "049b0e7a-9da5-482e-b41c-7a77c43f3148"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/russdiemon/", 
+                    "id": "fbd674f9-4f3a-4517-807d-b57a07f81e87"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "9ddf4b19-dd14-45d9-b056-49541b16dc80", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Russ", 
+        "ipis": [], 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 28132479, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

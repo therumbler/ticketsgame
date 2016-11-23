@@ -1,0 +1,110 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Normaltown Flyers at The Foundry (November 23, 2016)", 
+        "popularity": 1.2e-05, 
+        "venue": {
+            "displayName": "The Foundry", 
+            "uri": "http://www.songkick.com/venues/2815963-foundry?utm_source=32233&utm_medium=partner", 
+            "lat": 33.9636287, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -83.3747351, 
+            "id": 2815963
+        }, 
+        "uri": "http://www.songkick.com/concerts/28017434-normaltown-flyers-at-foundry?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-23", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-23T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 33.9636287, 
+            "city": "Athens, GA, US", 
+            "lng": -83.3747351
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "00ad7912-074e-4a0a-b788-b79648bdc704", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:00ad7912-074e-4a0a-b788-b79648bdc704.json"
+                        }
+                    ], 
+                    "displayName": "The Normaltown Flyers", 
+                    "uri": "http://www.songkick.com/artists/486045-normaltown-flyers?utm_source=32233&utm_medium=partner", 
+                    "id": 486045
+                }, 
+                "displayName": "The Normaltown Flyers", 
+                "id": 54543424, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28017434
+    }, 
+    "musicbrainz_response": {
+        "name": "The Normaltown Flyers", 
+        "tags": [], 
+        "gender-id": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1979", 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/normaltownflyers", 
+                    "id": "25229e5d-6482-48c8-871b-074af94c3f0f"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Normaltown Flyers, The", 
+        "country": null, 
+        "type": "Group", 
+        "id": "00ad7912-074e-4a0a-b788-b79648bdc704", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://public.ticketbiscuit.com/MeltingPointAthens/Events/283186"
+    }, 
+    "modified_time": 1479442309.0, 
+    "created_minutes": 18167, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 3561, 
+    "id": 28017434
+}

@@ -1,0 +1,120 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 3.9e-05, 
+        "displayName": "DJ Douggpound with Jeremy Burke at Los Globos (November 18, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Los Globos", 
+            "uri": "http://www.songkick.com/venues/1489363-los-globos?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0840136, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2741873, 
+            "id": 1489363
+        }, 
+        "uri": "http://www.songkick.com/concerts/28568329-dj-douggpound-at-los-globos?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "datetime": "2016-11-18T22:00:00-0800", 
+            "time": "22:00:00"
+        }, 
+        "location": {
+            "lat": 34.0840136, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2741873
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0620c4f0-c364-492a-8015-c88051c88af9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0620c4f0-c364-492a-8015-c88051c88af9.json"
+                        }
+                    ], 
+                    "displayName": "DJ Douggpound", 
+                    "uri": "http://www.songkick.com/artists/4381108-dj-douggpound?utm_source=32233&utm_medium=partner", 
+                    "id": 4381108
+                }, 
+                "displayName": "DJ Douggpound", 
+                "id": 55500274, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Jeremy Burke", 
+                    "uri": "http://www.songkick.com/artists/5033388-jeremy-burke?utm_source=32233&utm_medium=partner", 
+                    "id": 5033388
+                }, 
+                "displayName": "Jeremy Burke", 
+                "id": 55500279, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28568329
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "DJ Douggpound", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1187235", 
+                    "id": "f960eb22-e932-4047-b0a0-7f88412aa92f"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Douggpound, DJ", 
+        "isnis": [], 
+        "id": "0620c4f0-c364-492a-8015-c88051c88af9", 
+        "country": null, 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28568329, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

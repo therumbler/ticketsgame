@@ -1,0 +1,90 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "19+", 
+        "displayName": "Sean Jones - Soul with Tanika Charles and Nefe at CandyLand (November 23, 2016)", 
+        "popularity": 4.3e-05, 
+        "venue": {
+            "displayName": "CandyLand", 
+            "uri": "http://www.songkick.com/venues/3438949-candyland?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6441352, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.401074, 
+            "id": 3438949
+        }, 
+        "uri": "http://www.songkick.com/concerts/28481154-sean-jones-soul-at-candyland?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-23", 
+            "datetime": "2016-11-23T19:30:00-0500", 
+            "time": "19:30:00"
+        }, 
+        "location": {
+            "lat": 43.6441352, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.401074
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Sean Jones - Soul", 
+                    "uri": "http://www.songkick.com/artists/8928074-sean-jones-soul?utm_source=32233&utm_medium=partner", 
+                    "id": 8928074
+                }, 
+                "displayName": "Sean Jones - Soul", 
+                "id": 55348354, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "fe27a4d0-a7ff-4784-94e9-02d8363175af", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fe27a4d0-a7ff-4784-94e9-02d8363175af.json"
+                        }
+                    ], 
+                    "displayName": "Tanika Charles", 
+                    "uri": "http://www.songkick.com/artists/3820096-tanika-charles?utm_source=32233&utm_medium=partner", 
+                    "id": 3820096
+                }, 
+                "displayName": "Tanika Charles", 
+                "id": 55348359, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Nefe", 
+                    "uri": "http://www.songkick.com/artists/8418503-nefe?utm_source=32233&utm_medium=partner", 
+                    "id": 8418503
+                }, 
+                "displayName": "Nefe", 
+                "id": 55348364, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28481154
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "id": 28481154, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,527 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.045214, 
+        "displayName": "Barbra Streisand at AmericanAirlines Arena (December 5, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "AmericanAirlines Arena", 
+            "uri": "http://www.songkick.com/venues/5065-americanairlines-arena?utm_source=32233&utm_medium=partner", 
+            "lat": 25.781232, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "FL"
+                }, 
+                "displayName": "Miami", 
+                "uri": "http://www.songkick.com/metro_areas/9776-us-miami?utm_source=32233&utm_medium=partner", 
+                "id": 9776
+            }, 
+            "lng": -80.187805, 
+            "id": 5065
+        }, 
+        "uri": "http://www.songkick.com/concerts/28151734-barbra-streisand-at-americanairlines-arena?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-05", 
+            "datetime": "2016-12-05T20:00:00-0500", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 25.781232, 
+            "city": "Miami, FL, US", 
+            "lng": -80.187805
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Barbra Streisand", 
+                "id": 54779299, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "56cd15a1-0d74-438b-8244-c96ffe1cae03", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:56cd15a1-0d74-438b-8244-c96ffe1cae03.json"
+                        }
+                    ], 
+                    "displayName": "Barbra Streisand", 
+                    "uri": "http://www.songkick.com/artists/274358-barbra-streisand?utm_source=32233&utm_medium=partner", 
+                    "id": 274358
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28151734
+    }, 
+    "musicbrainz_response": {
+        "name": "Barbra Streisand", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "adult contemporary"
+            }, 
+            {
+                "count": 1, 
+                "name": "american"
+            }, 
+            {
+                "count": 1, 
+                "name": "easy listening soundtracks and musicals"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "showtunes"
+            }, 
+            {
+                "count": 1, 
+                "name": "vocal"
+            }, 
+            {
+                "count": 1, 
+                "name": "yentle"
+            }
+        ], 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "gender": "Female", 
+        "twitter": "barbrastreisand", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bbc.co.uk/music/artists/56cd15a1-0d74-438b-8244-c96ffe1cae03", 
+                    "id": "a60306fa-6ed7-4381-941d-5ba4f075ffcf"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d028a975-000c-4525-9333-d3c8425e4b54", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "BBC Music page", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0000659/", 
+                    "id": "70fe64df-a5a0-4215-ab7b-1438dd188663"
+                }, 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/44486523", 
+                    "id": "b619aede-365d-4581-8bfd-57a2a6dda62f"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000855531", 
+                    "id": "b9b068de-b6e7-4f6f-a74f-fccccdd83c63"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/53248", 
+                    "id": "a7c416f2-6529-41e9-930c-fadb8f5197ff"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://barbra-archives.com/index.html", 
+                    "id": "35031ea4-183a-42e8-86a7-e002fc09ec10"
+                }, 
+                "begin": null, 
+                "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "fanpage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Barbra_Streisand_at_Health_Matters_Conference.jpg", 
+                    "id": "beb219dc-b977-4e0e-9ef4-af6527220e68"
+                }, 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Barbra+Streisand", 
+                    "id": "0c9f6815-c1a9-4231-b17b-c8818b2b148e"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-3774/barbra-streisand/lyrics.html", 
+                    "id": "fca72180-def2-47f2-8096-2551b79b3d84"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/barbrastreisand", 
+                    "id": "34051f6c-7c2f-4591-b030-74b401ed93f8"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.barbrastreisand.com/", 
+                    "id": "71e569ca-abef-4e68-a2c7-51fd9fe21055"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://ibdb.com/person.php?id=61328", 
+                    "id": "e7b02826-1a62-4fa5-97c9-bfffeee4ce29"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/barbra_streisand", 
+                    "id": "977d57c0-d694-4c7e-89a8-d4f6b83826f3"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.lortel.org/LLA_archive/index.cfm?search_by=people&first=Barbra&last=Streisand&middle=", 
+                    "id": "91bc6a2b-ee91-4ae7-b0a9-7978cd161d05"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/2307", 
+                    "id": "c0071c05-32ed-4554-8cb5-d13251fcb203"
+                }, 
+                "begin": null, 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/barbrastreisand", 
+                    "id": "a32fb694-28b6-4a19-afac-f83cc51c71ca"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/barbrastreisand", 
+                    "id": "660668b3-64ff-491f-ad4f-f75b78824ab8"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6", 
+                    "id": "a7005da8-13c5-43b1-b84b-16cc657b42f4"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q4636", 
+                    "id": "697831fa-51f0-4400-81a9-4c3ecfa53755"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Barbra_Streisand", 
+                    "id": "1efde61e-be29-4bb8-bf50-519e2ab2b7ed"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/barbrastreisand", 
+                    "id": "acf351f7-2c7a-43c4-ae18-f66fd86d1234"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "id": "56cd15a1-0d74-438b-8244-c96ffe1cae03", 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Williamsburg", 
+            "disambiguation": "", 
+            "id": "0c875d86-e14e-4d3a-a4f4-6070f1a23d7f", 
+            "name": "Williamsburg"
+        }, 
+        "sort-name": "Streisand, Barbra", 
+        "country": "US", 
+        "ipis": [], 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1942-04-24", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15483, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Barbra Streisand @ AmericanAirlines Arena in Miami, FL", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Miami", 
+            "name": "AmericanAirlines Arena", 
+            "country": "United States", 
+            "region": "FL", 
+            "longitude": -80.187805, 
+            "place": "AmericanAirlines Arena", 
+            "latitude": 25.781232
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12987310?app_id=ticketgame&artist=Barbra+Streisand&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12987310/buy_tickets?app_id=ticketgame&artist=Barbra+Streisand&came_from=67", 
+        "on_sale_datetime": "2016-09-29T14:00:00", 
+        "formatted_datetime": "Monday, December 5, 2016 at 8:00PM", 
+        "datetime": "2016-12-05T20:00:00", 
+        "formatted_location": "Miami, FL", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F0D00513379026EF5&subId1=67%7E16307250%7E23806818%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.barbrastreisand.com/", 
+                "facebook_page_url": null, 
+                "name": "Barbra Streisand", 
+                "url": "BarbraStreisand", 
+                "tracker_count": 147512, 
+                "mbid": "56cd15a1-0d74-438b-8244-c96ffe1cae03", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/141062.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/BarbraStreisand/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/141062.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12987310
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 546.8, 
+        "price_min": 121.55
+    }, 
+    "modified_time": 1479442536.0, 
+    "created_time": 1478566034.0, 
+    "modified_minutes": 874, 
+    "id": 28151734
+}

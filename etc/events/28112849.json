@@ -1,0 +1,108 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "18+", 
+        "displayName": "Middle Kids at The Shacklewell Arms (November 10, 2016)", 
+        "popularity": 8.6e-05, 
+        "venue": {
+            "displayName": "The Shacklewell Arms", 
+            "uri": "http://www.songkick.com/venues/1347121-shacklewell-arms?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5517116, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0719982, 
+            "id": 1347121
+        }, 
+        "uri": "http://www.songkick.com/concerts/28112849-middle-kids-at-shacklewell-arms?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-10T19:30:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5517116, 
+            "city": "London, UK", 
+            "lng": -0.0719982
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2c02eece-9832-4850-9150-b0e269f65d8b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2c02eece-9832-4850-9150-b0e269f65d8b.json"
+                        }
+                    ], 
+                    "displayName": "Middle Kids", 
+                    "uri": "http://www.songkick.com/artists/8828239-middle-kids?utm_source=32233&utm_medium=partner", 
+                    "id": 8828239
+                }, 
+                "displayName": "Middle Kids", 
+                "id": 54712069, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28112849
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Middle Kids", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Sydney", 
+            "disambiguation": "", 
+            "name": "Sydney", 
+            "id": "3f179da4-83c6-4a28-a627-e46b4a8ff1ed"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/middlekidsmusic", 
+                    "id": "07288306-ca81-4d2f-bed9-bb158a7f3b12"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "Middle Kids", 
+        "gender": null, 
+        "id": "2c02eece-9832-4850-9150-b0e269f65d8b", 
+        "type": null, 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28112849, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

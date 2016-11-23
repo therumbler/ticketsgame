@@ -1,0 +1,156 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Lizzo with Dizzy Fae at Subterranean (December 8, 2016)", 
+        "popularity": 0.004197, 
+        "venue": {
+            "displayName": "Subterranean", 
+            "uri": "http://www.songkick.com/venues/262-subterranean?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9104085, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.677996, 
+            "id": 262
+        }, 
+        "uri": "http://www.songkick.com/concerts/28249389-lizzo-at-subterranean?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-08", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-08T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.9104085, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.677996
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8fb5370b-9568-4b61-9da5-2aa12c9928db", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8fb5370b-9568-4b61-9da5-2aa12c9928db.json"
+                        }
+                    ], 
+                    "displayName": "Lizzo", 
+                    "uri": "http://www.songkick.com/artists/5031783-lizzo?utm_source=32233&utm_medium=partner", 
+                    "id": 5031783
+                }, 
+                "displayName": "Lizzo", 
+                "id": 54947754, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "97c170b8-a779-49ed-9da0-75b90e1a4bdc", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:97c170b8-a779-49ed-9da0-75b90e1a4bdc.json"
+                        }
+                    ], 
+                    "displayName": "Dizzy Fae", 
+                    "uri": "http://www.songkick.com/artists/8655214-dizzy-fae?utm_source=32233&utm_medium=partner", 
+                    "id": 8655214
+                }, 
+                "displayName": "Dizzy Fae", 
+                "id": 55224519, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28249389
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Lizzo", 
+        "tags": [], 
+        "gender": "Female", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1988-04-27", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Minnesota", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "US-MN"
+            ], 
+            "name": "Minnesota", 
+            "id": "f5ffcc03-ebf2-466a-bb11-b38c6c0c84f5"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q16232225", 
+                    "id": "03cff1c2-370e-46d2-b08a-bbd531c1a128"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "Lizzo", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Lizzo", 
+                    "id": "8131ed84-1448-4a6e-9bc0-10d64f617fd0"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "Lizzo", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00517643842"
+        ], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "country": null, 
+        "sort-name": "Lizzo", 
+        "type": "Person", 
+        "id": "8fb5370b-9568-4b61-9da5-2aa12c9928db", 
+        "disambiguation": "Minnesota rapper Melissa Viviane Jefferson"
+    }, 
+    "age_minutes": 15494, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 15.0
+    }, 
+    "modified_time": 1479442815.0, 
+    "created_time": 1478565988.0, 
+    "modified_minutes": 880, 
+    "id": 28249389
+}

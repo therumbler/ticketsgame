@@ -1,0 +1,102 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 9e-06, 
+        "displayName": "Glad Rags (US) with The Curls, Cordoba, and P \u2022 PL at Pinky Swear (November 19, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Pinky Swear", 
+            "uri": "http://www.songkick.com/venues/3027359-pinky-swear?utm_source=32233&utm_medium=partner", 
+            "lat": 41.8781136, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.6297982, 
+            "id": 3027359
+        }, 
+        "uri": "http://www.songkick.com/concerts/28126259-glad-rags-us-at-pinky-swear?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "datetime": "2016-11-19T17:00:00-0600", 
+            "time": "17:00:00"
+        }, 
+        "location": {
+            "lat": 41.8781136, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6297982
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Glad Rags (US)", 
+                    "uri": "http://www.songkick.com/artists/8394518-glad-rags-us?utm_source=32233&utm_medium=partner", 
+                    "id": 8394518
+                }, 
+                "displayName": "Glad Rags (US)", 
+                "id": 54735864, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Curls", 
+                    "uri": "http://www.songkick.com/artists/8434468-curls?utm_source=32233&utm_medium=partner", 
+                    "id": 8434468
+                }, 
+                "displayName": "The Curls", 
+                "id": 54735869, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0e0d6607-d756-459e-a67f-476075c3c356", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0e0d6607-d756-459e-a67f-476075c3c356.json"
+                        }
+                    ], 
+                    "displayName": "Cordoba", 
+                    "uri": "http://www.songkick.com/artists/92266-cordoba?utm_source=32233&utm_medium=partner", 
+                    "id": 92266
+                }, 
+                "displayName": "Cordoba", 
+                "id": 55389344, 
+                "billing": "support", 
+                "billingIndex": 3
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "P \u2022 PL", 
+                    "uri": "http://www.songkick.com/artists/8809234-p-pl?utm_source=32233&utm_medium=partner", 
+                    "id": 8809234
+                }, 
+                "displayName": "P \u2022 PL", 
+                "id": 55389349, 
+                "billing": "support", 
+                "billingIndex": 4
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28126259
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "id": 28126259, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

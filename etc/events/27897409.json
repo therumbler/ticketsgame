@@ -1,0 +1,100 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Oliver Franklin and Heather Thomas at High Dive (November 10, 2016)", 
+        "popularity": 3e-06, 
+        "venue": {
+            "displayName": "High Dive", 
+            "uri": "http://www.songkick.com/venues/2955-high-dive?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6513854, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3515738, 
+            "id": 2955
+        }, 
+        "uri": "http://www.songkick.com/concerts/27897409-oliver-franklin-at-high-dive?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-10T20:30:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6513854, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3515738
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f2964f23-0a52-46c8-a765-8814cca531bd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f2964f23-0a52-46c8-a765-8814cca531bd.json"
+                        }
+                    ], 
+                    "displayName": "Oliver Franklin", 
+                    "uri": "http://www.songkick.com/artists/4819293-oliver-franklin?utm_source=32233&utm_medium=partner", 
+                    "id": 4819293
+                }, 
+                "displayName": "Oliver Franklin", 
+                "id": 54329849, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Heather Thomas", 
+                    "uri": "http://www.songkick.com/artists/8664019-heather-thomas?utm_source=32233&utm_medium=partner", 
+                    "id": 8664019
+                }, 
+                "displayName": "Heather Thomas", 
+                "id": 54329854, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27897409
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Oliver Franklin", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Franklin, Oliver", 
+        "gender": null, 
+        "id": "f2964f23-0a52-46c8-a765-8814cca531bd", 
+        "type": "Person", 
+        "disambiguation": "Guitarist for The Senate", 
+        "gender-id": null
+    }, 
+    "id": 27897409, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

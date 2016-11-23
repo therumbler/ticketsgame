@@ -1,0 +1,368 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Marc Anthony at AmericanAirlines Arena (November 18, 2016)", 
+        "popularity": 0.064329, 
+        "venue": {
+            "displayName": "AmericanAirlines Arena", 
+            "uri": "http://www.songkick.com/venues/5065-americanairlines-arena?utm_source=32233&utm_medium=partner", 
+            "lat": 25.781232, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "FL"
+                }, 
+                "displayName": "Miami", 
+                "uri": "http://www.songkick.com/metro_areas/9776-us-miami?utm_source=32233&utm_medium=partner", 
+                "id": 9776
+            }, 
+            "lng": -80.187805, 
+            "id": 5065
+        }, 
+        "uri": "http://www.songkick.com/concerts/27367224-marc-anthony-at-americanairlines-arena?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-18T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 25.781232, 
+            "city": "Miami, FL, US", 
+            "lng": -80.187805
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "25607613-aceb-445a-8519-83a2ee0f8402", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:25607613-aceb-445a-8519-83a2ee0f8402.json"
+                        }, 
+                        {
+                            "mbid": "02855b7b-6ff4-4319-baab-6addca9676e4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:02855b7b-6ff4-4319-baab-6addca9676e4.json"
+                        }
+                    ], 
+                    "displayName": "Marc Anthony", 
+                    "uri": "http://www.songkick.com/artists/197850-marc-anthony?utm_source=32233&utm_medium=partner", 
+                    "id": 197850
+                }, 
+                "displayName": "Marc Anthony", 
+                "id": 53359719, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27367224
+    }, 
+    "musicbrainz_response": {
+        "name": "Marc Anthony", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "twitter": "MarcAnthony", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "american"
+            }, 
+            {
+                "count": 1, 
+                "name": "latin"
+            }, 
+            {
+                "count": 1, 
+                "name": "latin pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "salsa"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0004711/", 
+                    "id": "fae134d1-b69e-463f-88ed-d86c53d33795"
+                }, 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/6587053", 
+                    "id": "237838d4-8c70-438e-b665-10c317c91776"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/21581", 
+                    "id": "bc52256a-17f9-4af1-8e27-ca5e891d52be"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Marc+Anthony", 
+                    "id": "4b889860-9af7-4508-9c07-f2e2f25ae0bf"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-3336/marc-anthony/lyrics.html", 
+                    "id": "152b46d1-5ecc-456f-bc0b-62de037d4cd7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.marcanthonyonline.com/", 
+                    "id": "2f724458-ed1c-4b17-8664-81ebd226e61a"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://musicmoz.org/Bands_and_Artists/A/Anthony,_Marc/", 
+                    "id": "a3fa5183-63ac-4378-8455-2bfb007d6609"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/MarcAnthony", 
+                    "id": "824a1914-12c4-4199-b7a5-3a229cf174a0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/officialmarcanthony", 
+                    "id": "3df7d35b-05cd-45d2-9f73-241823359e71"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q26625", 
+                    "id": "1eac14ad-dc79-48c4-bb84-b790a213f8f7"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Marc_Anthony", 
+                    "id": "bc4853e4-935f-4595-b4cc-beb896cb574c"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/marcanthonyVEVO", 
+                    "id": "8a707eb2-80ed-4910-b6f3-3fc61d4ab15f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "name": "New York", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f"
+        }, 
+        "id": "25607613-aceb-445a-8519-83a2ee0f8402", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Anthony, Marc", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1968-09-16", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15453, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Marc Anthony @ AmericanAirlines Arena in Miami, FL", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Miami", 
+            "name": "AmericanAirlines Arena", 
+            "country": "United States", 
+            "region": "FL", 
+            "longitude": -80.187805, 
+            "place": "AmericanAirlines Arena", 
+            "latitude": 25.781232
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12320375?app_id=ticketgame&artist=Marc+Anthony&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12320375/buy_tickets?app_id=ticketgame&artist=Marc+Anthony&came_from=67", 
+        "on_sale_datetime": "2016-06-24T14:00:00", 
+        "formatted_datetime": "Friday, November 18, 2016 at 8:00PM", 
+        "datetime": "2016-11-18T20:00:00", 
+        "formatted_location": "Miami, FL", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F0D0050C7AFC97FA9&subId1=67%7E15403115%7E22589846%7E%7E", 
+        "artists": [
+            {
+                "website": "http://www.marcanthonyonline.com", 
+                "facebook_page_url": "http://www.facebook.com/pages/Marc%20Anthony/235324379995640", 
+                "name": "Marc Anthony", 
+                "url": "MarcAnthony", 
+                "tracker_count": 246406, 
+                "mbid": "25607613-aceb-445a-8519-83a2ee0f8402", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6255252.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/MarcAnthony/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6255252.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12320375
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 229.15, 
+        "price_min": 81.9
+    }, 
+    "modified_time": 1478566034.0, 
+    "id": 27367224
+}

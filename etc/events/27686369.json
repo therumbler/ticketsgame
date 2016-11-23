@@ -1,0 +1,225 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Livingston Taylor at Eddie's Attic (March 11, 2017)", 
+        "popularity": 0.001111, 
+        "venue": {
+            "displayName": "Eddie's Attic", 
+            "uri": "http://www.songkick.com/venues/46595-eddies-attic?utm_source=32233&utm_medium=partner", 
+            "lat": 33.773966, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.296449, 
+            "id": 46595
+        }, 
+        "uri": "http://www.songkick.com/concerts/27686369-livingston-taylor-at-eddies-attic?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-03-11", 
+            "time": "19:00:00", 
+            "datetime": "2017-03-11T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 33.773966, 
+            "city": "Decatur, GA, US", 
+            "lng": -84.296449
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3d19ffbe-ce69-4adb-9f50-d0c555b063ca", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3d19ffbe-ce69-4adb-9f50-d0c555b063ca.json"
+                        }
+                    ], 
+                    "displayName": "Livingston Taylor", 
+                    "uri": "http://www.songkick.com/artists/306093-livingston-taylor?utm_source=32233&utm_medium=partner", 
+                    "id": 306093
+                }, 
+                "displayName": "Livingston Taylor", 
+                "id": 53942359, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27686369
+    }, 
+    "musicbrainz_response": {
+        "name": "Livingston Taylor", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1950-11-21", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/94243148", 
+                    "id": "c03e51b3-ee5b-46c1-9edf-ca4fcd610442"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1075622", 
+                    "id": "a8a79057-804e-47c6-9558-a8123c980ef5"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/livingston-taylor-lyrics", 
+                    "id": "b6f05457-ece7-4c6c-8fda-df568c884c50"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q6205088", 
+                    "id": "657dedbd-d2ab-46f4-8792-5376747ead1f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Livingston_Taylor", 
+                    "id": "84bdc202-f49c-4b43-8993-8c2c1014ece8"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Taylor, Livingston", 
+        "type": "Person", 
+        "id": "3d19ffbe-ce69-4adb-9f50-d0c555b063ca", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15461, 
+    "bandsintown_response": {
+        "description": "Livingston Taylor", 
+        "title": "Livingston Taylor @ Eddie's Attic in Decatur, GA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Decatur", 
+            "name": "Eddie's Attic", 
+            "country": "United States", 
+            "region": "GA", 
+            "longitude": -84.296304, 
+            "place": "Eddie's Attic", 
+            "latitude": 33.773768
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12592376?app_id=ticketgame&artist=Livingston+Taylor&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12592376/buy_tickets?app_id=ticketgame&artist=Livingston+Taylor&came_from=67", 
+        "on_sale_datetime": "2016-07-29T10:00:00", 
+        "formatted_datetime": "Saturday, March 11, 2017 at 7:00PM", 
+        "datetime": "2017-03-11T19:00:00", 
+        "formatted_location": "Decatur, GA", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1260987/tfly%3Futm_medium%3Dapi&afftrack=67%7E15768940%7E23038099%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "Livingston Taylor", 
+                "url": "LivingstonTaylor", 
+                "tracker_count": 2385, 
+                "mbid": "3d19ffbe-ce69-4adb-9f50-d0c555b063ca", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5386732.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/LivingstonTaylor/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5386732.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12592376
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 36.0, 
+        "price_min": 30.0
+    }, 
+    "modified_time": 1479442044.0, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 860, 
+    "id": 27686369
+}

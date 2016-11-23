@@ -1,0 +1,73 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Andrew James (US) with Keeton Coffman at Carousel Lounge (November 11, 2016)", 
+        "popularity": 6e-06, 
+        "venue": {
+            "displayName": "Carousel Lounge", 
+            "uri": "http://www.songkick.com/venues/123348-carousel-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 30.309829, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": -97.7082234, 
+            "id": 123348
+        }, 
+        "uri": "http://www.songkick.com/concerts/28283044-andrew-james-us-at-carousel-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-11T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 30.309829, 
+            "city": "Austin, TX, US", 
+            "lng": -97.7082234
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Andrew James (US)", 
+                    "uri": "http://www.songkick.com/artists/8866709-andrew-james-us?utm_source=32233&utm_medium=partner", 
+                    "id": 8866709
+                }, 
+                "displayName": "Andrew James (US)", 
+                "id": 55005159, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Keeton Coffman", 
+                    "uri": "http://www.songkick.com/artists/5892814-keeton-coffman?utm_source=32233&utm_medium=partner", 
+                    "id": 5892814
+                }, 
+                "displayName": "Keeton Coffman", 
+                "id": 55005164, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28283044
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "id": 28283044, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

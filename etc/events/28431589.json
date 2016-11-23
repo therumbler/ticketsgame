@@ -1,0 +1,172 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Troy Petty and Molly Conrad at Caf\u00e9 Coco (November 18, 2016)", 
+        "popularity": 9e-06, 
+        "venue": {
+            "displayName": "Caf\u00e9 Coco", 
+            "uri": "http://www.songkick.com/venues/80468-cafe-coco?utm_source=32233&utm_medium=partner", 
+            "lat": 36.151832, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.805135, 
+            "id": 80468
+        }, 
+        "uri": "http://www.songkick.com/concerts/28431589-troy-petty-at-cafe-coco?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-18T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.151832, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.805135
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "68c211bb-4d7c-40c3-b832-9c62059ffcbe", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:68c211bb-4d7c-40c3-b832-9c62059ffcbe.json"
+                        }
+                    ], 
+                    "displayName": "Troy Petty", 
+                    "uri": "http://www.songkick.com/artists/5547643-troy-petty?utm_source=32233&utm_medium=partner", 
+                    "id": 5547643
+                }, 
+                "displayName": "Troy Petty", 
+                "id": 55264939, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Molly Conrad", 
+                    "uri": "http://www.songkick.com/artists/7068329-molly-conrad?utm_source=32233&utm_medium=partner", 
+                    "id": 7068329
+                }, 
+                "displayName": "Molly Conrad", 
+                "id": 55264944, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28431589
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Troy Petty", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1971-06-05", 
+            "end": null
+        }, 
+        "sort-name": "Troy Petty", 
+        "gender": "Male", 
+        "twitter": "troypettymusic", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.troypettymusic.com/", 
+                    "id": "37b97fe6-66c5-42f1-84f8-ce5fa4aa6c0a"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/troypettymusic", 
+                    "id": "d870d17f-0420-4367-b60b-7d9fcdc8a4d0"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/troypettymusic", 
+                    "id": "7798b303-b3c3-4dff-b3ee-ed0a2c025ba6"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00403915382", 
+            "00403915480"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "id": "68c211bb-4d7c-40c3-b832-9c62059ffcbe", 
+        "type": "Person", 
+        "disambiguation": "Recording Artist", 
+        "tags": []
+    }, 
+    "id": 28431589, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

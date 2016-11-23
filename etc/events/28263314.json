@@ -1,0 +1,132 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "All Ages", 
+        "displayName": "Bridget Everett at El Rey Theatre (November 19, 2016)", 
+        "popularity": 5.6e-05, 
+        "venue": {
+            "displayName": "El Rey Theatre", 
+            "uri": "http://www.songkick.com/venues/1039-el-rey-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 34.062397, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.3487992, 
+            "id": 1039
+        }, 
+        "uri": "http://www.songkick.com/concerts/28263314-bridget-everett-at-el-rey-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-19T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 34.062397, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.3487992
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d59b63a0-0ff5-40d2-94b8-787751138846", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d59b63a0-0ff5-40d2-94b8-787751138846.json"
+                        }
+                    ], 
+                    "displayName": "Bridget Everett", 
+                    "uri": "http://www.songkick.com/artists/2350082-bridget-everett?utm_source=32233&utm_medium=partner", 
+                    "id": 2350082
+                }, 
+                "displayName": "Bridget Everett", 
+                "id": 54970764, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28263314
+    }, 
+    "musicbrainz_response": {
+        "name": "Bridget Everett", 
+        "tags": [], 
+        "gender": "Female", 
+        "life-span": {
+            "ended": false, 
+            "begin": "????-04-21", 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q18686082", 
+                    "id": "b8cea4a1-fc79-4748-ac7b-36b6d8848a0b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Bridget_Everett", 
+                    "id": "4717215f-9117-44cf-9ff8-3fff963fa5a6"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Manhattan", 
+            "disambiguation": "", 
+            "id": "b981d2fa-86a6-43d4-9bfc-7ac4569c17bc", 
+            "name": "Manhattan"
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "country": null, 
+        "sort-name": "Everett, Bridget", 
+        "type": "Person", 
+        "id": "d59b63a0-0ff5-40d2-94b8-787751138846", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.songkick.com/store/events/28263314"
+    }, 
+    "modified_time": 1479442847.0, 
+    "created_minutes": 18200, 
+    "created_time": 1478566031.0, 
+    "modified_minutes": 3586, 
+    "id": 28263314
+}

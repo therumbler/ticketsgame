@@ -1,0 +1,111 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Claudettes at Whistler (November 16, 2016)", 
+        "popularity": 6.2e-05, 
+        "venue": {
+            "displayName": "Whistler", 
+            "uri": "http://www.songkick.com/venues/34722-whistler?utm_source=32233&utm_medium=partner", 
+            "lat": 41.9252421, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": -87.7011433, 
+            "id": 34722
+        }, 
+        "uri": "http://www.songkick.com/concerts/27654574-claudettes-at-whistler?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 41.9252421, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.7011433
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a1bb4b7d-0f44-4ddb-b5e0-bb41c17c705f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a1bb4b7d-0f44-4ddb-b5e0-bb41c17c705f.json"
+                        }
+                    ], 
+                    "displayName": "The Claudettes", 
+                    "uri": "http://www.songkick.com/artists/4000206-claudettes?utm_source=32233&utm_medium=partner", 
+                    "id": 4000206
+                }, 
+                "displayName": "The Claudettes", 
+                "id": 53884639, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27654574
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Claudettes", 
+        "area": {
+            "sort-name": "Chicago", 
+            "disambiguation": "", 
+            "name": "Chicago", 
+            "id": "29a709d8-0320-493e-8d0c-f2c386662b7f"
+        }, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://theclaudettes.bandcamp.com/", 
+                    "id": "bfd82b96-71e4-443b-96d6-e8ae8e63894f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Claudettes, The", 
+        "gender": null, 
+        "id": "a1bb4b7d-0f44-4ddb-b5e0-bb41c17c705f", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 27654574, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

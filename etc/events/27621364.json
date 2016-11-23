@@ -1,0 +1,148 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Merchandise at Barboza (December 1, 2016)", 
+        "popularity": 0.004853, 
+        "venue": {
+            "displayName": "Barboza", 
+            "uri": "http://www.songkick.com/venues/1674423-barboza?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6140125, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3200355, 
+            "id": 1674423
+        }, 
+        "uri": "http://www.songkick.com/concerts/27621364-merchandise-at-barboza?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-01", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 47.6140125, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3200355
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "44c26f0c-7f46-4cf0-9673-f7aa1bec1e5b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:44c26f0c-7f46-4cf0-9673-f7aa1bec1e5b.json"
+                        }
+                    ], 
+                    "displayName": "Merchandise", 
+                    "uri": "http://www.songkick.com/artists/996369-merchandise?utm_source=32233&utm_medium=partner", 
+                    "id": 996369
+                }, 
+                "displayName": "Merchandise", 
+                "id": 53822279, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27621364
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Merchandise", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1735627", 
+                    "id": "1f55533d-49b4-403e-9c18-a53f3b86cdc5"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://merchandisetheband.wordpress.com/", 
+                    "id": "f233a6ea-93a8-44d1-a5e8-9d7ab60859a7"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/wmerchandise", 
+                    "id": "278201e4-8b12-4531-bbd8-b1714dc80dab"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Merchandise", 
+        "country": "US", 
+        "id": "44c26f0c-7f46-4cf0-9673-f7aa1bec1e5b", 
+        "type": "Group", 
+        "disambiguation": "US Indie", 
+        "gender-id": null
+    }, 
+    "id": 27621364, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

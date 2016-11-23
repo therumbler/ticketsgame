@@ -1,0 +1,343 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Jim James with Twin Limb at Warner Theatre (November 19, 2016)", 
+        "popularity": 0.018779, 
+        "venue": {
+            "displayName": "Warner Theatre", 
+            "uri": "http://www.songkick.com/venues/647-warner-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 38.8962768, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0282793, 
+            "id": 647
+        }, 
+        "uri": "http://www.songkick.com/concerts/28110334-jim-james-at-warner-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 38.8962768, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0282793
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b7c4125d-2867-4e29-ba44-b19a69309c68", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b7c4125d-2867-4e29-ba44-b19a69309c68.json"
+                        }
+                    ], 
+                    "displayName": "Jim James", 
+                    "uri": "http://www.songkick.com/artists/596190-jim-james?utm_source=32233&utm_medium=partner", 
+                    "id": 596190
+                }, 
+                "displayName": "Jim James", 
+                "id": 54734049, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1e7fc396-4f5d-4b74-afe3-2536ec9b5156", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1e7fc396-4f5d-4b74-afe3-2536ec9b5156.json"
+                        }
+                    ], 
+                    "displayName": "Twin Limb", 
+                    "uri": "http://www.songkick.com/artists/7446374-twin-limb?utm_source=32233&utm_medium=partner", 
+                    "id": 7446374
+                }, 
+                "displayName": "Twin Limb", 
+                "id": 54707829, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28110334
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Jim James", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "twitter": "jimjames", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/80048625", 
+                    "id": "481d55e1-7d7e-4cc0-92e4-a21928b8c580"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000342541", 
+                    "id": "56a52e6b-84d9-41dd-b49d-fc15a31423ab"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/286040", 
+                    "id": "e6f6bd1e-8b8f-46f4-9322-5bace69d2a83"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://pitchfork.com/features/interview/5868-my-morning-jacket/", 
+                    "id": "4625046a-8a86-43a5-a612-1dacbb3b3af5"
+                }, 
+                "direction": "forward", 
+                "type-id": "1f171391-1f98-4f45-b191-038ec3b12395", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "interview", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.yimyames.com/", 
+                    "id": "ba1d6e96-c2c8-4716-8621-5425f6fecba4"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/jim_james", 
+                    "id": "d384c86d-5958-4492-8ca8-66fba17bf7d0"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/jimjames", 
+                    "id": "0a67f4c1-8c42-4ea6-8d18-fcaf63cf15b4"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/jimjamesmusic", 
+                    "id": "520266fd-e5e0-4147-b284-d927e13926fa"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q3178845", 
+                    "id": "9a2ddb5a-ffd7-4e77-914f-65f40860d5f8"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Jim_James", 
+                    "id": "4d3737ba-d2bc-40e5-9115-109113d802cc"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/jimjamesmusic", 
+                    "id": "1718223c-0191-460d-bc56-7b65def37a8d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Louisville", 
+            "disambiguation": "", 
+            "id": "b21e4552-050d-4c0c-ac5a-031108eb0c47", 
+            "name": "Louisville"
+        }, 
+        "id": "b7c4125d-2867-4e29-ba44-b19a69309c68", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "James, Jim", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1978-04-27", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": "Doors opent at 7pm. Show begins at 8 pm", 
+        "title": "Jim James @ Warner Theatre in Washington, DC", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Washington", 
+            "name": "Warner Theatre", 
+            "country": "United States", 
+            "region": "DC", 
+            "longitude": -77.028931, 
+            "place": "Warner Theatre", 
+            "latitude": 38.896436
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12967826?app_id=ticketgame&artist=Jim+James&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12967826/buy_tickets?app_id=ticketgame&artist=Jim+James&came_from=67", 
+        "on_sale_datetime": "2016-09-23T14:00:00", 
+        "formatted_datetime": "Saturday, November 19, 2016 at 8:00PM", 
+        "datetime": "2016-11-19T20:00:00", 
+        "formatted_location": "Washington, DC", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fconcerts.livenation.com%2Fevent%2F1500512EB2EA2AAB&clickref=67%7E16279929%7E23766275%7E%7E", 
+        "artists": [
+            {
+                "website": "", 
+                "facebook_page_url": "https://www.facebook.com/jimjamesmusic", 
+                "name": "Jim James", 
+                "url": "JimJames", 
+                "tracker_count": 49589, 
+                "mbid": "b7c4125d-2867-4e29-ba44-b19a69309c68", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6965322.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/JimJames/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6965322.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12967826
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fconcerts.livenation.com%2Fevent%2F1500512EB2EA2AAB&clickref=67%7E16279929%7E23766275%7E%7E"
+    }, 
+    "modified_time": 1479442476.0, 
+    "created_minutes": 18168, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 3562, 
+    "id": 28110334
+}

@@ -1,0 +1,134 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 5.1e-05, 
+        "displayName": "Coastlands with Eclisse at Doug Fir Lounge (January 4, 2017)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Doug Fir Lounge", 
+            "uri": "http://www.songkick.com/venues/11585-doug-fir-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 45.5229238, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "OR"
+                }, 
+                "displayName": "Portland", 
+                "uri": "http://www.songkick.com/metro_areas/12283-us-portland?utm_source=32233&utm_medium=partner", 
+                "id": 12283
+            }, 
+            "lng": -122.6587133, 
+            "id": 11585
+        }, 
+        "uri": "http://www.songkick.com/concerts/28270409-coastlands-at-doug-fir-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-04", 
+            "datetime": "2017-01-04T21:00:00-0800", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 45.5229238, 
+            "city": "Portland, OR, US", 
+            "lng": -122.6587133
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Coastlands", 
+                "id": 54983614, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a14746b6-a91e-4e45-abfd-d1f6d71b97c1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a14746b6-a91e-4e45-abfd-d1f6d71b97c1.json"
+                        }
+                    ], 
+                    "displayName": "Coastlands", 
+                    "uri": "http://www.songkick.com/artists/5333108-coastlands?utm_source=32233&utm_medium=partner", 
+                    "id": 5333108
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Eclisse", 
+                "id": 54983619, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Eclisse", 
+                    "uri": "http://www.songkick.com/artists/8812074-eclisse?utm_source=32233&utm_medium=partner", 
+                    "id": 8812074
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28270409
+    }, 
+    "musicbrainz_response": {
+        "name": "Coastlands", 
+        "tags": [], 
+        "gender-id": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Portland", 
+            "disambiguation": "", 
+            "name": "Portland", 
+            "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://coastlands.bandcamp.com/", 
+                    "id": "3c9a3579-17bb-4fd7-9c7c-6b2185f71f17"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Portland", 
+            "disambiguation": "", 
+            "name": "Portland", 
+            "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557"
+        }, 
+        "sort-name": "Coastlands", 
+        "country": null, 
+        "type": "Group", 
+        "id": "a14746b6-a91e-4e45-abfd-d1f6d71b97c1", 
+        "disambiguation": "Instrumental Rock from Portland, Oregon"
+    }, 
+    "age_minutes": 15494, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 10.0, 
+        "price_min": 7.0
+    }, 
+    "modified_time": 1479442890.0, 
+    "created_time": 1478566069.0, 
+    "modified_minutes": 880, 
+    "id": 28270409
+}

@@ -1,0 +1,139 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Vaudeville Etiquette with Rust on the Rails and The Nick Foster Band at The Tractor Tavern (November 26, 2016)", 
+        "popularity": 0.000227, 
+        "venue": {
+            "displayName": "The Tractor Tavern", 
+            "uri": "http://www.songkick.com/venues/247-tractor-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6657641, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.382626, 
+            "id": 247
+        }, 
+        "uri": "http://www.songkick.com/concerts/28148414-vaudeville-etiquette-at-tractor-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-26", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 47.6657641, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.382626
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ba139eb1-59ba-49f6-90a7-2ee656bf1c5d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ba139eb1-59ba-49f6-90a7-2ee656bf1c5d.json"
+                        }
+                    ], 
+                    "displayName": "Vaudeville Etiquette", 
+                    "uri": "http://www.songkick.com/artists/2387343-vaudeville-etiquette?utm_source=32233&utm_medium=partner", 
+                    "id": 2387343
+                }, 
+                "displayName": "Vaudeville Etiquette", 
+                "id": 54773479, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Rust on the Rails", 
+                    "uri": "http://www.songkick.com/artists/7874179-rust-on-the-rails?utm_source=32233&utm_medium=partner", 
+                    "id": 7874179
+                }, 
+                "displayName": "Rust on the Rails", 
+                "id": 54773484, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Nick Foster Band", 
+                    "uri": "http://www.songkick.com/artists/6304089-nick-foster-band?utm_source=32233&utm_medium=partner", 
+                    "id": 6304089
+                }, 
+                "displayName": "The Nick Foster Band", 
+                "id": 54773489, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28148414
+    }, 
+    "musicbrainz_response": {
+        "name": "Vaudeville Etiquette", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Seattle", 
+            "disambiguation": "", 
+            "name": "Seattle", 
+            "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://theve.bandcamp.com/", 
+                    "id": "0f2f12ea-023e-472b-bd0f-d2e54b965c9f"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": null, 
+        "begin_area": null, 
+        "sort-name": "Vaudeville Etiquette", 
+        "country": null, 
+        "disambiguation": "", 
+        "type": null, 
+        "id": "ba139eb1-59ba-49f6-90a7-2ee656bf1c5d", 
+        "gender-id": null
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6907965&REFERRAL_ID=tmfeed"
+    }, 
+    "modified_time": 1479442534.0, 
+    "created_minutes": 18171, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 3563, 
+    "id": 28148414
+}

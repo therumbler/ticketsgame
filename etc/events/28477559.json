@@ -1,0 +1,174 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Sammy J at SOL Venue (November 16, 2016)", 
+        "popularity": 0.00058, 
+        "venue": {
+            "displayName": "SOL Venue", 
+            "uri": "http://www.songkick.com/venues/1422318-sol-venue?utm_source=32233&utm_medium=partner", 
+            "lat": 33.8317046, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2719174, 
+            "id": 1422318
+        }, 
+        "uri": "http://www.songkick.com/concerts/28477559-sammy-j-at-sol-venue?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "datetime": "2016-11-16T19:30:00-0800", 
+            "time": "19:30:00"
+        }, 
+        "location": {
+            "lat": 33.8317046, 
+            "city": "Carson, CA, US", 
+            "lng": -118.2719174
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "270c0205-54a5-4451-891f-2afb07bc217f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:270c0205-54a5-4451-891f-2afb07bc217f.json"
+                        }
+                    ], 
+                    "displayName": "Sammy J", 
+                    "uri": "http://www.songkick.com/artists/5358-sammy-j?utm_source=32233&utm_medium=partner", 
+                    "id": 5358
+                }, 
+                "displayName": "Sammy J", 
+                "id": 55341919, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28477559
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Sammy J", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://sammyjohnsonmusic.com/", 
+                    "id": "15b6ba04-2a58-4137-b9b3-9027c1f12713"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/sammyjmusik", 
+                    "id": "5e74cb90-e9b3-4ebe-bcf3-43840866fa66"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/sammyjohnson/", 
+                    "id": "a50dc19f-88fd-43a2-9fd9-fc21cd9184e9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/user-279385213", 
+                    "id": "3384c5d1-1041-4f34-a8ec-4c58d11975ba"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/sammyjmusik", 
+                    "id": "db31631e-6841-4ce4-8960-478c3254789d"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "270c0205-54a5-4451-891f-2afb07bc217f", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Sammy J", 
+        "type": "Person", 
+        "disambiguation": "R&B and Soul singer from Auckland, NZ"
+    }, 
+    "id": 28477559, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

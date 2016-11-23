@@ -1,0 +1,238 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Emile Parisien and Vincent Peirani at Kings Place (November 11, 2016)", 
+        "popularity": 0.000133, 
+        "venue": {
+            "displayName": "Kings Place", 
+            "uri": "http://www.songkick.com/venues/47963-kings-place?utm_source=32233&utm_medium=partner", 
+            "lat": 51.534649, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.122138, 
+            "id": 47963
+        }, 
+        "uri": "http://www.songkick.com/concerts/27775514-emile-parisien-at-kings-place?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.534649, 
+            "city": "London, UK", 
+            "lng": -0.122138
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "dd7c23f5-4794-4ecd-b709-fc9590174c20", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:dd7c23f5-4794-4ecd-b709-fc9590174c20.json"
+                        }
+                    ], 
+                    "displayName": "Emile Parisien", 
+                    "uri": "http://www.songkick.com/artists/1941699-emile-parisien?utm_source=32233&utm_medium=partner", 
+                    "id": 1941699
+                }, 
+                "displayName": "Emile Parisien", 
+                "id": 54104424, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c07eb23a-f2a2-401b-bcd4-424bf9b25cd4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c07eb23a-f2a2-401b-bcd4-424bf9b25cd4.json"
+                        }
+                    ], 
+                    "displayName": "Vincent Peirani", 
+                    "uri": "http://www.songkick.com/artists/1166852-vincent-peirani?utm_source=32233&utm_medium=partner", 
+                    "id": 1166852
+                }, 
+                "displayName": "Vincent Peirani", 
+                "id": 54104429, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27775514
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "\u00c9mile Parisien", 
+        "area": {
+            "sort-name": "France", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "FR"
+            ], 
+            "name": "France", 
+            "id": "08310658-51eb-3801-80de-5a0739207115"
+        }, 
+        "gender": "Male", 
+        "twitter": "emileparisien", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/231020682", 
+                    "id": "2c28fdea-058e-4050-a197-4cc6cf61855b"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0001992770", 
+                    "id": "44a02e00-8837-496b-8f9c-ac9eda0786dd"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.inclinaisons.com/art/24.html", 
+                    "id": "37ed57ec-0302-49cf-9c59-1eee4084bbe5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2232651", 
+                    "id": "fbe95c21-a828-4c63-b9c9-c924fb3bcfc8"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/emile_parisien", 
+                    "id": "b035f01a-e9c0-4863-97ed-051ec6b0ef0c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/emileparisien", 
+                    "id": "d5901887-d68b-414a-9899-94d2e5a4c9b9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q286295", 
+                    "id": "8ab348b5-1255-426c-ac72-b45d66d1faa9"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": "1982-10-12", 
+            "end": null
+        }, 
+        "end_area": null, 
+        "sort-name": "Parisien, \u00c9mile", 
+        "begin_area": {
+            "sort-name": "Cahors", 
+            "disambiguation": "", 
+            "name": "Cahors", 
+            "id": "817de950-b8cb-41fc-a337-ceae6f2b507f"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "FR", 
+        "id": "dd7c23f5-4794-4ecd-b709-fc9590174c20", 
+        "ipis": [
+            "00490235854"
+        ], 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 27775514, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Muscle and Marrow with Ariadne, Masturbatory Dysfunction, and PRISONFOOD at Timbre Room (November 12, 2016)", 
+        "popularity": 9.3e-05, 
+        "venue": {
+            "displayName": "Timbre Room", 
+            "uri": "http://www.songkick.com/venues/3373189-timbre-room?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6167069, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3310803, 
+            "id": 3373189
+        }, 
+        "uri": "http://www.songkick.com/concerts/28295114-muscle-and-marrow-at-timbre-room?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "18:30:00", 
+            "datetime": "2016-11-12T18:30:00-0800"
+        }, 
+        "location": {
+            "lat": 47.6167069, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3310803
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "2f9b6679-0611-420d-90a4-e67a6194e066", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:2f9b6679-0611-420d-90a4-e67a6194e066.json"
+                        }
+                    ], 
+                    "displayName": "Muscle and Marrow", 
+                    "uri": "http://www.songkick.com/artists/6682839-muscle-and-marrow?utm_source=32233&utm_medium=partner", 
+                    "id": 6682839
+                }, 
+                "displayName": "Muscle and Marrow", 
+                "id": 55027069, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Ariadne", 
+                    "uri": "http://www.songkick.com/artists/8567804-ariadne?utm_source=32233&utm_medium=partner", 
+                    "id": 8567804
+                }, 
+                "displayName": "Ariadne", 
+                "id": 55027074, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Masturbatory Dysfunction", 
+                    "uri": "http://www.songkick.com/artists/8319823-masturbatory-dysfunction?utm_source=32233&utm_medium=partner", 
+                    "id": 8319823
+                }, 
+                "displayName": "Masturbatory Dysfunction", 
+                "id": 55027079, 
+                "billing": "support", 
+                "billingIndex": 3
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "PRISONFOOD", 
+                    "uri": "http://www.songkick.com/artists/8776079-prisonfood?utm_source=32233&utm_medium=partner", 
+                    "id": 8776079
+                }, 
+                "displayName": "PRISONFOOD", 
+                "id": 55027084, 
+                "billing": "support", 
+                "billingIndex": 4
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28295114
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Muscle and Marrow", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2013", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Portland", 
+            "disambiguation": "", 
+            "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557", 
+            "name": "Portland"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muscleandmarrow.bandcamp.com/", 
+                    "id": "2240ecec-42fe-43b3-b216-86eed1cb74da"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3886882", 
+                    "id": "f651b65b-5114-4174-8388-960376d005f4"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.muscleandmarrow.com/", 
+                    "id": "78bb0428-59f2-4bc9-8566-68a4f994133c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/MuscleandMarrow", 
+                    "id": "e83db1ad-86d2-4c46-9ab6-6f7b18343d03"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/muscle-and-marrow", 
+                    "id": "55bc824c-477f-43f8-9daf-303ea3d19646"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Portland", 
+            "disambiguation": "", 
+            "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557", 
+            "name": "Portland"
+        }, 
+        "sort-name": "Muscle and Marrow", 
+        "country": null, 
+        "id": "2f9b6679-0611-420d-90a4-e67a6194e066", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28295114, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

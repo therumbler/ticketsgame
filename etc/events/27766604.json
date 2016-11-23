@@ -1,0 +1,135 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Time Jumpers at 3rd & Lindsley Bar and Grill (December 12, 2016)", 
+        "popularity": 0.000634, 
+        "venue": {
+            "displayName": "3rd & Lindsley Bar and Grill", 
+            "uri": "http://www.songkick.com/venues/5840-3rd-and-lindsley-bar-and-grill?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1521634, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.7699106, 
+            "id": 5840
+        }, 
+        "uri": "http://www.songkick.com/concerts/27766604-time-jumpers-at-3rd-and-lindsley-bar-and-grill?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-12", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-12T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.1521634, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.7699106
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f668ff95-fff4-4e54-9eed-8d58e3ef19da", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f668ff95-fff4-4e54-9eed-8d58e3ef19da.json"
+                        }
+                    ], 
+                    "displayName": "Time Jumpers", 
+                    "uri": "http://www.songkick.com/artists/509904-time-jumpers?utm_source=32233&utm_medium=partner", 
+                    "id": 509904
+                }, 
+                "displayName": "Time Jumpers", 
+                "id": 54086824, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27766604
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Time Jumpers", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1998", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q7769318", 
+                    "id": "043e3a66-50fe-484e-a6b3-1dda55c09d13"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Time_Jumpers", 
+                    "id": "eee1b086-6dbf-49d9-99c6-24468958bef9"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Time Jumpers, The", 
+        "gender": null, 
+        "id": "f668ff95-fff4-4e54-9eed-8d58e3ef19da", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6853505&REFERRAL_ID=tmfeed"
+    }, 
+    "modified_time": 1479442089.0, 
+    "created_minutes": 18156, 
+    "created_time": 1478566041.0, 
+    "modified_minutes": 3556, 
+    "id": 27766604
+}

@@ -1,0 +1,147 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Kara-Lis Coverdale with Happy Meals at The Islington (November 9, 2016)", 
+        "popularity": 0.000118, 
+        "venue": {
+            "displayName": "The Islington", 
+            "uri": "http://www.songkick.com/venues/641891-islington?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5344315, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1087937, 
+            "id": 641891
+        }, 
+        "uri": "http://www.songkick.com/concerts/27977714-karalis-coverdale-at-islington?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.5344315, 
+            "city": "London, UK", 
+            "lng": -0.1087937
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "aabe385c-379a-467f-9a6d-2560ffa0b730", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:aabe385c-379a-467f-9a6d-2560ffa0b730.json"
+                        }
+                    ], 
+                    "displayName": "Kara-Lis Coverdale", 
+                    "uri": "http://www.songkick.com/artists/8594019-karalis-coverdale?utm_source=32233&utm_medium=partner", 
+                    "id": 8594019
+                }, 
+                "displayName": "Kara-Lis Coverdale", 
+                "id": 54473299, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "59b2b9fe-baa8-44e7-a61e-3678c6505544", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:59b2b9fe-baa8-44e7-a61e-3678c6505544.json"
+                        }
+                    ], 
+                    "displayName": "Happy Meals", 
+                    "uri": "http://www.songkick.com/artists/422298-happy-meals?utm_source=32233&utm_medium=partner", 
+                    "id": 422298
+                }, 
+                "displayName": "Happy Meals", 
+                "id": 54473304, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27977714
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Kara-Lis Coverdale", 
+        "area": {
+            "sort-name": "Montreal", 
+            "disambiguation": "", 
+            "id": "c3cc624e-b963-49cf-ad0b-e318cb341963", 
+            "name": "Montreal"
+        }, 
+        "gender": "Female", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3480419", 
+                    "id": "d0cf2860-bc89-48e8-9df0-7aec7630c31c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q20740744", 
+                    "id": "bcbc0406-923d-4543-9e61-f74e52bf28a4"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Coverdale, Kara-Lis", 
+        "begin_area": {
+            "sort-name": "Hamilton", 
+            "disambiguation": "", 
+            "name": "Hamilton", 
+            "id": "c45dab1e-8cb1-4ca3-af6c-0762c590f333"
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "country": null, 
+        "id": "aabe385c-379a-467f-9a6d-2560ffa0b730", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 27977714, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

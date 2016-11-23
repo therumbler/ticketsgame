@@ -1,0 +1,269 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "RKCB and Michael Blume with Lauv at Barboza (December 6, 2016)", 
+        "popularity": 0.002133, 
+        "venue": {
+            "displayName": "Barboza", 
+            "uri": "http://www.songkick.com/venues/1674423-barboza?utm_source=32233&utm_medium=partner", 
+            "lat": 47.6140125, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.3200355, 
+            "id": 1674423
+        }, 
+        "uri": "http://www.songkick.com/concerts/28472289-rkcb-at-barboza?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-06", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 47.6140125, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.3200355
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ca6f17d7-012c-4ee5-828f-672be242c9c1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ca6f17d7-012c-4ee5-828f-672be242c9c1.json"
+                        }
+                    ], 
+                    "displayName": "RKCB", 
+                    "uri": "http://www.songkick.com/artists/8714559-rkcb?utm_source=32233&utm_medium=partner", 
+                    "id": 8714559
+                }, 
+                "displayName": "RKCB", 
+                "id": 55333209, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4a543019-c292-4ebb-a8ad-40206e3a9601", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4a543019-c292-4ebb-a8ad-40206e3a9601.json"
+                        }
+                    ], 
+                    "displayName": "Michael Blume", 
+                    "uri": "http://www.songkick.com/artists/8579149-michael-blume?utm_source=32233&utm_medium=partner", 
+                    "id": 8579149
+                }, 
+                "displayName": "Michael Blume", 
+                "id": 55333214, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c0ef2ba5-a7b7-40ea-bd27-30acccfcac11.json"
+                        }
+                    ], 
+                    "displayName": "Lauv", 
+                    "uri": "http://www.songkick.com/artists/8623349-lauv?utm_source=32233&utm_medium=partner", 
+                    "id": 8623349
+                }, 
+                "displayName": "Lauv", 
+                "id": 55333219, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28472289
+    }, 
+    "musicbrainz_response": {
+        "name": "RKCB", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "gender": null, 
+        "twitter": "RKCBmusic", 
+        "area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62", 
+            "name": "Los Angeles"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4614152", 
+                    "id": "69c2d182-9f22-4135-9936-b4f1ff70f1d2"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/RKCBmusic", 
+                    "id": "95d31450-9fc7-4d18-a2d1-47e3a1af8695"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/RKCBmusic", 
+                    "id": "57f2fc63-7930-45c1-9ae2-42bd3437936b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/rkcbmusic/", 
+                    "id": "5783221c-7851-4706-b2c1-66fb903e5bea"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.songkick.com/artists/8714559-rkcb", 
+                    "id": "d031515f-0a6f-41bb-9395-e0ac4980ab13"
+                }, 
+                "direction": "forward", 
+                "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "songkick", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/rkcbmusic", 
+                    "id": "ca4070b5-aee7-4f16-b206-99bdab985d04"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc", 
+                    "id": "fcff0f92-773e-44d4-8a7b-47f8fa227022"
+                }, 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/channel/UCISOYbfB2jyR5U904sQXgUA", 
+                    "id": "91cc3fe4-9a4b-4992-98fe-3589640ea570"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "RKCB", 
+        "country": null, 
+        "disambiguation": "", 
+        "type": "Group", 
+        "id": "ca6f17d7-012c-4ee5-828f-672be242c9c1", 
+        "gender-id": null
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.etix.com/ticket/p/6198311/rkcb-michael-blume-seattle-barboza?cobrand=barboza&partner_id=340"
+    }, 
+    "modified_time": 1479442424.0, 
+    "created_minutes": 18235, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 3630, 
+    "id": 28472289
+}

@@ -1,0 +1,200 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "16+", 
+        "displayName": "Udo Dirkschneider at Bluebird Theater (January 16, 2017)", 
+        "popularity": 8.3e-05, 
+        "venue": {
+            "displayName": "Bluebird Theater", 
+            "uri": "http://www.songkick.com/venues/10459-bluebird-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7402806, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.948382, 
+            "id": 10459
+        }, 
+        "uri": "http://www.songkick.com/concerts/27230934-udo-dirkschneider-at-bluebird-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-16", 
+            "time": "19:00:00", 
+            "datetime": "2017-01-16T19:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.7402806, 
+            "city": "Denver, CO, US", 
+            "lng": -104.948382
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "da88dce8-9cca-428c-aafa-6bc968783b24", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:da88dce8-9cca-428c-aafa-6bc968783b24.json"
+                        }
+                    ], 
+                    "displayName": "Udo Dirkschneider", 
+                    "uri": "http://www.songkick.com/artists/6291869-udo-dirkschneider?utm_source=32233&utm_medium=partner", 
+                    "id": 6291869
+                }, 
+                "displayName": "Udo Dirkschneider", 
+                "id": 53104894, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27230934
+    }, 
+    "musicbrainz_response": {
+        "name": "Udo Dirkschneider", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "heavy metal"
+            }, 
+            {
+                "count": 1, 
+                "name": "power metal"
+            }
+        ], 
+        "country": "DE", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1952-04-06", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Germany", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "DE"
+            ], 
+            "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad", 
+            "name": "Germany"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/84968536", 
+                    "id": "a206f409-1710-46bc-9b30-89a634152b76"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/387448", 
+                    "id": "814180b3-9a75-44a4-96e7-120b5bd4d2d5"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/3679", 
+                    "id": "17ac9659-3628-4a6a-aa98-16b5b41ff933"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q70577", 
+                    "id": "146c6e65-12ff-4fc2-99a9-e4d7beea707e"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Udo_Dirkschneider", 
+                    "id": "89ef5cc2-d62e-420a-8d14-3bc9110beac4"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Wuppertal", 
+            "disambiguation": "", 
+            "id": "5f226492-2ff6-4ea3-8c04-e8d9c4de2a49", 
+            "name": "Wuppertal"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Dirkschneider, Udo", 
+        "type": "Person", 
+        "id": "da88dce8-9cca-428c-aafa-6bc968783b24", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "https://www.songkick.com/store/events/27230934"
+    }, 
+    "modified_time": 1479441935.0, 
+    "created_minutes": 18153, 
+    "created_time": 1478566006.0, 
+    "modified_minutes": 3554, 
+    "id": 27230934
+}

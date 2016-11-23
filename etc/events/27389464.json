@@ -1,0 +1,100 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "16+", 
+        "displayName": "Steven Wilson at Gothic Theatre (November 12, 2016)", 
+        "popularity": 0.01014, 
+        "venue": {
+            "displayName": "Gothic Theatre", 
+            "uri": "http://www.songkick.com/venues/5229-gothic-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 39.6557761, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9876818, 
+            "id": 5229
+        }, 
+        "uri": "http://www.songkick.com/concerts/27389464-steven-wilson-at-gothic-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-12T19:00:00-0700"
+        }, 
+        "location": {
+            "lat": 39.6557761, 
+            "city": "Englewood, CO, US", 
+            "lng": -104.9876818
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d222b75a-89b8-401c-9792-0a5d223f501f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d222b75a-89b8-401c-9792-0a5d223f501f.json"
+                        }, 
+                        {
+                            "mbid": "3a51b862-0144-40f6-aa17-6aaeefea29d9", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3a51b862-0144-40f6-aa17-6aaeefea29d9.json"
+                        }
+                    ], 
+                    "displayName": "Steven Wilson", 
+                    "uri": "http://www.songkick.com/artists/486397-steven-wilson?utm_source=32233&utm_medium=partner", 
+                    "id": 486397
+                }, 
+                "displayName": "Steven Wilson", 
+                "id": 53398659, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27389464
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Steven Wilson", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "gender": "Male", 
+        "disambiguation": "illustrator at breedlondon.com", 
+        "tags": [], 
+        "relations": [], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Wilson, Steven", 
+        "country": "GB", 
+        "type": "Person", 
+        "id": "d222b75a-89b8-401c-9792-0a5d223f501f", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 27389464, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

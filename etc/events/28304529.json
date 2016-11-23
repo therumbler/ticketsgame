@@ -1,0 +1,163 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Nick Moss Band at The Masquerade - Purgatory (November 17, 2016)", 
+        "popularity": 0.000129, 
+        "venue": {
+            "displayName": "The Masquerade - Purgatory", 
+            "uri": "http://www.songkick.com/venues/1135851-masquerade-purgatory?utm_source=32233&utm_medium=partner", 
+            "lat": 33.7707416, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.3644225, 
+            "id": 1135851
+        }, 
+        "uri": "http://www.songkick.com/concerts/28304529-nick-moss-band-at-masquerade-purgatory?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 33.7707416, 
+            "city": "Atlanta, GA, US", 
+            "lng": -84.3644225
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "86e1f404-166f-4678-b9b3-77f788da5642", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:86e1f404-166f-4678-b9b3-77f788da5642.json"
+                        }
+                    ], 
+                    "displayName": "The Nick Moss Band", 
+                    "uri": "http://www.songkick.com/artists/5763289-nick-moss-band?utm_source=32233&utm_medium=partner", 
+                    "id": 5763289
+                }, 
+                "displayName": "The Nick Moss Band", 
+                "id": 55043534, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28304529
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Nick Moss Band", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Chicago", 
+            "disambiguation": "", 
+            "name": "Chicago", 
+            "id": "29a709d8-0320-493e-8d0c-f2c386662b7f"
+        }, 
+        "country": null, 
+        "twitter": "NickMossBand", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.nickmoss.com/", 
+                    "id": "205476db-8fc7-4b1e-aa4e-ebb99c7fa165"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id278525091", 
+                    "id": "c5437c44-8707-4089-bcd6-5bac89a9e6c4"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.reverbnation.com/nickmossband", 
+                    "id": "2495b6b8-3bda-4a59-b329-b47de086d69e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/NickMossBand", 
+                    "id": "99988e9f-7c96-406f-b4c2-aa1327eb9330"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Nick Moss Band, The", 
+        "gender": null, 
+        "id": "86e1f404-166f-4678-b9b3-77f788da5642", 
+        "type": "Group", 
+        "disambiguation": "Blues & R&B", 
+        "gender-id": null
+    }, 
+    "id": 28304529, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

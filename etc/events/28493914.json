@@ -1,0 +1,172 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Morsel with Master Arrow at Herman's Hideaway (November 30, 2016)", 
+        "popularity": 2.5e-05, 
+        "venue": {
+            "displayName": "Herman's Hideaway", 
+            "uri": "http://www.songkick.com/venues/4753-hermans-hideaway?utm_source=32233&utm_medium=partner", 
+            "lat": 39.6879727, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.9873507, 
+            "id": 4753
+        }, 
+        "uri": "http://www.songkick.com/concerts/28493914-morsel-at-hermans-hideaway?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-30", 
+            "datetime": "2016-11-30T19:30:00-0700", 
+            "time": "19:30:00"
+        }, 
+        "location": {
+            "lat": 39.6879727, 
+            "city": "Denver, CO, US", 
+            "lng": -104.9873507
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a9812f7d-016e-4a55-890a-d45f544a10bd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a9812f7d-016e-4a55-890a-d45f544a10bd.json"
+                        }
+                    ], 
+                    "displayName": "Morsel", 
+                    "uri": "http://www.songkick.com/artists/526127-morsel?utm_source=32233&utm_medium=partner", 
+                    "id": 526127
+                }, 
+                "displayName": "Morsel", 
+                "id": 55371134, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Master Arrow", 
+                    "uri": "http://www.songkick.com/artists/3986626-master-arrow?utm_source=32233&utm_medium=partner", 
+                    "id": 3986626
+                }, 
+                "displayName": "Master Arrow", 
+                "id": 55371139, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28493914
+    }, 
+    "musicbrainz_response": {
+        "name": "Morsel", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": true, 
+            "begin": "1991", 
+            "end": "2001"
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/61797", 
+                    "id": "e11ea406-b3cf-4bde-ae4d-a624e68cd832"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q6914269", 
+                    "id": "62b74a47-67bd-4c95-b89e-d39245015d60"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Morsel_(band)", 
+                    "id": "58e16dc0-ffd5-44ac-b55a-a4f8d3e37a37"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Ann Arbor", 
+            "disambiguation": "", 
+            "name": "Ann Arbor", 
+            "id": "a1bb8b02-0496-4cfa-a771-2482e55451af"
+        }, 
+        "id": "a9812f7d-016e-4a55-890a-d45f544a10bd", 
+        "gender-id": null, 
+        "country": "US", 
+        "sort-name": "Morsel", 
+        "type": "Group", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15517, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 8.0, 
+        "price_min": 4.0
+    }, 
+    "modified_time": 1479442384.0, 
+    "created_time": 1478566005.0, 
+    "modified_minutes": 911, 
+    "id": 28493914
+}

@@ -1,0 +1,157 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Allen Thompson at 5 Spot (November 16, 2016)", 
+        "popularity": 0.000106, 
+        "venue": {
+            "displayName": "5 Spot", 
+            "uri": "http://www.songkick.com/venues/80242-5-spot?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1783909, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.7503849, 
+            "id": 80242
+        }, 
+        "uri": "http://www.songkick.com/concerts/28029139-allen-thompson-at-5-spot?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": "18:00:00", 
+            "datetime": "2016-11-16T18:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.1783909, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.7503849
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0ec7d6d1-e7df-401b-b696-ea756a2366e0", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0ec7d6d1-e7df-401b-b696-ea756a2366e0.json"
+                        }
+                    ], 
+                    "displayName": "Allen Thompson", 
+                    "uri": "http://www.songkick.com/artists/634991-allen-thompson?utm_source=32233&utm_medium=partner", 
+                    "id": 634991
+                }, 
+                "displayName": "Allen Thompson", 
+                "id": 54563674, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28029139
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Allen Thompson", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://allenthompson.bandcamp.com/", 
+                    "id": "4615a505-cae8-4797-b2cb-e08438fd3f15"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/allenthompsonmusic", 
+                    "id": "31962034-22c4-46ee-99a2-b6e296387942"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allenthompsonmusic.com/fr_home.cfm", 
+                    "id": "f4c68842-f933-42d7-b63b-49e8834a759d"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/allent28", 
+                    "id": "443e0121-4f4e-4e7e-b56f-0329243886be"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "id": "0ec7d6d1-e7df-401b-b696-ea756a2366e0", 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Thompson, Allen", 
+        "type": "Person", 
+        "disambiguation": "Country singer"
+    }, 
+    "id": 28029139, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.007686, 
+        "displayName": "Louis the Child with Quinn XCII and Pham at The Hoxton (November 17, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Hoxton", 
+            "uri": "http://www.songkick.com/venues/1418338-hoxton?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6433608, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.4022493, 
+            "id": 1418338
+        }, 
+        "uri": "http://www.songkick.com/concerts/28039904-louis-the-child-at-hoxton?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 43.6433608, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.4022493
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Louis the Child", 
+                "id": 54585994, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a56f9cc3-1569-4205-8514-9c5c545d724d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a56f9cc3-1569-4205-8514-9c5c545d724d.json"
+                        }
+                    ], 
+                    "displayName": "Louis the Child", 
+                    "uri": "http://www.songkick.com/artists/6441739-louis-the-child?utm_source=32233&utm_medium=partner", 
+                    "id": 6441739
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Quinn XCII", 
+                "id": 54585999, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "20749ae2-4e7b-4b12-bf58-4436afe33385", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:20749ae2-4e7b-4b12-bf58-4436afe33385.json"
+                        }
+                    ], 
+                    "displayName": "Quinn XCII", 
+                    "uri": "http://www.songkick.com/artists/8734759-quinn-xcii?utm_source=32233&utm_medium=partner", 
+                    "id": 8734759
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Pham", 
+                "id": 55079574, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "80f8c754-f41e-4ac4-80d3-1361f5932df8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:80f8c754-f41e-4ac4-80d3-1361f5932df8.json"
+                        }
+                    ], 
+                    "displayName": "Pham", 
+                    "uri": "http://www.songkick.com/artists/8856499-pham?utm_source=32233&utm_medium=partner", 
+                    "id": 8856499
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28039904
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Louis the Child", 
+        "area": {
+            "sort-name": "Chicago", 
+            "disambiguation": "", 
+            "name": "Chicago", 
+            "id": "29a709d8-0320-493e-8d0c-f2c386662b7f"
+        }, 
+        "country": null, 
+        "twitter": "louisthechild", 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.louisthechild.com/", 
+                    "id": "ab3bf056-db90-44f8-a41d-1ba35c4f8fd3"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/louisthechild", 
+                    "id": "a3fb791c-0862-4856-a443-d2cc3009ef5a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/LouisTheChild", 
+                    "id": "9a7c4d82-8062-4598-8af6-77ec98b2926d"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/louisthechild", 
+                    "id": "f85ef273-0fb6-4933-a1f6-87766af35bbe"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "a56f9cc3-1569-4205-8514-9c5c545d724d", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Louis the Child", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 16025, 
+    "bandsintown_response": {
+        "description": "Louis the Child, Quinn XCII, Pham", 
+        "title": "Louis The Child @ The Hoxton in Toronto, Canada", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Toronto", 
+            "name": "The Hoxton", 
+            "country": "Canada", 
+            "region": "ON", 
+            "longitude": -79.40252, 
+            "place": "The Hoxton", 
+            "latitude": 43.643529
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12875615?app_id=ticketsgame&artist=Louis+The+Child&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12875615/buy_tickets?app_id=ticketsgame&artist=Louis+The+Child&came_from=67", 
+        "on_sale_datetime": "2016-09-07T10:00:01", 
+        "formatted_datetime": "Thursday, November 17, 2016 at 9:00PM", 
+        "datetime": "2016-11-17T21:00:00", 
+        "formatted_location": "Toronto, Canada", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/271177/4272?u=http%3A%2F%2Fwww.ticketweb.ca%2Ft3%2Fsale%2FSaleEventDetail%3Fdispatch%3DloadSelectionData%26eventId%3D6888225%26REFERRAL_ID%3Dtmfeed&clickref=67%7E16157097%7E23612612%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "https://www.facebook.com/LouisTheChild", 
+                "name": "Louis The Child", 
+                "url": "LouisTheChild", 
+                "tracker_count": 38515, 
+                "mbid": null, 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6728429.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/LouisTheChild/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6728429.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12875615
+    }, 
+    "ticket_details": {
+        "status": "Unknown", 
+        "price_max": 69.25, 
+        "price_min": 20.75
+    }, 
+    "modified_time": 1479442330.0, 
+    "created_time": 1478532880.0, 
+    "modified_minutes": 867, 
+    "id": 28039904
+}

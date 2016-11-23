@@ -1,0 +1,626 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.130659, 
+        "displayName": "Steve Aoki, DVBBS, and T-Mass at Bill Graham Civic Auditorium (November 18, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Bill Graham Civic Auditorium", 
+            "uri": "http://www.songkick.com/venues/65-bill-graham-civic-auditorium?utm_source=32233&utm_medium=partner", 
+            "lat": 37.7785099, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.4174684, 
+            "id": 65
+        }, 
+        "uri": "http://www.songkick.com/concerts/28322129-steve-aoki-at-bill-graham-civic-auditorium?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-18", 
+            "datetime": "2016-11-18T20:00:00-0800", 
+            "time": "20:00:00"
+        }, 
+        "location": {
+            "lat": 37.7785099, 
+            "city": "San Francisco, CA, US", 
+            "lng": -122.4174684
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Steve Aoki", 
+                "id": 55075034, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a39acc4a-985e-4173-a9ed-f325f2d3bc1c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a39acc4a-985e-4173-a9ed-f325f2d3bc1c.json"
+                        }
+                    ], 
+                    "displayName": "Steve Aoki", 
+                    "uri": "http://www.songkick.com/artists/567464-steve-aoki?utm_source=32233&utm_medium=partner", 
+                    "id": 567464
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "DVBBS", 
+                "id": 55075039, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c3bba486-b24b-4a39-bc4c-b0085950afcd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c3bba486-b24b-4a39-bc4c-b0085950afcd.json"
+                        }
+                    ], 
+                    "displayName": "DVBBS", 
+                    "uri": "http://www.songkick.com/artists/5692599-dvbbs?utm_source=32233&utm_medium=partner", 
+                    "id": 5692599
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "T-Mass", 
+                "id": 55080209, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "786b1362-fd58-46ba-81ec-cb30dc95c861", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:786b1362-fd58-46ba-81ec-cb30dc95c861.json"
+                        }
+                    ], 
+                    "displayName": "T-Mass", 
+                    "uri": "http://www.songkick.com/artists/7986793-tmass?utm_source=32233&utm_medium=partner", 
+                    "id": 7986793
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28322129
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Steve Aoki", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender": "Male", 
+        "twitter": "steveaoki", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "electronic"
+            }, 
+            {
+                "count": 1, 
+                "name": "house"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/232432878", 
+                    "id": "188f3699-07c6-4e9e-a53e-28ce6770eedc"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0001356210", 
+                    "id": "d5e9a296-9a03-4d73-baf7-7317d78a1c4e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://steveaoki.tumblr.com/", 
+                    "id": "7288bb1f-ac53-4679-91bc-51ddeadfc183"
+                }, 
+                "direction": "forward", 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/438783", 
+                    "id": "f8744268-d8f2-4bd9-bce4-bf3d101e5024"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://commons.wikimedia.org/wiki/File:Steve_Aoki_(8541724996).jpg", 
+                    "id": "4ba9d51c-a946-4570-b7d9-86994f6a0351"
+                }, 
+                "begin": null, 
+                "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "image", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://genius.com/artists/Steve-aoki", 
+                    "id": "8a6304b6-bf97-4473-803a-a3898ee7f091"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-11247/steve-aoki/lyrics.html", 
+                    "id": "953b1599-2c32-4ae7-a1a0-f2790ca31302"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/steveaoki", 
+                    "id": "f73cccfa-4c5e-4407-866e-bb3af87dd542"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.steveaoki.com/", 
+                    "id": "8e722b7e-4479-42fe-91c4-6a1230ac137d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.zazoo.it/steve-aoki/", 
+                    "id": "273dbae1-cf13-41aa-94b3-07fc5ce02f7b"
+                }, 
+                "direction": "forward", 
+                "type-id": "35b3a50f-bf0e-4309-a3b4-58eeed8cee6a", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "online community", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.worldcat.org/wcidentities/lccn-no2012-21223", 
+                    "id": "fac9b3cd-fb76-4c3f-990c-dd62744aeb39"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://imvdb.com/n/steve-aoki", 
+                    "id": "0174b2ab-1b65-449d-a83b-3402d1a0eaa0"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/steve_aoki", 
+                    "id": "6dfe803f-1351-417b-a89d-ce70d34bae06"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.residentadvisor.net/dj/steveaoki", 
+                    "id": "d12b9019-2a49-46f0-9d84-32906b6a52da"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/us/artist/id271066694", 
+                    "id": "fb82d43f-ba50-4141-8313-275ea452592b"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.google.com/store/music/artist?id=Arcixoyaejv3t6lwgzclna4nqhe", 
+                    "id": "f795878f-bfef-405f-bfe0-ee1914bf8fd0"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.beatport.com/artist/steve-aoki/104181", 
+                    "id": "d6d38516-037e-4855-a948-4e5f1a66bcf6"
+                }, 
+                "direction": "forward", 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://plus.google.com/+SteveAoki", 
+                    "id": "cee46f79-16db-40bf-9c45-4b8f0e603c76"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/steveaoki", 
+                    "id": "021b6828-839f-420e-b1f8-6569dbb68954"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/Steve.Aoki", 
+                    "id": "1ee51775-6baf-4a70-a851-908a61c7e553"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/steveaoki/", 
+                    "id": "75d13cc4-a2a7-4bd8-a3bb-e8e7b3e910c1"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/steveaoki", 
+                    "id": "36c8bf13-3306-4b69-be95-0256afd19c54"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs", 
+                    "id": "113400bb-277a-4206-8b74-15ff6aba796a"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q459955", 
+                    "id": "c1dc2227-acb1-44cf-9d3e-62f0a901ef0d"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Steve_Aoki", 
+                    "id": "6fecd53b-e730-4d26-ae7c-bc0068eb858f"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/steveaoki", 
+                    "id": "f73e1844-9aaf-48cb-84d3-68e6041eacce"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Miami", 
+            "disambiguation": "", 
+            "id": "4a9aeb42-3763-4234-8fb8-1167ac1dfdfe", 
+            "name": "Miami"
+        }, 
+        "id": "a39acc4a-985e-4173-a9ed-f325f2d3bc1c", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "sort-name": "Aoki, Steve", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1977-11-30", 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15499, 
+    "bandsintown_response": {
+        "description": "Steve Aoki, DVBBS, T-Mass, GITCHII, + Secret Guests.", 
+        "title": "Steve Aoki @ Bill Graham Civic Auditorium in San Francisco, CA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "San Francisco", 
+            "name": "Bill Graham Civic Auditorium", 
+            "country": "United States", 
+            "region": "CA", 
+            "longitude": -122.418125, 
+            "place": "Bill Graham Civic Auditorium", 
+            "latitude": 37.778435
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13121503?app_id=ticketgame&artist=Steve+Aoki&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13121503/buy_tickets?app_id=ticketgame&artist=Steve+Aoki&came_from=67", 
+        "on_sale_datetime": "2016-10-14T17:00:00", 
+        "formatted_datetime": "Friday, November 18, 2016 at 8:00PM", 
+        "datetime": "2016-11-18T20:00:00", 
+        "formatted_location": "San Francisco, CA", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F1C00514B228A7DE1&subId1=67%7E16546282%7E%7E%7E", 
+        "artists": [
+            {
+                "website": "", 
+                "facebook_page_url": "https://www.facebook.com/Steve.Aoki", 
+                "name": "Steve Aoki", 
+                "url": "SteveAoki", 
+                "tracker_count": 729100, 
+                "mbid": "a39acc4a-985e-4173-a9ed-f325f2d3bc1c", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6048342.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/SteveAoki/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6048342.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13121503
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 0, 
+        "price_min": 9999999
+    }, 
+    "modified_time": 1479442901.0, 
+    "created_time": 1478566078.0, 
+    "modified_minutes": 885, 
+    "id": 28322129
+}

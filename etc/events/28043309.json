@@ -1,0 +1,172 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Inter Arma at Cafe 611 (November 16, 2016)", 
+        "popularity": 0.001034, 
+        "venue": {
+            "displayName": "Cafe 611", 
+            "uri": "http://www.songkick.com/venues/604371-cafe-611?utm_source=32233&utm_medium=partner", 
+            "lat": 39.4217579, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.4099827, 
+            "id": 604371
+        }, 
+        "uri": "http://www.songkick.com/concerts/28043309-inter-arma-at-cafe-611?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 39.4217579, 
+            "city": "Frederick, MD, US", 
+            "lng": -77.4099827
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "25b42db3-2be3-47c3-93f5-eeac9695e010", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:25b42db3-2be3-47c3-93f5-eeac9695e010.json"
+                        }
+                    ], 
+                    "displayName": "Inter Arma", 
+                    "uri": "http://www.songkick.com/artists/3346611-inter-arma?utm_source=32233&utm_medium=partner", 
+                    "id": 3346611
+                }, 
+                "displayName": "Inter Arma", 
+                "id": 54591124, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28043309
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Inter Arma", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2006", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Richmond", 
+            "disambiguation": "", 
+            "id": "afaa40c1-2e11-4a9b-9a33-ff0603e3e312", 
+            "name": "Richmond"
+        }, 
+        "country": null, 
+        "disambiguation": "", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "post-metal"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://interarma.bandcamp.com/", 
+                    "id": "d6628859-f18b-427b-bf6e-02d495fde21b"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1819178", 
+                    "id": "0c985422-c6c0-4f80-9a64-dd58a8bee0a6"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.metal-archives.com/bands/Inter_Arma/128583", 
+                    "id": "cde98b50-5cc9-4798-b3c9-5ce5cfd59fe8"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/INTERARMA", 
+                    "id": "15361f29-2ed7-4c0b-85bc-0fd80bd32c0b"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Richmond", 
+            "disambiguation": "", 
+            "name": "Richmond", 
+            "id": "afaa40c1-2e11-4a9b-9a33-ff0603e3e312"
+        }, 
+        "sort-name": "Inter Arma", 
+        "gender": null, 
+        "type": "Group", 
+        "id": "25b42db3-2be3-47c3-93f5-eeac9695e010", 
+        "gender-id": null
+    }, 
+    "id": 28043309, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

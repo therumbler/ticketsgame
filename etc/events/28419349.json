@@ -1,0 +1,147 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Aldous Harding at Paper Dress Vintage (November 15, 2016)", 
+        "popularity": 0.000448, 
+        "venue": {
+            "displayName": "Paper Dress Vintage", 
+            "uri": "http://www.songkick.com/venues/1473318-paper-dress-vintage?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5256685, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0802071, 
+            "id": 1473318
+        }, 
+        "uri": "http://www.songkick.com/concerts/28419349-aldous-harding-at-paper-dress-vintage?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-15T19:00:00+0000"
+        }, 
+        "location": {
+            "lat": 51.5256685, 
+            "city": "London, UK", 
+            "lng": -0.0802071
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1d779dfd-d292-48b5-b232-a09687b9881a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1d779dfd-d292-48b5-b232-a09687b9881a.json"
+                        }
+                    ], 
+                    "displayName": "Aldous Harding", 
+                    "uri": "http://www.songkick.com/artists/5530488-aldous-harding?utm_source=32233&utm_medium=partner", 
+                    "id": 5530488
+                }, 
+                "displayName": "Aldous Harding", 
+                "id": 55245104, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28419349
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Aldous Harding", 
+        "area": {
+            "sort-name": "Christchurch", 
+            "disambiguation": "", 
+            "name": "Christchurch", 
+            "id": "19f91eea-5c1a-48ae-849f-78c3185d121e"
+        }, 
+        "gender": "Female", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1990", 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4146181", 
+                    "id": "987c5ade-f6f8-4e56-843e-3e2d9c378270"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.aldousharding.com/", 
+                    "id": "104844b9-2690-431c-a0db-43d5acee2119"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/AldousHarding", 
+                    "id": "341cbf72-bc47-47bb-bbb0-f5f32bd3ad0b"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Auckland", 
+            "disambiguation": "", 
+            "name": "Auckland", 
+            "id": "b2bc1294-77be-4c7b-af93-9868b83b1f34"
+        }, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "country": null, 
+        "sort-name": "Harding, Aldous", 
+        "type": "Person", 
+        "id": "1d779dfd-d292-48b5-b232-a09687b9881a", 
+        "disambiguation": "New Zealand folk musician"
+    }, 
+    "id": 28419349, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

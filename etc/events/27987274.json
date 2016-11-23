@@ -1,0 +1,183 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Tenement at Three Links (November 14, 2016)", 
+        "popularity": 0.000393, 
+        "venue": {
+            "displayName": "Three Links", 
+            "uri": "http://www.songkick.com/venues/2146544-three-links?utm_source=32233&utm_medium=partner", 
+            "lat": 32.7844141, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.7844972, 
+            "id": 2146544
+        }, 
+        "uri": "http://www.songkick.com/concerts/27987274-tenement-at-three-links?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-14", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-14T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.7844141, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.7844972
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "8bc76201-feee-4fc2-a113-5e277fc78233", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:8bc76201-feee-4fc2-a113-5e277fc78233.json"
+                        }
+                    ], 
+                    "displayName": "Tenement", 
+                    "uri": "http://www.songkick.com/artists/808964-tenement?utm_source=32233&utm_medium=partner", 
+                    "id": 808964
+                }, 
+                "displayName": "Tenement", 
+                "id": 54492119, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27987274
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Tenement", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "twitter": "tenementinhell", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://tenement.bandcamp.com/", 
+                    "id": "a2ca3826-5394-4b34-aa52-b64791b9d7a3"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://tene-ment.tumblr.com/", 
+                    "id": "ed9f60ba-bd79-4ad5-bfd6-51156efeb62a"
+                }, 
+                "direction": "forward", 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1795469", 
+                    "id": "b4f0a24d-fd3f-4b90-93ae-5cdf1e84e68e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/tenementinhell", 
+                    "id": "34ce791e-67cb-459c-a7ef-98365a8654ae"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/tenement", 
+                    "id": "dc796e12-7042-4bcf-aff2-4bb8532e59f1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Tenement", 
+        "gender": null, 
+        "id": "8bc76201-feee-4fc2-a113-5e277fc78233", 
+        "disambiguation": "", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 27987274, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

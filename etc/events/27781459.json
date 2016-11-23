@@ -1,0 +1,375 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Head and the Heart with Deep Sea Diver at Paramount Theatre (November 7, 2016)", 
+        "popularity": 0.114161, 
+        "venue": {
+            "displayName": "Paramount Theatre", 
+            "uri": "http://www.songkick.com/venues/529-paramount-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 47.613296, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.33139, 
+            "id": 529
+        }, 
+        "uri": "http://www.songkick.com/concerts/27781459-head-and-the-heart-at-paramount-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-07", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-07T19:30:00-0800"
+        }, 
+        "location": {
+            "lat": 47.613296, 
+            "city": "Seattle, WA, US", 
+            "lng": -122.33139
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "98cb416e-5271-484c-ab3b-6bed6b4aae12", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:98cb416e-5271-484c-ab3b-6bed6b4aae12.json"
+                        }
+                    ], 
+                    "displayName": "The Head and the Heart", 
+                    "uri": "http://www.songkick.com/artists/3254371-head-and-the-heart?utm_source=32233&utm_medium=partner", 
+                    "id": 3254371
+                }, 
+                "displayName": "The Head and the Heart", 
+                "id": 54115894, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "18a627eb-c6e8-4175-b947-9322d8deb938", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:18a627eb-c6e8-4175-b947-9322d8deb938.json"
+                        }
+                    ], 
+                    "displayName": "Deep Sea Diver", 
+                    "uri": "http://www.songkick.com/artists/4430253-deep-sea-diver?utm_source=32233&utm_medium=partner", 
+                    "id": 4430253
+                }, 
+                "displayName": "Deep Sea Diver", 
+                "id": 55158554, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27781459
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "The Head and the Heart", 
+        "tags": [], 
+        "gender": null, 
+        "twitter": "headandtheheart", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Seattle", 
+            "disambiguation": "", 
+            "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc", 
+            "name": "Seattle"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002495841", 
+                    "id": "c824a003-bf2e-49c9-b974-4655d5a256b1"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2104840", 
+                    "id": "5402cf6d-1049-4651-be37-e2415150f601"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/The+Head+and+the+Heart", 
+                    "id": "060e7bab-e3db-430d-a1da-265df87fdb42"
+                }, 
+                "direction": "forward", 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/the-head-and-the-heart-lyrics", 
+                    "id": "8c5c46cc-692a-4178-82b7-2194e9c01e97"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-14493/the-head-and-the-heart/lyrics.html", 
+                    "id": "f3a2c66c-e84a-4935-98eb-77b1f055a9b9"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/theheadandtheheart", 
+                    "id": "43350905-875c-4314-a21f-d9b28c6ede25"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.theheadandtheheart.com/", 
+                    "id": "0f390a5f-b31e-4c39-a4e6-9fa28ffe913e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://rateyourmusic.com/artist/the_head_and_the_heart", 
+                    "id": "24de9a9e-7677-4af6-ba36-cc2e4a6f6fc6"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.purevolume.com/theheadandtheheart", 
+                    "id": "5a9fe406-f0e8-4901-96ae-8274eb86979d"
+                }, 
+                "direction": "forward", 
+                "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purevolume", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/headandtheheart", 
+                    "id": "8b9c2cee-2a72-4ef5-a35d-47262621e9d9"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/theheadandtheheart", 
+                    "id": "1331084b-8651-4ffb-a375-13fb4bcf8a32"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg", 
+                    "id": "564eddef-f760-490b-9e15-9e081f4fd02e"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q2076097", 
+                    "id": "251c2d8b-0ea0-4c51-947e-ce532f60e322"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/The_Head_and_the_Heart", 
+                    "id": "a8b17b03-f8e5-4f86-8a26-0c47bf3edb68"
+                }, 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/theheadandtheheart", 
+                    "id": "9cabd38c-20d3-44ea-8b4b-bd094a869078"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Head and the Heart, The", 
+        "country": "US", 
+        "id": "98cb416e-5271-484c-ab3b-6bed6b4aae12", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2009", 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 27781459, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

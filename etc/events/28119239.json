@@ -1,0 +1,187 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "RTB2 with The Sideshow Tragedy at The Harvest House (November 11, 2016)", 
+        "popularity": 0.000145, 
+        "venue": {
+            "displayName": "The Harvest House", 
+            "uri": "http://www.songkick.com/venues/2925953-harvest-house?utm_source=32233&utm_medium=partner", 
+            "lat": 33.2146361, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -97.1287615, 
+            "id": 2925953
+        }, 
+        "uri": "http://www.songkick.com/concerts/28119239-rtb2-at-harvest-house?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "21:00:00", 
+            "datetime": "2016-11-11T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 33.2146361, 
+            "city": "Denton, TX, US", 
+            "lng": -97.1287615
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "a422f2cd-2179-4549-8730-ba14a4ab42e5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:a422f2cd-2179-4549-8730-ba14a4ab42e5.json"
+                        }
+                    ], 
+                    "displayName": "RTB2", 
+                    "uri": "http://www.songkick.com/artists/1049695-rtb2?utm_source=32233&utm_medium=partner", 
+                    "id": 1049695
+                }, 
+                "displayName": "RTB2", 
+                "id": 54722634, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ec307a30-a5a0-4a88-a52a-8c3cdd84f6bf", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ec307a30-a5a0-4a88-a52a-8c3cdd84f6bf.json"
+                        }
+                    ], 
+                    "displayName": "The Sideshow Tragedy", 
+                    "uri": "http://www.songkick.com/artists/2353148-sideshow-tragedy?utm_source=32233&utm_medium=partner", 
+                    "id": 2353148
+                }, 
+                "displayName": "The Sideshow Tragedy", 
+                "id": 54722639, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28119239
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "RTB2", 
+        "sort-name": "RTB2", 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003306757", 
+                    "id": "5c036813-5333-4af6-8bff-2e2bd2174346"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4137331", 
+                    "id": "3e7148f4-daa6-4282-a5dd-9cf3bb478bcf"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/RTB2", 
+                    "id": "7cfe1742-adca-4577-b30b-3fb4c5386fc8"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/rtb2", 
+                    "id": "0947408a-14a9-4b7c-99c9-4f0bf2e3c3cd"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Denton", 
+            "disambiguation": "", 
+            "name": "Denton", 
+            "id": "1370aa1f-02d4-4d6a-9f2c-5235e016905a"
+        }, 
+        "gender-id": null, 
+        "country": "US", 
+        "disambiguation": "", 
+        "type": "Group", 
+        "id": "a422f2cd-2179-4549-8730-ba14a4ab42e5", 
+        "tags": []
+    }, 
+    "id": 28119239, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

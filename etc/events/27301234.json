@@ -1,0 +1,163 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "16+", 
+        "displayName": "Finish Ticket at Bluebird Theater (November 9, 2016)", 
+        "popularity": 0.002011, 
+        "venue": {
+            "displayName": "Bluebird Theater", 
+            "uri": "http://www.songkick.com/venues/10459-bluebird-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 39.7402806, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CO"
+                }, 
+                "displayName": "Denver", 
+                "uri": "http://www.songkick.com/metro_areas/6404-us-denver?utm_source=32233&utm_medium=partner", 
+                "id": 6404
+            }, 
+            "lng": -104.948382, 
+            "id": 10459
+        }, 
+        "uri": "http://www.songkick.com/concerts/27301234-finish-ticket-at-bluebird-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "18:30:00", 
+            "datetime": "2016-11-09T18:30:00-0700"
+        }, 
+        "location": {
+            "lat": 39.7402806, 
+            "city": "Denver, CO, US", 
+            "lng": -104.948382
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "193674c5-cc87-4c4b-aa13-190476f17242", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:193674c5-cc87-4c4b-aa13-190476f17242.json"
+                        }
+                    ], 
+                    "displayName": "Finish Ticket", 
+                    "uri": "http://www.songkick.com/artists/3990656-finish-ticket?utm_source=32233&utm_medium=partner", 
+                    "id": 3990656
+                }, 
+                "displayName": "Finish Ticket", 
+                "id": 53239954, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27301234
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Finish Ticket", 
+        "area": null, 
+        "country": null, 
+        "twitter": "FinishTicket", 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://finishticket.bandcamp.com/", 
+                    "id": "aa96ca39-c9f1-46e4-b8ee-d83a49c0f84e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://finishticket.tumblr.com/", 
+                    "id": "1bda0f96-3ee3-4470-a94b-8b1e5a6addf6"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/FinishTicket", 
+                    "id": "62ce0a87-70bb-4ea1-ae0d-c48b55a71c23"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/finishticket", 
+                    "id": "981db15e-4d39-44a4-a167-48af22639819"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": "2008", 
+            "end": null
+        }, 
+        "end_area": null, 
+        "sort-name": "Finish Ticket", 
+        "begin_area": {
+            "sort-name": "Alameda", 
+            "disambiguation": "", 
+            "id": "d0de4f9f-dc6a-425b-8ce3-eb2770a3c596", 
+            "name": "Alameda"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "id": "193674c5-cc87-4c4b-aa13-190476f17242", 
+        "ipis": [], 
+        "type": "Group", 
+        "disambiguation": ""
+    }, 
+    "id": 27301234, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

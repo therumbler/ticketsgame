@@ -1,0 +1,182 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": "21+", 
+        "displayName": "Heaven's Gate, Poppies, Bluffing, and Rips (NY) at The Footlight (November 12, 2016)", 
+        "popularity": 0.00039, 
+        "venue": {
+            "displayName": "The Footlight", 
+            "uri": "http://www.songkick.com/venues/3328964-footlight?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7061007, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9128119, 
+            "id": 3328964
+        }, 
+        "uri": "http://www.songkick.com/concerts/28396594-heavens-gate-at-footlight?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-12T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7061007, 
+            "city": "Ridgewood, NY, US", 
+            "lng": -73.9128119
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "62f4d829-a7c2-49d3-a518-13a912acacfe", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:62f4d829-a7c2-49d3-a518-13a912acacfe.json"
+                        }
+                    ], 
+                    "displayName": "Heaven's Gate", 
+                    "uri": "http://www.songkick.com/artists/4681433-heavens-gate?utm_source=32233&utm_medium=partner", 
+                    "id": 4681433
+                }, 
+                "displayName": "Heaven's Gate", 
+                "id": 55205679, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "51ee00d6-f89b-44ce-86c1-cfaa33af60af", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:51ee00d6-f89b-44ce-86c1-cfaa33af60af.json"
+                        }
+                    ], 
+                    "displayName": "Poppies", 
+                    "uri": "http://www.songkick.com/artists/481504-poppies?utm_source=32233&utm_medium=partner", 
+                    "id": 481504
+                }, 
+                "displayName": "Poppies", 
+                "id": 55205684, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Bluffing", 
+                    "uri": "http://www.songkick.com/artists/6458229-bluffing?utm_source=32233&utm_medium=partner", 
+                    "id": 6458229
+                }, 
+                "displayName": "Bluffing", 
+                "id": 55205689, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Rips (NY)", 
+                    "uri": "http://www.songkick.com/artists/8513263-rips-ny?utm_source=32233&utm_medium=partner", 
+                    "id": 8513263
+                }, 
+                "displayName": "Rips (NY)", 
+                "id": 55205694, 
+                "billing": "headline", 
+                "billingIndex": 4
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28396594
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Heaven's Gate", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "death rock"
+            }, 
+            {
+                "count": 1, 
+                "name": "punk"
+            }, 
+            {
+                "count": 1, 
+                "name": "shoegaze"
+            }
+        ], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "2012", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Brooklyn", 
+            "disambiguation": "", 
+            "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c", 
+            "name": "Brooklyn"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://heavensgate.bandcamp.com/", 
+                    "id": "4bbb3cda-147e-4a74-97a5-9c5fcfb6d2a1"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/heavensgateusa", 
+                    "id": "b7c9a14f-796c-4a9e-bbfe-3f334181a2e7"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "62f4d829-a7c2-49d3-a518-13a912acacfe", 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Heaven's Gate", 
+        "type": "Group", 
+        "disambiguation": "New York punk / shoegaze"
+    }, 
+    "id": 28396594, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Spring King, Izzy Bizu, and Sundara Karma at Gramercy Theatre (November 14, 2016)", 
+        "popularity": 0.0056, 
+        "venue": {
+            "displayName": "Gramercy Theatre", 
+            "uri": "http://www.songkick.com/venues/502461-gramercy-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7397719, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9849309, 
+            "id": 502461
+        }, 
+        "uri": "http://www.songkick.com/concerts/28195949-spring-king-at-gramercy-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-14", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-14T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7397719, 
+            "city": "New York, NY, US", 
+            "lng": -73.9849309
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "605e0f08-e9a3-46ff-85ce-841ab678ba19", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:605e0f08-e9a3-46ff-85ce-841ab678ba19.json"
+                        }
+                    ], 
+                    "displayName": "Spring King", 
+                    "uri": "http://www.songkick.com/artists/6157999-spring-king?utm_source=32233&utm_medium=partner", 
+                    "id": 6157999
+                }, 
+                "displayName": "Spring King", 
+                "id": 54857809, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9ed99a76-6c01-455e-9e3d-a233e48ece45", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9ed99a76-6c01-455e-9e3d-a233e48ece45.json"
+                        }
+                    ], 
+                    "displayName": "Izzy Bizu", 
+                    "uri": "http://www.songkick.com/artists/6869099-izzy-bizu?utm_source=32233&utm_medium=partner", 
+                    "id": 6869099
+                }, 
+                "displayName": "Izzy Bizu", 
+                "id": 54857814, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ba3f1845-72c8-4122-850f-1a3a8f4bfe49", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ba3f1845-72c8-4122-850f-1a3a8f4bfe49.json"
+                        }
+                    ], 
+                    "displayName": "Sundara Karma", 
+                    "uri": "http://www.songkick.com/artists/5234928-sundara-karma?utm_source=32233&utm_medium=partner", 
+                    "id": 5234928
+                }, 
+                "displayName": "Sundara Karma", 
+                "id": 54857819, 
+                "billing": "headline", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28195949
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Spring King", 
+        "tags": [], 
+        "gender": null, 
+        "twitter": "springkingband", 
+        "area": {
+            "sort-name": "Manchester", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "GB-MAN"
+            ], 
+            "id": "852531bf-3410-401f-b432-9c3157a386b9", 
+            "name": "Manchester"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://avocadocity.tumblr.com/", 
+                    "id": "d4fc0928-3a68-46ca-a804-71d7f9d15b39"
+                }, 
+                "direction": "forward", 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/springkingband", 
+                    "id": "930c2f53-115a-4a81-93c8-e68bdd333e0e"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/springkingmusic/info", 
+                    "id": "d68b7bdd-0707-45c2-b918-4d8223c05e5b"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/springking", 
+                    "id": "847ce431-9a4b-46ab-8b33-3566c5ec73bb"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.wikidata.org/entity/Q24060253", 
+                    "id": "e9627948-76a3-4fcc-94d7-8642e90559e0"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Spring_King", 
+                    "id": "56f1cf8d-d940-4394-99b1-2444de68302a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": "2012-03-23", 
+            "end": null
+        }, 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Manchester", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "GB-MAN"
+            ], 
+            "id": "852531bf-3410-401f-b432-9c3157a386b9", 
+            "name": "Manchester"
+        }, 
+        "id": "605e0f08-e9a3-46ff-85ce-841ab678ba19", 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "King, Spring", 
+        "ipis": [], 
+        "type": "Group", 
+        "disambiguation": "UK"
+    }, 
+    "id": 28195949, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

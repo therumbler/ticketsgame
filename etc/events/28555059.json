@@ -1,0 +1,140 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Dave East at Howard Theatre (December 6, 2016)", 
+        "popularity": 0.001844, 
+        "venue": {
+            "displayName": "Howard Theatre", 
+            "uri": "http://www.songkick.com/venues/74872-howard-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": 38.915271, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.021098, 
+            "id": 74872
+        }, 
+        "uri": "http://www.songkick.com/concerts/28555059-dave-east-at-howard-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-06", 
+            "time": "20:00:00", 
+            "datetime": "2016-12-06T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.915271, 
+            "city": "Washington, DC, US", 
+            "lng": -77.021098
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Dave East", 
+                "id": 55477709, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "21471bf5-567a-4e6a-b264-2514618d343f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:21471bf5-567a-4e6a-b264-2514618d343f.json"
+                        }
+                    ], 
+                    "displayName": "Dave East", 
+                    "uri": "http://www.songkick.com/artists/6338584-dave-east?utm_source=32233&utm_medium=partner", 
+                    "id": 6338584
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28555059
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Dave East", 
+        "tags": [], 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3865520", 
+                    "id": "cfb5ca0a-dedf-450d-bc68-4db4913a8af8"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/DAVE_EAST", 
+                    "id": "da70e23e-bbfa-4364-9f0e-e6d03b1b9de8"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "21471bf5-567a-4e6a-b264-2514618d343f", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "isnis": [], 
+        "sort-name": "East, Dave", 
+        "country": "US", 
+        "type": "Person", 
+        "twitter": "DAVE_EAST", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 3194, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 0, 
+        "price_min": 9999999
+    }, 
+    "modified_time": 1479442244.0, 
+    "created_time": 1479305746.0, 
+    "modified_minutes": 919, 
+    "id": 28555059
+}

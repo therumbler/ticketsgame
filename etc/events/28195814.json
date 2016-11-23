@@ -1,0 +1,327 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Nico & Vinz at Cullen Performance Hall, University of Houston (November 11, 2016)", 
+        "popularity": 0.084504, 
+        "venue": {
+            "displayName": "Cullen Performance Hall, University of Houston", 
+            "uri": "http://www.songkick.com/venues/15875-cullen-performance-hall-university-of-houston?utm_source=32233&utm_medium=partner", 
+            "lat": 29.7182829, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Houston", 
+                "uri": "http://www.songkick.com/metro_areas/15073-us-houston?utm_source=32233&utm_medium=partner", 
+                "id": 15073
+            }, 
+            "lng": -95.3394169, 
+            "id": 15875
+        }, 
+        "uri": "http://www.songkick.com/concerts/28195814-nico-and-vinz-at-cullen-performance-hall-university-of-houston?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-11T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 29.7182829, 
+            "city": "Houston, TX, US", 
+            "lng": -95.3394169
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f8e8de78-2131-4e96-8829-ba3614f48a48", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f8e8de78-2131-4e96-8829-ba3614f48a48.json"
+                        }
+                    ], 
+                    "displayName": "Nico & Vinz", 
+                    "uri": "http://www.songkick.com/artists/7740169-nico-and-vinz?utm_source=32233&utm_medium=partner", 
+                    "id": 7740169
+                }, 
+                "displayName": "Nico & Vinz", 
+                "id": 54857574, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28195814
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Nico & Vinz", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "afrobeat"
+            }, 
+            {
+                "count": 1, 
+                "name": "hip hop"
+            }, 
+            {
+                "count": 1, 
+                "name": "pop"
+            }, 
+            {
+                "count": 1, 
+                "name": "rhythm and blues"
+            }
+        ], 
+        "gender": null, 
+        "twitter": "NicoandVinz", 
+        "area": {
+            "sort-name": "Norway", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "NO"
+            ], 
+            "name": "Norway", 
+            "id": "6743d351-6f37-3049-9724-5041161fff4d"
+        }, 
+        "disambiguation": "fka Envy", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": {
+            "sort-name": "Oslo", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "NO-03"
+            ], 
+            "id": "f80d529e-f242-46ef-a090-d193ed23075f", 
+            "name": "Oslo"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3770145", 
+                    "id": "eb2659ea-edd8-4a51-9360-41269393b221"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/envyno", 
+                    "id": "4ba46778-aab1-47e2-b39a-c4944e36394a"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.nicoandvinz.com/", 
+                    "id": "f0f6e8e4-88ba-4df9-9ada-c28f04d9cd72"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://itunes.apple.com/no/artist/id793640807", 
+                    "id": "ef897e85-7408-4d4b-93b0-5c19eee1b541"
+                }, 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/nicoandvinz", 
+                    "id": "f6697d9d-c348-4c2b-b0a6-16ff5a9a49b9"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/NicoandVinz", 
+                    "id": "807e41e0-3836-45b7-a72f-ebd5434d3091"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/nicoandvinz", 
+                    "id": "1f0d39b9-a587-4859-9b2c-bfb39df490dd"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/nico-and-vinz", 
+                    "id": "e16a74fb-b6ce-4e01-b0c2-2547d8aeb4e5"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://wimp.no/wweb/artist/5346252", 
+                    "id": "a73b5795-1173-43c5-a8ba-fcac446d7c00"
+                }, 
+                "direction": "forward", 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q11967617", 
+                    "id": "a60f59cc-892f-47b6-99ad-c894d4cbeaa1"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Nico_%26_Vinz", 
+                    "id": "2e469bc3-2052-40ef-800c-9e47ebb956a9"
+                }, 
+                "begin": null, 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/envymusicchannel", 
+                    "id": "e3a1c692-462b-4216-8dd3-2772f80d0507"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Nico & Vinz", 
+        "country": "NO", 
+        "id": "f8e8de78-2131-4e96-8829-ba3614f48a48", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2009", 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28195814, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

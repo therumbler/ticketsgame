@@ -1,0 +1,280 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000608, 
+        "displayName": "A.a. Wallace with Monarch at Rivoli (November 16, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Rivoli", 
+            "uri": "http://www.songkick.com/venues/34302-rivoli?utm_source=32233&utm_medium=partner", 
+            "lat": 43.6492475, 
+            "metroArea": {
+                "country": {
+                    "displayName": "Canada"
+                }, 
+                "state": {
+                    "displayName": "ON"
+                }, 
+                "displayName": "Toronto", 
+                "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=32233&utm_medium=partner", 
+                "id": 27396
+            }, 
+            "lng": -79.394803, 
+            "id": 34302
+        }, 
+        "uri": "http://www.songkick.com/concerts/27954429-aa-wallace-at-rivoli?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "datetime": "2016-11-16T21:00:00-0500", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 43.6492475, 
+            "city": "Toronto, ON, Canada", 
+            "lng": -79.394803
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "A.a. Wallace", 
+                "id": 54433419, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "A.a. Wallace", 
+                    "uri": "http://www.songkick.com/artists/2862246-aa-wallace?utm_source=32233&utm_medium=partner", 
+                    "id": 2862246
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Monarch", 
+                "id": 54433424, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "159348fa-88e4-4bb0-8c44-77772e48dfde", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:159348fa-88e4-4bb0-8c44-77772e48dfde.json"
+                        }, 
+                        {
+                            "mbid": "fce73a93-bd0b-4449-b275-eade0625f2c4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fce73a93-bd0b-4449-b275-eade0625f2c4.json"
+                        }, 
+                        {
+                            "mbid": "e9b0b457-a6ea-48de-998f-362428f1d44c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e9b0b457-a6ea-48de-998f-362428f1d44c.json"
+                        }, 
+                        {
+                            "mbid": "f6575141-5fdd-4f8b-a29a-a88c2328c481", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f6575141-5fdd-4f8b-a29a-a88c2328c481.json"
+                        }, 
+                        {
+                            "mbid": "79bcc620-7562-4d95-876c-bb4d82b867ee", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:79bcc620-7562-4d95-876c-bb4d82b867ee.json"
+                        }
+                    ], 
+                    "displayName": "Monarch", 
+                    "uri": "http://www.songkick.com/artists/59402-monarch?utm_source=32233&utm_medium=partner", 
+                    "id": 59402
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27954429
+    }, 
+    "bandsintown_response": [], 
+    "musicbrainz_response": {
+        "sort-name": "Wallace, A.A.", 
+        "name": "A.A. Wallace", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "a.a."
+            }, 
+            {
+                "count": 1, 
+                "name": "canadian"
+            }, 
+            {
+                "count": 1, 
+                "name": "dance"
+            }, 
+            {
+                "count": 1, 
+                "name": "electro"
+            }, 
+            {
+                "count": 1, 
+                "name": "wallace"
+            }
+        ], 
+        "gender": "Male", 
+        "twitter": "aawallace", 
+        "area": {
+            "sort-name": "Canada", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "CA"
+            ], 
+            "name": "Canada", 
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b"
+        }, 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003386576", 
+                    "id": "c4707a5c-0eb9-4849-89c8-771a0663303c"
+                }, 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://aawallace.bandcamp.com/", 
+                    "id": "0bcfec3b-be9f-439b-a053-a683693646c6"
+                }, 
+                "direction": "forward", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1532447", 
+                    "id": "17ea4b15-a608-43b6-9d53-713329f2cbf6"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/AA+Wallace", 
+                    "id": "c3bb4547-af6a-4e39-b52f-13a3243edc0e"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://aawallace.xxx/", 
+                    "id": "4affb6ff-f293-45ba-9125-217cdae3ac48"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/aawallace", 
+                    "id": "d5b2a770-9cf6-4591-a4be-575f0fb41977"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/aawallacemusique", 
+                    "id": "fecf3987-9b8f-47d2-bc49-1cb9ef7e8e75"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/aawallace", 
+                    "id": "1292af43-13ca-42c3-a85a-9ea5da74c45d"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "CA", 
+        "id": "2bebddcb-b574-4c4b-95d7-5b4f58932c2d", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 27954429, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

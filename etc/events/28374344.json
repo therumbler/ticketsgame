@@ -1,0 +1,248 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Active Set and Highland Kites at The Satellite (November 15, 2016)", 
+        "popularity": 7.2e-05, 
+        "venue": {
+            "displayName": "The Satellite", 
+            "uri": "http://www.songkick.com/venues/299-satellite?utm_source=32233&utm_medium=partner", 
+            "lat": 34.089882, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2682356, 
+            "id": 299
+        }, 
+        "uri": "http://www.songkick.com/concerts/28374344-active-set-at-satellite?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "datetime": "2016-11-15T21:00:00-0800", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 34.089882, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2682356
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "3dcc821c-7f4d-46c5-961c-f525e4967138", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:3dcc821c-7f4d-46c5-961c-f525e4967138.json"
+                        }
+                    ], 
+                    "displayName": "The Active Set", 
+                    "uri": "http://www.songkick.com/artists/803753-active-set?utm_source=32233&utm_medium=partner", 
+                    "id": 803753
+                }, 
+                "displayName": "The Active Set", 
+                "id": 55167284, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Highland Kites", 
+                    "uri": "http://www.songkick.com/artists/8805274-highland-kites?utm_source=32233&utm_medium=partner", 
+                    "id": 8805274
+                }, 
+                "displayName": "Highland Kites", 
+                "id": 55370629, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28374344
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "The Active Set", 
+        "tags": [], 
+        "country": null, 
+        "twitter": "theactiveset", 
+        "area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "name": "Los Angeles", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62"
+        }, 
+        "disambiguation": "", 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Los Angeles", 
+            "disambiguation": "", 
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62", 
+            "name": "Los Angeles"
+        }, 
+        "id": "3dcc821c-7f4d-46c5-961c-f525e4967138", 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://theactiveset.bandcamp.com/", 
+                    "id": "140960cb-d3b4-42b3-ab21-81987fe19634"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://theactiveset.tumblr.com/", 
+                    "id": "6676188d-c176-4373-a101-63637d94142b"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.theactiveset.com/", 
+                    "id": "34459512-6972-4605-bd84-b3d4e091c61a"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://instagram.com/theactiveset", 
+                    "id": "79200fd5-f498-467f-9f41-6db0ae01fac9"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/theactiveset", 
+                    "id": "315d4093-a257-4272-8aeb-4b915a775726"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/theactiveset", 
+                    "id": "13e64a49-f8e2-42e9-b651-0f164e02dbe9"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/theactiveset", 
+                    "id": "a1753a52-804d-4461-a35b-771797a42639"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/theactiveset", 
+                    "id": "098c9ba3-8a35-4b4d-810f-6835cf96bb2a"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Active Set", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2007", 
+            "end": null
+        }
+    }, 
+    "id": 28374344, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

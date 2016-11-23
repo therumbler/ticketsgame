@@ -1,0 +1,214 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Addison Groove at Waiting Rooms (November 12, 2016)", 
+        "popularity": 0.002879, 
+        "venue": {
+            "displayName": "Waiting Rooms", 
+            "uri": "http://www.songkick.com/venues/2817328-waiting-rooms?utm_source=32233&utm_medium=partner", 
+            "lat": 51.5620231, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.0737678, 
+            "id": 2817328
+        }, 
+        "uri": "http://www.songkick.com/concerts/27960804-addison-groove-at-waiting-rooms?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-12", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.5620231, 
+            "city": "London, UK", 
+            "lng": -0.0737678
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "0b32db28-1a2a-4b4e-b9f2-ce0524987d4c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:0b32db28-1a2a-4b4e-b9f2-ce0524987d4c.json"
+                        }
+                    ], 
+                    "displayName": "Addison Groove", 
+                    "uri": "http://www.songkick.com/artists/3267811-addison-groove?utm_source=32233&utm_medium=partner", 
+                    "id": 3267811
+                }, 
+                "displayName": "Addison Groove", 
+                "id": 54444409, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27960804
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Addison Groove", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed", 
+            "name": "United Kingdom"
+        }, 
+        "gender": "Male", 
+        "twitter": "addisongroove", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1755506", 
+                    "id": "381aafa0-0a6a-43ff-9ff1-94894b8f0d33"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Addison+Groove", 
+                    "id": "ffda6580-6533-46b6-9e94-85cf2c3dc54f"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/addisonsgroove", 
+                    "id": "9ff21987-86c8-4406-8dcd-c4b272cd72b6"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.residentadvisor.net/dj/addisongroove", 
+                    "id": "901ab600-86a7-42ea-b306-4e2f2c004ca9"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.beatport.com/artist/addison-groove/183425", 
+                    "id": "2168847a-914a-44ff-9056-5726e5053e91"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "purchase for download", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/addisongroove", 
+                    "id": "532da052-d517-43b9-829a-daca8b1736f7"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/addisongroove", 
+                    "id": "94ddab50-a18a-4dc7-8fb3-966619024ff9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "end_area": null, 
+        "sort-name": "Addison Groove", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "GB", 
+        "id": "0b32db28-1a2a-4b4e-b9f2-ce0524987d4c", 
+        "ipis": [], 
+        "type": "Person", 
+        "disambiguation": "From Southwest UK"
+    }, 
+    "id": 27960804, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

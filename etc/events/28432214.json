@@ -1,0 +1,111 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mark Jungers at Tavern on Main (November 19, 2016)", 
+        "popularity": 2.3e-05, 
+        "venue": {
+            "displayName": "Tavern on Main", 
+            "uri": "http://www.songkick.com/venues/2570144-tavern-on-main?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Austin", 
+                "uri": "http://www.songkick.com/metro_areas/9179-us-austin?utm_source=32233&utm_medium=partner", 
+                "id": 9179
+            }, 
+            "lng": null, 
+            "id": 2570144
+        }, 
+        "uri": "http://www.songkick.com/concerts/28432214-mark-jungers-at-tavern-on-main?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-19T20:00:00-0600"
+        }, 
+        "location": {
+            "lat": 30.0817, 
+            "city": "Buda, TX, US", 
+            "lng": -97.8429
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "fe40d8ce-85f3-47e8-b5c3-62b90635110c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:fe40d8ce-85f3-47e8-b5c3-62b90635110c.json"
+                        }
+                    ], 
+                    "displayName": "Mark Jungers", 
+                    "uri": "http://www.songkick.com/artists/498759-mark-jungers?utm_source=32233&utm_medium=partner", 
+                    "id": 498759
+                }, 
+                "displayName": "Mark Jungers", 
+                "id": 55266064, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28432214
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Mark Jungers", 
+        "area": {
+            "sort-name": "Austin", 
+            "disambiguation": "", 
+            "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5", 
+            "name": "Austin"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://markjungers.com/index.html", 
+                    "id": "59d2aa0a-6697-44b9-b1a1-1c73680a1b5c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Jungers, Mark", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "type": "Person", 
+        "id": "fe40d8ce-85f3-47e8-b5c3-62b90635110c", 
+        "disambiguation": ""
+    }, 
+    "id": 28432214, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

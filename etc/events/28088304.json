@@ -1,0 +1,248 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Margo Price with Sam Outlaw at Music Hall of Williamsburg (November 16, 2016)", 
+        "popularity": 0.00094, 
+        "venue": {
+            "displayName": "Music Hall of Williamsburg", 
+            "uri": "http://www.songkick.com/venues/16246-music-hall-of-williamsburg?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7192832, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9617103, 
+            "id": 16246
+        }, 
+        "uri": "http://www.songkick.com/concerts/28088304-margo-price-at-music-hall-of-williamsburg?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-16", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-16T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7192832, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9617103
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "b53b9322-7d65-4b17-ae4c-9190d347fcea", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:b53b9322-7d65-4b17-ae4c-9190d347fcea.json"
+                        }
+                    ], 
+                    "displayName": "Margo Price", 
+                    "uri": "http://www.songkick.com/artists/8320753-margo-price?utm_source=32233&utm_medium=partner", 
+                    "id": 8320753
+                }, 
+                "displayName": "Margo Price", 
+                "id": 54667429, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "582379dd-f1ce-4d37-b45d-b5828f744bef", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:582379dd-f1ce-4d37-b45d-b5828f744bef.json"
+                        }
+                    ], 
+                    "displayName": "Sam Outlaw", 
+                    "uri": "http://www.songkick.com/artists/1087466-sam-outlaw?utm_source=32233&utm_medium=partner", 
+                    "id": 1087466
+                }, 
+                "displayName": "Sam Outlaw", 
+                "id": 54667434, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28088304
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Margo Price", 
+        "area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74", 
+            "name": "Nashville"
+        }, 
+        "gender": "Female", 
+        "twitter": "MissMargoPrice", 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003269644", 
+                    "id": "65545457-8ffb-4205-a2bd-cd725f39cb94"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/4319603", 
+                    "id": "93d31f22-2f06-4b64-8ffb-496dc4988bfe"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://margoprice.net/", 
+                    "id": "e2f8b49e-fa2e-497a-9acf-62eeb1909efd"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/MissMargoPrice", 
+                    "id": "6e79eb4f-0a0b-460c-b694-6cc245588e53"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/MargoAndThePriceTags", 
+                    "id": "1d169e2f-90e6-435c-b2a7-d91cf2077466"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.wikidata.org/entity/Q22073688", 
+                    "id": "71956429-a8f7-40c4-af43-0de2b2e5b56a"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Margo_Price", 
+                    "id": "796d96c4-6a45-424f-80a1-f17f6b3c86f1"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/margopricemusic", 
+                    "id": "d2ce2efa-2f0c-44cb-82a6-8e0dcbb9bb44"
+                }, 
+                "direction": "forward", 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Price, Margo", 
+        "country": null, 
+        "id": "b53b9322-7d65-4b17-ae4c-9190d347fcea", 
+        "ipis": [], 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2"
+    }, 
+    "id": 28088304, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

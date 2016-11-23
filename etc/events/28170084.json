@@ -1,0 +1,211 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Chris Cohen with Bouquet and The Lentils at Bootleg Theater (November 9, 2016)", 
+        "popularity": 0.001738, 
+        "venue": {
+            "displayName": "Bootleg Theater", 
+            "uri": "http://www.songkick.com/venues/74901-bootleg-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 34.0673514, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2721714, 
+            "id": 74901
+        }, 
+        "uri": "http://www.songkick.com/concerts/28170084-chris-cohen-at-bootleg-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-09", 
+            "time": "20:30:00", 
+            "datetime": "2016-11-09T20:30:00-0800"
+        }, 
+        "location": {
+            "lat": 34.0673514, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2721714
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d06cbcab-2094-4b51-9ccf-f4af33494ef1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d06cbcab-2094-4b51-9ccf-f4af33494ef1.json"
+                        }
+                    ], 
+                    "displayName": "Chris Cohen", 
+                    "uri": "http://www.songkick.com/artists/2317602-chris-cohen?utm_source=32233&utm_medium=partner", 
+                    "id": 2317602
+                }, 
+                "displayName": "Chris Cohen", 
+                "id": 54811789, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "227164bc-6e4e-4a66-9135-2f2165cb8aa8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:227164bc-6e4e-4a66-9135-2f2165cb8aa8.json"
+                        }
+                    ], 
+                    "displayName": "Bouquet", 
+                    "uri": "http://www.songkick.com/artists/52443-bouquet?utm_source=32233&utm_medium=partner", 
+                    "id": 52443
+                }, 
+                "displayName": "Bouquet", 
+                "id": 54811794, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Lentils", 
+                    "uri": "http://www.songkick.com/artists/8224953-lentils?utm_source=32233&utm_medium=partner", 
+                    "id": 8224953
+                }, 
+                "displayName": "The Lentils", 
+                "id": 55195004, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28170084
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Chris Cohen", 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1975", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/429504", 
+                    "id": "a51a57e7-30f6-4449-bfc1-62fd6ca821d1"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/chris_cohen_f1", 
+                    "id": "712b19e6-2ea7-4b82-a6ac-4b471f27128f"
+                }, 
+                "direction": "forward", 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/chris-cohen-147680308689555", 
+                    "id": "fa15aede-f519-4f2e-ba71-146430f195ce"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q5106209", 
+                    "id": "85b7e2d7-c937-4e6b-a490-56e6f332152f"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Chris_Cohen_(musician)", 
+                    "id": "3bb94371-eb0a-41d7-b9b2-6a5cb8775e9a"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Cohen, Chris", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "disambiguation": "Deerhoof member, and indie artist", 
+        "type": "Person", 
+        "id": "d06cbcab-2094-4b51-9ccf-f4af33494ef1", 
+        "tags": []
+    }, 
+    "id": 28170084, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

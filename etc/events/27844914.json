@@ -1,0 +1,126 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Kosi with Corbin Swaggerty at The Store (November 13, 2016)", 
+        "popularity": 1.7e-05, 
+        "venue": {
+            "displayName": "The Store", 
+            "uri": "http://www.songkick.com/venues/35743-store?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "IL"
+                }, 
+                "displayName": "Chicago", 
+                "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=32233&utm_medium=partner", 
+                "id": 9426
+            }, 
+            "lng": null, 
+            "id": 35743
+        }, 
+        "uri": "http://www.songkick.com/concerts/27844914-kosi-at-store?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-13T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 41.8407, 
+            "city": "Chicago, IL, US", 
+            "lng": -87.6794
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c0624d45-8119-40af-8d5e-d4d03d7a6e45", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c0624d45-8119-40af-8d5e-d4d03d7a6e45.json"
+                        }
+                    ], 
+                    "displayName": "Kosi", 
+                    "uri": "http://www.songkick.com/artists/7008284-kosi?utm_source=32233&utm_medium=partner", 
+                    "id": 7008284
+                }, 
+                "displayName": "Kosi", 
+                "id": 54231844, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Corbin Swaggerty", 
+                    "uri": "http://www.songkick.com/artists/8869314-corbin-swaggerty?utm_source=32233&utm_medium=partner", 
+                    "id": 8869314
+                }, 
+                "displayName": "Corbin Swaggerty", 
+                "id": 54231849, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27844914
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Kosi", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "gender": "Male", 
+        "disambiguation": "Polish rapper", 
+        "area": {
+            "sort-name": "Poland", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "PL"
+            ], 
+            "name": "Poland", 
+            "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/228310", 
+                    "id": "df55345d-7388-451a-8f51-e47e65742496"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "PL", 
+        "sort-name": "Kosi", 
+        "type": "Person", 
+        "id": "c0624d45-8119-40af-8d5e-d4d03d7a6e45"
+    }, 
+    "id": 27844914, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

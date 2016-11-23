@@ -1,0 +1,286 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Sam Lewis with Josh Farrow at 3rd & Lindsley (November 13, 2016)", 
+        "popularity": 0.000248, 
+        "venue": {
+            "displayName": "3rd & Lindsley", 
+            "uri": "http://www.songkick.com/venues/2091279-3rd-and-lindsley?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1520759, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.770085, 
+            "id": 2091279
+        }, 
+        "uri": "http://www.songkick.com/concerts/28071289-sam-lewis-at-3rd-and-lindsley?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "time": "18:00:00", 
+            "datetime": "2016-11-13T18:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.1520759, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.770085
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7a1fc8ae-c8a3-4750-a26e-8faeed80140c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7a1fc8ae-c8a3-4750-a26e-8faeed80140c.json"
+                        }, 
+                        {
+                            "mbid": "221ea513-546d-49b1-bcb7-fa4ac0b8ef15", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:221ea513-546d-49b1-bcb7-fa4ac0b8ef15.json"
+                        }, 
+                        {
+                            "mbid": "d74c3b66-5e03-4d82-b253-f8e63d1934ad", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d74c3b66-5e03-4d82-b253-f8e63d1934ad.json"
+                        }, 
+                        {
+                            "mbid": "d7b9c45b-ccb6-443f-80c3-c95aa405117b", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d7b9c45b-ccb6-443f-80c3-c95aa405117b.json"
+                        }
+                    ], 
+                    "displayName": "Sam Lewis", 
+                    "uri": "http://www.songkick.com/artists/1145186-sam-lewis?utm_source=32233&utm_medium=partner", 
+                    "id": 1145186
+                }, 
+                "displayName": "Sam Lewis", 
+                "id": 54639184, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Josh Farrow", 
+                    "uri": "http://www.songkick.com/artists/2160803-josh-farrow?utm_source=32233&utm_medium=partner", 
+                    "id": 2160803
+                }, 
+                "displayName": "Josh Farrow", 
+                "id": 54639189, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28071289
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Sam M. Lewis", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": "US", 
+        "life-span": {
+            "ended": true, 
+            "begin": "1885-10-25", 
+            "end": "1959-11-22"
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0507723/", 
+                    "id": "38b7a578-6fb8-4b85-b1b4-639a38f5e983"
+                }, 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/2030786", 
+                    "id": "c3f5baa5-1dde-4108-9de8-1398a188bac4"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000242100", 
+                    "id": "a3394d3c-4af7-40f4-bf48-110be5592b00"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002349040", 
+                    "id": "86e4c7b0-f8a0-43c9-8768-94b24b67cd62"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0002394210", 
+                    "id": "caba36f3-0326-4afa-a98d-0244dc136a49"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.songwritershalloffame.org/exhibits/C95?exhibitId=95", 
+                    "id": "1145a8a4-2de5-4cdd-acbe-d80fc999010a"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "biography", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/593439", 
+                    "id": "3a8a9090-3151-4ac3-bed7-e8c915681def"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/sam_lewis_f3", 
+                    "id": "1e1b7266-b9f1-480c-a964-af8e7c9c148a"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1261231", 
+                    "id": "2de4602a-ef00-4e1c-a6d5-696e108364a8"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00018008708"
+        ], 
+        "end_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "name": "New York", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f"
+        }, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "New York", 
+            "disambiguation": "", 
+            "name": "New York", 
+            "id": "74e50e58-5deb-4b99-93a2-decbb365c07f"
+        }, 
+        "sort-name": "Lewis, Sam M.", 
+        "gender": "Male", 
+        "type": "Person", 
+        "id": "7a1fc8ae-c8a3-4750-a26e-8faeed80140c", 
+        "disambiguation": "US singer and lyricist"
+    }, 
+    "id": 28071289, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

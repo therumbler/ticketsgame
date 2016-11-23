@@ -1,0 +1,223 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.001976, 
+        "displayName": "Tony Orlando at Sands Bethlehem Event Center (November 27, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Sands Bethlehem Event Center", 
+            "uri": "http://www.songkick.com/venues/1667493-sands-bethlehem-event-center?utm_source=32233&utm_medium=partner", 
+            "lat": 40.6143211, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.3569211, 
+            "id": 1667493
+        }, 
+        "uri": "http://www.songkick.com/concerts/26275364-tony-orlando-at-sands-bethlehem-event-center?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-27", 
+            "time": "14:00:00", 
+            "datetime": "2016-11-27T14:00:00-0500"
+        }, 
+        "location": {
+            "lat": 40.6143211, 
+            "city": "Bethlehem, PA, US", 
+            "lng": -75.3569211
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Tony Orlando", 
+                "id": 51339079, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "422fc30a-5343-4aad-b094-50b6d16b1484", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:422fc30a-5343-4aad-b094-50b6d16b1484.json"
+                        }
+                    ], 
+                    "displayName": "Tony Orlando", 
+                    "uri": "http://www.songkick.com/artists/130715-tony-orlando?utm_source=32233&utm_medium=partner", 
+                    "id": 130715
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 26275364
+    }, 
+    "musicbrainz_response": {
+        "name": "Tony Orlando", 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "country": "US", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1944-04-03", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "pop"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/71581114", 
+                    "id": "4e92b96b-f8a2-42f3-aa76-74234df2c9ff"
+                }, 
+                "direction": "forward", 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/310352", 
+                    "id": "c4ac9877-29db-408c-aa64-3df81ae6050a"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-9999/tony-orlando/lyrics.html", 
+                    "id": "8f2a6a36-632b-4ed8-b684-54b5f2d336b9"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q726057", 
+                    "id": "57381e95-e974-4043-ab7c-3a413385d54c"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Tony_Orlando", 
+                    "id": "f60cce01-3a9e-4b1b-937f-27aa73be832f"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Orlando, Tony", 
+        "type": "Person", 
+        "id": "422fc30a-5343-4aad-b094-50b6d16b1484", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 15447, 
+    "bandsintown_response": {
+        "description": "Tony Orlando's Great American Christmas Sands Bethlehem Event Center Tickets - Buy and sell Tony Orlando's Great American Christmas Bethlehem Tickets for November 27 at Sands Bethlehem Event Center in Bethlehem, PA on StubHub!", 
+        "title": "Tony Orlando @ Sands Bethlehem Event Center in Bethlehem, PA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Bethlehem", 
+            "name": "Sands Bethlehem Event Center", 
+            "country": "United States", 
+            "region": "PA", 
+            "longitude": -75.3569607, 
+            "place": "Sands Bethlehem Event Center", 
+            "latitude": 40.6135087
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/11492548?app_id=ticketgame&artist=Tony+Orlando&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/11492548/buy_tickets?app_id=ticketgame&artist=Tony+Orlando&came_from=67", 
+        "on_sale_datetime": "2016-02-26T10:00:00", 
+        "formatted_datetime": "Sunday, November 27, 2016 at 2:00PM", 
+        "datetime": "2016-11-27T14:00:00", 
+        "formatted_location": "Bethlehem, PA", 
+        "ticket_redirect_url": "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F02005056C8893F10&subId1=67%7E14276364%7E22539133%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "Tony Orlando", 
+                "url": "TonyOrlando", 
+                "tracker_count": 2886, 
+                "mbid": "422fc30a-5343-4aad-b094-50b6d16b1484", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/5429083.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/TonyOrlando/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/5429083.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 11492548
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 66.75, 
+        "price_min": 49.75
+    }, 
+    "modified_time": 1478566060.0, 
+    "id": 26275364
+}

@@ -1,0 +1,143 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Francobollo at The Waiting Room (November 17, 2016)", 
+        "popularity": 0.000257, 
+        "venue": {
+            "displayName": "The Waiting Room", 
+            "uri": "http://www.songkick.com/venues/987901-waiting-room?utm_source=32233&utm_medium=partner", 
+            "lat": 51.562052, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.073771, 
+            "id": 987901
+        }, 
+        "uri": "http://www.songkick.com/concerts/28273919-francobollo-at-waiting-room?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "19:30:00", 
+            "datetime": "2016-11-17T19:30:00+0000"
+        }, 
+        "location": {
+            "lat": 51.562052, 
+            "city": "London, UK", 
+            "lng": -0.073771
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "912a0bcb-1236-4030-8301-e43af1ab13c3", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:912a0bcb-1236-4030-8301-e43af1ab13c3.json"
+                        }
+                    ], 
+                    "displayName": "Francobollo", 
+                    "uri": "http://www.songkick.com/artists/2883631-francobollo?utm_source=32233&utm_medium=partner", 
+                    "id": 2883631
+                }, 
+                "displayName": "Francobollo", 
+                "id": 54989214, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28273919
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Francobollo", 
+        "area": {
+            "sort-name": "London", 
+            "disambiguation": "", 
+            "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f", 
+            "name": "London"
+        }, 
+        "gender": null, 
+        "twitter": "Francobolloland", 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/Francobolloland", 
+                    "id": "54577853-38fc-44a5-aae6-614f7028f5c8"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/francobollouk", 
+                    "id": "de370285-309f-489f-a0f0-083bb2f56236"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.instagram.com/francobollomusic/", 
+                    "id": "6a512e29-cb46-4746-a870-baf177a05b2d"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "sort-name": "Francobollo", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "id": "912a0bcb-1236-4030-8301-e43af1ab13c3", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "disambiguation": ""
+    }, 
+    "id": 28273919, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

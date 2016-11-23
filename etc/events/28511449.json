@@ -1,0 +1,125 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.009878, 
+        "displayName": "SecondCity at Verso (November 11, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Verso", 
+            "uri": "http://www.songkick.com/venues/3122069-verso?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": null, 
+            "id": 3122069
+        }, 
+        "uri": "http://www.songkick.com/concerts/28511449-secondcity-at-verso?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-11", 
+            "datetime": null, 
+            "time": null
+        }, 
+        "location": {
+            "lat": 37.7599, 
+            "city": "San Francisco, CA, US", 
+            "lng": -122.437
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e06c109a-3477-43ed-a604-f7747b93818f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e06c109a-3477-43ed-a604-f7747b93818f.json"
+                        }
+                    ], 
+                    "displayName": "SecondCity", 
+                    "uri": "http://www.songkick.com/artists/6684489-secondcity?utm_source=32233&utm_medium=partner", 
+                    "id": 6684489
+                }, 
+                "displayName": "SecondCity", 
+                "id": 55401554, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28511449
+    }, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "musicbrainz_response": {
+        "gender": "Male", 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "SecondCity", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3596183", 
+                    "id": "b4e5404e-fc2d-4677-a7a2-0012a626f5c8"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/secondcityuk/", 
+                    "id": "bf5cf50b-3a58-4547-91a8-eae8ff7412e4"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "id": "e06c109a-3477-43ed-a604-f7747b93818f", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "isnis": [], 
+        "sort-name": "SecondCity", 
+        "type": "Person", 
+        "disambiguation": ""
+    }, 
+    "id": 28511449, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

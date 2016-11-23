@@ -1,0 +1,150 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.012773, 
+        "displayName": "Aaron Carter with N2N and Luke Baker at The Regent Theater (December 1, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Regent Theater", 
+            "uri": "http://www.songkick.com/venues/36035-regent-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 34.046981, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "Los Angeles", 
+                "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=32233&utm_medium=partner", 
+                "id": 17835
+            }, 
+            "lng": -118.2478, 
+            "id": 36035
+        }, 
+        "uri": "http://www.songkick.com/concerts/28428224-aaron-carter-at-regent-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-01", 
+            "datetime": "2016-12-01T20:30:00-0800", 
+            "time": "20:30:00"
+        }, 
+        "location": {
+            "lat": 34.046981, 
+            "city": "Los Angeles, CA, US", 
+            "lng": -118.2478
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Aaron Carter", 
+                "id": 55259149, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "1273a30c-b8b1-483a-9d66-66a0c832fc57", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:1273a30c-b8b1-483a-9d66-66a0c832fc57.json"
+                        }, 
+                        {
+                            "mbid": "4c0bb5bc-95ad-47de-99e3-fbb4fbc5f393", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4c0bb5bc-95ad-47de-99e3-fbb4fbc5f393.json"
+                        }
+                    ], 
+                    "displayName": "Aaron Carter", 
+                    "uri": "http://www.songkick.com/artists/481012-aaron-carter?utm_source=32233&utm_medium=partner", 
+                    "id": 481012
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "N2N", 
+                "id": 55259154, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "N2N", 
+                    "uri": "http://www.songkick.com/artists/8631194-n2n?utm_source=32233&utm_medium=partner", 
+                    "id": 8631194
+                }
+            }, 
+            {
+                "billingIndex": 3, 
+                "displayName": "Luke Baker", 
+                "id": 55259159, 
+                "billing": "support", 
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Luke Baker", 
+                    "uri": "http://www.songkick.com/artists/7531724-luke-baker?utm_source=32233&utm_medium=partner", 
+                    "id": 7531724
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28428224
+    }, 
+    "musicbrainz_response": {
+        "name": "Aaron Carter", 
+        "tags": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "name": "United States", 
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/258475", 
+                    "id": "b972b038-d662-4fd5-aabe-b93aaaf57a74"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Carter, Aaron", 
+        "isnis": [], 
+        "country": "US", 
+        "type": "Person", 
+        "id": "1273a30c-b8b1-483a-9d66-66a0c832fc57", 
+        "disambiguation": "electronic producer, member of Cirrus"
+    }, 
+    "age_minutes": 3183, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 49.0, 
+        "price_min": 20.5
+    }, 
+    "modified_time": 1479442554.0, 
+    "created_time": 1479305680.0, 
+    "modified_minutes": 902, 
+    "id": 28428224
+}

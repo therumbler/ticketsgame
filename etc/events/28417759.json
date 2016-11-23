@@ -1,0 +1,145 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Mark Miller at Eddie's Attic (January 4, 2017)", 
+        "popularity": 0.000104, 
+        "venue": {
+            "displayName": "Eddie's Attic", 
+            "uri": "http://www.songkick.com/venues/46595-eddies-attic?utm_source=32233&utm_medium=partner", 
+            "lat": 33.773966, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": -84.296449, 
+            "id": 46595
+        }, 
+        "uri": "http://www.songkick.com/concerts/28417759-mark-miller-at-eddies-attic?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-01-04", 
+            "time": "19:00:00", 
+            "datetime": "2017-01-04T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": 33.773966, 
+            "city": "Decatur, GA, US", 
+            "lng": -84.296449
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c3d7b423-cceb-4d6a-afa7-3576f66b8ac5", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c3d7b423-cceb-4d6a-afa7-3576f66b8ac5.json"
+                        }, 
+                        {
+                            "mbid": "432085c7-b678-4a90-a728-fd87ad67844a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:432085c7-b678-4a90-a728-fd87ad67844a.json"
+                        }, 
+                        {
+                            "mbid": "4d5c6d21-dfb1-45f5-a5f0-cc7fdc79ec6c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4d5c6d21-dfb1-45f5-a5f0-cc7fdc79ec6c.json"
+                        }, 
+                        {
+                            "mbid": "4a55d6e2-8b24-4987-9ba4-94cb1d503130", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4a55d6e2-8b24-4987-9ba4-94cb1d503130.json"
+                        }, 
+                        {
+                            "mbid": "d8145cbc-de21-4ed2-83b2-2ff5fd69c78f", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d8145cbc-de21-4ed2-83b2-2ff5fd69c78f.json"
+                        }
+                    ], 
+                    "displayName": "Mark Miller", 
+                    "uri": "http://www.songkick.com/artists/297931-mark-miller?utm_source=32233&utm_medium=partner", 
+                    "id": 297931
+                }, 
+                "displayName": "Mark Miller", 
+                "id": 55242524, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28417759
+    }, 
+    "musicbrainz_response": {
+        "name": "Mark Miller", 
+        "tags": [], 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.imdb.com/name/nm0588907/", 
+                    "id": "a5266ade-bd4e-4cfc-a4d3-8726dc161d0d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "IMDb", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/415064", 
+                    "id": "b30fca16-9766-4e63-a357-927bb3730b75"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "gender": null, 
+        "sort-name": "Miller, Mark", 
+        "type": "Person", 
+        "id": "c3d7b423-cceb-4d6a-afa7-3576f66b8ac5", 
+        "disambiguation": "engineer"
+    }, 
+    "age_minutes": 15511, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442571.0, 
+    "created_time": 1478565972.0, 
+    "modified_minutes": 901, 
+    "id": 28417759
+}

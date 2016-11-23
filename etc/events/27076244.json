@@ -1,0 +1,296 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Sturgill Simpson and The London Souls at Fox Theater (November 19, 2016)", 
+        "popularity": 0.01241, 
+        "venue": {
+            "displayName": "Fox Theater", 
+            "uri": "http://www.songkick.com/venues/953251-fox-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 37.8078474, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "CA"
+                }, 
+                "displayName": "SF Bay Area", 
+                "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=32233&utm_medium=partner", 
+                "id": 26330
+            }, 
+            "lng": -122.2699981, 
+            "id": 953251
+        }, 
+        "uri": "http://www.songkick.com/concerts/27076244-sturgill-simpson-at-fox-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-19", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-19T20:00:00-0800"
+        }, 
+        "location": {
+            "lat": 37.8078474, 
+            "city": "Oakland, CA, US", 
+            "lng": -122.2699981
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "f6e61750-a6b7-4d88-979b-052345cd0e4a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:f6e61750-a6b7-4d88-979b-052345cd0e4a.json"
+                        }
+                    ], 
+                    "displayName": "Sturgill Simpson", 
+                    "uri": "http://www.songkick.com/artists/6140284-sturgill-simpson?utm_source=32233&utm_medium=partner", 
+                    "id": 6140284
+                }, 
+                "displayName": "Sturgill Simpson", 
+                "id": 52823869, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "301bf336-0cce-4f35-8bc3-23267033bf6c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:301bf336-0cce-4f35-8bc3-23267033bf6c.json"
+                        }
+                    ], 
+                    "displayName": "The London Souls", 
+                    "uri": "http://www.songkick.com/artists/578490-london-souls?utm_source=32233&utm_medium=partner", 
+                    "id": 578490
+                }, 
+                "displayName": "The London Souls", 
+                "id": 53342044, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27076244
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Sturgill Simpson", 
+        "area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74", 
+            "name": "Nashville"
+        }, 
+        "gender": "Male", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1978-06-08", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "country"
+            }
+        ], 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003098721", 
+                    "id": "e20138ab-5976-40a3-8825-c20767ea3842"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://sturgillsimpson.bandcamp.com/", 
+                    "id": "170a053f-bdc5-4bc3-845e-92ab9a53c055"
+                }, 
+                "begin": null, 
+                "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandcamp", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/3388603", 
+                    "id": "3f9eb013-3cd4-4b81-8c5b-acb1bf9615d7"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://sturgillsimpson.com/", 
+                    "id": "36bc890d-b9d9-4338-a7e7-f44c6971fd29"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/SturgillSimpson", 
+                    "id": "a3dcdc7b-236c-494a-90c3-34f968fe52d9"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/sturgillsimpsonmusic", 
+                    "id": "d9d1e8f5-4a26-4089-a9e4-4de70243b950"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB", 
+                    "id": "3b2f0ec0-30cd-464a-a1fa-863df877d503"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q16736403", 
+                    "id": "4e780c20-e8ef-4b76-b052-fdfd4d69d666"
+                }, 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Sturgill_Simpson", 
+                    "id": "52b645e0-cc03-4fa1-9e6e-a22cf5193938"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/SturgillSimpsonMusic", 
+                    "id": "86eadd2d-6431-495b-b40b-9e12ef499e5b"
+                }, 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Jackson", 
+            "disambiguation": "", 
+            "id": "299a85a6-18ed-43b0-a109-ecd258747c35", 
+            "name": "Jackson"
+        }, 
+        "id": "f6e61750-a6b7-4d88-979b-052345cd0e4a", 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "country": null, 
+        "sort-name": "Simpson, Sturgill", 
+        "type": "Person", 
+        "twitter": "SturgillSimpson", 
+        "disambiguation": "Country-Rock artist"
+    }, 
+    "age_minutes": 15450, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 0, 
+        "price_min": 9999999
+    }, 
+    "modified_time": 1478566078.0, 
+    "id": 27076244
+}

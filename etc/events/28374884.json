@@ -1,0 +1,157 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Allen Tate with Pavo Pavo at DC9 Nightclub (December 15, 2016)", 
+        "popularity": 3.2e-05, 
+        "venue": {
+            "displayName": "DC9 Nightclub", 
+            "uri": "http://www.songkick.com/venues/20843-dc9-nightclub?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9166743, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0239493, 
+            "id": 20843
+        }, 
+        "uri": "http://www.songkick.com/concerts/28374884-allen-tate-at-dc9-nightclub?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-15", 
+            "datetime": "2016-12-15T21:00:00-0500", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 38.9166743, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0239493
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Allen Tate", 
+                    "uri": "http://www.songkick.com/artists/8928849-allen-tate?utm_source=32233&utm_medium=partner", 
+                    "id": 8928849
+                }, 
+                "displayName": "Allen Tate", 
+                "id": 55367034, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "bc4ba5fb-a767-48a2-b9f1-ce4e206a471d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:bc4ba5fb-a767-48a2-b9f1-ce4e206a471d.json"
+                        }
+                    ], 
+                    "displayName": "Pavo Pavo", 
+                    "uri": "http://www.songkick.com/artists/8547114-pavo-pavo?utm_source=32233&utm_medium=partner", 
+                    "id": 8547114
+                }, 
+                "displayName": "Pavo Pavo", 
+                "id": 55168389, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28374884
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Allen Tate", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0003168755", 
+                    "id": "07bf7e8f-dfdd-4de5-89dd-e32dd2f0fee8"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Tate, Allen", 
+        "gender": null, 
+        "id": "4b30dc7b-2ba0-4ded-baf8-6b12b98e6d70", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "age_minutes": 15504, 
+    "bandsintown_response": [
+        {
+            "description": null, 
+            "title": "Allen Tate @ DC9 in Washington, DC", 
+            "ticket_type": null, 
+            "venue": {
+                "city": "Washington", 
+                "name": "DC9", 
+                "country": "United States", 
+                "region": "DC", 
+                "longitude": -77.0366667, 
+                "place": "DC9", 
+                "latitude": 38.895
+            }, 
+            "facebook_rsvp_url": "http://www.bandsintown.com/event/13159851?app_id=ticketsgame&artist=Allen+Tate&came_from=67", 
+            "ticket_url": null, 
+            "on_sale_datetime": null, 
+            "formatted_datetime": "Thursday, December 15, 2016 at 7:00PM", 
+            "datetime": "2016-12-15T19:00:00", 
+            "formatted_location": "Washington, DC", 
+            "artists": [
+                {
+                    "website": null, 
+                    "facebook_page_url": "https://www.facebook.com/allentate/", 
+                    "name": "Allen Tate", 
+                    "url": "AllenTate", 
+                    "tracker_count": 140, 
+                    "mbid": null, 
+                    "image_url": "https://s3.amazonaws.com/bit-photos/large/6851935.jpeg", 
+                    "facebook_tour_dates_url": "http://www.bandsintown.com/AllenTate/facebookapp?came_from=67", 
+                    "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6851935.jpeg"
+                }
+            ], 
+            "ticket_status": "unavailable", 
+            "id": 13159851
+        }
+    ], 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 12.0, 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442656.0, 
+    "created_time": 1478566098.0, 
+    "modified_minutes": 895, 
+    "id": 28374884
+}

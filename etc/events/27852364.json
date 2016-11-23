@@ -1,0 +1,384 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Marc Cohn at Kessler Theater (November 17, 2016)", 
+        "popularity": 0.032839, 
+        "venue": {
+            "displayName": "Kessler Theater", 
+            "uri": "http://www.songkick.com/venues/1076266-kessler-theater?utm_source=32233&utm_medium=partner", 
+            "lat": 32.7494971, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TX"
+                }, 
+                "displayName": "Dallas - Fort Worth", 
+                "uri": "http://www.songkick.com/metro_areas/35129-us-dallas-fort-worth?utm_source=32233&utm_medium=partner", 
+                "id": 35129
+            }, 
+            "lng": -96.8425597, 
+            "id": 1076266
+        }, 
+        "uri": "http://www.songkick.com/concerts/27852364-marc-cohn-at-kessler-theater?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-17T19:00:00-0600"
+        }, 
+        "location": {
+            "lat": 32.7494971, 
+            "city": "Dallas, TX, US", 
+            "lng": -96.8425597
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ddf18377-0bf5-4972-90d2-7de878b5eec4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ddf18377-0bf5-4972-90d2-7de878b5eec4.json"
+                        }
+                    ], 
+                    "displayName": "Marc Cohn", 
+                    "uri": "http://www.songkick.com/artists/551737-marc-cohn?utm_source=32233&utm_medium=partner", 
+                    "id": 551737
+                }, 
+                "displayName": "Marc Cohn", 
+                "id": 54244794, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27852364
+    }, 
+    "musicbrainz_response": {
+        "name": "Marc Cohn", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1959-07-05", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "United States", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "US"
+            ], 
+            "id": "489ce91b-6658-3307-9877-795b68554c98", 
+            "name": "United States"
+        }, 
+        "country": "US", 
+        "twitter": "marcCohn", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "folk"
+            }
+        ], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://viaf.org/viaf/79172285", 
+                    "id": "569542af-c72a-42f7-a0da-c4779bf00f0c"
+                }, 
+                "begin": null, 
+                "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "VIAF", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0000675710", 
+                    "id": "120fb3a3-b433-4fdf-9f66-4fe24b847daa"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://marccohn.net/?page=blog", 
+                    "id": "631a8f0f-5f58-4a7c-885e-371928d4b6f9"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "blog", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/317140", 
+                    "id": "343dbcfc-f28c-41b6-aa9d-169651db9f1a"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://decoda.com/marc-cohn-lyrics", 
+                    "id": "99eae15e-657e-4395-b0cf-f9f3ddd9f8fe"
+                }, 
+                "begin": null, 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://muzikum.eu/en/122-5291/marc-cohn/lyrics.html", 
+                    "id": "24ffac9e-aa9e-4a22-a3c9-0370cf382757"
+                }, 
+                "direction": "forward", 
+                "type-id": "e4d73442-3762-45a8-905c-401da65544ed", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "lyrics", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/marccohn", 
+                    "id": "749b8e9e-83d3-4366-bd68-dd1eea456e9d"
+                }, 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://marccohn.net/", 
+                    "id": "10749499-cee7-4de2-9487-d0cf5a9f7eac"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/marc_cohn", 
+                    "id": "e1cae023-fd5b-48fe-b31b-06b3057bbcdb"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.secondhandsongs.com/artist/2678", 
+                    "id": "8212fb20-a681-4361-a8a8-68073a68aa63"
+                }, 
+                "direction": "forward", 
+                "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "secondhandsongs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/marcCohn", 
+                    "id": "50995dec-1f7d-45db-8f04-2ff31fb4ef69"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/MarcCohn", 
+                    "id": "f28975a0-694d-4bed-aa5c-37d1744fe823"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q1356434", 
+                    "id": "72b8d5f8-b7a3-4dda-86f9-6a1374365c93"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Marc_Cohn", 
+                    "id": "c5d955d4-17f8-4258-9e9b-056ec8c8b53f"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [
+            "00129703376"
+        ], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": {
+            "sort-name": "Cleveland", 
+            "disambiguation": "", 
+            "name": "Cleveland", 
+            "id": "7b2ca1e7-e7f6-4155-881d-c660a45c11e8"
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "gender": "Male", 
+        "sort-name": "Cohn, Marc", 
+        "type": "Person", 
+        "id": "ddf18377-0bf5-4972-90d2-7de878b5eec4", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": "Ticket Purchase Checkout", 
+        "title": "Marc Cohn @ The Kessler in Dallas, TX", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Dallas", 
+            "name": "The Kessler", 
+            "country": "United States", 
+            "region": "TX", 
+            "longitude": -96.842002, 
+            "place": "The Kessler", 
+            "latitude": 32.749379
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/12733589?app_id=ticketgame&artist=Marc+Cohn&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/12733589/buy_tickets?app_id=ticketgame&artist=Marc+Cohn&came_from=67", 
+        "on_sale_datetime": null, 
+        "formatted_datetime": "Thursday, November 17, 2016 at 12:00AM", 
+        "datetime": "2016-11-17T00:00:00", 
+        "formatted_location": "Dallas, TX", 
+        "ticket_redirect_url": "http://www.prekindle.com/checkout/id/24511045851256544", 
+        "artists": [
+            {
+                "website": "http://www.marccohn.com", 
+                "facebook_page_url": "https://www.facebook.com/MarcCohn", 
+                "name": "Marc Cohn", 
+                "url": "MarcCohn", 
+                "tracker_count": 61915, 
+                "mbid": "ddf18377-0bf5-4972-90d2-7de878b5eec4", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6060779.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/MarcCohn/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6060779.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 12733589
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.prekindle.com/checkout/id/24511045851256544"
+    }, 
+    "modified_time": 1479442196.0, 
+    "created_minutes": 18160, 
+    "created_time": 1478565996.0, 
+    "modified_minutes": 3557, 
+    "id": 27852364
+}

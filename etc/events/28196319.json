@@ -1,0 +1,127 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Beatlemania Now at Coda (November 26, 2016)", 
+        "popularity": 3.4e-05, 
+        "venue": {
+            "displayName": "Coda", 
+            "uri": "http://www.songkick.com/venues/2824813-coda?utm_source=32233&utm_medium=partner", 
+            "lat": 39.9497186, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.1698503, 
+            "id": 2824813
+        }, 
+        "uri": "http://www.songkick.com/concerts/28196319-beatlemania-now-at-coda?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-26", 
+            "time": "20:00:00", 
+            "datetime": "2016-11-26T20:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.9497186, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.1698503
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "7e13d678-e4ce-461f-8a8f-92016bff53ab", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:7e13d678-e4ce-461f-8a8f-92016bff53ab.json"
+                        }
+                    ], 
+                    "displayName": "Beatlemania Now", 
+                    "uri": "http://www.songkick.com/artists/88340-beatlemania-now?utm_source=32233&utm_medium=partner", 
+                    "id": 88340
+                }, 
+                "displayName": "Beatlemania Now", 
+                "id": 54858534, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28196319
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Beatlemania Now", 
+        "area": null, 
+        "country": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.beatlemanianow.com/", 
+                    "id": "e9f09102-034c-4385-b750-c56fd25cc783"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/beatlemanianowofficial/info", 
+                    "id": "7bfd0b77-522c-4794-a1c1-919bdd65b37f"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Beatlemania Now", 
+        "gender": null, 
+        "id": "7e13d678-e4ce-461f-8a8f-92016bff53ab", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6938385&REFERRAL_ID=tmfeed"
+    }, 
+    "modified_time": 1479442707.0, 
+    "created_minutes": 18173, 
+    "created_time": 1478566060.0, 
+    "modified_minutes": 3562, 
+    "id": 28196319
+}

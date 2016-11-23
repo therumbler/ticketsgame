@@ -1,0 +1,268 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Classical Spectacular at Royal Albert Hall 2016", 
+        "series": {
+            "displayName": "Classical Spectacular at Royal Albert Hall"
+        }, 
+        "popularity": 6e-05, 
+        "venue": {
+            "displayName": "Royal Albert Hall", 
+            "uri": "http://www.songkick.com/venues/17538-royal-albert-hall?utm_source=32233&utm_medium=partner", 
+            "lat": 51.500786, 
+            "metroArea": {
+                "country": {
+                    "displayName": "UK"
+                }, 
+                "displayName": "London", 
+                "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=32233&utm_medium=partner", 
+                "id": 24426
+            }, 
+            "lng": -0.1781517, 
+            "id": 17538
+        }, 
+        "uri": "http://www.songkick.com/festivals/1667039/id/28138199-classical-spectacular-at-royal-albert-hall-2016?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "location": {
+            "lat": 51.500786, 
+            "city": "London, UK", 
+            "lng": -0.1781517
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "56121633-038b-49fe-9535-b30c502361cd", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:56121633-038b-49fe-9535-b30c502361cd.json"
+                        }
+                    ], 
+                    "displayName": "Thomas Gould", 
+                    "uri": "http://www.songkick.com/artists/2477616-thomas-gould?utm_source=32233&utm_medium=partner", 
+                    "id": 2477616
+                }, 
+                "displayName": "Thomas Gould", 
+                "id": 54757129, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "John Rigby", 
+                    "uri": "http://www.songkick.com/artists/8611709-john-rigby?utm_source=32233&utm_medium=partner", 
+                    "id": 8611709
+                }, 
+                "displayName": "John Rigby", 
+                "id": 54757134, 
+                "billing": "headline", 
+                "billingIndex": 2
+            }
+        ], 
+        "end": {
+            "date": "2016-11-20", 
+            "time": null, 
+            "datetime": null
+        }, 
+        "type": "Festival", 
+        "id": 28138199
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Thomas Gould", 
+        "tags": [], 
+        "gender": "Male", 
+        "twitter": "thomasgouldvln", 
+        "area": {
+            "sort-name": "United Kingdom", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "GB"
+            ], 
+            "name": "United Kingdom", 
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }, 
+        "disambiguation": "violinist", 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/1587272", 
+                    "id": "37d229cc-ae0a-4d33-91ae-884a9fd736e6"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "Thomas Gould", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://thomasgould.com/", 
+                    "id": "6e6fda8e-3561-45f3-a438-c3e27fd433c6"
+                }, 
+                "begin": null, 
+                "source-credit": "Thomas Gould", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.thomasgould.com/", 
+                    "id": "f849d6a0-a0ed-44e3-986d-9819a3915fbe"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/thomasgouldvln", 
+                    "id": "ddb84bb3-09c0-4697-87e7-8b5d077686b0"
+                }, 
+                "direction": "forward", 
+                "source-credit": "Thomas Gould", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/ThomasGouldVln", 
+                    "id": "8adff420-47be-4d1c-9553-674cf6016f0d"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "Thomas Gould", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/thomas-gould", 
+                    "id": "14303c6f-6d10-4eb5-b7a0-4d351b93685c"
+                }, 
+                "direction": "forward", 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "Thomas Gould", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.wikidata.org/entity/Q21872518", 
+                    "id": "f7c59cda-b345-4fb7-ac78-59a41ce59d6c"
+                }, 
+                "direction": "forward", 
+                "source-credit": "", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Thomas_Gould_(violinist)", 
+                    "id": "6d15e45e-49bc-480b-bd55-23cef92c4b17"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/user/GennaroGagliano", 
+                    "id": "80053249-7218-4829-9b7e-3b59705eb2b0"
+                }, 
+                "begin": null, 
+                "source-credit": "Thomas Gould", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "sort-name": "Gould, Thomas", 
+        "country": "GB", 
+        "id": "56121633-038b-49fe-9535-b30c502361cd", 
+        "type": "Person", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1983", 
+            "end": null
+        }, 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9"
+    }, 
+    "id": 28138199, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

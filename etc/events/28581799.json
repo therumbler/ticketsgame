@@ -1,0 +1,145 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 1.6e-05, 
+        "displayName": "Sorted at The Dolphin Tavern (December 9, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "The Dolphin Tavern", 
+            "uri": "http://www.songkick.com/venues/1824863-dolphin-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 39.930583, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.167911, 
+            "id": 1824863
+        }, 
+        "uri": "http://www.songkick.com/concerts/28581799-sorted-at-dolphin-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-09", 
+            "datetime": "2016-12-09T22:00:00-0500", 
+            "time": "22:00:00"
+        }, 
+        "location": {
+            "lat": 39.930583, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.167911
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "4ed37068-3dca-47da-a982-4a368e8e1ff8", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:4ed37068-3dca-47da-a982-4a368e8e1ff8.json"
+                        }
+                    ], 
+                    "displayName": "Sorted", 
+                    "uri": "http://www.songkick.com/artists/103019-sorted?utm_source=32233&utm_medium=partner", 
+                    "id": 103019
+                }, 
+                "displayName": "Sorted", 
+                "id": 55523859, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28581799
+    }, 
+    "musicbrainz_response": {
+        "name": "Sorted", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/53412", 
+                    "id": "41380ff4-ea2d-4b83-917e-bbce3ad4a1dc"
+                }, 
+                "direction": "forward", 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "gender-id": null, 
+        "isnis": [], 
+        "sort-name": "Sorted", 
+        "country": null, 
+        "type": "Group", 
+        "id": "4ed37068-3dca-47da-a982-4a368e8e1ff8", 
+        "disambiguation": ""
+    }, 
+    "age_minutes": 1486, 
+    "bandsintown_response": {
+        "description": "Sorted", 
+        "title": "Sorted @ Dolphin Tavern in Philadelphia, PA", 
+        "ticket_type": "Tickets", 
+        "venue": {
+            "city": "Philadelphia", 
+            "name": "Dolphin Tavern", 
+            "country": "United States", 
+            "region": "PA", 
+            "longitude": -75.168252, 
+            "place": "Dolphin Tavern", 
+            "latitude": 39.93055
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13313090?app_id=ticketgame&artist=Sorted&came_from=67", 
+        "ticket_url": "http://www.bandsintown.com/event/13313090/buy_tickets?app_id=ticketgame&artist=Sorted&came_from=67", 
+        "on_sale_datetime": "2016-11-16T12:58:28", 
+        "formatted_datetime": "Friday, December 9, 2016 at 10:00PM", 
+        "datetime": "2016-12-09T22:00:00", 
+        "formatted_location": "Philadelphia, PA", 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?b=234786&u=459899&m=27601&urllink=https://www.ticketfly.com/purchase/event/1386423/tfly%3Futm_medium%3Dapi&afftrack=67%7E16747725%7E24620756%7E%7E", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": null, 
+                "name": "Sorted", 
+                "url": "Sorted", 
+                "tracker_count": 20, 
+                "mbid": "4ed37068-3dca-47da-a982-4a368e8e1ff8", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6036718.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Sorted/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6036718.jpeg"
+            }
+        ], 
+        "ticket_status": "available", 
+        "id": 13313090
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 5.0, 
+        "price_min": 5.0
+    }, 
+    "modified_time": 1479442157.0, 
+    "created_time": 1479409404.0, 
+    "modified_minutes": 940, 
+    "id": 28581799
+}

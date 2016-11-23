@@ -1,0 +1,90 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "The Music of Al Green & Otis Redding with Papa J and Mo' Soul at B.B. King Blues Club & Grill Main Room (November 13, 2016)", 
+        "popularity": 5.5e-05, 
+        "venue": {
+            "displayName": "B.B. King Blues Club & Grill Main Room", 
+            "uri": "http://www.songkick.com/venues/1889-bb-king-blues-club-and-grill-main-room?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7567868, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9884479, 
+            "id": 1889
+        }, 
+        "uri": "http://www.songkick.com/concerts/28434964-music-of-al-green-and-otis-redding-at-bb-king-blues-club-and-grill-main-room?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-13", 
+            "datetime": "2016-11-13T18:00:00-0500", 
+            "time": "18:00:00"
+        }, 
+        "location": {
+            "lat": 40.7567868, 
+            "city": "New York, NY, US", 
+            "lng": -73.9884479
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "The Music of Al Green & Otis Redding", 
+                    "uri": "http://www.songkick.com/artists/8923109-music-of-al-green-and-otis-redding?utm_source=32233&utm_medium=partner", 
+                    "id": 8923109
+                }, 
+                "displayName": "The Music of Al Green & Otis Redding", 
+                "id": 55270804, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "5527c4f4-a987-4869-8d61-a98a71c39e77", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:5527c4f4-a987-4869-8d61-a98a71c39e77.json"
+                        }
+                    ], 
+                    "displayName": "Papa J", 
+                    "uri": "http://www.songkick.com/artists/795389-papa-j?utm_source=32233&utm_medium=partner", 
+                    "id": 795389
+                }, 
+                "displayName": "Papa J", 
+                "id": 55351299, 
+                "billing": "support", 
+                "billingIndex": 2
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Mo' Soul", 
+                    "uri": "http://www.songkick.com/artists/8869024-mo-soul?utm_source=32233&utm_medium=partner", 
+                    "id": 8869024
+                }, 
+                "displayName": "Mo' Soul", 
+                "id": 55351304, 
+                "billing": "support", 
+                "billingIndex": 3
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28434964
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "id": 28434964, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

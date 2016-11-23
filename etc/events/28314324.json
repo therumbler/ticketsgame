@@ -1,0 +1,123 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Fleetmac Wood at The Dolphin Tavern (December 8, 2016)", 
+        "popularity": 0.000135, 
+        "venue": {
+            "displayName": "The Dolphin Tavern", 
+            "uri": "http://www.songkick.com/venues/1824863-dolphin-tavern?utm_source=32233&utm_medium=partner", 
+            "lat": 39.930583, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "PA"
+                }, 
+                "displayName": "Philadelphia", 
+                "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=32233&utm_medium=partner", 
+                "id": 5202
+            }, 
+            "lng": -75.167911, 
+            "id": 1824863
+        }, 
+        "uri": "http://www.songkick.com/concerts/28314324-fleetmac-wood-at-dolphin-tavern?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-08", 
+            "time": "22:00:00", 
+            "datetime": "2016-12-08T22:00:00-0500"
+        }, 
+        "location": {
+            "lat": 39.930583, 
+            "city": "Philadelphia, PA, US", 
+            "lng": -75.167911
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9e7b3698-3367-4cbf-a5c9-9751bded08f2", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9e7b3698-3367-4cbf-a5c9-9751bded08f2.json"
+                        }
+                    ], 
+                    "displayName": "Fleetmac Wood", 
+                    "uri": "http://www.songkick.com/artists/5706449-fleetmac-wood?utm_source=32233&utm_medium=partner", 
+                    "id": 5706449
+                }, 
+                "displayName": "Fleetmac Wood", 
+                "id": 55061864, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28314324
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Fleetmac Wood", 
+        "tags": [], 
+        "country": null, 
+        "disambiguation": "", 
+        "area": null, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/FleetmacWood", 
+                    "id": "e5cd2852-d040-4264-8005-29828b255e62"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/fleetmacwood", 
+                    "id": "83eb06d5-cc46-4c65-8ce4-3867616b7f63"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Fleetmac Wood", 
+        "gender": null, 
+        "id": "9e7b3698-3367-4cbf-a5c9-9751bded08f2", 
+        "type": "Group", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "gender-id": null
+    }, 
+    "id": 28314324, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Heart By Heart with Randy Hansen at Capps Club (December 31, 2016)", 
+        "popularity": 0.000177, 
+        "venue": {
+            "displayName": "Capps Club", 
+            "uri": "http://www.songkick.com/venues/3289584-capps-club?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": null, 
+            "id": 3289584
+        }, 
+        "uri": "http://www.songkick.com/concerts/28487409-heart-by-heart-at-capps-club?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-31", 
+            "datetime": "2016-12-31T21:00:00-0800", 
+            "time": "21:00:00"
+        }, 
+        "location": {
+            "lat": 47.7573, 
+            "city": "Kenmore, WA, US", 
+            "lng": -122.244
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "c55cea18-30a3-4316-9218-b19b76a4021c", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:c55cea18-30a3-4316-9218-b19b76a4021c.json"
+                        }
+                    ], 
+                    "displayName": "Heart By Heart", 
+                    "uri": "http://www.songkick.com/artists/5660844-heart-by-heart?utm_source=32233&utm_medium=partner", 
+                    "id": 5660844
+                }, 
+                "displayName": "Heart By Heart", 
+                "id": 55359844, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "58af0909-a6ad-4771-b5cb-d1fb2cf4ef6d", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:58af0909-a6ad-4771-b5cb-d1fb2cf4ef6d.json"
+                        }
+                    ], 
+                    "displayName": "Randy Hansen", 
+                    "uri": "http://www.songkick.com/artists/435880-randy-hansen?utm_source=32233&utm_medium=partner", 
+                    "id": 435880
+                }, 
+                "displayName": "Randy Hansen", 
+                "id": 55359849, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28487409
+    }, 
+    "musicbrainz_response": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "name": "Heart by Heart", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Seattle", 
+            "disambiguation": "", 
+            "name": "Seattle", 
+            "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc"
+        }, 
+        "relations": [
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.heartbyheartband.com/", 
+                    "id": "56f4541e-243e-4056-8522-bc637035abfc"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "gender-id": null, 
+        "country": null, 
+        "sort-name": "Heart by Heart", 
+        "type": "Group", 
+        "id": "c55cea18-30a3-4316-9218-b19b76a4021c", 
+        "disambiguation": "Heart Cover Band"
+    }, 
+    "age_minutes": 15516, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 79.0, 
+        "price_min": 49.0
+    }, 
+    "modified_time": 1479442390.0, 
+    "created_time": 1478566088.0, 
+    "modified_minutes": 911, 
+    "id": 28487409
+}

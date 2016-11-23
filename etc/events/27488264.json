@@ -1,0 +1,157 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Daniel Zamir at The Morris & Rae Frank Theatre (February 9, 2017)", 
+        "popularity": 0.00013, 
+        "venue": {
+            "displayName": "The Morris & Rae Frank Theatre", 
+            "uri": "http://www.songkick.com/venues/2432444-morris-and-rae-frank-theatre?utm_source=32233&utm_medium=partner", 
+            "lat": null, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "GA"
+                }, 
+                "displayName": "Atlanta", 
+                "uri": "http://www.songkick.com/metro_areas/4120-us-atlanta?utm_source=32233&utm_medium=partner", 
+                "id": 4120
+            }, 
+            "lng": null, 
+            "id": 2432444
+        }, 
+        "uri": "http://www.songkick.com/concerts/27488264-daniel-zamir-at-morris-and-rae-frank-theatre?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2017-02-09", 
+            "time": "19:00:00", 
+            "datetime": "2017-02-09T19:00:00-0500"
+        }, 
+        "location": {
+            "lat": null, 
+            "city": "Dunwoody, GA, US", 
+            "lng": null
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "29b9c026-3e14-4bf1-99a9-13274c847930", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:29b9c026-3e14-4bf1-99a9-13274c847930.json"
+                        }
+                    ], 
+                    "displayName": "Daniel Zamir", 
+                    "uri": "http://www.songkick.com/artists/234102-daniel-zamir?utm_source=32233&utm_medium=partner", 
+                    "id": 234102
+                }, 
+                "displayName": "Daniel Zamir", 
+                "id": 53581909, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 27488264
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Daniel Zamir", 
+        "tags": [], 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": "1981", 
+            "end": null
+        }, 
+        "area": null, 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/376674", 
+                    "id": "824f6626-5f3d-4340-aa15-efb0df682473"
+                }, 
+                "direction": "forward", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/danielzamir", 
+                    "id": "e2905241-6ea9-4899-844f-6d0eb6ace274"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q5219145", 
+                    "id": "a0553587-14c4-48c4-9a9c-3f2f06e4e08f"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Daniel_Zamir", 
+                    "id": "efa7c46b-2994-4556-b169-5086f3003836"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "sort-name": "Zamir, Daniel", 
+        "country": null, 
+        "id": "29b9c026-3e14-4bf1-99a9-13274c847930", 
+        "type": "Person", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 27488264, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

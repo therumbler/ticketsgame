@@ -1,0 +1,126 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "Gabriella Cohen with Tall Juan at Mercury Lounge (November 10, 2016)", 
+        "popularity": 0.000141, 
+        "venue": {
+            "displayName": "Mercury Lounge", 
+            "uri": "http://www.songkick.com/venues/364-mercury-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 40.7221646, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9867142, 
+            "id": 364
+        }, 
+        "uri": "http://www.songkick.com/concerts/28197564-gabriella-cohen-at-mercury-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-10", 
+            "time": "18:30:00", 
+            "datetime": "2016-11-10T18:30:00-0500"
+        }, 
+        "location": {
+            "lat": 40.7221646, 
+            "city": "New York, NY, US", 
+            "lng": -73.9867142
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "200fecb6-7183-445a-8953-38f0453f6185", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:200fecb6-7183-445a-8953-38f0453f6185.json"
+                        }
+                    ], 
+                    "displayName": "Gabriella Cohen", 
+                    "uri": "http://www.songkick.com/artists/8722819-gabriella-cohen?utm_source=32233&utm_medium=partner", 
+                    "id": 8722819
+                }, 
+                "displayName": "Gabriella Cohen", 
+                "id": 54861084, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [], 
+                    "displayName": "Tall Juan", 
+                    "uri": "http://www.songkick.com/artists/7759149-tall-juan?utm_source=32233&utm_medium=partner", 
+                    "id": 7759149
+                }, 
+                "displayName": "Tall Juan", 
+                "id": 55239669, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28197564
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "Gabriella Cohen", 
+        "sort-name": "Cohen, Gabriella", 
+        "gender": "Female", 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Australia", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "AU"
+            ], 
+            "id": "106e0bec-b638-3b37-b731-f53d507dc00e", 
+            "name": "Australia"
+        }, 
+        "relations": [
+            {
+                "begin": null, 
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/gabriellacohenmusic", 
+                    "id": "b3e14195-4428-47de-b125-40775975d041"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "begin_area": null, 
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2", 
+        "country": "AU", 
+        "disambiguation": "", 
+        "type": "Person", 
+        "id": "200fecb6-7183-445a-8953-38f0453f6185", 
+        "tags": []
+    }, 
+    "id": 28197564, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

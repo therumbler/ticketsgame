@@ -1,0 +1,314 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "My Bubba at Green Frog (November 15, 2016)", 
+        "popularity": 0.001269, 
+        "venue": {
+            "displayName": "Green Frog", 
+            "uri": "http://www.songkick.com/venues/156673-green-frog?utm_source=32233&utm_medium=partner", 
+            "lat": 48.7458109, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "WA"
+                }, 
+                "displayName": "Seattle", 
+                "uri": "http://www.songkick.com/metro_areas/2846-us-seattle?utm_source=32233&utm_medium=partner", 
+                "id": 2846
+            }, 
+            "lng": -122.4814933, 
+            "id": 156673
+        }, 
+        "uri": "http://www.songkick.com/concerts/28345804-my-bubba-at-green-frog?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-15", 
+            "time": "19:00:00", 
+            "datetime": "2016-11-15T19:00:00-0800"
+        }, 
+        "location": {
+            "lat": 48.7458109, 
+            "city": "Bellingham, WA, US", 
+            "lng": -122.4814933
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "9dbbbf79-1032-4f8b-aec0-cdb072bdcbef", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:9dbbbf79-1032-4f8b-aec0-cdb072bdcbef.json"
+                        }
+                    ], 
+                    "displayName": "My Bubba", 
+                    "uri": "http://www.songkick.com/artists/4277416-my-bubba?utm_source=32233&utm_medium=partner", 
+                    "id": 4277416
+                }, 
+                "displayName": "My Bubba", 
+                "id": 55117319, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28345804
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "musicbrainz_response": {
+        "name": "My bubba", 
+        "life-span": {
+            "ended": false, 
+            "begin": "2009", 
+            "end": null
+        }, 
+        "area": {
+            "sort-name": "Denmark", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "DK"
+            ], 
+            "name": "Denmark", 
+            "id": "4757b525-2a60-324a-b060-578765d2c993"
+        }, 
+        "country": "DK", 
+        "twitter": "ohmybubba", 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "acoustic"
+            }, 
+            {
+                "count": 1, 
+                "name": "country"
+            }, 
+            {
+                "count": 1, 
+                "name": "female"
+            }, 
+            {
+                "count": 1, 
+                "name": "folk music"
+            }, 
+            {
+                "count": 1, 
+                "name": "icelandic"
+            }, 
+            {
+                "count": 1, 
+                "name": "scandinavian"
+            }, 
+            {
+                "count": 1, 
+                "name": "world"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.bandsintown.com/MyBubba", 
+                    "id": "9dc74bd6-9987-48cb-881b-6a3d0c022262"
+                }, 
+                "direction": "forward", 
+                "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "bandsintown", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "My Bubba & Mi", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/mybubbaandmi", 
+                    "id": "d6c678c7-35ef-482e-a6f9-0e2663487d98"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.ohmybubba.com/", 
+                    "id": "ef92707b-a8dd-4a89-a54d-b88b7fd9c502"
+                }, 
+                "begin": null, 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.amazon.com/-/e/B00QVNEHZ4", 
+                    "id": "9450a7ba-1d3a-45df-98fc-2b1490e5a7dd"
+                }, 
+                "begin": null, 
+                "type-id": "611b1862-67af-4253-a64f-34adba305d1d", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "purchase for mail-order", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://instagram.com/ohmybubba/", 
+                    "id": "5ada3500-e120-483a-a642-4dc22baea774"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/ohmybubba", 
+                    "id": "30ec92d1-5efb-448f-8850-4488c50fcefd"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/ohmybubba", 
+                    "id": "dd5036b9-6d40-4321-b5b6-294eabfb4033"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "My Bubba & Mi", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/ohmybubba/timeline", 
+                    "id": "0070ab5c-70c8-4c47-a927-480cfbb6d3dd"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d", 
+                    "id": "db8eee32-bd95-4bb8-b0a6-ad80aa897d1a"
+                }, 
+                "begin": null, 
+                "source-credit": "", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "My Bubba & Mi", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://play.spotify.com/artist/09VsCALGBjeVE3pq9k085d", 
+                    "id": "df251e27-e899-402b-9cd6-6458c0ed9d6d"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "streaming music", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "source-credit": "", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.youtube.com/channel/UCVQcYsyYHkwJxha7_mBsA2Q", 
+                    "id": "9c177631-0f3d-457a-9ee0-c931d079f94b"
+                }, 
+                "direction": "forward", 
+                "begin": null, 
+                "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0", 
+                "ended": false, 
+                "attributes": [], 
+                "type": "youtube", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "My bubba", 
+        "gender": null, 
+        "id": "9dbbbf79-1032-4f8b-aec0-cdb072bdcbef", 
+        "type": "Group", 
+        "disambiguation": "", 
+        "gender-id": null
+    }, 
+    "id": 28345804, 
+    "ticket_details": {
+        "ticket_redirect_url": false
+    }
+}

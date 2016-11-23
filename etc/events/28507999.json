@@ -1,0 +1,360 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.038961, 
+        "displayName": "BreakBot with The Salinger at Good Room (November 17, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Good Room", 
+            "uri": "http://www.songkick.com/venues/2818918-good-room?utm_source=32233&utm_medium=partner", 
+            "lat": 40.726882, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "NY"
+                }, 
+                "displayName": "New York", 
+                "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=32233&utm_medium=partner", 
+                "id": 7644
+            }, 
+            "lng": -73.9530135, 
+            "id": 2818918
+        }, 
+        "uri": "http://www.songkick.com/concerts/28507999-breakbot-at-good-room?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-11-17", 
+            "datetime": "2016-11-17T22:00:00-0500", 
+            "time": "22:00:00"
+        }, 
+        "location": {
+            "lat": 40.726882, 
+            "city": "Brooklyn, NY, US", 
+            "lng": -73.9530135
+        }, 
+        "performance": [
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "64c9974f-20a9-491d-bd94-2168cd738e2a", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:64c9974f-20a9-491d-bd94-2168cd738e2a.json"
+                        }
+                    ], 
+                    "displayName": "BreakBot", 
+                    "uri": "http://www.songkick.com/artists/604584-breakbot?utm_source=32233&utm_medium=partner", 
+                    "id": 604584
+                }, 
+                "displayName": "BreakBot", 
+                "id": 55395734, 
+                "billing": "headline", 
+                "billingIndex": 1
+            }, 
+            {
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "e23e9e4b-baa9-4e41-b1a9-880a0c19cf58", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:e23e9e4b-baa9-4e41-b1a9-880a0c19cf58.json"
+                        }
+                    ], 
+                    "displayName": "The Salinger", 
+                    "uri": "http://www.songkick.com/artists/399673-salinger?utm_source=32233&utm_medium=partner", 
+                    "id": 399673
+                }, 
+                "displayName": "The Salinger", 
+                "id": 55395744, 
+                "billing": "support", 
+                "billingIndex": 2
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28507999
+    }, 
+    "musicbrainz_response": {
+        "gender": "Male", 
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "Breakbot", 
+        "area": {
+            "sort-name": "France", 
+            "disambiguation": "", 
+            "iso-3166-1-codes": [
+                "FR"
+            ], 
+            "id": "08310658-51eb-3801-80de-5a0739207115", 
+            "name": "France"
+        }, 
+        "country": "FR", 
+        "life-span": {
+            "ended": false, 
+            "begin": "1981-10-05", 
+            "end": null
+        }, 
+        "tags": [
+            {
+                "count": 1, 
+                "name": "boogie"
+            }, 
+            {
+                "count": 1, 
+                "name": "electro"
+            }, 
+            {
+                "count": 1, 
+                "name": "electro house"
+            }, 
+            {
+                "count": 1, 
+                "name": "french house"
+            }, 
+            {
+                "count": 1, 
+                "name": "nu-disco"
+            }, 
+            {
+                "count": 1, 
+                "name": "synthpop"
+            }
+        ], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.allmusic.com/artist/mn0001462443", 
+                    "id": "5eb794bd-273d-4e9d-9db1-2afca3215236"
+                }, 
+                "direction": "forward", 
+                "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "allmusic", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/703690", 
+                    "id": "e6381d87-5169-40d7-8837-5696cbc6125c"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.last.fm/music/Breakbot", 
+                    "id": "6423abaa-b1c1-4f2e-9d46-92268590a5b4"
+                }, 
+                "begin": null, 
+                "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "last.fm", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://myspace.com/dothefunkybot", 
+                    "id": "1c002170-4786-4144-8e5f-133eae76d908"
+                }, 
+                "direction": "forward", 
+                "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "myspace", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://rateyourmusic.com/artist/breakbot", 
+                    "id": "d1047034-f48d-41ff-9f09-762b37b203c4"
+                }, 
+                "begin": null, 
+                "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "other databases", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://twitter.com/breakbot", 
+                    "id": "5c635c24-081b-4efb-8dd1-2ecdef62eb7d"
+                }, 
+                "begin": null, 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.facebook.com/breakbot", 
+                    "id": "ddcb05a5-2fb1-48a7-8d91-a05cb50ece14"
+                }, 
+                "direction": "forward", 
+                "type-id": "99429741-f3f6-484b-84f8-23af51991770", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "social network", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://soundcloud.com/breakbot", 
+                    "id": "c4a60d07-afe8-4b25-9fcc-8b9f2b817c56"
+                }, 
+                "begin": null, 
+                "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "soundcloud", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.wikidata.org/wiki/Q903674", 
+                    "id": "3529beb7-dba5-4a83-acbe-48c4d1f30921"
+                }, 
+                "direction": "forward", 
+                "type-id": "689870a4-a1e4-4912-b17f-7b2664215698", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikidata", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }, 
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://en.wikipedia.org/wiki/Breakbot", 
+                    "id": "4808de64-8cb6-4f68-b984-9b05e791b5e3"
+                }, 
+                "direction": "forward", 
+                "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "wikipedia", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9", 
+        "end_area": null, 
+        "begin_area": {
+            "sort-name": "Yvelines", 
+            "disambiguation": "", 
+            "iso-3166-2-codes": [
+                "FR-78"
+            ], 
+            "name": "Yvelines", 
+            "id": "8ffcddd7-40fd-4edb-82d5-7aa1293381ca"
+        }, 
+        "sort-name": "Breakbot", 
+        "isnis": [
+            "0000000361506665", 
+            "0000000446969386"
+        ], 
+        "id": "64c9974f-20a9-491d-bd94-2168cd738e2a", 
+        "type": "Person", 
+        "twitter": "breakbot", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "description": null, 
+        "title": "Breakbot @ Good Room (dj set) in New York, NY", 
+        "ticket_type": null, 
+        "venue": {
+            "city": "New York", 
+            "name": "Good Room (dj set)", 
+            "country": "United States", 
+            "region": "NY", 
+            "longitude": -73.9931717, 
+            "place": "Good Room (dj set)", 
+            "latitude": 40.7032585
+        }, 
+        "facebook_rsvp_url": "http://www.bandsintown.com/event/13282607?app_id=ticketgame&artist=Breakbot&came_from=67", 
+        "ticket_url": null, 
+        "on_sale_datetime": "2016-11-07T15:21:00", 
+        "formatted_datetime": "Thursday, November 17, 2016 at 10:00PM", 
+        "datetime": "2016-11-17T22:00:00", 
+        "formatted_location": "New York, NY", 
+        "artists": [
+            {
+                "website": null, 
+                "facebook_page_url": "http://www.facebook.com/pages/Breakbot/216924332410", 
+                "name": "Breakbot", 
+                "url": "Breakbot", 
+                "tracker_count": 109891, 
+                "mbid": "64c9974f-20a9-491d-bd94-2168cd738e2a", 
+                "image_url": "https://s3.amazonaws.com/bit-photos/large/6600986.jpeg", 
+                "facebook_tour_dates_url": "http://www.bandsintown.com/Breakbot/facebookapp?came_from=67", 
+                "thumb_url": "https://s3.amazonaws.com/bit-photos/thumb/6600986.jpeg"
+            }
+        ], 
+        "ticket_status": "unavailable", 
+        "id": 13282607
+    }, 
+    "ticket_details": {
+        "status": "Unknown", 
+        "price_max": 15.0, 
+        "ticket_redirect_url": "http://www.shareasale.com/r.cfm?u=291182&b=234786&m=27601&urllink=www.ticketfly.com/purchase/event/1382221/tfly?utm_medium=api&afftrack=e28507999", 
+        "price_min": 10.0
+    }, 
+    "modified_time": 1479442354.0, 
+    "created_minutes": 14279, 
+    "created_time": 1478803684.0, 
+    "modified_minutes": 3634, 
+    "id": 28507999
+}

@@ -1,0 +1,132 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "popularity": 0.000326, 
+        "displayName": "Boy Named Banjo and The Vegabonds at Mercy Lounge (December 17, 2016)", 
+        "ageRestriction": null, 
+        "venue": {
+            "displayName": "Mercy Lounge", 
+            "uri": "http://www.songkick.com/venues/292-mercy-lounge?utm_source=32233&utm_medium=partner", 
+            "lat": 36.1528598, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "TN"
+                }, 
+                "displayName": "Nashville", 
+                "uri": "http://www.songkick.com/metro_areas/11104-us-nashville?utm_source=32233&utm_medium=partner", 
+                "id": 11104
+            }, 
+            "lng": -86.7804525, 
+            "id": 292
+        }, 
+        "uri": "http://www.songkick.com/concerts/28311874-boy-named-banjo-at-mercy-lounge?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-17", 
+            "time": "21:00:00", 
+            "datetime": "2016-12-17T21:00:00-0600"
+        }, 
+        "location": {
+            "lat": 36.1528598, 
+            "city": "Nashville, TN, US", 
+            "lng": -86.7804525
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "Boy Named Banjo", 
+                "id": 55056429, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "ea80fe64-075c-4218-b24b-81c82f195608", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:ea80fe64-075c-4218-b24b-81c82f195608.json"
+                        }
+                    ], 
+                    "displayName": "Boy Named Banjo", 
+                    "uri": "http://www.songkick.com/artists/5734969-boy-named-banjo?utm_source=32233&utm_medium=partner", 
+                    "id": 5734969
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "The Vegabonds", 
+                "id": 55151774, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "312649df-7eff-449a-a679-b021260a4c00", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:312649df-7eff-449a-a679-b021260a4c00.json"
+                        }
+                    ], 
+                    "displayName": "The Vegabonds", 
+                    "uri": "http://www.songkick.com/artists/3091506-vegabonds?utm_source=32233&utm_medium=partner", 
+                    "id": 3091506
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28311874
+    }, 
+    "musicbrainz_response": {
+        "name": "Boy Named Banjo", 
+        "area": {
+            "sort-name": "Nashville", 
+            "disambiguation": "", 
+            "name": "Nashville", 
+            "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74"
+        }, 
+        "gender-id": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "begin": null, 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "http://www.boynamedbanjo.com/", 
+                    "id": "17b72554-3cb9-4e8e-b9b3-63e13313509d"
+                }, 
+                "direction": "forward", 
+                "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "official homepage", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b", 
+        "begin_area": null, 
+        "sort-name": "Boy Named Banjo", 
+        "country": null, 
+        "type": "Group", 
+        "id": "ea80fe64-075c-4218-b24b-81c82f195608", 
+        "disambiguation": ""
+    }, 
+    "bandsintown_response": {
+        "response": "{\"errors\":[\"Unknown Artist\"]}\n", 
+        "error": 404
+    }, 
+    "ticket_details": {
+        "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6959465&REFERRAL_ID=tmfeed"
+    }, 
+    "modified_time": 1479442901.0, 
+    "created_minutes": 18203, 
+    "created_time": 1478566042.0, 
+    "modified_minutes": 3589, 
+    "id": 28311874
+}

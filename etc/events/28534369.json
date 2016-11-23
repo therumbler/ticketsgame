@@ -1,0 +1,131 @@
+{
+    "songkick_response": {
+        "status": "ok", 
+        "ageRestriction": null, 
+        "displayName": "James Dymond and Darren Porter at Glow at Soundcheck (December 2, 2016)", 
+        "popularity": 0.001708, 
+        "venue": {
+            "displayName": "Glow at Soundcheck", 
+            "uri": "http://www.songkick.com/venues/3386344-glow-at-soundcheck?utm_source=32233&utm_medium=partner", 
+            "lat": 38.9021509, 
+            "metroArea": {
+                "country": {
+                    "displayName": "US"
+                }, 
+                "state": {
+                    "displayName": "DC"
+                }, 
+                "displayName": "Washington", 
+                "uri": "http://www.songkick.com/metro_areas/1409-us-washington?utm_source=32233&utm_medium=partner", 
+                "id": 1409
+            }, 
+            "lng": -77.0327217, 
+            "id": 3386344
+        }, 
+        "uri": "http://www.songkick.com/concerts/28534369-james-dymond-at-glow-at-soundcheck?utm_source=32233&utm_medium=partner", 
+        "start": {
+            "date": "2016-12-02", 
+            "time": "22:00:00", 
+            "datetime": "2016-12-02T22:00:00-0500"
+        }, 
+        "location": {
+            "lat": 38.9021509, 
+            "city": "Washington, DC, US", 
+            "lng": -77.0327217
+        }, 
+        "performance": [
+            {
+                "billingIndex": 1, 
+                "displayName": "James Dymond", 
+                "id": 55440164, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "d55db3d7-9056-41b8-9557-8941439bedf1", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:d55db3d7-9056-41b8-9557-8941439bedf1.json"
+                        }
+                    ], 
+                    "displayName": "James Dymond", 
+                    "uri": "http://www.songkick.com/artists/7441514-james-dymond?utm_source=32233&utm_medium=partner", 
+                    "id": 7441514
+                }
+            }, 
+            {
+                "billingIndex": 2, 
+                "displayName": "Darren Porter", 
+                "id": 55440169, 
+                "billing": "headline", 
+                "artist": {
+                    "identifier": [
+                        {
+                            "mbid": "876bd4b4-77fc-4459-b478-ab84ba4d6db4", 
+                            "href": "http://api.songkick.com/api/3.0/artists/mbid:876bd4b4-77fc-4459-b478-ab84ba4d6db4.json"
+                        }
+                    ], 
+                    "displayName": "Darren Porter", 
+                    "uri": "http://www.songkick.com/artists/7393184-darren-porter?utm_source=32233&utm_medium=partner", 
+                    "id": 7393184
+                }
+            }
+        ], 
+        "type": "Concert", 
+        "id": 28534369
+    }, 
+    "musicbrainz_response": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df", 
+        "name": "James Dymond", 
+        "area": null, 
+        "gender": null, 
+        "life-span": {
+            "ended": false, 
+            "begin": null, 
+            "end": null
+        }, 
+        "tags": [], 
+        "relations": [
+            {
+                "direction": "forward", 
+                "end": null, 
+                "target-type": "url", 
+                "url": {
+                    "resource": "https://www.discogs.com/artist/2280654", 
+                    "id": "f330e40d-65c9-42a9-95c0-588d37ac14dc"
+                }, 
+                "begin": null, 
+                "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4", 
+                "ended": false, 
+                "source-credit": "", 
+                "attributes": [], 
+                "type": "discogs", 
+                "target-credit": "", 
+                "attribute-values": {}
+            }
+        ], 
+        "ipis": [], 
+        "end_area": null, 
+        "begin_area": null, 
+        "sort-name": "Dymond, James", 
+        "isnis": [], 
+        "id": "d55db3d7-9056-41b8-9557-8941439bedf1", 
+        "country": null, 
+        "type": "Person", 
+        "disambiguation": "Trance/tech-trance producer & DJ from Northeast, UK.", 
+        "gender-id": null
+    }, 
+    "age_minutes": 9759, 
+    "bandsintown_response": {
+        "errors": [
+            "Unknown Artist"
+        ]
+    }, 
+    "ticket_details": {
+        "status": "Available", 
+        "price_max": 15.0, 
+        "price_min": 5.0
+    }, 
+    "modified_time": 1479442299.0, 
+    "created_time": 1478911735.0, 
+    "modified_minutes": 916, 
+    "id": 28534369
+}
