@@ -7,6 +7,10 @@ from bandsintown import Bandsintown
 from musicbrainz import Musicbrainz
 from songkick import Songkick
 
+##debug
+import cgitb
+cgitb.enable()
+
 class Ticketgame():
     """
     ties it all together
@@ -40,6 +44,7 @@ class Ticketgame():
         path = "etc/events/"
         if "/lib" in os.getcwd():
             path = "../%s" % path
+
         return path
 
     def load_events(self):
@@ -81,7 +86,7 @@ class Ticketgame():
         """
         path = self.get_path()
         path = path.replace("events/", "config/")
-        path = "%s/metro_areas.json" % (path)
+        path = "%smetro_areas.json" % (path)
         metro_areas= {}
         with open(path) as f:
             metro_areas = json.load(f)
@@ -515,6 +520,7 @@ class Ticketgame():
 
 def main():
     print "Content-Type: text/plain\n"
+    print ""
     t = Ticketgame()
     t.load_events()
 
