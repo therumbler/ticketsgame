@@ -522,17 +522,17 @@ def main():
     print "Content-Type: text/plain\n"
     print ""
     t = Ticketgame()
-    t.load_events()
+    #t.load_events()
 
     #last_event_id = 27537464
-    #t.process_event(28351549)
-    t.process_events()
+    #t.process_event(28492554)
+    #t.process_events()
     t.create_csv()
     
     
-    #response = t.get_event_by_id(27686144)
+    response = t.get_event_by_id(28492554)
     #response = t.get_count()
-    #print json.dumps(response, indent = 4)
+    print json.dumps(response, indent = 4)
 
 if __name__ == '__main__':
     main()

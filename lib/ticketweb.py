@@ -37,16 +37,23 @@ class Ticketweb():
         return json.loads(response)
 
     def get_event_id_from_url(self, url):
+        print url
         pattern = r'(?<=eventId\%3D)\d+'
-        try:
-            event_id = re.search(pattern, url).group(0)
-        except AttributeError, e:
-            pattern = r'(?<=eventId%253D).*?(?=\%25)'
+
+        patterns = [
+            r'(?<=eventId\%3D)\d+',
+            r'(?<=eventId%253D).*?(?=\%25)',
+            r'(?<=eventId=)\d+'
+        ]
+        event_id = False
+        index = 0
+        while index < len(patterns) and not event_id:
             try:
-                event_id = re.search(pattern, url).group(0)
+                event_id = re.search(patterns[index], url).group(0)
             except AttributeError, e:
-                return False
-            
+                pass
+            index += 1
+        
         return event_id
 
     def get_ticket_details_by_id(self, event_id):
@@ -89,7 +96,7 @@ class Ticketweb():
 
     def get_ticket_details_by_url(self, url):
         event_id = self.get_event_id_from_url(url)
-        #print event_id
+        print event_id
         if not event_id:
             return False
         return self.get_ticket_details_by_id(event_id)
@@ -118,7 +125,7 @@ def main():
     url = "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fwww.ticketmaster.com%2Fpartner_redirect%3Furl%3Dhttp%253A%252F%252Fwww.ticketweb.com%252Ft3%252Fsale%252FSaleEventDetail%253Fdispatch%253DloadSelectionData%2526eventId%253D6500665%2526REFERRAL_ID%253Dtmfeed&subId1=67%7E14166156%7E20688366%7E%7E"
     url = "http://ticketmaster.evyy.net/c/219208/264167/4272?u=http%3A%2F%2Fwww.ticketweb.com%2Ft3%2Fsale%2FSaleEventDetail%3Fdispatch%3DloadSelectionData%26eventId%3D7014935%26REFERRAL_ID%3Dtmfeed&clickref=67%7E16739405%7E24613031%7E%7E"
     url = "http://ticketmaster.evyy.net/c/219208/271177/4272?u=http%3A%2F%2Fwww.ticketweb.com%2Ft3%2Fsale%2FSaleEventDetail%3FeventId%3D7006535%26pl%3Dhighline%26dispatch%3DloadSelectionData%26REFID%3Dhl%26utm_source%3Dhighline%26utm_medium%3Deventlink%26utm_campaign%3Dgza%252Bdza&clickref=67%7E16698126%7E24535034%7E%7E"
-
+    url = "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=7006715&REFERRAL_ID=tmfeed"
     response = t.get_ticket_details_by_url(url)
 
     #response = t.get_ticket_details_by_id(254163)

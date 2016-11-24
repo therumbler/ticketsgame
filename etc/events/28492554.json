@@ -1,9 +1,9 @@
 {
     "songkick_response": {
         "status": "ok", 
-        "ageRestriction": null, 
-        "displayName": "Sebastian and the Deep Blue at Sunset Tavern (November 23, 2016)", 
         "popularity": 6e-06, 
+        "displayName": "Sebastian and the Deep Blue at Sunset Tavern (November 23, 2016)", 
+        "ageRestriction": null, 
         "venue": {
             "displayName": "Sunset Tavern", 
             "uri": "http://www.songkick.com/venues/5812-sunset-tavern?utm_source=32233&utm_medium=partner", 
@@ -25,8 +25,8 @@
         "uri": "http://www.songkick.com/concerts/28492554-sebastian-and-the-deep-blue-at-sunset-tavern?utm_source=32233&utm_medium=partner", 
         "start": {
             "date": "2016-11-23", 
-            "datetime": "2016-11-23T21:00:00-0800", 
-            "time": "21:00:00"
+            "time": "21:00:00", 
+            "datetime": "2016-11-23T21:00:00-0800"
         }, 
         "location": {
             "lat": 47.6681889, 
@@ -35,16 +35,16 @@
         }, 
         "performance": [
             {
+                "billingIndex": 1, 
+                "displayName": "Sebastian and the Deep Blue", 
+                "id": 55368849, 
+                "billing": "headline", 
                 "artist": {
                     "identifier": [], 
                     "displayName": "Sebastian and the Deep Blue", 
                     "uri": "http://www.songkick.com/artists/4439233-sebastian-and-the-deep-blue?utm_source=32233&utm_medium=partner", 
                     "id": 4439233
-                }, 
-                "displayName": "Sebastian and the Deep Blue", 
-                "id": 55368849, 
-                "billing": "headline", 
-                "billingIndex": 1
+                }
             }
         ], 
         "type": "Concert", 
@@ -54,9 +54,9 @@
     "ticket_details": {
         "ticket_redirect_url": "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=7006715&REFERRAL_ID=tmfeed"
     }, 
-    "modified_time": 1479442386.0, 
-    "created_minutes": 18237, 
+    "modified_time": 1479660350.0, 
+    "id": 28492554, 
     "created_time": 1478566088.0, 
-    "modified_minutes": 3632, 
-    "id": 28492554
+    "modified_minutes": 5609, 
+    "created_minutes": 23847
 }
